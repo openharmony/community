@@ -6,27 +6,41 @@
 ## SIG组工作目标和范围
 
 ### 工作目标
-为了增加OpenHarmony OS所支持的三方单板数量，Device SIG不仅需要提高系统的易移植性，包括内核和编译构建系统的易移植性需求，
-提供三方单板移植手册，创建移植样例工程；更为重要的是，需要扩展生态，与单板厂商进行合作，协助他们贡献他们的代码
-上库。
+- 解决OHOS芯片及板卡移植适配
+
+- 解决OHOS主板及配件的碎片化
+
+- 提供OHOS板卡一站式服务平台
+
+- 提供OHOS板卡商机的交流平台
+
+- 协助OHOS板卡商的代码上库
 
 ### 工作范围
 
+- 提供OHOS芯片适配及规划
+
+  - 统计当前已适配、适配中、计划适配芯片的情况与进展
+
+- 提供OHOS板卡的硬件规范
+
+  - 为方便开发板通用性，提出硬件接口规范。建议开发板厂商在此规范下开发、生产、销售
+
 - 易移植性需求
 
-提出移植性需求，所有的OpenHarmony项目都需要支持，不仅是内核和编译项目
+  - 提出移植性需求，所有的OpenHarmony项目都需要支持，不仅是内核和编译项目
 
 - 移植和贡献规范
 
-指导单板厂商贡献他们的代码到社区
+  - 指导设备厂商、芯片厂商、单板厂商贡献他们的代码、文档到社区
 
 - 样例工程
 
-创建三方单板的样例工程，例如hi3516、hi3518和hi3861，给其他单板厂商来参考
+  - 创建设备厂商、芯片厂商、单板厂商的样例工程，给其他厂商参考
 
 - 生态拓展
 
-积极与单板厂商进行洽谈合作
+  - 积极与设备厂商、芯片厂商、单板厂商进行洽谈合作
 
 ## 代码仓
 - 代码仓地址：
@@ -53,7 +67,7 @@
 ## SIG组成员
 
 ### Leader
-- [SimonLi](https://gitee.com/kkup180)
+- [liuyang198591](https://gitee.com/liuyang198591)
 
 ### Committers列表
 - [zianed](https://gitee.com/zianed)
@@ -62,13 +76,24 @@
 - [jady3356](https://gitee.com/taiyipei)
 - [zeeman_wang](https://gitee.com/zeeman_wang)
 - [dxbedu](https://gitee.com/dxbedu)
+- [SimonLi](https://gitee.com/kkup180)
+- [kefeixiong](https://gitee.com/addyke)
+- [cijliu](https://gitee.com/cijliu)
+- [Laowang-BearPi](https://gitee.com/laowangiotclub)
+- [weidongshan](https://gitee.com/weidongshan)
+- [Leon](https://gitee.com/jahyeon)
+- [zhao_xiuxiu](https://gitee.com/zhao_xiuxiu)
+- [firefly_team](https://gitee.com/firefly_team)
 
 ### 会议
- - 会议时间：双周例会，晚上周一19:00
- - 会议链接：在slack的qemu channel
+ - 会议时间：双周例会，周四上午10:00
+ - 会议申报：[SIG-DevBoard会议申报](https://shimo.im/sheets/UZBk8yBk0y4NE4SZ)
+ - 会议链接：腾讯会议或其他会议
+ - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_devboard.openharmony.io/)邮件列表获取会议链接
+ - 会议纪要：查看往期会议纪要，请点此[链接](https://gitee.com/openharmony-sig/docs/tree/master/devboard/meetings)
 
 ### 联系方式(可选)
 
-- 邮件列表：
-- Slack群组：[qemu](https://openharmonyworkspace.slack.com/archives/C01G1DEHLR5)
-- 微信群：
+- 邮件列表：[sig_devboard@openharmony.io]（https://lists.openatom.io/postorius/lists/sig_devboard.openharmony.io/）
+- Slack群组：[devboard](https://openharmonyworkspace.slack.com/archives/C0201BL0WEM)
+- 微信群：xxx

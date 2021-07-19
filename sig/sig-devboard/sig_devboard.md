@@ -5,30 +5,41 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ## SIG group work objectives and scope
 
+### work goals
+- Solve the adaptation of OHOS chip and board card
 
-To increase the number of third-party boards of the OpenHarmony OS, the device SIG 
-provides easy porting guide that board manufacturers could follow to contribute 
-their codes to the community easily. The more important thing is actively cooperating 
-with board manufacturers to enhance the OpenHarmony ecosystem.
+- Solve the fragmentation of OHOS motherboards and accessories
 
-### Scope
+- Provide one-stop service platform for OHOS boards
+
+- Provide an exchange platform for OHOS board business opportunities
+
+- Assist OHOS board card vendors to upload code to the library
+
+### work scope
+
+- Provide OHOS chip adaptation and planning
+  - Statistics on the current situation and progress of the chips that have been adapted, are being adapted, and are planned to be adapted
+
+- Provide hardware specifications for OHOS boards
+
+  -  In order to facilitate the versatility of the development board, a hardware interface specification is proposed. It is recommended that development board manufacturers develop, produce and sell under this specification
 
 - Easy Porting Requirements
 
-Proposes easy porting requirements that all OpenHarmony projects, not only kernel and building project, should 
-develop.
+  - Put forward portability requirements, all OpenHarmony projects need to be supported, not only the kernel and compiled projects
 
 - Porting and Contributing Guidelines
 
-Guides board manufacturers to contribute their codes to the community.
+  - Guides board manufacturers to contribute their codes and documents to the community.
 
 - Demo Projects
 
-Creates demo projects, hi3516/hi3518/hi3861, for others to follow.
+  - Creates demo projects, hi3516/hi3518/hi3861, for others to follow.
 
 - Expanding Ecosystems
 
-Actively cooperates with board manufacturers.
+  - Actively cooperates with board manufacturers.
 
 ### The repository 
 - project name:
@@ -55,7 +66,7 @@ Actively cooperates with board manufacturers.
 ## SIG Members
 
 ### Leader
-- [SimonLi](https://gitee.com/kkup180)
+- [liuyang198591](https://gitee.com/liuyang198591)
 
 ### Committers
 - [zianed](https://gitee.com/zianed)
@@ -64,13 +75,25 @@ Actively cooperates with board manufacturers.
 - [jady3356](https://gitee.com/taiyipei)
 - [zeeman_wang](https://gitee.com/zeeman_wang)
 - [dxbedu](https://gitee.com/dxbedu)
+- [SimonLi](https://gitee.com/kkup180)
+- [kefeixiong](https://gitee.com/addyke)
+- [cijliu](https://gitee.com/cijliu)
+- [Laowang-BearPi](https://gitee.com/laowangiotclub)
+- [weidongshan](https://gitee.com/weidongshan)
+- [Leon](https://gitee.com/jahyeon)
+- [zhao_xiuxiu](https://gitee.com/zhao_xiuxiu)
+- [firefly_team](https://gitee.com/firefly_team)
 
 ### Meetings
- - Meeting time：BiWeek Monday 19:00
- - Meeting link：slack qemu channel
+ - Meeting time：BiWeek Thursday 10:00
+ - Meeting application: [SIG-DevBoardMeeting application](https://shimo.im/sheets/UZBk8yBk0y4NE4SZ)
+ - meeting link:Tencent meeting or other meeting
+ - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_devboard.openharmony.io/) mailing list for the 
+ - Meeting Summary:To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/docs/tree/master/devboard/meetings)
 
 ### Contact (optional)
 
-- Mailing list：xxx
-- Slack group：[qemu](https://openharmonyworkspace.slack.com/archives/C01G1DEHLR5)
+- Mailing list：[sig_devboard@openharmony.io]（https://lists.openatom.io/postorius/lists/sig_devboard.openharmony.io/）
+- Slack group：[devboard](https://openharmonyworkspace.slack.com/archives/C0201BL0WEM)
 - Wechat group：xxx
+
