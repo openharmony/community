@@ -86,7 +86,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - [firefly_team](https://gitee.com/firefly_team)
 
 ### Meetings
- - Meeting time：BiWeek Thursday 10:00
+ - Meeting time: BiWeek Thursday 10:00
  - Meeting application: [SIG-DevBoardMeeting application](https://shimo.im/sheets/UZBk8yBk0y4NE4SZ)
  - meeting link:Tencent meeting or other meeting
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_devboard.openharmony.io/) mailing list for the 
@@ -94,7 +94,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ### Contact (optional)
 
-- Mailing list：[sig_devboard@openharmony.io](https://lists.openatom.io/postorius/lists/sig_devboard.openharmony.io/)
-- Slack group：[devboard](https://openharmonyworkspace.slack.com/archives/C0201BL0WEM)
-- Wechat group：xxx
+- Mailing list: [sig_devboard@openharmony.io](https://lists.openatom.io/postorius/lists/sig_devboard.openharmony.io/)
+- Slack group: [devboard](https://openharmonyworkspace.slack.com/archives/C0201BL0WEM)
+- Wechat group: xxx
 
