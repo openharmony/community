@@ -85,8 +85,16 @@ OpenBlock SIG同时将协助第三方设备厂商和教育服务商构建自有�
 
 - [htq110219891](https://gitee.com/htq110219891)
 
- 
+### 会议
+ - 会议时间：双周例会，周一晚上20:00
+ - 会议申报：[SIG-OpenBloack会议申报](https://shimo.im/sheets/vfghbtkSIvo49soA)
+ - 会议链接：腾讯会议或其他会议
+ - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_openblock.openharmony.io/)邮件列表获取会议链接
+ - 会议纪要：查看往期会议纪要，请点此[链接](https://gitee.com/openharmony-sig/docs/tree/master/openblock/meetings) 
 
 ### 联系方式(可选)
 
-微信:duzc2dtw
+- 邮件列表：[sig_openblock@openharmony.io](https://lists.openatom.io/postorius/lists/sig_openblock.openharmony.io/)
+- Slack群组：xxx
+- 微信群：xxx
+
