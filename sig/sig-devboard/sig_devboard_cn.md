@@ -70,7 +70,7 @@
 - [liuyang198591](https://gitee.com/liuyang198591)
 
 ### Committers列表
-- [liuyang198591](https://gitee.com/liuyang198591)
+- [liuyang198591](https://gitee.com/li-gaopeng0312)
 - [zianed](https://gitee.com/zianed)
 - [DennyShen](https://gitee.com/DennyShen)
 - [borne](https://gitee.com/borne)

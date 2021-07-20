@@ -69,7 +69,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - [liuyang198591](https://gitee.com/liuyang198591)
 
 ### Committers
-- [liuyang198591](https://gitee.com/liuyang198591)
+- [li-gaopeng0312](https://gitee.com/li-gaopeng0312)
 - [zianed](https://gitee.com/zianed)
 - [DennyShen](https://gitee.com/DennyShen)
 - [borne](https://gitee.com/borne)
