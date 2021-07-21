@@ -1,5 +1,5 @@
 # OpenHarmony RFC(Request for comments)流程
-该目录用于存放评审通过了的RFCs，这个流程参考了[Rust的RFCs](https://github.com/rust-lang/rfcs)治理流程的成功经验，内容上反映了 Rust 开发人员使用的RFC 过程。
+该目录用于存放评审通过了的RFCs，这个流程参考了[Rust的RFCs](https://github.com/rust-lang/rfcs)治理流程的成功经验。
 
 ##  RFC简介
 大多数变更，比如 bugfix 、文档，通过 Pull Request 完成，但是某些 “重大的” 的变更，需要通过一些设计过程，让社区达成共识。
@@ -25,7 +25,7 @@ RFC 是描述需求与解决需求的建议更改的文档。具体来说，RFC 
     编写 RFC 草稿后，请先征求项目仓Commiter和贡献者的反馈，然后再提交。 不要求编写并实现代码，如果有代码实现将有利于研讨。
 
 3.  招募发起人。
-    -   发起人必须是项目仓库的Committer或对应领域的SIG Leader。
+    -   发起人必须是项目仓库的[Committer](https://gitee.com/openharmony/community/blob/master/zh/committer.md)或对应领域的[SIG Leader](https://gitee.com/openharmony/community/blob/master/sig/sigs_subsystem_list.md)。
     -   请先在 RFC 中注明发起人，然后再发布 PR。
 
     您 _可以_ 在没有发起人的情况下发布 RFC请求，但是如果在发布 PR 请求的一个月内仍然没有发起人，则该 PR 将被关闭。
@@ -105,4 +105,4 @@ RFC 一经批准，即可开始实现 RFC。编码并实现RFC需求时应考虑
 
 如果RFC流程运行完善，那么RFC被拒绝的情况应发生在RFC的早期阶段而非后期代码实施阶段。经接纳的RFC不能作为承诺实现的保证，并且RFC实现能否最终被接纳仍然要满足代码评审阶段的要求，不满足代码评审阶段的要求i提交，项目仓的Committer可以有理由的拒绝接纳。
 
-如果您对此流程有任何疑问，请随时通过dev邮件列表提问，或在  [OpenHarmony/community](https://gitee.com/openharmony/community/tree/master/rfcs)  中提交问题。
+如果您对此流程有任何疑问，请随时通过dev邮件列表提问，或在  [OpenHarmony/community](https://gitee.com/openharmony/community/issues) issue中提交问题。
