@@ -93,7 +93,7 @@
 |91|third_party_libuuid|third_party/libuuid|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_Security|
 |92|third_party_ltp|third_party/ltp|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|https://gitee.com/jiyong|jiyong@huawei.com|SIG_Test|
 |93|third_party_lwip|third_party/lwip|https://gitee.com/rain_myf|maoyufeng3@huawei.com| | |SIG_SoftBus|
-|94|third_party_mbedtls|third_party/mbedtls|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com| | |SIG_Security|
+|94|third_party_mbedtls|third_party/mbedtls|https://gitee.com/rain_myf|maoyufeng3@huawei.com|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com|SIG_Security|
 |95|third_party_mksh|third_party/mksh|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/wangmihu2008 <br> https://gitee.com/DennyShen|wangmihu@huawei.com <br> denny.shenwei@huawei.com|SIG_Kernel|
 |96|third_party_mtd_utils|third_party/mtd-utils|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/wangmihu2008 <br> https://gitee.com/DennyShen|wangmihu@huawei.com <br> denny.shenwei@huawei.com|SIG_Kernel|
 |97|third_party_musl|third_party/musl|https://gitee.com/huanghuijin|huanghuijin@huawei.com|https://gitee.com/kkup180 <br> https://gitee.com/wangmihu2008 <br> https://gitee.com/DennyShen |likailong@huawei.com <br> wangmihu@huawei.com <br> denny.shenwei@huawei.com |SIG_CompileRuntime|
