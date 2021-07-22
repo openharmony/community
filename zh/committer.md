@@ -236,3 +236,4 @@
 |234|applications_mms|applications/standard/mms|https://gitee.com/starr666|starr.zhang@huawei.com|https://gitee.com/zhangjinlin1|zhangjinlin5@huawei.com|SIG_SystemApplication|
 |235|third_party_libsnd|third_party/libsnd|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
 |236|third_party_pulseaudio|third_party/pulseaudio|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
+|237|third_party_ffmpeg|third_party/ffmpeg|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
