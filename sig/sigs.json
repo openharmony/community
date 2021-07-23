@@ -323,11 +323,6 @@
             "third_party/libdrm",
             "third_party/pixman"
          ]
-      },
-      {
-         "sig-name":"docs",
-         "projects":"https://gitee.com/openharmony-sig/docs",
-         "project-path":"NONE"
       }
    ]
 }

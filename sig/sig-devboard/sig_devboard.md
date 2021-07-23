@@ -91,7 +91,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
  - Meeting application: [SIG-DevBoardMeeting application](https://shimo.im/sheets/UZBk8yBk0y4NE4SZ)
  - meeting link:Tencent meeting or other meeting
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_devboard.openharmony.io/) mailing list for the 
- - Meeting Summary:To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/docs/tree/master/devboard/meetings)
+ - Meeting Summary:To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/devboard/meetings)
 
 ### Contact (optional)
 
