@@ -32,11 +32,31 @@
 ## SIG数据存放和管理方式
 SIG信息记录统一归档在OpenHamony/community仓库的sig目录内：
 - sig_xxx.md/sig_xxx_cn.md：包括SIG组工作目标和范围、SIG管理的repository及描述、SIG组织会议、SIG成员。
+
 - sigs.json：为了便于工具自动提取，其中SIG的maintainer/committer信息单独备份一份至OWNER文件内，每个SIG所维护的仓库名称列表/目录结构位于sigs.json文件中。
   1. OpenHarmony/community仓的sig目录下存在一个sigs.json文件，这个文件中管理从PMC看到的所有SIG的信息。
   2. sigs 由 PMC 修改和维护，新sig申请由对应的 maintainer 提交PR，经过PMC审视后合入。
   3. sig 独立目录下的sig_xxx_cn.md/sig_xxx.md 为 sig 的信息展示区。其中SIG基本信息需按模板留空，新建SIG时填写完整。
   4. sig 独立目录下的OWNER存放相应sig的maintainer。
+  
+- 代码的管理
+    1. 代码在[sig-manifest仓](https://gitee.com/openharmony-sig/manifest)下统一管理。
+    
+    2. 需要各leader维护本组内对应仓的 .xml 文件。
+    
+  3. 多个单位参与，可向leader提出建仓需求，由leader向社区提建仓pr。
+  
+- 文档的管理
+   1. 各sig组的公共文档（包括会议纪要、会议材料等）需放入[sig-content](https://gitee.com/openharmony-sig/sig-content) 仓对应组的文件夹内。
+  2. 与各sig组子任务密切相关的技术文档可放到任务对应的代码仓内。
+  
+- 任务进度
+
+  1. 任务进度以在对应任务仓下提issue形式更新。
+  1. 作为跟踪进度的issue需要打上特定的标签，标签暂定为 **sig_taskprogress**。
+
+* 开源协议的选择
+  1. 建议开发者使用Apache 2.0 开源协议。  
 
 
 ###  sigs.json 文件格式
