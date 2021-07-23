@@ -1,4 +1,4 @@
-# SIG-Python
+# SIG-python
 
 简体中文 | [English](./sig-python.md)
 

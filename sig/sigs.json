@@ -326,9 +326,7 @@
       },
       {
          "sig-name":"sig-python",
-         "projects":[
-            "https://gitee.com/openharmony-sig/python"
-         ],
+         "projects":"https://gitee.com/openharmony-sig/python",
          "project-path":"NONE"
       }
    ]
