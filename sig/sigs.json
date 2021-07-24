@@ -328,6 +328,13 @@
          "sig-name":"sig-python",
          "projects":"https://gitee.com/openharmony-sig/python",
          "project-path":"NONE"
+      },
+      {
+         "sig-name":"sig-infrastructure",
+         "projects":"https://gitee.com/openharmony/website",
+         "projects":"https://gitee.com/openharmony-sig/cicd",
+         "projects":"https://gitee.com/openharmony-sig/archive",
+         "project-path":"NONE"
       }
    ]
 }
