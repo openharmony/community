@@ -335,6 +335,11 @@
          "projects":"https://gitee.com/openharmony-sig/cicd",
          "projects":"https://gitee.com/openharmony-sig/archive",
          "project-path":"NONE"
+      },
+      {
+         "sig-name":"sig-linkboy",
+         "projects":"https://gitee.com/openharmony-sig/linkboy",
+         "project-path":"NONE"
       }
    ]
 }
