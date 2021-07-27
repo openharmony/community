@@ -25,6 +25,7 @@
   - applications_camera: https://gitee.com/openharmony/applications_camera
   - applications_contacts: https://gitee.com/openharmony/applications_contacts
   - applications_mms: https://gitee.com/openharmony/applications_mms
+  - applications_call: https://gitee.com/openharmony/applications_call
 
 ## SIG组成员
 
