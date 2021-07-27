@@ -62,6 +62,7 @@
   - device_broadcom: https://gitee.com/openharmony-sig/device_broadcom
   - device_realtek: https://gitee.com/openharmony-sig/device_realtek
   - device_bouffalolab: https://gitee.com/openharmony-sig/device_bouffalolab
+  - device_beken: https://gitee.com/openharmony-sig/device_beken
   - vendor_ohemu: https://gitee.com/openharmony/vendor_ohemu
   - device_qemu: https://gitee.com/openharmony/device_qemu
 
