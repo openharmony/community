@@ -18,7 +18,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ### The repository 
 - project name:
-  - linkboy：https://gitee.com/openharmony/linkboy
+  - linkboy：https://gitee.com/openharmony-sig/linkboy
 
 
 ## SIG Members

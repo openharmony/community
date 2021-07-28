@@ -19,7 +19,7 @@
 
 ## 代码仓
 - 代码仓地址：
-  - linkboy：https://gitee.com/openharmony/linkboy
+  - linkboy：https://gitee.com/openharmony-sig/linkboy
 
 ## SIG组成员
 
