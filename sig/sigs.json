@@ -345,6 +345,23 @@
          "sig-name":"sig-linkboy",
          "projects":"https://gitee.com/openharmony-sig/linkboy",
          "project-path":"NONE"
+      },
+      {
+         "sig-name":"sig-security",
+         "projects":[
+             "https://gitee.com/openharmony/security_deviceauth",
+             "https://gitee.com/openharmony/security_huks",
+             "https://gitee.com/openharmony/security_dataclassification",
+             "https://gitee.com/openharmony/security_appverify",
+             "https://gitee.com/openharmony/security_permission"
+         ],
+         "project-path":[
+             "base/security/deviceauth",
+             "base/security/huks/",
+             "base/security/dataclassification",
+             "base/security/appverify",
+             "base/security/permission"
+         ]
       }
    ]
 }
