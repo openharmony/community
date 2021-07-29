@@ -63,9 +63,9 @@
   - device_realtek: https://gitee.com/openharmony-sig/device_realtek
   - device_bouffalolab: https://gitee.com/openharmony-sig/device_bouffalolab
   - device_beken: https://gitee.com/openharmony-sig/device_beken
-  - device_hoperun:https://gitee.com/openharmony-sig/device_hihope_build
-  - device_hoperun:https://gitee.com/openharmony-sig/device_hihope_dayu
-  - device_hoperun:https://gitee.com/openharmony-sig/device_vendor_hihope
+  - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_hihope_build
+  - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_hihope_dayu
+  - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_vendor_hihope
   - vendor_ohemu: https://gitee.com/openharmony/vendor_ohemu
   - device_qemu: https://gitee.com/openharmony/device_qemu
 
