@@ -64,7 +64,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - device_beken: https://gitee.com/openharmony-sig/device_beken
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_hihope_build
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_hihope_dayu
-  - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_vendor_hihope
+  - device_hoperun:https://gitee.com/openharmony-sig/devboard_vendor_hihope
   - vendor_ohemu: https://gitee.com/openharmony/vendor_ohemu
   - device_qemu: https://gitee.com/openharmony/device_qemu
 

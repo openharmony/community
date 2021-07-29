@@ -41,7 +41,7 @@
                      "https://gitee.com/openharmony-sig/device_beken",
                      "https://gitee.com/openharmony-sig/devboard_device_hihope_build",
                      "https://gitee.com/openharmony-sig/devboard_device_hihope_dayu",
-                     "https://gitee.com/openharmony-sig/devboard_device_vendor_hihope",
+                     "https://gitee.com/openharmony-sig/devboard_vendor_hihope",
                      "https://gitee.com/openharmony-sig/vendor_ohos"
                     ],
          "project-path":["device/st",
