@@ -70,9 +70,9 @@ SIG信息记录统一归档在OpenHamony/community仓库的sig目录内：
 ```
 "sigs-List":[
       {
-         "sig-name":"sig-docs",
-         "projects":"https://gitee.com/openharmony-sig/docs",
-         "project-path":"docs/"
+         "sig-name":"sig-python",
+         "projects":"https://gitee.com/openharmony-sig/python",
+         "project-path":"python/"
       },
       {
          "sig-name ":"sig-updates",
