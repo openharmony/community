@@ -41,9 +41,9 @@ SIG data is stored in the **sig** directory of the **OpenHamony/community** repo
 ```
 "sigs-List":[
       {
-         "sig-name":"sig-docs",
-         "projects":"https://gitee.com/openharmony-sig/docs",
-         "project-path":"docs/"
+         "sig-name":"sig-python",
+         "projects":"https://gitee.com/openharmony-sig/python",
+         "project-path":"python/"
       },
       {
          "sig-name ":"sig-updates",
