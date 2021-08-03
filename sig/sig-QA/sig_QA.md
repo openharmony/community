@@ -1,5 +1,5 @@
-# SIG-XXX
-English | [简体中文](./sig_template_cn.md)
+# SIG-QA
+English | [简体中文](./sig_QA_cn.md)
 
 Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
 
@@ -23,8 +23,10 @@ Review the operation of each sig in community development and operations, identi
 - @xhuazi(https://gitee.com/xhuazi)
 
 ### Meetings
- - Meeting time：BiWeek Wednesday
- - Meeting link: Welink Meeting or Others
+ - Meeting time：BiWeek Wednesday at 14:30:16:00
+ - Meeting application: [OpenHarmony SIG-QA Meeting Proposal](https://shimo.im/sheets/6QqqWJX99xrWWqJg/MODOC)
+ - Meeting link: Welink
+ - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
  
 ### Contact (optional)
 
