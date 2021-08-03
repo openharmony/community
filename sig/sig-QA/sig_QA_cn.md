@@ -26,9 +26,10 @@
 
 
 ### 会议
- - 会议时间：双周二
-
- - 会议链接: Welink或其他会议
+- 会议时间: 每双周周二 14:30-16:00
+- 议题申报: [OpenHarmony QA Meeting Proposal](https://shimo.im/sheets/6QqqWJX99xrWWqJg/MODOC)
+- 会议主题: 通过邮件通知
+- 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
 
 ### 联系方式(可选)
 
