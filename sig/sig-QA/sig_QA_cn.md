@@ -19,10 +19,16 @@
 ## SIG组成员
 
 ### Leader
-- @xhuazi(https://gitee.com/xhuazi)
+- [@xhuazi](https://gitee.com/xhuazi)
 
 ### Committers列表
-- @xhuazi(https://gitee.com/xhuazi)
+- [@xhuazi](https://gitee.com/xhuazi)
+- [@jony_code](https://gitee.com/jony_code)
+- [@kevenNO1](https://gitee.com/kevenNO1)
+- [@xzmu](https://gitee.com/xzmu)
+- [@minglonghuang](https://gitee.com/minglonghuang)
+- [@vanessaguo](https://gitee.com/vanessaguo)
+- [@heartoflight](https://gitee.com/heartoflight)
 
 
 ### 会议

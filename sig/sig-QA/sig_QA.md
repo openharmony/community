@@ -17,17 +17,23 @@ Review the operation of each sig in community development and operations, identi
 ## SIG Members
 
 ### Leader
-- @xhuazi(https://gitee.com/xhuazi)
+- [@xhuazi](https://gitee.com/xhuazi)
 
-### Committers
-- @xhuazi(https://gitee.com/xhuazi)
+### Committers列表
+- [@xhuazi](https://gitee.com/xhuazi)
+- [@jony_code](https://gitee.com/jony_code)
+- [@kevenNO1](https://gitee.com/kevenNO1)
+- [@xzmu](https://gitee.com/xzmu)
+- [@minglonghuang](https://gitee.com/minglonghuang)
+- [@vanessaguo](https://gitee.com/vanessaguo)
+- [@heartoflight](https://gitee.com/heartoflight)
 
 ### Meetings
  - Meeting time：BiWeek Wednesday at 14:30:16:00
  - Meeting application: [OpenHarmony SIG-QA Meeting Proposal](https://shimo.im/sheets/6QqqWJX99xrWWqJg/MODOC)
  - Meeting link: Welink
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- 
+
 ### Contact (optional)
 
 - Mailing list：xw.hua@huawei.com
