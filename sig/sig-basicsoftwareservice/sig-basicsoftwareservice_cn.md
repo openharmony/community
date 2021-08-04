@@ -16,7 +16,7 @@
 |升级服务子系统|提供系统升级能力|
 |DFX子系统|提供DFT、DFR、DFM等系统能力|
 |事件通知子系统|提供系统事件通知服务能力|
-|全局资源调度管控子系统|提供本机全局资源调度管控能力，包括CPU、IO、内存等资源管控|
+|全局资源调度管控子系统|提供本机全局资源调度管控能力，包括CPU、IO、内存等资源管控, 还包括后台任务管理，条件触发任务管理等后台调度服务|
 |分布式任务调度子系统|提供分布式任务调度管理能力|
 |账号子系统|提供系统的账号管理能力|
 |无障碍软件服务子系统|提供无障碍软件服务能力|
@@ -58,7 +58,8 @@
 |事件通知子系统|[notification_ces_standard](https://gitee.com/openharmony/notification_ces_standard)|base/notification/ces_standard|[autumn330](https://gitee.com/autumn330)|
 |事件通知子系统|[notification_ans_standard](https://gitee.com/openharmony/notification_ans_standard)|base/notification/ans_standard|[autumn330](https://gitee.com/autumn330)|
 |账号子系统|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
-
+|资源调度子系统|[resourceschedule_workscheduler](https://gitee.com/openharmony/resourceschedule_workscheduler)|foundation/resourceschedule/workscheduler|[hujun211](https://gitee.com/hujun211)|
+|资源调度子系统|[resourceschedule_backgroundtaskmanager](https://gitee.com/openharmony/resourceschedule_backgroundtaskmanager)|foundation/resourceschedule/backgroundtaskmanager|[FrankJone](https://gitee.com/FrankJone)|
 
 ## SIG组成员
 
@@ -84,7 +85,8 @@
 |升级服务子系统|[ailorna](https://gitee.com/ailorna)|[mail](hehuan1@huawei.com)|
 |事件通知子系统|[autumn330](https://gitee.com/autumn330)|[mail](hw.liuwei@huawei.com)|
 |账号子系统|[verystone](https://gitee.com/verystone)|[mail](xudaqing@huawei.com)|
-
+|资源调度子系统|[hujun211](https://gitee.com/hujun211)|[mail](hujun211@huawei.com)|
+|资源调度子系统|[FrankJone](https://gitee.com/FrankJone)|[mail](zhaofanfan@huawei.com)|
 
 ### 会议
  - 会议时间: 双周三 14:00

@@ -239,3 +239,5 @@
 |237|third_party_ffmpeg|third_party/ffmpeg|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
 |238|vendor_ohemu|vendor/ohemu|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/laokz|laokz@foxmail.com|SIG_Devboard|
 |239|applications_call|applications/standard/call|https://gitee.com/jyh926|jiayanhong@huawei.com|https://gitee.com/ohos-lsw|lishiwei6@huawei.com|SIG_SystemApplication|
+|240|resourceschedule_workscheduler|foundation/resourceschedule/workscheduler|https://gitee.com/hujun211|hujun211@huawei.com|https://gitee.com/FrankJone|zhaofanfan@huawei.com|SIG_BasicSoftwareService|
+|241|resourceschedule_backgroundtaskmanager|foundation/resourceschedule/backgroundtaskmanager|https://gitee.com/hujun211|hujun211@huawei.com|https://gitee.com/FrankJone|zhaofanfan@huawei.com|SIG_BasicSoftwareService|

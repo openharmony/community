@@ -231,7 +231,9 @@
             "https://gitee.com/openharmony/miscservices_time",
             "https://gitee.com/openharmony/notification_ces_standard",
             "https://gitee.com/openharmony/notification_ans_standard",
-            "https://gitee.com/openharmony/account_os_account"
+            "https://gitee.com/openharmony/account_os_account",
+            "https://gitee.com/openharmony/resourceschedule_workscheduler",
+            "https://gitee.com/openharmony/resourceschedule_backgroundtaskmanager"
          ],
          "project-path":[
             "base/hiviewdfx/hievent_lite",
@@ -265,7 +267,9 @@
             "base/miscservices/time",
             "base/notification/ces_standard",
             "base/notification/ans_standard",
-            "base/account/os_account"
+            "base/account/os_account",
+            "foundation/resourceschedule/workscheduler",
+            "foundation/resourceschedule/backgroundtaskmanager"
          ]
       },
       {

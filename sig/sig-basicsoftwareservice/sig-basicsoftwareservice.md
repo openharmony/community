@@ -16,7 +16,7 @@ Basic Software Services includes the following sub-systems:
 |Upgrade System|Provide Operating System upgrade capability|
 |DFX System|Design-for-Test, Design-for-Reliability and Design-for-Manufacturing|
 |Event Notification System|Manage system and application notifications|
-|Resource Management System|Manage system resources, including CPU, IO and memory|
+|Resource Management System|Manage system resources, including CPU, IO and memory，Background task manager，Workscheduler|
 |Distributed Scheduling System|Scheduing Abilities in Open Harmony distributed network|
 |Account Management System|Manage user accounts for Open Harmony|
 |Barrier Free System|Provide barrier free common capabilities for Open Harmony|
@@ -58,7 +58,8 @@ Basic Software Services includes the following sub-systems:
 |Notification|[notification_ces_standard](https://gitee.com/openharmony/notification_ces_standard)|base/notification/ces_standard|[autumn330](https://gitee.com/autumn330)|
 |Notification|[notification_ans_standard](https://gitee.com/openharmony/notification_ans_standard)|base/notification/ans_standard|[autumn330](https://gitee.com/autumn330)|
 |Account|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
-
+|ResourceSchedule|[resourceschedule_workscheduler](https://gitee.com/openharmony/resourceschedule_workscheduler)|foundation/resourceschedule/workscheduler|[hujun211](https://gitee.com/hujun211)|
+|ResourceSchedule|[resourceschedule_backgroundtaskmanager](https://gitee.com/openharmony/resourceschedule_backgroundtaskmanager)|foundation/resourceschedule/backgroundtaskmanager|[FrankJone](https://gitee.com/FrankJone)|
 
 ## SIG Members
 
@@ -83,7 +84,8 @@ Basic Software Services includes the following sub-systems:
 |Update|[ailorna](https://gitee.com/ailorna)|[mail](hehuan1@huawei.com)|
 |Notification|[autumn330](https://gitee.com/autumn330)|[mail](hw.liuwei@huawei.com)|
 |Account|[verystone](https://gitee.com/verystone)|[mail](xudaqing@huawei.com)|
-
+|ResourceSchedule|[hujun211](https://gitee.com/hujun211)|[mail](hujun211@huawei.com)|
+|ResourceSchedule|[FrankJone](https://gitee.com/FrankJone)|[mail](zhaofanfan@huawei.com)|
 
 ### Meetings
  - Meeting time: Wednesday at 14:00 o'clock, biweekly
