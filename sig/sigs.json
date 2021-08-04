@@ -42,7 +42,8 @@
                      "https://gitee.com/openharmony-sig/devboard_device_hihope_build",
                      "https://gitee.com/openharmony-sig/devboard_device_hihope_dayu",
                      "https://gitee.com/openharmony-sig/devboard_vendor_hihope",
-                     "https://gitee.com/openharmony-sig/vendor_ohos"
+                     "https://gitee.com/openharmony/vendor_ohemu",
+                     "https://gitee.com/openharmony/device_qemu"
                     ],
          "project-path":["device/st",
                          "device/allwinner",
