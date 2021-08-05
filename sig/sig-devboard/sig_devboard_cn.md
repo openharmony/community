@@ -66,6 +66,9 @@
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_hihope_build
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_hihope_dayu
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_vendor_hihope
+  - device_bearpi: https://gitee.com/openharmony/device_bearpi_bearpi_hm_nano
+  - device_bearpi:https://gitee.com/openharmony/applications_sample_bearpi_hm_nano
+  - device_bearpi:https://gitee.com/openharmony/vendor_bearpi
   - vendor_ohemu: https://gitee.com/openharmony/vendor_ohemu
   - device_qemu: https://gitee.com/openharmony/device_qemu
 
