@@ -38,8 +38,8 @@
   - utils_native: https://gitee.com/openharmony/utils_native
   - utils_native_lite: https://gitee.com/openharmony/utils_native_lite
 
-  - llvm_project: https://gitee.com/openharmony-sig/thid_party_llvm_project
-  - lldb_mi: https://gitee.com/openharmony-sig/thid_party_lldb_mi 
+  - third_party_llvm-project: https://gitee.com/openharmony-sig/third_party_llvm-project
+  - third_party_lldb-mi: https://gitee.com/openharmony-sig/third_party_lldb-mi
 
 ## SIG Members
 
