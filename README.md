@@ -39,10 +39,10 @@ OpenHarmony社区通过[项目管理委员会](/zh/pmc.md)（ Project Management
 | scy-priv@openharmony.io  <img width=150/>| 安全组邮件列表  <img width=100/>| 安全组成员安全问题处理讨论邮件列表，安全组成员可[订阅](https://lists.openatom.io/postorius/lists/scy-priv.openharmony.io/)。<img width=200/>|
 
 
-### OpenHarmony Slack 交流频道
+### OpenHarmony zulip 交流频道
 | 技术交流平台                                 | 简介        | 用途说明                                                         |
 | ---------------------------------------|---------- | ------------------------------------------------------------ |
-| [Slack](https://join.slack.com/t/openharmonyworkspace/shared_invite/zt-qupqqon4-ySvYnCJTJfBrHsNsGNFYEA) <img width=150/>  | OpenHarmony 技术开放讨论平台 <img width=100/> | OpenHarmony Slack 中不同频道用于相关技术问题交流和讨论，当前有kernel、AI、devboard、qemu、risc-v等专属频道，Slack工具[下载地址](https://gitee.com/dongjinguang/free-tools/tree/master/slack)。<img width=200/>|
+| [zulip](https://zulip.openharmony.cn/join/u7vafdcbyia32bsssygwbbee) <img width=150/>  | OpenHarmony 技术开放讨论平台 <img width=100/> | OpenHarmony zulip 中不同频道用于相关技术问题交流和讨论，当前有devboard、CompileRuntime等专属频道，zulip工具[下载地址](https://gitee.com/dongjinguang/free-tools/tree/master/zulip)。<img width=200/>|
 
 
 ## 项目LOGO

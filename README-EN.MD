@@ -39,10 +39,10 @@ You must sign the Developer Certificate of Origin (DCO) before you can contribut
 | scy-priv@openharmony.io  <img width=150/>| Security group mailing list <img width=100/> | Mailing list for discussing how to handle security issues. Security group members can [subscribe to](https://lists.openatom.io/postorius/lists/scy-priv.openharmony.io/) this mailing list. <img width=200/> |
 
 
-### OpenHarmony Slack
+### OpenHarmony zulip
 | Name                              | Introduction | Description                                               |
 | ---------------------------------------|---------- | ------------------------------------------------------------ |
-| [Slack](https://join.slack.com/t/openharmonyworkspace/shared_invite/zt-kn7a5rqq-atJo4XjfW5F97nvnQd0xvw) <img width=150/>  | OpenHarmony technology discussion platform <img width=100/> | A platform where you can discuss kernel technologies of OpenHarmony with others <img width=200/> |
+| [zulip](https://zulip.openharmony.cn/join/u7vafdcbyia32bsssygwbbee/) <img width=150/>  | OpenHarmony technology discussion platform <img width=100/> | A platform where you can discuss devboard, CompileRuntime technologies of OpenHarmony with others <img width=200/> |
 
 
 ## Project Logo
