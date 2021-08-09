@@ -1,4 +1,6 @@
 # SIG Management Regulations
+English | [简体中文](./README.md)
+
 ## Background
 Under the guidance of the Project Management Committee (PMC), a special interest group (SIG) designs the architecture, develops open capabilities, and performs maintenance for innovative projects in a specific domain.
 This repository stores information about all the SIGs in the OpenHamony community.

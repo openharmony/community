@@ -1,14 +1,16 @@
 # OpenHarmony Community
 Welcome to the OpenHarmony community.
 
+English | [简体中文](./README.md)
+
 ## Introduction
 The **community** repository stores the following content:
 
 - Community Governance Organizational Structure
     - [Project Management Committee](/zh/pmc.md)
 - [Contributing to the Community](https://gitee.com/openharmony/docs/blob/master/en/contribute/Readme-EN.md)
-- [CLA for Contributing to the Community](/cla)
-- Communications in the Community
+- [Contributor Agreement for Contributing to the Community](https://dco.openharmony.io/sign/Z2l0ZWUlMkZPcGVuQXRvbQ==)
+- [Communications in the Community](https://gitee.com/openharmony/docs/blob/master/en/contribute/communication-in-community.md)
 - [Responses to Security Issues](https://gitee.com/openharmony/security)
 - [Project Logo](/logo)
 
