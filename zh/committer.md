@@ -241,3 +241,4 @@
 |239|applications_call|applications/standard/call|https://gitee.com/jyh926|jiayanhong@huawei.com|https://gitee.com/ohos-lsw|lishiwei6@huawei.com|SIG_SystemApplication|
 |240|resourceschedule_workscheduler|foundation/resourceschedule/workscheduler|https://gitee.com/hujun211|hujun211@huawei.com|https://gitee.com/FrankJone|zhaofanfan@huawei.com|SIG_BasicSoftwareService|
 |241|resourceschedule_backgroundtaskmanager|foundation/resourceschedule/backgroundtaskmanager|https://gitee.com/hujun211|hujun211@huawei.com|https://gitee.com/FrankJone|zhaofanfan@huawei.com|SIG_BasicSoftwareService|
+|242|third_party_littlefs|third_party/littlefs|https://gitee.com/wangmihu2008|wangmihu@huawei.com|https://gitee.com/kkup180 <br> https://gitee.com/DennyShen|likailong@huawei.com <br> denny.shenwei@huawei.com|SIG_Kernel|
