@@ -29,6 +29,7 @@
 - [@minglonghuang](https://gitee.com/minglonghuang)
 - [@vanessaguo](https://gitee.com/vanessaguo)
 - [@heartoflight](https://gitee.com/heartoflight)
+- [@guoguoliu](https://gitee.com/guoguoliu)
 
 
 ### 会议
