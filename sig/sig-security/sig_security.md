@@ -18,6 +18,7 @@ OpenHarmony security sbusystem, including application permissions, application s
   - dataclassification：https://gitee.com/openharmony/security_dataclassification
   - appverify：https://gitee.com/openharmony/security_appverify
   - app_permission:https://gitee.com/openharmony/security_permission
+  - selinux:https://gitee.com/openharmony-sig/third_party_selinux
 
 
 ## SIG Members
