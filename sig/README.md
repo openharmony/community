@@ -30,7 +30,7 @@
 1. SIG孵化项目成熟并满足项目毕业要求后，可申请合入OpenHarmony组织代码主库。
 2. SIG Leader通过向dev@openharmony.io发送邮件，提交孵化项目毕业申请。
 3. PMC项目管理委员会通过项目毕业申请后，社区接纳孵化项目合入OpenHarmony主干。
-4. 孵化项目毕业评审请按照[要求自检](https://gitee.com/openharmony/community/blob/master/sig/sig-QA/%E5%AD%B5%E5%8C%96%E9%A1%B9%E7%9B%AE%E5%87%86%E5%87%BA%E8%AF%84%E5%AE%A1%E5%8F%8A%E8%AF%84%E5%AE%A1%E6%A3%80%E6%9F%A5%E9%A1%B9%E6%8C%87%E5%AF%BC.md)
+4. 孵化项目毕业评审请按照[要求自检](https://gitee.com/openharmony/community/blob/master/sig/sig-QA/%E5%AD%B5%E5%8C%96%E9%A1%B9%E7%9B%AE%E5%87%86%E5%87%BA%E8%AF%84%E5%AE%A1%E5%8F%8A%E8%AF%84%E5%AE%A1%E6%A3%80%E6%9F%A5%E9%A1%B9%E6%8C%87%E5%AF%BC.md)。
 
 ## SIG数据存放和管理方式
 SIG信息记录统一归档在OpenHamony/community仓库的sig目录内：
