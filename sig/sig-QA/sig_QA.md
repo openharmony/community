@@ -27,6 +27,7 @@ Review the operation of each sig in community development and operations, identi
 - [@minglonghuang](https://gitee.com/minglonghuang)
 - [@vanessaguo](https://gitee.com/vanessaguo)
 - [@heartoflight](https://gitee.com/heartoflight)
+- [@guoguoliu](https://gitee.com/guoguoliu)
 
 ### Meetings
  - Meeting time：BiWeek Wednesday at 14:30:16:00
