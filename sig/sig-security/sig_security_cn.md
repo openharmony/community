@@ -19,6 +19,7 @@ OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密�
   - appverify：https://gitee.com/openharmony/security_appverify
   - app_permission:https://gitee.com/openharmony/security_permission
   - selinux:https://gitee.com/openharmony-sig/third_party_selinux
+  - block_chain:https://gitee.com/openharmony-sig/security_block_chain
 
 ## SIG组成员
 
@@ -30,6 +31,7 @@ OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密�
 - @Chaos-Liang(https://gitee.com/Chaos-Liang)
 - @xuwenfang(https://gitee.com/xuwenfang)
 - @jiang-xiaofeng(https://gitee.com/jiang-xiaofeng)
+- @shangxuan_hz(https://gitee.com/shangxuan_hz)
 
 ### 会议
  - 会议时间：双周例会，周一晚上19:15，UTC+8

@@ -364,6 +364,7 @@
              "https://gitee.com/openharmony/security_appverify",
              "https://gitee.com/openharmony/security_permission",
              "https://gitee.com/openharmony-sig/third_party_selinux"
+			 "https://gitee.com/openharmony-sig/security_block_chain"
          ],
          "project-path":[
              "base/security/deviceauth",
@@ -372,6 +373,7 @@
              "base/security/appverify",
              "base/security/permission",
              "third_party/selinux"
+			 "NONE"
          ]
       }
    ]
