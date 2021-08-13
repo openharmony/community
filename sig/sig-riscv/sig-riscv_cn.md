@@ -59,5 +59,5 @@ SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力�
 ### 联系方式(可选)
 
 - 邮件列表：jiageng08@iscas.ac.cn;dd_nirvana@sjtu.edu.cn;denny.shenwei@huawei.com;578567190@qq.com;likailong@huawei.com
-- Slack群组：NA
+- Zulip群组：https://zulip.openharmony.cn
 - 微信群：NA

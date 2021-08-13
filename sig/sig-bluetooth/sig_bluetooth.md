@@ -46,10 +46,10 @@ Actively negotiate and cooperate with equipment manufacturers and chip manufactu
 
  ### Meetings
  - Meeting time：BiWeek Wednesday 19:00
- - Meeting link：slack bluetooth channel
+ - Meeting link：[Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
 
 ### Contact (optional)
 
 - Mailing list：
-- Slack group：[bluetooth](https://app.slack.com/client/T01D9MR6E4W/C01UEQPRCMB)
+- Zulip group: https://zulip.openharmony.cn
 - Wechat group：

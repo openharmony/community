@@ -62,5 +62,5 @@ OpenHarmony Graphics and Multimedia related design and review.
 ### Contact (optional)
 
 - Mailing list：dev@openharmony.io
-- Slack group：NA
+- Zulip group: https://zulip.openharmony.cn
 - Wechat group：NA

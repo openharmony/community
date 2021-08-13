@@ -65,5 +65,5 @@ SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力�
 ### 联系方式(可选)
 
 - 邮件列表：[sig_python@openharmony.io](https://lists.openatom.io/postorius/lists/sig_python.openharmony.io/)
-- Slack群组：xxx
+- Zulip群组：https://zulip.openharmony.cn
 - 微信群：xxx

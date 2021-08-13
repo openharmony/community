@@ -42,5 +42,5 @@ OpenHarmony security sbusystem, including application permissions, application s
 ### Contact (optional)
 
 - Mailing list：dev@openharmony.io
-- Slack group：xxx
+- Zulip group: https://zulip.openharmony.cn
 - Wechat group：xxx

@@ -97,5 +97,5 @@ Actively cooperate with schools, teachers and education providers
 ### Contact (optional)
 
 - Mailing list: [sig_openblock@openharmony.io](https://lists.openatom.io/postorius/lists/sig_openblock.openharmony.io/)
-- Slack group: xxx
+- Zulip group: https://zulip.openharmony.cn
 - Wechat group: xxx

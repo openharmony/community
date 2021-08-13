@@ -34,5 +34,5 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### Contact (optional)
 
 - Mailing list：xxx
-- Slack group：xxx
+- Zulip group: https://zulip.openharmony.cn
 - Wechat group：xxx

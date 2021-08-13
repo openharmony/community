@@ -43,10 +43,10 @@
 
 ### 会议
  - 会议时间：双周例会，晚上周三19:00
- - 会议链接：在slack的bluetooth channel
+ - 会议链接：请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
 
 ### 联系方式(可选)
 
 - 邮件列表：
-- Slack群组：[bluetooth](https://app.slack.com/client/T01D9MR6E4W/C01UEQPRCMB)
+- Zulip群组：https://zulip.openharmony.cn
 - 微信群：

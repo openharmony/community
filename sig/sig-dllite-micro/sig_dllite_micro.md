@@ -24,10 +24,10 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
  ### Meetings
  - Meeting time：Biweek Monday 19:00, UTC+8
- - Meeting link：[slack dllite-micro channel](https://openharmonyworkspace.slack.com/archives/C022T41JN68)
+ - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
 
 ### Contact (optional)
 
-- Mailing list：xxx
-- Slack group：[dllite-micro](https://openharmonyworkspace.slack.com/archives/C022T41JN68)
+- Mailing list：dev@openharmony.io
+- Zulip group: https://zulip.openharmony.cn
 - Wechat group：xxx

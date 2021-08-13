@@ -71,5 +71,5 @@
 ### 联系方式
 
 - 邮件列表：dev@openharmony.io
-- Slack群组：NA
+- Zulip群组：https://zulip.openharmony.cn
 - 微信群：NA

@@ -35,5 +35,5 @@
 ### 联系方式(可选)
 
 - 邮件列表：xxx
-- Slack群组：xxx
+- Zulip群组：https://zulip.openharmony.cn
 - 微信群：xxx

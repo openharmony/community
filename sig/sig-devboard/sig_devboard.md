@@ -103,6 +103,6 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### Contact (optional)
 
 - Mailing list: [sig_devboard@openharmony.io](https://lists.openatom.io/postorius/lists/sig_devboard.openharmony.io/)
-- Slack group: [devboard](https://openharmonyworkspace.slack.com/archives/C0201BL0WEM)
+- Zulip group: https://zulip.openharmony.cn
 - Wechat group: xxx
 

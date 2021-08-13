@@ -94,5 +94,5 @@ Basic Software Services includes the following sub-systems:
 ### Contact (optional)
 
 - Mailing list：stesen.ma@huawei.com;liyu1@huawei.com;zengzhi5@huawei.com;yaomanhai@huawei.com;shenchenkai@huawei.com;guochuanqi@huawei.com;qushiwan@huawei.com;lijiarun@huawei.com;zhangxiaotian@huawei.com;wtweitao.wei@huawei.com;max.liuwei@huawei.com;hehuan1@huawei.com;hw.liuwei@huawei.com;xudaqing@huawei.com
-- Slack group：NA
+- Zulip group: https://zulip.openharmony.cn
 - Wechat group：NA

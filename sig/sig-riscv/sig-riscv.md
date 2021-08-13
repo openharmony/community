@@ -56,5 +56,5 @@ The SIG will actively cooperate with schools and end-users to promote the usage 
 ### Contact (optional)
 
 - Mailing list：jiageng08@iscas.ac.cn;dd_nirvana@sjtu.edu.cn;denny.shenwei@huawei.com;578567190@qq.com;likailong@huawei.com
-- Slack group：NA
+- Zulip group: https://zulip.openharmony.cn
 - Wechat group：NA

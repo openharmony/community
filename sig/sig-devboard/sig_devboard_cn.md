@@ -104,5 +104,5 @@
 ### 联系方式(可选)
 
 - 邮件列表：[sig_devboard@openharmony.io](https://lists.openatom.io/postorius/lists/sig_devboard.openharmony.io/)
-- Slack群组：[devboard](https://openharmonyworkspace.slack.com/archives/C0201BL0WEM)
+- Zulip群组：https://zulip.openharmony.cn
 - 微信群：xxx

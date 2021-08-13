@@ -31,10 +31,10 @@
 
 ### 会议
  - 会议时间：双周例会，周一晚上19：00, UTC+8
- - 会议链接：[slack dllite-micro频道](https://openharmonyworkspace.slack.com/archives/C022T41JN68)
+ - 会议链接：请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
 
 ### 联系方式(可选)
 
 - 邮件列表：xxx
-- Slack群组：[dllite-micro](https://openharmonyworkspace.slack.com/archives/C022T41JN68)
+- Zulip群组：https://zulip.openharmony.cn
 - 微信群：xxx

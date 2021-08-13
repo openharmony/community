@@ -35,6 +35,6 @@ OpenHarmony API Governance Charter、API Review, etc.
 
 ### Contact (optional)
 
-- Mailing list：zhangyongzhi@huawei.com;rengelin@huawei.com;qiangbo2@huawei.com;xiadengping@huawei.com
-- Slack group：NA
+- Mailing list: dev@openharmony.io
+- Zulip group: https://zulip.openharmony.cn
 - Wechat group：NA

@@ -32,6 +32,6 @@ API相关的设计评审、API提交评审、《OpenHarmony API治理章程》�
 
 ### 联系方式(可选)
 
-- 邮件列表：zhangyongzhi@huawei.com;rengelin@huawei.com;qiangbo2@huawei.com;xiadengping@huawei.com
-- Slack群组：NA
+- 邮件列表： dev@openharmony.io
+- Zulip群组： https://zulip.openharmony.cn
 - 微信群：NA

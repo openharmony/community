@@ -57,5 +57,5 @@ SIG组将不断的吸引开发者为 CICD 门禁不断完善、更新、升级�
 ### 联系方式(可选)
 
 - 邮件列表：[sig_infrastructure@openharmony.io](https://lists.openatom.io/postorius/lists/sig_infrastructure.openharmony.io/)
-- Slack群组：xxx
+- Zulip群组：https://zulip.openharmony.cn
 - 微信群：xxx

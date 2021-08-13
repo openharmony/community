@@ -38,5 +38,5 @@ Review the operation of each sig in community development and operations, identi
 ### Contact (optional)
 
 - Mailing list：xw.hua@huawei.com
-- Slack group：NA
+- Zulip group: https://zulip.openharmony.cn
 - Wechat group：NA

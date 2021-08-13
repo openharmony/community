@@ -28,6 +28,6 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ### Contact (optional)
 
-- Mailing list：gongashi@huawei.com;xuchao@huawei.com;zengmin3@huawei.com;wangbingquan@huawei.com
-- Slack group：NA
+- Mailing list: dev@openharmony.io
+- Zulip group: https://zulip.openharmony.cn
 - Wechat group：NA

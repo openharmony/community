@@ -95,6 +95,6 @@ OpenBlock SIG同时将协助第三方设备厂商和教育服务商构建自有�
 ### 联系方式(可选)
 
 - 邮件列表：[sig_openblock@openharmony.io](https://lists.openatom.io/postorius/lists/sig_openblock.openharmony.io/)
-- Slack群组：xxx
+- Zulip群组：https://zulip.openharmony.cn
 - 微信群：xxx
 
