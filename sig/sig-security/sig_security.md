@@ -19,6 +19,7 @@ OpenHarmony security sbusystem, including application permissions, application s
   - appverify：https://gitee.com/openharmony/security_appverify
   - app_permission:https://gitee.com/openharmony/security_permission
   - selinux:https://gitee.com/openharmony-sig/third_party_selinux
+  - block_chain:https://gitee.com/openharmony-sig/security_block_chain
 
 
 ## SIG Members
@@ -31,6 +32,7 @@ OpenHarmony security sbusystem, including application permissions, application s
 - @Chaos-Liang(https://gitee.com/Chaos-Liang)
 - @xuwenfang(https://gitee.com/xuwenfang)
 - @jiang-xiaofeng(https://gitee.com/jiang-xiaofeng)
+- @shangxuan_hz(https://gitee.com/shangxuan_hz)
 
  ### Meetings
 - Meeting time：Bi-weekly meeting, Monday 19:15 pm, UTC+8
