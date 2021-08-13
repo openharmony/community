@@ -26,7 +26,7 @@ SIG组将不断的吸引开发者为 CICD 门禁不断完善、更新、升级�
 ## 代码仓
 
 - 代码仓地址：
-  - website: https://gitee.com/openharmony/website
+  - website: https://gitee.com/openharmony-sig/website
   - CICD: https://gitee.com/openharmony-sig/cicd
   - Archive: https://gitee.com/openharmony-sig/archive
 

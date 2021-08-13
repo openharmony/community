@@ -25,7 +25,7 @@ Actively cooperate with developers, universities and community developers to pro
 
 ### The repository
 
-- website: https://gitee.com/openharmony/website
+- website: https://gitee.com/openharmony-sig/website
 - CICD: https://gitee.com/openharmony-sig/cicd
 - Archive: https://gitee.com/openharmony-sig/archive
 
