@@ -42,9 +42,9 @@
                      "https://gitee.com/openharmony-sig/devboard_device_hihope_build",
                      "https://gitee.com/openharmony-sig/devboard_device_hihope_dayu",
                      "https://gitee.com/openharmony-sig/devboard_vendor_hihope",
-                    " https://gitee.com/openharmony/device_bearpi_bearpi_hm_nano",
-                    "https://gitee.com/openharmony/applications_sample_bearpi_hm_nano",
-                    "https://gitee.com/openharmony/vendor_bearpi",
+                     "https://gitee.com/openharmony-sig/device_bearpi_bearpi_hm_nano",
+                     "https://gitee.com/openharmony-sig/applications_sample_bearpi_hm_nano",
+                     "https://gitee.com/openharmony-sig/vendor_bearpi",
                      "https://gitee.com/openharmony/vendor_ohemu",
                      "https://gitee.com/openharmony/device_qemu"
                     ],
@@ -67,7 +67,11 @@
                          "device/realtek",
                          "device/bouffalolab",
                          "device/beken",
-                         "vendor/ohos"]
+                         "vendor/ohos",
+						 "device/bearpi/bearpi_hm_nano",
+						 "vendor/bearpi",
+						 "applications/sample/BearPi-HM_Nano"
+						 ]
       },
       {
          "sig-name":"sig-bluetooth",
