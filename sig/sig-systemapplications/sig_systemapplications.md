@@ -43,10 +43,11 @@ Defines and builds OpenHarmony system applications, applies for and implements i
 - @sunjunxiong(https://gitee.com/sunjunxiong)
 
  ### Meetings
-- Meeting time：bi-weekly meeting, 19:00 pm on Wednesday
-- Meeting link：in the systemapplications channel of the slack
+- Meeting time：monthly meeting
+- Topic declaration: https://shimo.im/sheets/t8cD88vk8qTJQcdh
+- Meeting link：Notify the participants of the topic in the graphite document by email (be sure to leave the email address when declaring the topic)
 
-### Contact (optional)
-- Mailing list：nicolas.wangfeng@huawei.com;
-- Slack group：[systemapplications](https://app.slack.com/client/T01D9MR6E4W/C022UV7AE3F)
-- Wechat group：NA
+### Contact
+- Mailing list：sig_systemapplication.openharmony.io [Subscribe](https://lists.openatom.io/postorius/lists/sig_systemapplication.openharmony.io/)
+- Zulip channel：[Systemapplication](https://zulip.openharmony.cn/#narrow/stream/1-general/topic/Systemapplication)
+- Wechat group：Leave a message on zulip Systemapplication channel about your wechat and the reason for joining. After passing the review, we will invite you to enter oh systemapplication sig wechat group

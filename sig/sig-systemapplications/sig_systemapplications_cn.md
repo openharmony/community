@@ -43,10 +43,11 @@
 - @sunjunxiong(https://gitee.com/sunjunxiong)
 
 ### 会议
- - 会议时间：双周例会，晚上周三19:00
- - 会议链接：在slack的systemapplications channel
+ - 会议时间：月度例会
+ - 议题申报：https://shimo.im/sheets/t8cD88vk8qTJQcdh
+ - 会议链接：邮件通知石墨文档中的议题参与人（申报议题时务必留下邮箱地址）
 
-### 联系方式(可选)
-- 邮件列表：nicolas.wangfeng@huawei.com;
-- Slack群组：[systemapplications](https://app.slack.com/client/T01D9MR6E4W/C022UV7AE3F)
-- 微信群：NA
+### 联系方式
+- 邮件列表：sig_systemapplication.openharmony.io [点击订阅](https://lists.openatom.io/postorius/lists/sig_systemapplication.openharmony.io/)
+- Zulip频道：[Systemapplication](https://zulip.openharmony.cn/#narrow/stream/1-general/topic/Systemapplication)
+- 微信群：在Zulip Systemapplication频道留言您的微信号以及加入的原因，我们在审核通过后会邀请你进入OH-SystemApplication-SIG微信群
