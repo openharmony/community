@@ -29,11 +29,15 @@
 - @Kevin-Lau(https://gitee.com/Kevin-Lau)
 
 ### 会议
- - 会议时间：xxx
- - 会议链接：xxx
+ - 会议时间：双周例会，周三下午16:00
+ - 会议申报：[SIG-Driver会议议题收集](https://shimo.im/sheets/36GKhpvrXd8TcQHY)
+ - 会议链接：腾讯会议或其他会议
+ - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_driver.openharmony.io/)邮件列表获取会议链接
+ - 会议纪要：查看往期会议纪要，请点此[链接](https://gitee.com/openharmony-sig/sig-content/tree/master/driver/meetings)
+
 
 ### 联系方式(可选)
 
-- 邮件列表：xxx
+- 邮件列表：[sig_driver@openharmony.io](https://lists.openatom.io/postorius/lists/sig_driver.openharmony.io/)
 - Zulip群组：https://zulip.openharmony.cn
 - 微信群：xxx

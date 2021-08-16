@@ -28,11 +28,14 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - @Kevin-Lau(https://gitee.com/Kevin-Lau)
 
  ### Meetings
- - Meeting time：xxx
- - Meeting link：xxx
+ - Meeting time: BiWeek Wednesday 16:00
+ - Meeting application: [SIG-Driver application](https://shimo.im/sheets/36GKhpvrXd8TcQHY)
+ - meeting link:Tencent meeting or other meeting
+ - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_driver.openharmony.io) mailing list for the 
+ - Meeting Summary:To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/driver/meetings)
 
 ### Contact (optional)
 
-- Mailing list：xxx
+- Mailing list: [sig_driver@openharmony.io](https://lists.openatom.io/postorius/lists/sig_driver.openharmony.io/)
 - Zulip group: https://zulip.openharmony.cn
-- Wechat group：xxx
+- Wechat group: xxx
