@@ -390,7 +390,7 @@
       },
       {
          "sig-name":"sig-infrastructure",
-         "projects":"https://gitee.com/openharmony/website",
+         "projects":"https://gitee.com/openharmony-sig/website",
          "projects":"https://gitee.com/openharmony-sig/cicd",
          "projects":"https://gitee.com/openharmony-sig/archive",
          "projects":"https://gitee.com/openharmony-sig/sig-content",
