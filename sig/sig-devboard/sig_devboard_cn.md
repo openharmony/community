@@ -45,32 +45,50 @@
 ## 代码仓
 - 代码仓地址：
   - device_st: https://gitee.com/openharmony-sig/device_st
+  - vendor_st: https://gitee.com/openharmony-sig/vendor_st
   - device_allwinner: https://gitee.com/openharmony-sig/device_allwinner
-  - vendor_huawei_ipcamera_v3s: https://gitee.com/openharmony-sig/vendor_huawei_ipcamera_v3s
-  - vendor_oh_fun: https://gitee.com/openharmony-sig/vendor_oh_fun
-  - vendor_huawei_minidisplay_demo: https://gitee.com/openharmony-sig/vendor_huawei_minidisplay_demo
+  - vendor_allwinner: https://gitee.com/openharmony-sig/vendor_allwinner
   - device_mediatek: https://gitee.com/openharmony-sig/device_mediatek
+  - vendor_mediatek: https://gitee.com/openharmony-sig/vendor_mediatek
   - device_nordic: https://gitee.com/openharmony-sig/device_nordic
+  - vendor_nordic: https://gitee.com/openharmony-sig/vendor_nordic
   - device_nxp: https://gitee.com/openharmony-sig/device_nxp
+  - vendor_nxp: https://gitee.com/openharmony-sig/vendor_nxp
   - device_fudanmicro: https://gitee.com/openharmony-sig/device_fudanmicro
+  - vendor_fudanmicro: https://gitee.com/openharmony-sig/vendor_fudanmicro
   - device_bestechnic: https://gitee.com/openharmony-sig/device_bestechnic
+  - vendor_bestechnic: https://gitee.com/openharmony-sig/vendor_bestechnic
   - device_ingenic: https://gitee.com/openharmony-sig/device_ingenic
+  - vendor_ingenic: https://gitee.com/openharmony-sig/vendor_ingenic
   - device_espressif: https://gitee.com/openharmony-sig/device_espressif
+  - vendor_espressif: https://gitee.com/openharmony-sig/vendor_espressif
   - device_winnermicro: https://gitee.com/openharmony-sig/device_winnermicro
+  - vendor_winnermicro: https://gitee.com/openharmony-sig/vendor_winnermicro
   - device_rockchip: https://gitee.com/openharmony-sig/device_rockchip
+  - vendor_rockchip: https://gitee.com/openharmony-sig/vendor_rockchip
   - device_unisoc: https://gitee.com/openharmony-sig/device_unisoc
+  - vendor_unisoc: https://gitee.com/openharmony-sig/vendor_unisoc
   - device_broadcom: https://gitee.com/openharmony-sig/device_broadcom
+  - vendor_broadcom: https://gitee.com/openharmony-sig/vendor_broadcom
   - device_realtek: https://gitee.com/openharmony-sig/device_realtek
+  - vendor_realtek: https://gitee.com/openharmony-sig/vendor_realtek
   - device_bouffalolab: https://gitee.com/openharmony-sig/device_bouffalolab
+  - vendor_bouffalolab: https://gitee.com/openharmony-sig/vendor_bouffalolab
   - device_beken: https://gitee.com/openharmony-sig/device_beken
+  - vendor_beken: https://gitee.com/openharmony-sig/vendor_beken
+  - device_asrmicro: https://gitee.com/openharmony-sig/device_asrmicro
+  - vendor_asrmicro: https://gitee.com/openharmony-sig/vendor_asrmicro
+  - device_qemu: https://gitee.com/openharmony/device_qemu
+  - vendor_ohemu: https://gitee.com/openharmony/vendor_ohemu
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_hihope_build
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_hihope_dayu
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_vendor_hihope
   - device_bearpi: https://gitee.com/openharmony-sig/device_bearpi_bearpi_hm_nano
   - device_bearpi:https://gitee.com/openharmony-sig/applications_sample_bearpi_hm_nano
   - device_bearpi:https://gitee.com/openharmony-sig/vendor_bearpi
-  - vendor_ohemu: https://gitee.com/openharmony/vendor_ohemu
-  - device_qemu: https://gitee.com/openharmony/device_qemu
+  - vendor_huawei_ipcamera_v3s: https://gitee.com/openharmony-sig/vendor_huawei_ipcamera_v3s
+  - vendor_oh_fun: https://gitee.com/openharmony-sig/vendor_oh_fun
+  - vendor_huawei_minidisplay_demo: https://gitee.com/openharmony-sig/vendor_huawei_minidisplay_demo
 
 ## SIG组成员
 
