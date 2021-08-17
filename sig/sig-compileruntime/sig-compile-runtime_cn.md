@@ -22,6 +22,10 @@
 - 代码仓地址：
   - build_lite: https://gitee.com/openharmony/build_lite
   - build: https://gitee.com/openharmony/build
+  - js_api_module: https://gitee.com/openharmony/js_api_module
+  - js_sys_module: https://gitee.com/openharmony/js_sys_module
+  - js_util_module: https://gitee.com/openharmony/js_util_module
+  - js_worker_module: https://gitee.com/openharmony/js_worker_module
   - productdefine_common: https://gitee.com/openharmony/productdefine_common
   - prebuilts_aosp_libs: https://gitee.com/openharmony/prebuilts_aosp_libs
   - third_party_gn: https://gitee.com/openharmony/third_party_gn

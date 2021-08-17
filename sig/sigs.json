@@ -404,32 +404,46 @@
       {
          "sig-name":"sig-security",
          "projects":[
-             "https://gitee.com/openharmony/security_deviceauth",
-             "https://gitee.com/openharmony/security_huks",
-             "https://gitee.com/openharmony/security_dataclassification",
-             "https://gitee.com/openharmony/security_appverify",
-             "https://gitee.com/openharmony/security_permission",
-             "https://gitee.com/openharmony-sig/third_party_selinux"
+            "https://gitee.com/openharmony/security_deviceauth",
+            "https://gitee.com/openharmony/security_huks",
+            "https://gitee.com/openharmony/security_dataclassification",
+            "https://gitee.com/openharmony/security_appverify",
+            "https://gitee.com/openharmony/security_permission",
+            "https://gitee.com/openharmony-sig/third_party_selinux"
          ],
          "project-path":[
-             "base/security/deviceauth",
-             "base/security/huks/",
-             "base/security/dataclassification",
-             "base/security/appverify",
-             "base/security/permission",
-             "third_party/selinux"
-			 "NONE"
+            "base/security/deviceauth",
+            "base/security/huks/",
+            "base/security/dataclassification",
+            "base/security/appverify",
+            "base/security/permission",
+            "third_party/selinux",
+            "NONE"
          ]
       },
-	  { 
-	     "sig-name":"sig-blockchain",
-	     "projects":[ 
-	        "https://gitee.com/openharmony-sig/security_block_chain"
-	     ],
-		 "project-path":[
-		     "NONE"
-		 ] 			 
-	  }
-	  
+      {
+         "sig-name":"sig-blockchain",
+         "projects":[
+            "https://gitee.com/openharmony-sig/security_block_chain"
+         ],
+         "project-path":[
+            "NONE"
+         ]
+      },
+      {
+         "sig-name":"sig-compileruntime",
+         "projects":[
+            "https://gitee.com/openharmony/js_api_module",
+            "https://gitee.com/openharmony/js_sys_module",
+            "https://gitee.com/openharmony/js_util_module",
+            "https://gitee.com/openharmony/js_worker_module"
+         ],
+         "project-path":[
+            "base/compileruntime/js_api_module",
+            "base/compileruntime/js_sys_module",
+            "base/compileruntime/js_util_module",
+            "base/compileruntime/js_worker_module"
+         ]
+      }
    ]
 }
