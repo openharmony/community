@@ -13,9 +13,13 @@
 4. 一个良好的社区组织形式是持续运作的关键，仪式感很重要，SIG组需要通过周期例会来保持其有效的运作，并定期向PMC委员会汇报进展。
 
 ## 申请新建SIG
-1. 开发者在社区中寻找2-3个以上有共同兴趣及目标的人，确定SIG Leader。参考[新建SIG Charter](sig-template/sig_template_cn.md)模板，创建SIG Charter提案。
-2. SIG Leader以[SIG-Charter-Proposal-XXX]为邮件标题，需先订阅[dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io/)，然后向dev@openharmony.io发送邮件，提交新建SIG申请。
-3. PMC或对应领域SIG、Committer邮件回复初步同意后，然后向[Community](https://gitee.com/openharmony/community)仓创建新的SIG的Pull Request，PMC会根据收到的PR统一安排SIG申请评审，PMC根据评审通过及完善后的意见统一新建SIG仓。
+1. 开发者在社区中寻找2-3个以上有共同兴趣及目标的人，确定SIG Leader。参考[新建SIG Charter](sig-template/sig_template_cn.md)模板，创建SIG Charter提案，提案包括如下要素：
+ - 创建SIG的背景信息
+ - 创建SIG的业务范围
+ - 创建SIG的业务目标
+2. SIG Leader以[SIG-Charter-Proposal-XXX]为邮件标题，需先订阅[dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io/)，将申请材料以附件方式向dev@openharmony.io发送邮件，提交新建SIG申请。
+3. PMC或对应领域SIG、Committer邮件回复初步同意后，然后向[PMC](https://gitee.com/openharmony/community)申报议题，PMC会根据收到的PR统一安排SIG申请评审，PMC根据评审通过后，按照评审意见完善后，向[Community](https://gitee.com/openharmony/community)仓创建新的SIG的Pull Request申请新建SIG。
+ - **重要**：SIG中如需新建仓申请的，请至[架构SIG](https://shimo.im/sheets/CqJChdHgcXywT9Gt/MODOC)中申报新增部件的议题。
 
 ## 加入已有SIG
 开发者可通过SIG列表查看感兴趣的SIG，通过订阅邮件列表、参与SIG会议等形式，参与对应SIG项目的技术讨论、社区维护及开源开发。
