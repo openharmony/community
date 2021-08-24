@@ -13,12 +13,31 @@
 - 代码仓地址：
   - repository1名称：https://gitee.com/openharmony/third_party_littlefs
   - repository2名称：https://gitee.com/openharmony/third_party_e2fsprogs
+  - repository3名称：https://gitee.com/openharmony/kernel_linux_build
+  - repository4名称：https://gitee.com/openharmony/kernel_linux_4.19
+  - repository5名称：https://gitee.com/openharmony/kernel_linux_5.10
 
 ## SIG组成员
 
 ### Leader
-- [@wangmihu2008](https://gitee.com/wangmihu2008)
+- [@ninalijiaxin](https://gitee.com/ninalijiaxin)
 
 ### Committers列表
+- [@wangmihu2008](https://gitee.com/wangmihu2008)
+- [@liuyoufang](https://gitee.com/liuyoufang)
+- [@easy-to-see](https://gitee.com/easy-to-see)
 - [@li_zan](https://gitee.com/li_zan)
 - [@taiyipei](https://gitee.com/taiyipei)
+
+### 会议
+ - 会议时间：周二上午9:30
+ - 会议申报：请填写[石墨文档](https://shimo.im/sheets/VgQV6VjCJ9cXtY8G/MODOC)，SIG相关申报人自行申请议题
+ - 会议链接: Welink或其他会议
+ - 会议通知: 请[订阅](https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/)邮件列表 dev@openharmony.io 获取会议链接
+ - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content)
+
+### 联系方式(可选)
+
+- 邮件列表：kernel@openharmony.io
+- Zulip群组：https://zulip.openharmony.cn
+- 微信群：请联系 [@ninalijiaxin](https://gitee.com/ninalijiaxin)

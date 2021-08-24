@@ -1,11 +1,23 @@
 {
    "Leader":[
       {
-         "gitee_id":"wangmihu2008",
-         "gitee_email":"wangmihu@huawei.com"
+         "gitee_id":"ninalijiaxin",
+         "gitee_email":"nina.lijiaxin@huawei.com"
       }
    ],
    "Committers":[
+      {
+         "gitee_id":"esay-to-see",
+         "gitee_email":"salient.yijian@huawei.com"
+      },
+      {
+         "gitee_id":"wangmihu2008",
+         "gitee_email":"wangmihu@huawei.com"
+      },
+      {
+         "gitee_id":"liuyoufang",
+         "gitee_email":"liuyu82@huawei.com"
+      },
       {
          "gitee_id":"li_zan",
          "gitee_email":"lizan1@huawei.com"

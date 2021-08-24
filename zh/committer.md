@@ -242,3 +242,6 @@
 |240|resourceschedule_workscheduler|foundation/resourceschedule/workscheduler|https://gitee.com/hujun211|hujun211@huawei.com|https://gitee.com/FrankJone|zhaofanfan@huawei.com|SIG_BasicSoftwareService|
 |241|resourceschedule_backgroundtaskmanager|foundation/resourceschedule/backgroundtaskmanager|https://gitee.com/hujun211|hujun211@huawei.com|https://gitee.com/FrankJone|zhaofanfan@huawei.com|SIG_BasicSoftwareService|
 |242|third_party_littlefs|third_party/littlefs|https://gitee.com/wangmihu2008|wangmihu@huawei.com|https://gitee.com/kkup180 <br> https://gitee.com/DennyShen|likailong@huawei.com <br> denny.shenwei@huawei.com|SIG_Kernel|
+|243|kernel_linux_build|kernel/linux/build|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
+|244|kernel_linux_4.19|kernel/linux/linux-4.19|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
+|245|kernel_linux_5.10|kernel/linux/linux-5.10|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
