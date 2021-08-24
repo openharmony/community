@@ -6,17 +6,26 @@ Under the guidance of the Project Management Committee (PMC), a special interest
 This repository stores information about all the SIGs in the OpenHamony community.
 
 ## Applying for Creating an SIG
-1. Seek two or three developers in the community who have the same interest or objectives as you and elect a leader for this SIG. Create an SIG proposal based on the [SIG creation template](sig-template/oep_cn.md) (this template is based on the [KEP template](https://github.com/kubernetes/enhancements/blob/master/keps/NNNN-kep-template/README.md)).
+1. Seek two or three developers in the community who have the same interest or objectives as you and elect a leader for this SIG. Create an SIG proposal based on the [SIG creation template](sig-template/oep_cn.md), The proposal includes the following elements:
+     -Create background information for the SIG
+     -Create the business scope of the SIG
+     -Create business goals for the SIG
 2. The SIG leader sends the SIG proposal via an email with the title [New-SIG-Proposal-XXX] to dev@openharmony.io.
-3. Wait for the PMC to approve the proposal, after which the leader can create an SIG.
+3. Wait for the PMC or the corresponding field SIG, Committer to approve the proposal, the proposer could filed agenda collection on [PMC](https://shimo.im/sheets/N2A1MZgDZxfbBVAD/MODOC), PMC will periodic organization review meeting for the proposal. The proposer could go to the [Community](https://gitee.com/openharmony/community) repository to create a Pull Request to create a new SIG after passing the review and perfecting it in accordance with the review comments.
+-**Important**: If you need to apply for a new warehouse in the SIG, please report the issue of new parts to the [Architecture SIG](https://shimo.im/sheets/CqJChdHgcXywT9Gt/MODOC).
+
 
 ## Joining an SIG
-Find an SIG you are interested in and participate in its technical discussions, maintenance, and capability development by various means, such as subscribing to mailing lists and attending meetings of the SIG.
+1. Find an SIG you are interested in and participate in its technical discussions, maintenance, and capability development by various means, such as subscribing to mailing lists and attending meetings of the SIG.
 
 ## Operating and Maintaining an SIG
+
 1. The SIG leader forks the **OpenHamony/community** release, creates a folder and names it with the SIG name in the **sig** directory, creates an SIG profile in the created folder based on the [SIG template](sig-template/), and submits pull requests (PRs) for incorporating modifications of the SIG profile into the master code of OpenHarmony.
+
 2. SIG incubation projects are stored in the [OpenHarmony-SIG](https://gitee.com/openharmony-sig) organization. The code of incubation projects that meet graduation requirements can be incorporated into the master code of OpenHarmony.
+
 3. The SIG leader and committer operate and maintain the SIG.
+
 4. The SIG leader periodically reports the progresses of the SIG operations and incubation projects to the PMC which then offers suggestions.
 
 ## Graduation of SIG Incubation Projects
@@ -26,7 +35,7 @@ Find an SIG you are interested in and participate in its technical discussions, 
 
 ### How SIG Data Is Stored and Managed
 SIG data is stored in the **sig** directory of the **OpenHamony/community** repository. The **sig_***xxx***.md**/**sig_***xxx***_cn.md** file is a template that contains the objectives and work scope of this SIG, repositories managed by the SIG and their descriptions, and SIG meetings and members. A backup of the maintainer/committer information of the SIG is stored in the **OWNER** file and can be automatically obtained by a tool. The names and directory structures of the repositories managed by each SIG are stored in the **sigs.json** file.
-1. The **sigs.json** file in the **sig** directory of the **OpenHarmony/community** repository is used to manage all the SIGs visible to the PMC.
+1. The **sigs.json** file in the **sig** directory of the **OpenHarmony/co    mmunity** repository is used to manage all the SIGs visible to the PMC.
 2. The PMC modifies and maintains SIGs. Maintainers submit PRs for modifying SIGs, and the PMC reviews the PRs and incorporates the modifications into the master code of OpenHarmony.
 3. The **sig_***xxx***.md**/**sig_***xxx***_cn.md** file in the **sig** directory stores SIG data. In this file, the basic SIG information is empty and needs to be specified during SIG creation.
 4. The **OWNER** file in the **sig** directory stores information about the maintainer of the SIG.
