@@ -1,14 +1,14 @@
 {
-   "Leader":[
+   "Leader": [
       {
-         "gitee_id":"berolinux",
-         "gitee_email":"bernhard.rosenkraenzer.ext@huawei.com"
+         "gitee_id": "berolinux",
+         "gitee_email": "bernhard.rosenkraenzer.ext@huawei.com"
       }
    ],
-   "Committers":[
+   "Committers": [
       {
-         "gitee_id":"berolinux",
-         "gitee_email":"bernhard.rosenkraenzer.ext@huawei.com"
+         "gitee_id": "berolinux",
+         "gitee_email": "bernhard.rosenkraenzer.ext@huawei.com"
       }
    ]
 }

@@ -1,26 +1,26 @@
 {
-   "Leader":[
+   "Leader": [
       {
-         "gitee_id":"yongjie2020",
-         "gitee_email":"yongjie.yan@huawei.com"
+         "gitee_id": "yongjie2020",
+         "gitee_email": "yongjie.yan@huawei.com"
       }
    ],
-   "Committers":[
+   "Committers": [
       {
-         "gitee_id":"scuteehuangjun",
-         "gitee_email":"huangjun42@huawei.com"
+         "gitee_id": "scuteehuangjun",
+         "gitee_email": "huangjun42@huawei.com"
       },
       {
-         "gitee_id":"Chaos-Liang",
-         "gitee_email":"liangguanchao1@huawei.com"
+         "gitee_id": "Chaos-Liang",
+         "gitee_email": "liangguanchao1@huawei.com"
       },
       {
-         "gitee_id":"xuwenfang",
-         "gitee_email":"xuwenfang@huawei.com"
+         "gitee_id": "xuwenfang",
+         "gitee_email": "xuwenfang@huawei.com"
       },
       {
-         "gitee_id":"jiang-xiaofeng",
-         "gitee_email":"jiangxiaofeng8@huawei.com"
+         "gitee_id": "jiang-xiaofeng",
+         "gitee_email": "jiangxiaofeng8@huawei.com"
       }
    ]
 }

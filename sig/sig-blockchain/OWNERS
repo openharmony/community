@@ -1,46 +1,46 @@
 {
-   "Leader":[
+   "Leader": [
       {
-         "gitee_id":"shangxuan_hz",
-         "gitee_email":"shangxuan@hyperchain.cn"
+         "gitee_id": "shangxuan_hz",
+         "gitee_email": "shangxuan@hyperchain.cn"
       }
    ],
-   "Committers":[
+   "Committers": [
       {
-         "gitee_id":"haisong2",
-         "gitee_email":"bchen@cufe.edu.cn"
+         "gitee_id": "haisong2",
+         "gitee_email": "bchen@cufe.edu.cn"
       },
       {
-         "gitee_id":"lingfengbao",
-         "gitee_email":"lingfengbao@zju.edu.cn"
+         "gitee_id": "lingfengbao",
+         "gitee_email": "lingfengbao@zju.edu.cn"
       },
       {
-         "gitee_id":"max_mars",
-         "gitee_email":"15301588184@189.cn"
+         "gitee_id": "max_mars",
+         "gitee_email": "15301588184@189.cn"
       },
       {
-         "gitee_id":"15335180944",
-         "gitee_email":"jiafeicheng@chinasofti.com"
+         "gitee_id": "15335180944",
+         "gitee_email": "jiafeicheng@chinasofti.com"
       },
       {
-         "gitee_id":"www.lee.com",
-         "gitee_email":"972133090@qq.com"
+         "gitee_id": "www.lee.com",
+         "gitee_email": "972133090@qq.com"
       },
       {
-         "gitee_id":"platformdepartment",
-         "gitee_email":"zhangqisuan@hyperchain.cn"
+         "gitee_id": "platformdepartment",
+         "gitee_email": "zhangqisuan@hyperchain.cn"
       },
       {
-         "gitee_id":"xkwang1228",
-         "gitee_email":"wangxiaoke@hyperchain.cn"
+         "gitee_id": "xkwang1228",
+         "gitee_email": "wangxiaoke@hyperchain.cn"
       },
       {
-         "gitee_id":"jerryma0912",
-         "gitee_email":"madongjie@hyperchain.cn"
+         "gitee_id": "jerryma0912",
+         "gitee_email": "madongjie@hyperchain.cn"
       },
       {
-         "gitee_id":"painterq",
-         "gitee_email":"qiaopeiyang@hyperchain.cn"
+         "gitee_id": "painterq",
+         "gitee_email": "qiaopeiyang@hyperchain.cn"
       }
    ]
 }

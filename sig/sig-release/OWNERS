@@ -1,14 +1,14 @@
 {
-   "Leader":[
+   "Leader": [
       {
-         "gitee_id":"fma66169",
-         "gitee_email":"mazhanfu@huawei.com"
+         "gitee_id": "fma66169",
+         "gitee_email": "mazhanfu@huawei.com"
       }
    ],
-   "Committers":[
+   "Committers": [
       {
-         "gitee_id":"xxx",
-         "gitee_email":"xxx"
+         "gitee_id": "xxx",
+         "gitee_email": "xxx"
       }
    ]
 }

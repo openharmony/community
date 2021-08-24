@@ -1,14 +1,14 @@
 {
-   "Leader":[
+   "Leader": [
       {
-         "gitee_id":"SilenChen",
-         "gitee_email":"silen.chen@huawei.com"
+         "gitee_id": "SilenChen",
+         "gitee_email": "silen.chen@huawei.com"
       }
    ],
-   "Committers":[
+   "Committers": [
       {
-         "gitee_id":"ArmyLee0",
-         "gitee_email":"lijun249@huawei.com"
+         "gitee_id": "ArmyLee0",
+         "gitee_email": "lijun249@huawei.com"
       }
    ]
 }
