@@ -38,19 +38,20 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - [@ampereufo](https://gitee.com/ampereufo)
 
 ### Committers
-- [@Misterh](https://gitee.com/misterh)
-
+- [@nickehu](https://gitee.com/nickehu)
 - [@weolar](https://gitee.com/weolar)
+- [@Cai_Huan](https://gitee.com/Cai_Huan)
 
  ### Meetings
 - Meeting time：Bi-weekly meeting, Monday 19:15 pm, UTC+8
 - Meeting application: 
 - Meeting link: Welink Meeting or Others
-- Meeting notification: [Subscribe to] (https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
+- Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/) mailing list [dev@openharmony.io](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/) for the meeting link
 - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content/tree/master/miniblink/meetings)
 
 ### Contact (optional)
 
-- Mailing list：
+- Mailing list：[sig_miniblink@openharmony.io](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/)
 - Zulip group: https://zulip.openharmony.cn
 - Wechat group：
+
