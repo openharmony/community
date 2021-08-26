@@ -33,20 +33,20 @@
 
 ### Committers列表
 
-- [@Misterh](https://gitee.com/misterh)
-
-- [weolar](https://gitee.com/weolar)
+- [@nickehu](https://gitee.com/nickehu)
+- [@weolar](https://gitee.com/weolar)
+- [@Cai_Huan](https://gitee.com/Cai_Huan)
 
 
 ### 会议
  - 会议时间：双周例会，周一晚上19:15，UTC+8
  - 会议申报：
  - 会议链接: Welink或其他会议
- - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
+ - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/)邮件列表 [sig_miniblink@openharmony.io](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/) 获取会议链接
  - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/miniblink/meetings)
 
 ### 联系方式(可选)
 
-- 邮件列表：
+- 邮件列表：[sig_miniblink@openharmony.io](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/)
 - Zulip群组：https://zulip.openharmony.cn
 - 微信群：
