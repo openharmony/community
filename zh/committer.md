@@ -249,3 +249,4 @@
 |247|developtools_ace-ets2bundle|developtools/ace-ets2bundle|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework
 |248|third_party_weex-loader|third_party/weex-loader|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework
 |249|third_party_parse5|third_party/parse5|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework
+|250|third_party_glfw|third_party/glfw|https://gitee.com/laigerendaqiu|lihao71@huawei.com|https://gitee.com/seaside_wu|wuhaibin5@huawei.com|SIG_ApplicationFramework

@@ -20,6 +20,7 @@ OpenHarmony ApplicationFramework Governance Charter、ApplicationFramework Revie
   - developtools_ace-ets2bundle:https://gitee.com/openharmony/developtools_ace-ets2bundle
   - third_party_weex-loader:https://gitee.com/openharmony/third_party_weex-loader
   - third_party_parse5:https://gitee.com/openharmony/third_party_parse5
+  - third_party_glfw:https://gitee.com/openharmony/third_party_glfw
 
 ## SIG Members
 
@@ -30,6 +31,9 @@ OpenHarmony ApplicationFramework Governance Charter、ApplicationFramework Revie
 - @huawei_qiangbo(https://gitee.com/huawei_qiangbo)
 - @gongpingde(https://gitee.com/gongpingde)
 - @lihong67(https://gitee.com/lihong67)
+- @seaside_wu(https://gitee.com/seaside_wu)
+- @laigerendaqiu(https://gitee.com/laigerendaqiu)
+- @lanshouren(https://gitee.com/lanshouren)
 
 ### Meetings
  - Meeting time：Every Tuesday at 16:00 o'clock

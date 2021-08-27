@@ -17,7 +17,7 @@ ApplicationFramework相关的设计评审、提交评审、《OpenHarmony Applic
   - developtools_ace-ets2bundle:https://gitee.com/openharmony/developtools_ace-ets2bundle
   - third_party_weex-loader:https://gitee.com/openharmony/third_party_weex-loader
   - third_party_parse5:https://gitee.com/openharmony/third_party_parse5
-
+  - third_party_glfw:https://gitee.com/openharmony/third_party_glfw
 
 ## SIG组成员
 
@@ -28,6 +28,9 @@ ApplicationFramework相关的设计评审、提交评审、《OpenHarmony Applic
 - @huawei_qiangbo(https://gitee.com/huawei_qiangbo)
 - @gongpingde(https://gitee.com/gongpingde)
 - @lihong67(https://gitee.com/lihong67)
+- @seaside_wu(https://gitee.com/seaside_wu)
+- @laigerendaqiu(https://gitee.com/laigerendaqiu)
+- @lanshouren(https://gitee.com/lanshouren)
 
 ### 会议
  - 会议时间：每周二 16:00
