@@ -44,6 +44,10 @@
   - third_party_llvm-project: https://gitee.com/openharmony-sig/third_party_llvm-project
   - third_party_lldb-mi: https://gitee.com/openharmony-sig/third_party_lldb-mi
 
+  - ark_runtime_core: https://gitee.com/openharmony/ark_runtime_core
+  - ark_js_runtime: https://gitee.com/openharmony/ark_js_runtime
+  - ark_ts2abc: https://gitee.com/openharmony/ark_ts2abc
+  - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
 
 ## SIG组成员
 
