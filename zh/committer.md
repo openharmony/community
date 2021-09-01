@@ -157,8 +157,8 @@
 |155|distributedschedule_safwk|foundation/distributedschedule/safwk|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/cangegegege|jiacan@huawei.com|SIG_DataManagement|
 |156|distributedschedule_samgr|foundation/distributedschedule/samgr|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/cangegegege|jiacan@huawei.com|SIG_DataManagement|
 |157|graphic_standard|foundation/graphic/standard|https://gitee.com/lz-230|lizheng2@huawei.com| | |SIG_GraphicsandMedia|
-|158|multimedia_audio_standard|foundation/multimedia/audio_standard|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com| | |SIG_GraphicsandMedia|
-|159|multimedia_camera_standard|foundation/multimedia/camera_standard|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com| | |SIG_GraphicsandMedia|
+|158|multimedia_audio_standard|foundation/multimedia/audio_standard|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com|https://gitee.com/anurup|anurup.m@huawei.com|SIG_GraphicsandMedia|
+|159|multimedia_camera_standard|foundation/multimedia/camera_standard|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com|https://gitee.com/srmurali|muralidhar.s.r@huawei.com|SIG_GraphicsandMedia|
 |160|multimedia_histreamer|foundation/multimedia/histreamer|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com| | |SIG_GraphicsandMedia|
 |161|multimedia_media_standard|foundation/multimedia/media_standard|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com| | |SIG_GraphicsandMedia|
 |162|multimodalinput_input|foundation/multimodalinput/input|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_GraphicsandMedia|
