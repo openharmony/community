@@ -25,7 +25,7 @@
 ## 代码仓
 
 | 子系统|代码仓|代码路径|维护者|
-| :----- | :----- | :----- | :----- |:----|
+| :----- | :----- | :----- | :----- |
 |DFX子系统|[hiviewdfx_hievent_lite](https://gitee.com/openharmony/hiviewdfx_hievent_lite)|base/hiviewdfx/hievent_lite|[stesen](https://gitee.com/stesen)|
 |DFX子系统|[hiviewdfx_hilog_lite](https://gitee.com/openharmony/hiviewdfx_hilog_lite)|base/hiviewdfx/hilog_lite|[stesen](https://gitee.com/stesen)|
 |DFX子系统|[hiviewdfx_hiview_lite](https://gitee.com/openharmony/hiviewdfx_hiview_lite)|base/hiviewdfx/hiview_lite|[stesen](https://gitee.com/stesen)|
@@ -36,9 +36,12 @@
 |DFX子系统|[hiviewdfx_hisysevent](https://gitee.com/openharmony/hiviewdfx_hisysevent)|base/hiviewdfx/hisysevent|[yaomanhai](https://gitee.com/yaomanhai)|
 |DFX子系统|[hiviewdfx_hiview](https://gitee.com/openharmony/hiviewdfx_hiview)|base/hiviewdfx/hiview|[maplestorys](https://gitee.com/maplestorys)|
 |DFX子系统|[third_party_libunwind](https://gitee.com/openharmony/third_party_libunwind)|third_party/libunwind|[maplestorys](https://gitee.com/maplestorys)|
-|DFX子系统|[hiviewdfx_hitrace](https://gitee.com/openharmony/hiviewdfx_hitrace)|base/hiviewdfx/hitrace|[yaomanhai](https://gitee.com/yaomanhai)|
-|DFX子系统|[hiviewdfx_hidumper](https://gitee.com/openharmony/hiviewdfx_hidumper)|base/hiviewdfx/hidumper|[stesen](https://gitee.com/stesen)|
-|DFX子系统|[hiviewdfx_hicollie](https://gitee.com/openharmony/hiviewdfx_hicollie)|base/hiviewdfx/hicollie|[ericlee](https://gitee.com/ericlee)|
+| DFX子系统            | [hiviewdfx_blackbox](https://gitee.com/openharmony/hiviewdfx_blackbox) | base/hiviewdfx/blackbox                           | [stesen](https://gitee.com/stesen)           |
+| DFX子系统            | [hiviewdfx_hidumper_lite](https://gitee.com/openharmony/hiviewdfx_hidumper_lite) | base/hiviewdfx/hidumper_lite                      | [stesen](https://gitee.com/stesen)           |
+| DFX子系统            | [hiviewdfx_hitrace](https://gitee.com/openharmony/hiviewdfx_hitrace) | base/hiviewdfx/hitrace                            | [yaomanhai](https://gitee.com/yaomanhai)     |
+| DFX子系统            | [hiviewdfx_hicollie](https://gitee.com/openharmony/hiviewdfx_hicollie) | base/hiviewdfx/hicollie                           | [ericlee](https://gitee.com/ericlee)         |
+| DFX子系统            | [third_party_ejdb](https://gitee.com/openharmony/third_party_ejdb) | third_party/ejdb                                  | [ericlee](https://gitee.com/ericlee)         |
+| DFX子系统            | [third_party_iowow](https://gitee.com/openharmony/third_party_iowow) | third_party/iowow                                 |[ericlee](https://gitee.com/ericlee)|
 |分布式任务调度子系统|[distributedschedule_dms_fwk_lite](https://gitee.com/openharmony/distributedschedule_dms_fwk_lite)|foundation/distributedschedule/dmsfwk_lite|[lijiarun](https://gitee.com/lijiarun)|
 |分布式任务调度子系统|[distributedschedule_safwk_lite](https://gitee.com/openharmony/distributedschedule_safwk_lite)|foundation/distributedschedule/safwk_lite|[lijiarun](https://gitee.com/lijiarun)|
 |分布式任务调度子系统|[distributedschedule_samgr_lite](https://gitee.com/openharmony/distributedschedule_samgr_lite)|foundation/distributedschedule/samgr_lite|[lijiarun](https://gitee.com/lijiarun)|
@@ -77,6 +80,7 @@
 |DFX子系统|[yaomanhai](https://gitee.com/yaomanhai)|[mail](yaomanhai@huawei.com)|
 |DFX子系统|[shenchenkai](https://gitee.com/shenchenkai)|[mail](shenchenkai@huawei.com)|
 |DFX子系统|[guochuanqi](https://gitee.com/guochuanqi)|[mail](guochuanqi@huawei.com)|
+|DFX子系统|[qidechun](https://gitee.com/pcwlno1)|[mail](qidechun@huawei.com)|
 |Misc软件服务子系统|[swan_hilee](https://gitee.com/swan_hilee)|[mail](qushiwan@huawei.com)|
 |分布式任务调度子系统|[lijiarun](https://gitee.com/lijiarun)|[mail](lijiarun@huawei.com)|
 |启动恢复子系统|[handyohos](https://gitee.com/handyohos)|[mail](zhangxiaotian@huawei.com)|
@@ -94,6 +98,6 @@
 
 ### 联系方式(可选)
 
-- 邮件列表：stesen.ma@huawei.com;liyu1@huawei.com;zengzhi5@huawei.com;yaomanhai@huawei.com;shenchenkai@huawei.com;guochuanqi@huawei.com;qushiwan@huawei.com;lijiarun@huawei.com;zhangxiaotian@huawei.com;wtweitao.wei@huawei.com;max.liuwei@huawei.com;hehuan1@huawei.com;hw.liuwei@huawei.com;xudaqing@huawei.com
+- 邮件列表：stesen.ma@huawei.com;liyu1@huawei.com;zengzhi5@huawei.com;yaomanhai@huawei.com;shenchenkai@huawei.com;guochuanqi@huawei.com;qushiwan@huawei.com;lijiarun@huawei.com;zhangxiaotian@huawei.com;wtweitao.wei@huawei.com;max.liuwei@huawei.com;hehuan1@huawei.com;hw.liuwei@huawei.com;xudaqing@huawei.com;qidechun@huawei.com
 - Zulip群组：https://zulip.openharmony.cn
 - 微信群：NA

@@ -25,7 +25,7 @@ Basic Software Services includes the following sub-systems:
 ## The repositories
 
 |Subsystem|Repository|Code Path|Owner|
-| :----- | :----- | :----- | :----- |:----|
+| :----- | :----- | :----- | :----- |
 |HiviewDFX|[hiviewdfx_hievent_lite](https://gitee.com/openharmony/hiviewdfx_hievent_lite)|base/hiviewdfx/hievent_lite|[stesen](https://gitee.com/stesen)|
 |HiviewDFX|[hiviewdfx_hilog_lite](https://gitee.com/openharmony/hiviewdfx_hilog_lite)|base/hiviewdfx/hilog_lite|[stesen](https://gitee.com/stesen)|
 |HiviewDFX|[hiviewdfx_hiview_lite](https://gitee.com/openharmony/hiviewdfx_hiview_lite)|base/hiviewdfx/hiview_lite|[stesen](https://gitee.com/stesen)|
@@ -36,9 +36,12 @@ Basic Software Services includes the following sub-systems:
 |HiviewDFX|[hiviewdfx_hisysevent](https://gitee.com/openharmony/hiviewdfx_hisysevent)|base/hiviewdfx/hisysevent|[yaomanhai](https://gitee.com/yaomanhai)|
 |HiviewDFX|[hiviewdfx_hiview](https://gitee.com/openharmony/hiviewdfx_hiview)|base/hiviewdfx/hiview|[maplestorys](https://gitee.com/maplestorys)|
 |HiviewDFX|[third_party_libunwind](https://gitee.com/openharmony/third_party_libunwind)|third_party/libunwind|[maplestorys](https://gitee.com/maplestorys)|
-|HiviewDFX|[hiviewdfx_hitrace](https://gitee.com/openharmony/hiviewdfx_hitrace)|base/hiviewdfx/hitrace|[yaomanhai](https://gitee.com/yaomanhai)|
-|HiviewDFX|[hiviewdfx_hidumper](https://gitee.com/openharmony/hiviewdfx_hidumper)|base/hiviewdfx/hidumper|[stesen](https://gitee.com/stesen)|
-|HiviewDFX|[hiviewdfx_hicollie](https://gitee.com/openharmony/hiviewdfx_hicollie)|base/hiviewdfx/hicollie|[ericlee](https://gitee.com/ericlee)|
+| HiviewDFX           | [hiviewdfx_blackbox](https://gitee.com/openharmony/hiviewdfx_blackbox) | base/hiviewdfx/blackbox                           |[stesen](https://gitee.com/stesen)|
+| HiviewDFX           | [hiviewdfx_hidumper_lite](https://gitee.com/openharmony/hiviewdfx_hidumper_lite) | base/hiviewdfx/hidumper_lite                      | [stesen](https://gitee.com/stesen)           |
+| HiviewDFX           | [hiviewdfx_hitrace](https://gitee.com/openharmony/hiviewdfx_hitrace) | base/hiviewdfx/hitrace                            | [yaomanhai](https://gitee.com/yaomanhai)     |
+| HiviewDFX           | [hiviewdfx_hicollie](https://gitee.com/openharmony/hiviewdfx_hicollie) | base/hiviewdfx/hicollie                           | [ericlee](https://gitee.com/ericlee)         |
+| HiviewDFX           | [third_party_ejdb](https://gitee.com/openharmony/third_party_ejdb) | third_party/ejdb                                  | [ericlee](https://gitee.com/ericlee)         |
+| HiviewDFX           | [third_party_iowow](https://gitee.com/openharmony/third_party_iowow) | third_party/iowow                                 | [ericlee](https://gitee.com/ericlee)         |
 |DistributedSchedule|[distributedschedule_dms_fwk_lite](https://gitee.com/openharmony/distributedschedule_dms_fwk_lite)|foundation/distributedschedule/dmsfwk_lite|[lijiarun](https://gitee.com/lijiarun)|
 |DistributedSchedule|[distributedschedule_safwk_lite](https://gitee.com/openharmony/distributedschedule_safwk_lite)|foundation/distributedschedule/safwk_lite|[lijiarun](https://gitee.com/lijiarun)|
 |DistributedSchedule|[distributedschedule_samgr_lite](https://gitee.com/openharmony/distributedschedule_samgr_lite)|foundation/distributedschedule/samgr_lite|[lijiarun](https://gitee.com/lijiarun)|
@@ -76,6 +79,7 @@ Basic Software Services includes the following sub-systems:
 |HiviewDFX|[yaomanhai](https://gitee.com/yaomanhai)|[mail](yaomanhai@huawei.com)|
 |HiviewDFX|[shenchenkai](https://gitee.com/shenchenkai)|[mail](shenchenkai@huawei.com)|
 |HiviewDFX|[guochuanqi](https://gitee.com/guochuanqi)|[mail](guochuanqi@huawei.com)|
+|HiviewDFX|[qidechun](https://gitee.com/pcwlno1)|[mail](qidechun@huawei.com)|
 |MiscServices|[swan_hilee](https://gitee.com/swan_hilee)|[mail](qushiwan@huawei.com)|
 |DistributedSchedule|[lijiarun](https://gitee.com/lijiarun)|[mail](lijiarun@huawei.com)|
 |StartUp|[handyohos](https://gitee.com/handyohos)|[mail](zhangxiaotian@huawei.com)|
@@ -93,6 +97,6 @@ Basic Software Services includes the following sub-systems:
 
 ### Contact (optional)
 
-- Mailing list：stesen.ma@huawei.com;liyu1@huawei.com;zengzhi5@huawei.com;yaomanhai@huawei.com;shenchenkai@huawei.com;guochuanqi@huawei.com;qushiwan@huawei.com;lijiarun@huawei.com;zhangxiaotian@huawei.com;wtweitao.wei@huawei.com;max.liuwei@huawei.com;hehuan1@huawei.com;hw.liuwei@huawei.com;xudaqing@huawei.com
+- Mailing list：stesen.ma@huawei.com;liyu1@huawei.com;zengzhi5@huawei.com;yaomanhai@huawei.com;shenchenkai@huawei.com;guochuanqi@huawei.com;qushiwan@huawei.com;lijiarun@huawei.com;zhangxiaotian@huawei.com;wtweitao.wei@huawei.com;max.liuwei@huawei.com;hehuan1@huawei.com;hw.liuwei@huawei.com;xudaqing@huawei.com;qidechun@huawei.com
 - Zulip group: https://zulip.openharmony.cn
 - Wechat group：NA
