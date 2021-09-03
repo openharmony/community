@@ -254,5 +254,5 @@
 |252|hiviewdfx_hidumper_lite|base/hiviewdfx/hidumper_lite|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/pcwlno1|qidechun@huawei.com|SIG_BasicSoftwareService|
 |253|hiviewdfx_hitrace|base/hiviewdfx/hitrace|https://gitee.com/yaomanhai|yaomanhai@huawei.com|https://gitee.com/stesen|stesen.ma@huawei.com|SIG_BasicSoftwareService|
 |254|hiviewdfx_hicollie|base/hiviewdfx/hicollie|https://gitee.com/ericlee|liyu1@huawei.com|https://gitee.com/stesen|stesen.ma@huawei.com|SIG_BasicSoftwareService|
-|255|third_party_ejdb|third_party_ejdb|https://gitee.com/ericlee|liyu1@huawei.com|https://gitee.com/yaomanhai|yaomanhai@huawei.com|SIG_BasicSoftwareService|
-|256|third_party_iowow|third_party_iowow|https://gitee.com/ericlee|liyu1@huawei.com|https://gitee.com/yaomanhai|yaomanhai@huawei.com|SIG_BasicSoftwareService|
+|255|third_party_ejdb|third_party/ejdb|https://gitee.com/ericlee|liyu1@huawei.com|https://gitee.com/yaomanhai|yaomanhai@huawei.com|SIG_BasicSoftwareService|
+|256|third_party_iowow|third_party/iowow|https://gitee.com/ericlee|liyu1@huawei.com|https://gitee.com/yaomanhai|yaomanhai@huawei.com|SIG_BasicSoftwareService|
