@@ -260,3 +260,6 @@
 |258|ark_js_runtime|ark/js_runtime|https://gitee.com/wuzhefengh|wuzhefeng1@huawei.com|https://gitee.com/sunzhe23 <br> https://gitee.com/gongjunsong|sunzhe23@huawei.com <br> gongjunsong@huawei.com|SIG_CompileRuntime|
 |259|ark_ts2abc|ark/ts2abc|https://gitee.com/godmiaozi|pengbiao1@huawei.com|https://gitee.com/huanghuijin|huanghuijin@huawei.com|SIG_CompileRuntime|
 |260|third_party_miniz|third_party/miniz|https://gitee.com/dong-kaixing|dongkaixing2@huawei.com|||SIG_CompileRuntime|
+|261|third_party_libsoup|third_party/libsoup|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
+|262|third_party_libpsl|third_party/libpsl|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
+|263|third_party_gettext|third_party/gettext|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
