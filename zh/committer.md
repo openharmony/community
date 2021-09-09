@@ -263,3 +263,4 @@
 |261|third_party_libsoup|third_party/libsoup|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
 |262|third_party_libpsl|third_party/libpsl|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
 |263|third_party_gettext|third_party/gettext|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
+|264|distributeddatamgr_objectstore|foundation/distributeddatamgr/objectstore|https://gitee.com/widecode|wanghancai@huawei.com|https://gitee.com/lugitee|hanlu1@huawei.com|SIG_DataManagement|

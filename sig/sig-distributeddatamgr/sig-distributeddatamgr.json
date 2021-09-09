@@ -1,9 +1,15 @@
 {
-   "sigs-List":[
-      {
-         "sig-name":"sig-distributerdatamgr",
-         "projects":"https://gitee.com/openharmony/distributeddatamgr_appdatamgr",
-         "project-path":"foundation/distributeddatamgr/appdatamgr"
-      }
-   ]
+    "sigs-List":[
+        {
+            "sig-name": "sig-distributerdatamgr",
+            "projects": [
+                "https://gitee.com/openharmony/distributeddatamgr_appdatamgr",
+                "https://gitee.com/openharmony-sig/distributeddatamgr_objectstore"
+            ],
+            "project-path": [
+                "foundation/distributeddatamgr/appdatamgr",
+                "foundation/distributeddatamgr/objectstore"
+            ]
+        }
+    ]
 }
