@@ -4,9 +4,9 @@ English | [简体中文](./sig_template_cn.md)
 Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
 
 ## SIG group work objectives and scope
-- To solve the problems such as lack of functionality, low performance and high resource consumption existing in the current log system, we establish this sig to design a new log system HiLog for OpenHarmony. HiLog stores and manages various types of logs, including kernel logs, system logs and third-party logs. It provides rich and convenient log access functions for system developers and application developers. At the same time, HiLog has good performance in log reliability, interface delay and resource overhead.
+- To solve the problems such as lack of functionality, low performance and high resource consumption existing in the current log system, we establish this sig to design a new log system HiLog for OpenHarmony. HiLog stores and manages various types of logs, including kernel logs, system logs and third-party logs. It provides rich and convenient log access functions for system developers and application developers. At the same time, HiLog has good performance in log reliability, interface delay and resource overhead. This SIG is a sub SIG of [SIG_BasicSoftwareService](https://gitee.com/openharmony/community/tree/master/sig/sig-basicsoftwareservice).
 ### work goals
-- Solve the problems in AOSP:
+- Solve the common problems in log system:
 
   * No privacy control
 
@@ -20,13 +20,12 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 - Flexible deployment: the log system feature can be tailored according to the needs of the OS.
 
-- Compatibility: the log system is isomorphic on L1 ~ L5 level devices, and the interface is consistent with the current one.
+- Compatibility: the log system is isomorphic on mini system, small system and standard system.
 
-- High performance & thin & reliable: performance, resource overhead, reliable and availability are better than AOSP.
+- High performance & thin & reliable: interface delay, resource overhead, and log loss rate are lower than similar systems.
 
 - Output technical documents.
 
-- Open source compliance rectification: make the code placed in the community compliance with the OpenHarmony open source specification.
 ### work scope
 
 ### The repository 
