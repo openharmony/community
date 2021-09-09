@@ -6,7 +6,7 @@
 ## SIG组工作目标和范围
 
 ### 工作目标
-- 针对当前已有日志系统存在的功能缺失、性能较低、资源开销大等问题，成立本SIG，目标是为OpenHarmony设计1个全新的日志系统HiLog，能够存储和管理内核日志、系统日志以及三方日志等各种类型的日志，为系统开发者和应用开发者提供丰富便捷的日志访问功能，同时在日志可靠性、接口时延、以及资源开销等方面具有良好的性能体验。本SIG为基础软件服务SIG[SIG_BasicSoftwareService](https://gitee.com/openharmony/community/tree/master/sig/sig-basicsoftwareservice)的子SIG。
+- 针对当前已有日志系统存在的功能缺失、性能较低、资源开销大等问题，成立本SIG，目标是为OpenHarmony设计1个全新的日志系统HiLog，能够存储和管理内核日志、系统日志以及三方日志等各种类型的日志，为系统开发者和应用开发者提供丰富便捷的日志访问功能，同时在日志可靠性、接口时延、以及资源开销等方面具有良好的性能体验。本SIG为基础软件服务SIG([SIG_BasicSoftwareService](https://gitee.com/openharmony/community/tree/master/sig/sig-basicsoftwareservice))的子SIG。
 
 ### 工作范围
 
