@@ -256,7 +256,7 @@
 |254|hiviewdfx_hicollie|base/hiviewdfx/hicollie|https://gitee.com/ericlee|liyu1@huawei.com|https://gitee.com/stesen|stesen.ma@huawei.com|SIG_BasicSoftwareService|
 |255|third_party_ejdb|third_party/ejdb|https://gitee.com/ericlee|liyu1@huawei.com|https://gitee.com/yaomanhai|yaomanhai@huawei.com|SIG_BasicSoftwareService|
 |256|third_party_iowow|third_party/iowow|https://gitee.com/ericlee|liyu1@huawei.com|https://gitee.com/yaomanhai|yaomanhai@huawei.com|SIG_BasicSoftwareService|
-|257|ark_runtime_core|ark/runtime_core|https://gitee.com/peijiajun|peijiajun@hisilicon.com|https://gitee.com/igelhaus <br> https://gitee.com/konstantinbaladurin <br> https://gitee.com/godmiaozi <br> https://gitee.com/huanghuijin|soldatov.anton@huawei.com <br> konstantin.baladurin@huawei.com <br> pengbiao1@huawei.com <br> huanghuijin@huawei.com|SIG_CompileRuntime|
+|257|ark_runtime_core|ark/runtime_core|https://gitee.com/peijiajun|peijiajun@hisilicon.com|https://gitee.com/igelhaus <br> https://gitee.com/konstantinbaladurin <br> https://gitee.com/godmiaozi|soldatov.anton@huawei.com <br> konstantin.baladurin@huawei.com <br> pengbiao1@huawei.com|SIG_CompileRuntime|
 |258|ark_js_runtime|ark/js_runtime|https://gitee.com/wuzhefengh|wuzhefeng1@huawei.com|https://gitee.com/sunzhe23 <br> https://gitee.com/gongjunsong|sunzhe23@huawei.com <br> gongjunsong@huawei.com|SIG_CompileRuntime|
 |259|ark_ts2abc|ark/ts2abc|https://gitee.com/godmiaozi|pengbiao1@huawei.com|https://gitee.com/huanghuijin|huanghuijin@huawei.com|SIG_CompileRuntime|
 |260|third_party_miniz|third_party/miniz|https://gitee.com/dong-kaixing|dongkaixing2@huawei.com|||SIG_CompileRuntime|
@@ -270,3 +270,7 @@
 |268|telephony_cellular_data|base/telephony/cellular_data|https://gitee.com/jyh926|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
 |269|communication_nfc|foundation/communication/nfc|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/knpingan|zhangxiuping@huawei.com|SIG_SoftBus|
 |270|third_party_e2fsprogs|third_party/e2fsprogs|https://gitee.com/wangxing-hw|raymond.wangxing@huawei.com|https://gitee.com/taiyipei|peitaiyi@huawei.com|SIG_CompileRuntime|
+|271|js_api_module|base/compileruntime/js_api_module|https://gitee.com/wuzhefengh|wuzhefeng1@huawei.com|https://gitee.com/sunzhe23 <br> https://gitee.com/gongjunsong|sunzhe23@huawei.com <br> gongjunsong@huawei.com|SIG_CompileRuntime|
+|272|js_sys_module|base/compileruntime/js_sys_module|https://gitee.com/wuzhefengh|wuzhefeng1@huawei.com|https://gitee.com/sunzhe23 <br> https://gitee.com/gongjunsong|sunzhe23@huawei.com <br> gongjunsong@huawei.com|SIG_CompileRuntime|
+|273|js_util_module|base/compileruntime/js_util_module|https://gitee.com/wuzhefengh|wuzhefeng1@huawei.com|https://gitee.com/sunzhe23 <br> https://gitee.com/gongjunsong|sunzhe23@huawei.com <br> gongjunsong@huawei.com|SIG_CompileRuntime|
+|274|js_worker_module|base/compileruntime/js_worker_module|https://gitee.com/wuzhefengh|wuzhefeng1@huawei.com|https://gitee.com/sunzhe23 <br> https://gitee.com/gongjunsong|sunzhe23@huawei.com <br> gongjunsong@huawei.com|SIG_CompileRuntime|
