@@ -274,3 +274,4 @@
 |272|js_sys_module|base/compileruntime/js_sys_module|https://gitee.com/wuzhefengh|wuzhefeng1@huawei.com|https://gitee.com/sunzhe23 <br> https://gitee.com/gongjunsong|sunzhe23@huawei.com <br> gongjunsong@huawei.com|SIG_CompileRuntime|
 |273|js_util_module|base/compileruntime/js_util_module|https://gitee.com/wuzhefengh|wuzhefeng1@huawei.com|https://gitee.com/sunzhe23 <br> https://gitee.com/gongjunsong|sunzhe23@huawei.com <br> gongjunsong@huawei.com|SIG_CompileRuntime|
 |274|js_worker_module|base/compileruntime/js_worker_module|https://gitee.com/wuzhefengh|wuzhefeng1@huawei.com|https://gitee.com/sunzhe23 <br> https://gitee.com/gongjunsong|sunzhe23@huawei.com <br> gongjunsong@huawei.com|SIG_CompileRuntime|
+|275|communication_bluetooth|foundation/communication/bluetooth|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/xujiang181|jiang.xu@huawei.com|SIG_SoftBus|
