@@ -31,7 +31,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### The repository 
 - project name:
   - hiviewdfx_hilog：https://gitee.com/openharmony/hiviewdfx_hilog
-  - hilogtest：https://gitee.com/aajwy/xts_acts/tree/master/hiviewdfx/hilogtest
+  - hilogtest：https://gitee.com/openharmony/xts_acts/tree/master/hiviewdfx/hilogtest/libhilogtest
 
 
 ## SIG Members

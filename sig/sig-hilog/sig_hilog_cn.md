@@ -30,7 +30,7 @@
 ## 代码仓
 - 代码仓地址：
   - hiviewdfx_hilog：https://gitee.com/openharmony/hiviewdfx_hilog
-  - hilogtest：https://gitee.com/aajwy/xts_acts/tree/master/hiviewdfx/hilogtest
+  - hilogtest：https://gitee.com/openharmony/xts_acts/tree/master/hiviewdfx/hilogtest/libhilogtest
 
 ## SIG组成员
 
