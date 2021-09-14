@@ -58,6 +58,7 @@ Basic Software Services includes the following sub-systems:
 |Update|[third_party_bzip2](https://gitee.com/openharmony/third_party_bzip2)|third_party/bzip2|[ailorna](https://gitee.com/ailorna)|
 |Update|[third_party_lz4](https://gitee.com/openharmony/third_party_lz4)|third_party/lz4|[ailorna](https://gitee.com/ailorna)|
 |MiscServices|[miscservices_time](https://gitee.com/openharmony/miscservices_time)|base/miscservices/time|[autumn330](https://gitee.com/autumn330)|
+|MiscServices|[miscservices_inputmethod](https://gitee.com/openharmony-sig/miscservices_inputmethod)|base/miscservices/inputmethod|[demon](https://gitee.com/demon)|
 |Notification|[notification_ces_standard](https://gitee.com/openharmony/notification_ces_standard)|base/notification/ces_standard|[autumn330](https://gitee.com/autumn330)|
 |Notification|[notification_ans_standard](https://gitee.com/openharmony/notification_ans_standard)|base/notification/ans_standard|[autumn330](https://gitee.com/autumn330)|
 |Account|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
