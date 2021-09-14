@@ -20,10 +20,10 @@
 |18|security_permission|base/security/permission|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_Security|
 |19|sensors_miscdevice_lite|base/sensors/miscdevice_lite|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
 |20|sensors_sensor_lite|base/sensors/sensor_lite|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
-|21|startup_appspawn_lite|base/startup/appspawn_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/derek520|wtweitao.wei@huawei.com|SIG_BasicSoftwareService|
-|22|startup_bootstrap_lite|base/startup/bootstrap_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/derek520|wtweitao.wei@huawei.com|SIG_BasicSoftwareService|
-|23|startup_init_lite|base/startup/init_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/derek520|wtweitao.wei@huawei.com|SIG_BasicSoftwareService|
-|24|startup_syspara_lite|base/startup/syspara_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/derek520|wtweitao.wei@huawei.com|SIG_BasicSoftwareService|
+|21|startup_appspawn_lite|base/startup/appspawn_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
+|22|startup_bootstrap_lite|base/startup/bootstrap_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
+|23|startup_init_lite|base/startup/init_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
+|24|startup_syspara_lite|base/startup/syspara_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
 |25|update_ota_lite|base/update/ota_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com| | |SIG_BasicSoftwareService|
 |26|build_lite|build/lite|https://gitee.com/wangxing-hw|raymond.wangxing@huawei.com|https://gitee.com/taiyipei|peitaiyi@huawei.com|SIG_CompileRuntime|
 |27|developtools_packing_tool|developtools/packing_tool|https://gitee.com/autumn330|hw.liuwei@huawei.com| | |SIG_ApplicationFramework|
@@ -129,7 +129,7 @@
 |127|powermgr_display_manager|base/powermgr/display_manager|https://gitee.com/hujun211|hujun211@huawei.com| | |SIG_DistributedHardwareManagement|
 |128|powermgr_power_manager|base/powermgr/power_manager|https://gitee.com/aqxyjay|zhangchunxin@huawei.com| | |SIG_DistributedHardwareManagement|
 |129|security_dataclassification|base/security/dataclassification|https://gitee.com/xuwenfang|xuwenfang@huawei.com| | |SIG_Security|
-|130|startup_appspawn|base/startup/appspawn_standard|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/mytide|max.liuwei@huawei.com|SIG_BasicSoftwareService|
+|130|startup_appspawn|base/startup/appspawn_standard|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/mytide <br> https://gitee.com/xionglei6 |max.liuwei@huawei.com <br> xionglei6@huawei.com|SIG_BasicSoftwareService|
 |131|telephony_call_manager|base/telephony/call_manager|https://gitee.com/jyh926|jiayanhong@huawei.com| | |SIG_SoftBus|
 |132|telephony_cellular_call|base/telephony/cellular_call|https://gitee.com/clevercong|lichunlin2@huawei.com| | |SIG_SoftBus|
 |133|telephony_core_service|base/telephony/core_service|https://gitee.com/ohos-lsw|lishiwei6@huawei.com| | |SIG_SoftBus|
