@@ -144,10 +144,10 @@
 |142|developtools_hdc_standard|developtools/hdc_standard|https://gitee.com/wangzaishang|wangzaishang@huawei.com|https://gitee.com/zhaifenghw|zhaifeng@huawei.com|SIG_R&DToolChain|
 |143|developtools_profiler|developtools/profiler|https://gitee.com/wangzaishang|wangzaishang@huawei.com|https://gitee.com/filer000|zhangxianfeng7@huawei.com|SIG_R&DToolChain|
 |144|device_hisilicon_hi3516dv300|device/hisilicon/hi3516dv300|https://gitee.com/northking-super|chenxin100@huawei.com| | |SIG_DriverFramework|
-|145|aafwk_standard|foundation/aafwk/standard| | | | |SIG_ApplicationFramework|
+|145|aafwk_standard|foundation/aafwk/standard|https://gitee.com/gwang2008|wanggenliang@huawei.com| | |SIG_ApplicationFramework|
 |146|ace_ace_engine|foundation/ace/ace_engine|https://gitee.com/davidwulanxi|wuyonghui9@huawei.com|https://gitee.com/shiyu_huang|huangshiyu1@huawei.com|SIG_ApplicationFramework|
 |147|ace_napi|foundation/ace/napi|https://gitee.com/davidwulanxi|wuyonghui9@huawei.com|https://gitee.com/shiyu_huang|huangshiyu1@huawei.com|SIG_ApplicationFramework|
-|148|appexecfwk_standard|foundation/appexecfwk/standard| | | | |SIG_ApplicationFramework|
+|148|appexecfwk_standard|foundation/appexecfwk/standard|https://gitee.com/gwang2008|wanggenliang@huawei.com| | |SIG_ApplicationFramework|
 |149|communication_dsoftbus|foundation/communication/dsoftbus|https://gitee.com/bigpumpkin|chenzhennan@huawei.com|https://gitee.com/Xi_Yuhao <br> https://gitee.com/maerlii|xiyuhao@huawei.com <br> maerli@huawei.com|SIG_SoftBus|
 |150|communication_ipc|foundation/communication/ipc|https://gitee.com/yinyouzhan|yinyouzhan@huawei.com|https://gitee.com/maerlii|maerli@huawei.com|SIG_SoftBus|
 |151|communication_wifi|foundation/communication/wifi|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/fenis-two-thousand-and-one|lujunxin@huawei.com|SIG_SoftBus|
