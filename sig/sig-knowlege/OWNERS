@@ -1,0 +1,34 @@
+{
+   "Leader":[
+      {
+         "gitee_id":"zeeman_wang",
+         "gitee_email":"zeeman.wang@huawei.com"
+      }
+   ],
+   "Committers":[
+      {
+         "gitee_id":"zhanglunet",
+         "gitee_email":"zhanglu@iscas.ac.cn"
+      },
+      {
+         "gitee_id":"huangsox",
+         "gitee_email":"huangshouxi@huawei.com"
+      },
+	  {
+         "gitee_id":"Cruise2019",
+         "gitee_email":"zhangqf1314@163.com"
+      },
+	  {
+         "gitee_id":"madixin",
+         "gitee_email":"madixin@huawei.com"
+      },
+	  {
+         "gitee_id":"kenio_zhang",
+         "gitee_email":"zhangyuhang24@huawei.com"
+      },
+	  {
+         "gitee_id":"xianwaidao",
+         "gitee_email":"562612637@qq.com"
+      }
+   ]
+}
