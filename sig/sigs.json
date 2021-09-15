@@ -492,6 +492,12 @@
             "third_party/parse5",
             "third_party/glfw"
          ]
-      }
+      },
+	  {
+		  "sig-name":"sig-knowlege",
+		  "projects": [
+		   "https://gitee.com/openharmony-sig/knowledge"
+		   ]
+	  }
    ]
 }
