@@ -1,0 +1,19 @@
+{
+   "Leader":[
+      {
+         "gitee_id":"halhuangbin",
+         "gitee_email":"huangbin@talkweb.com.cn"
+      }
+   ],
+   "Committers":[
+      {
+         "gitee_id":"xieshihe",
+         "gitee_email":"xieshihe@talkweb.com.cn"
+      },
+	  {
+	     "gitee_id":"gavinChen",
+         "gitee_email":"chenjianhua@talkweb.com.cn"
+  
+	  }
+   ]
+}
