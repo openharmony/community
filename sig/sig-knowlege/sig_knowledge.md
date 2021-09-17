@@ -19,7 +19,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ## The repository
 - project name：
-  - knowledge：https://gitee.com/openharmony-sig/knowledge
+  - knowledge：https://gitee.com/openharmony-sig/online_event
 
 ## SIG Members
 
@@ -33,6 +33,8 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - [madixin](https://gitee.com/madixin)
 - [kenio_zhang](https://gitee.com/kenio_zhang)
 - [xianwaidao](https://gitee.com/xianwaidao)
+- [rtan60](https://gitee.com/rtan60)
+- [kid-li](https://gitee.com/kid-li)
 
 ### Meetings
 

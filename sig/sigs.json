@@ -494,10 +494,13 @@
          ]
       },
 	  {
-		  "sig-name":"sig-knowlege",
-		  "projects": [
-		   "https://gitee.com/openharmony-sig/knowledge"
-		   ]
+		 "sig-name": "sig-knowlege",
+         "projects": [
+		 "https://gitee.com/openharmony-sig/online_event"
+	     ],
+		 "project-path":[
+		 "NONE"
+		 ]
 	  }
    ]
 }
