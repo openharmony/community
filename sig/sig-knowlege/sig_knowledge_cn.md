@@ -19,7 +19,7 @@
 
 ## 代码仓
 - 代码仓地址：
-  - knowledge：https://gitee.com/openharmony-sig/knowledge
+  - knowledge：https://gitee.com/openharmony-sig/online_event
 
 ## SIG组成员
 
@@ -33,6 +33,8 @@
 - [madixin](https://gitee.com/madixin)
 - [kenio_zhang](https://gitee.com/kenio_zhang)
 - [xianwaidao](https://gitee.com/xianwaidao) 
+- [rtan60](https://gitee.com/rtan60)
+- [kid-li](https://gitee.com/kid-li)
 
 ### 会议
  - 会议时间：双周例会，待定
