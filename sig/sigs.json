@@ -33,6 +33,8 @@
                 "https://gitee.com/openharmony-sig/vendor_allwinner",
                 "https://gitee.com/openharmony-sig/devboard_device_allwinner_XR806",
                 "https://gitee.com/openharmony-sig/devboard_vendor_allwinner_XR806",
+                "https://gitee.com/openharmony-sig/devboard_device_allwinner_T507"
+                "https://gitee.com/openharmony-sig/devboard_vendor_allwinner_T507"
                 "https://gitee.com/openharmony-sig/device_mediatek",
                 "https://gitee.com/openharmony-sig/vendor_mediatek",
                 "https://gitee.com/openharmony-sig/device_nordic",
@@ -82,6 +84,8 @@
                 "vendor/allwinner",
                 "device/xradio/xr806"
                 "vendor/xradio/xr806"
+                "device/allwinner/t507"
+                "vendor/allwinner/t507"
                 "device/mediatek",
                 "vendor/mediatek",
                 "device/nordic",

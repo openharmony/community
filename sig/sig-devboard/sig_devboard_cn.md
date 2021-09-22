@@ -48,8 +48,10 @@
   - vendor_st: https://gitee.com/openharmony-sig/vendor_st
   - device_allwinner: https://gitee.com/openharmony-sig/device_allwinner
   - device_allwinner: https://gitee.com/openharmony-sig/devboard_device_allwinner_XR806
+  - device_allwinner: https://gitee.com/openharmony-sig/devboard_device_allwinner_T507
   - vendor_allwinner: https://gitee.com/openharmony-sig/vendor_allwinner
   - vendor_allwinner: https://gitee.com/openharmony-sig/devboard_vendor_allwinner_XR806
+  - vendor_allwinner: https://gitee.com/openharmony-sig/devboard_vendor_allwinner_T507
   - device_mediatek: https://gitee.com/openharmony-sig/device_mediatek
   - vendor_mediatek: https://gitee.com/openharmony-sig/vendor_mediatek
   - device_nordic: https://gitee.com/openharmony-sig/device_nordic
