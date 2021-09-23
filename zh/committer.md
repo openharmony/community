@@ -277,3 +277,4 @@
 |275|communication_bluetooth|foundation/communication/bluetooth|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/xujiang181|jiang.xu@huawei.com|SIG_SoftBus|
 |276|miscservices_inputmethod|base/miscservices/inputmethod|https://gitee.com/demon|zhouyongfei@huawei.com| | |SIG_BasicSoftwareService|
 |277|notification_ans_standard|base/notification/ans_standard|https://gitee.com/autumn330|hw.liuwei@huawei.com| | |SIG_BasicSoftwareService|
+|278|sensors_start|base/sensors/start|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|

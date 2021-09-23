@@ -15,6 +15,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - sensors_sensor_lite: https://gitee.com/openharmony/sensors_sensor_lite
   - sensors_miscdevice: https://gitee.com/openharmony/sensors_miscdevice
   - sensors_sensor: https://gitee.com/openharmony/sensors_sensor
+  - sensors_start: https://gitee.com/openharmony-sig/sensors_start
   - usb_manager: https://gitee.com/openharmony/usb_manager
   - powermgr_powermgr_lite: https://gitee.com/openharmony/powermgr_powermgr_lite
   - powermgr_battery_manager: https://gitee.com/openharmony/powermgr_battery_manager
@@ -35,6 +36,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - @aqxyjay(https://gitee.com/aqxyjay)
 - @pengguanqi(https://gitee.com/pengguanqi)
 - @locheng7(https://gitee.com/locheng7)
+- @hhh2(https://gitee.com/hhh2)
 
 ### Meetings
  - Meeting time：Every Saturday at 10:00 o'clock
