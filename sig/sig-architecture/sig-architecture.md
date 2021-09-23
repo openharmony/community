@@ -29,7 +29,7 @@ Responsible for the OpenHarmony architecture (including adding, merging, splitti
 
 ### Meetings
  - Meeting time：Every Tuesday at 16:00 o'clock
- - Meeting application: [OpenHarmony SIG-Architecture Meeting Proposal](https://shimo.im/sheets/CqJChdHgcXywT9Gt/MODOC)
+ - Meeting application: [OpenHarmony SIG-Architecture Meeting Proposal](https://etherpad.openharmony.cn/p/sig-architecture)
  - Meeting link: Welink
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
 
