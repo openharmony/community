@@ -4,7 +4,7 @@
             "sig-name": "sig-distributerdatamgr",
             "projects": [
                 "https://gitee.com/openharmony/distributeddatamgr_appdatamgr",
-                "https://gitee.com/openharmony-sig/distributeddatamgr_objectstore"
+                "https://gitee.com/openharmony/distributeddatamgr_objectstore"
             ],
             "project-path": [
                 "foundation/distributeddatamgr/appdatamgr",

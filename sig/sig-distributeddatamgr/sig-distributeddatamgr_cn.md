@@ -14,7 +14,7 @@
 ## 代码仓
 - 代码仓地址：
   - distributeddatamgr：https://gitee.com/openharmony/distributeddatamgr_appdatamgr
-  - distributeddatamgr：https://gitee.com/openharmony-sig/distributeddatamgr_objectstore
+  - distributeddatamgr：https://gitee.com/openharmony/distributeddatamgr_objectstore
 
 ## SIG组成员
 
