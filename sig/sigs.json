@@ -304,8 +304,8 @@
             "https://gitee.com/openharmony/notification_ces_standard",
             "https://gitee.com/openharmony/notification_ans_standard",
             "https://gitee.com/openharmony/account_os_account",
-            "https://gitee.com/openharmony/resourceschedule_workscheduler",
-            "https://gitee.com/openharmony/resourceschedule_backgroundtaskmanager"
+            "https://gitee.com/openharmony-sig/resourceschedule_workscheduler",
+            "https://gitee.com/openharmony-sig/resourceschedule_backgroundtaskmanager"
          ],
          "project-path":[
             "base/hiviewdfx/hievent_lite",
