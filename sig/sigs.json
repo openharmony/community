@@ -78,7 +78,8 @@
                 "https://gitee.com/openharmony-sig/vendor_huawei_minidisplay_demo",
                 "https://gitee.com/openharmony-sig/devboard_applications_sample_talkweb_niobe",
                 "https://gitee.com/openharmony-sig/devboard_device_talkweb_niobe",
-                "https://gitee.com/openharmony-sig/devboard_vendor_talkweb"
+                "https://gitee.com/openharmony-sig/devboard_vendor_talkweb",
+                "https://gitee.com/openharmony-sig/devboard_vendor_rpi3b"
          ],
          "project-path":[
                 "device/st",
@@ -130,9 +131,10 @@
                 "vendor/huawei/ipcamera_v3s",
                 "vendor/huawei/minidisplay_demo",
                 "vendor/oh_fun",
-				"applications",
-				"device/talkweb/niobe",
-				"vendor/talkweb"
+                "applications",
+                "device/talkweb/niobe",
+                "vendor/talkweb",
+                "vendor/rpi3"
          ]
       },
       {
