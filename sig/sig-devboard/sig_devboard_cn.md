@@ -93,6 +93,9 @@
   - vendor_huawei_ipcamera_v3s: https://gitee.com/openharmony-sig/vendor_huawei_ipcamera_v3s
   - vendor_oh_fun: https://gitee.com/openharmony-sig/vendor_oh_fun
   - vendor_huawei_minidisplay_demo: https://gitee.com/openharmony-sig/vendor_huawei_minidisplay_demo
+  - talkweb: https://gitee.com/openharmony-sig/devboard_applications_sample_talkweb_niobe
+  - talkweb: https://gitee.com/openharmony-sig/devboard_device_talkweb_niobe
+  - talkweb: https://gitee.com/openharmony-sig/devboard_vendor_talkweb
 
 ## SIG组成员
 
