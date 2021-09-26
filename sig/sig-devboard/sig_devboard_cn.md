@@ -96,6 +96,7 @@
   - talkweb: https://gitee.com/openharmony-sig/devboard_applications_sample_talkweb_niobe
   - talkweb: https://gitee.com/openharmony-sig/devboard_device_talkweb_niobe
   - talkweb: https://gitee.com/openharmony-sig/devboard_vendor_talkweb
+  - raspberrypi : https://gitee.com/openharmony-sig/devboard_vendor_rpi3b
 
 ## SIG组成员
 
