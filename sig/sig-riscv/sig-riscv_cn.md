@@ -30,7 +30,8 @@ SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力�
 
 ## 代码仓
 
-- RISC-V主仓: https://gitee.com/openharmony-sig/riscv
+- iscas: https://gitee.com/openharmony-sig/riscv
+- allwinner: https://gitee.com/openharmony-sig/riscv_device_sunxi
 
 
 ## SIG组成员
