@@ -97,6 +97,8 @@
   - talkweb: https://gitee.com/openharmony-sig/devboard_device_talkweb_niobe
   - talkweb: https://gitee.com/openharmony-sig/devboard_vendor_talkweb
   - raspberrypi : https://gitee.com/openharmony-sig/devboard_vendor_rpi3b
+  - Unionman: https://gitee.com/openharmony-sig/device_unionpi
+  - Unionman: https://gitee.com/openharmony-sig/vendor_unionpi
 
 ## SIG组成员
 
