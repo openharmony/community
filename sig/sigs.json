@@ -80,6 +80,8 @@
                 "https://gitee.com/openharmony-sig/devboard_device_talkweb_niobe",
                 "https://gitee.com/openharmony-sig/devboard_vendor_talkweb",
                 "https://gitee.com/openharmony-sig/devboard_vendor_rpi3b"
+                "https://gitee.com/openharmony-sig/device_unionpi",
+                "https://gitee.com/openharmony-sig/vendor_unionpi"
          ],
          "project-path":[
                 "device/st",
@@ -135,6 +137,8 @@
                 "device/talkweb/niobe",
                 "vendor/talkweb",
                 "vendor/rpi3"
+				"device/unionman/unionpi",
+				"vendor/unionman/unionpi"
          ]
       },
       {
