@@ -28,7 +28,8 @@ The SIG will actively cooperate with schools and end-users to promote the usage 
 
 ### The repository
 
-- RISC-V main repo: https://gitee.com/openharmony-sig/riscv
+- iscas : https://gitee.com/openharmony-sig/riscv
+- allwinner: https://gitee.com/openharmony-sig/riscv_device_sunxi
 
 ## SIG Members
 

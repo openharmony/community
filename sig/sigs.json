@@ -165,7 +165,9 @@
       {
          "sig-name":"sig-riscv",
          "projects":"https://gitee.com/openharmony-sig/riscv",
-         "project-path":"None"
+         "https://gitee.com/openharmony-sig/riscv_device_sunxi"
+         "project-path":"None",
+         "device/sunxi"
       },
       {
          "sig-name":"sig-systemapplications",
