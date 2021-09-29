@@ -98,6 +98,8 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - raspberrypi : https://gitee.com/openharmony-sig/devboard_vendor_rpi3b
   - Unionman: https://gitee.com/openharmony-sig/device_unionpi
   - Unionman: https://gitee.com/openharmony-sig/vendor_unionpi
+  - itcast: https://gitee.com/openharmony-sig/devboard_device_itcast_genkipi
+  - itcast: https://gitee.com/openharmony-sig/devboard_vendor_itcast_genkipi
 
 ## SIG Members
 
