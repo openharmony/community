@@ -24,7 +24,7 @@
 
 ### 2.2 晋升Committer投票流程：
 
-- 2.2.1  由现任PMC/Committer提名，以标题“[VOTE] New Committer xxx ”发送邮件至[dev@openharmony.io](mailto:dev@openharmony.io)。
+- 2.2.1  由现任PMC/Committer提名，以标题“[VOTE] New Committer xxx ”发送邮件至[pmc@openharmony.io](mailto:pmc@openharmony.io)。
 
 - 2.2.2 所有PMC/Committer成员有权通过“+1”或“-1”形式表示支持或反对，PMC通过回复邮件发送投票结果，投票时间一般持续72个小时。
 
@@ -34,7 +34,7 @@
 
 ### 2.3  晋升PMC投票流程：
 
-- 2.3.1 由现任PMC提名，以标题“[VOTE] New PMC xxx ”发送邮件至[dev@openharmony.io](mailto:dev@openharmony.io)。
+- 2.3.1 由现任PMC提名，以标题“[VOTE] New PMC xxx ”发送邮件至[pmc@openharmony.io](mailto:pmc@openharmony.io)。
 
 - 2.2.2 所有PMC成员有权通过“+1”或“-1”形式表示支持或反对，PMC通过回复邮件发送投票结果。投票时间一般持续72个小时。
 
