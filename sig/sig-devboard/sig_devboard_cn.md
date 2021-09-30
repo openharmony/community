@@ -101,6 +101,7 @@
   - Unionman: https://gitee.com/openharmony-sig/vendor_unionpi
   - itcast: https://gitee.com/openharmony-sig/devboard_device_itcast_genkipi
   - itcast: https://gitee.com/openharmony-sig/devboard_vendor_itcast_genkipi
+  - waffle: https://gitee.com/openharmony-sig/devboard_waffle_nano
 
 ## SIG组成员
 

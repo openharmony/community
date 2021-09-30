@@ -100,6 +100,8 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - Unionman: https://gitee.com/openharmony-sig/vendor_unionpi
   - itcast: https://gitee.com/openharmony-sig/devboard_device_itcast_genkipi
   - itcast: https://gitee.com/openharmony-sig/devboard_vendor_itcast_genkipi
+  - waffle: https://gitee.com/openharmony-sig/devboard_waffle_nano
+
 
 ## SIG Members
 
