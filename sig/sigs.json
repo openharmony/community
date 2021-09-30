@@ -33,8 +33,8 @@
                 "https://gitee.com/openharmony-sig/vendor_allwinner",
                 "https://gitee.com/openharmony-sig/devboard_device_allwinner_xr806",
                 "https://gitee.com/openharmony-sig/devboard_vendor_allwinner_xr806",
-                "https://gitee.com/openharmony-sig/devboard_device_allwinner_t507"
-                "https://gitee.com/openharmony-sig/devboard_vendor_allwinner_t507"
+                "https://gitee.com/openharmony-sig/devboard_device_allwinner_t507",
+                "https://gitee.com/openharmony-sig/devboard_vendor_allwinner_t507",
                 "https://gitee.com/openharmony-sig/device_mediatek",
                 "https://gitee.com/openharmony-sig/vendor_mediatek",
                 "https://gitee.com/openharmony-sig/device_nordic",
@@ -79,7 +79,7 @@
                 "https://gitee.com/openharmony-sig/devboard_applications_sample_talkweb_niobe",
                 "https://gitee.com/openharmony-sig/devboard_device_talkweb_niobe",
                 "https://gitee.com/openharmony-sig/devboard_vendor_talkweb",
-                "https://gitee.com/openharmony-sig/devboard_vendor_rpi3b"
+                "https://gitee.com/openharmony-sig/devboard_vendor_rpi3b",
                 "https://gitee.com/openharmony-sig/device_unionpi",
                 "https://gitee.com/openharmony-sig/vendor_unionpi",
                 "https://gitee.com/openharmony-sig/devboard_device_itcast_genkipi",
@@ -91,10 +91,10 @@
                 "vendor/st",
                 "device/allwinner",
                 "vendor/allwinner",
-                "device/xradio/xr806"
-                "vendor/xradio/xr806"
-                "device/allwinner/t507"
-                "vendor/allwinner/t507"
+                "device/xradio/xr806",
+                "vendor/xradio/xr806",
+                "device/allwinner/t507",
+                "vendor/allwinner/t507",
                 "device/mediatek",
                 "vendor/mediatek",
                 "device/nordic",
@@ -139,9 +139,9 @@
                 "applications",
                 "device/talkweb/niobe",
                 "vendor/talkweb",
-                "vendor/rpi3"
+                "vendor/rpi3",
                 "device/unionman/unionpi",
-                "vendor/unionman/unionpi"
+                "vendor/unionman/unionpi",
                 "device/itcast/genkipi",
                 "vendor/itcast/genkipi",
                 "devboard_waffle_nano"
@@ -170,10 +170,10 @@
       },
       {
          "sig-name":"sig-riscv",
-         "projects":"https://gitee.com/openharmony-sig/riscv",
-         "https://gitee.com/openharmony-sig/riscv_device_sunxi"
-         "project-path":"None",
-         "device/sunxi"
+         "projects":["https://gitee.com/openharmony-sig/riscv",
+                     "https://gitee.com/openharmony-sig/riscv_device_sunxi"],
+         "project-path":["None",
+                         "device/sunxi"]
       },
       {
          "sig-name":"sig-systemapplications",
@@ -531,6 +531,13 @@
 		 "project-path":[
 		 "NONE"
 		 ]
-	  }
+	  },
+     {
+      "sig-name":"sig-ai_framework_integration",
+      "projects":["https://gitee.com/openharmony-sig/ai_framework_integration"
+      ],
+      "project-path": [
+      ]
+   }
    ]
 }
