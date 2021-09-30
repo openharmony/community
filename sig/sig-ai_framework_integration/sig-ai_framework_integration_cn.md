@@ -17,7 +17,7 @@
 ## 代码仓
 - 代码仓地址：
 
-  暂无
+    - ai_framework_integration: https://gitee.com/openharmony-sig/ai_framework_integration
 
 ## SIG组成员
 

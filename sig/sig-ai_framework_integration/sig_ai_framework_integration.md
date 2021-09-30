@@ -17,7 +17,7 @@ Integrates current state of art high quality open sourced AI inference framework
 ### The repository 
 - repository :
 
-  ​     none
+    - ai_framework_integration: https://gitee.com/openharmony-sig/ai_framework_integration
 
 ## SIG Members
 
