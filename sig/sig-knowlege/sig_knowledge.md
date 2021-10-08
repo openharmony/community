@@ -19,7 +19,8 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ## The repository
 - project name：
-  - knowledge：https://gitee.com/openharmony-sig/online_event
+  - https://gitee.com/openharmony-sig/knowledge_demo_smart_home
+  - https://gitee.com/openharmony-sig/online_event
 
 ## SIG Members
 
