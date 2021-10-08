@@ -525,15 +525,17 @@
             "third_party/glfw"
          ]
       },
-	  {
-		 "sig-name": "sig-knowlege",
+        {
+         "sig-name": "sig-knowlege",
          "projects": [
-		 "https://gitee.com/openharmony-sig/online_event"
-	     ],
-		 "project-path":[
-		 "NONE"
-		 ]
-	  },
+         "https://gitee.com/openharmony-sig/online_event",
+         "https://gitee.com/openharmony-sig/knowledge_demo_smart_home"
+         ],
+          "project-path":[
+         "NONE",
+         "NONE"
+         ]
+        },
      {
       "sig-name":"sig-ai_framework_integration",
       "projects":["https://gitee.com/openharmony-sig/ai_framework_integration"
