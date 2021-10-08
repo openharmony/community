@@ -19,6 +19,8 @@ OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密�
   - appverify：https://gitee.com/openharmony/security_appverify
   - app_permission:https://gitee.com/openharmony/security_permission
   - selinux:https://gitee.com/openharmony-sig/third_party_selinux
+  - pcre:https://gitee.com/openharmony-sig/third_party_pcre
+  - selinux:https://gitee.com/openharmony-sig/security_selinux
 
 ## SIG组成员
 
