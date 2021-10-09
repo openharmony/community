@@ -11,8 +11,8 @@ This repository stores information about all the SIGs in the OpenHamony communit
      -Create the business scope of the SIG
      -Create business goals for the SIG
 2. The SIG leader sends the SIG proposal via an email with the title [New-SIG-Proposal-XXX] to dev@openharmony.io.
-3. Wait for the PMC or the corresponding field SIG, Committer to approve the proposal, the proposer could filed agenda collection on [PMC](https://shimo.im/sheets/N2A1MZgDZxfbBVAD/MODOC), PMC will periodic organization review meeting for the proposal. The proposer could go to the [Community](https://gitee.com/openharmony/community) repository to create a Pull Request to create a new SIG after passing the review and perfecting it in accordance with the review comments.
--**Important**: If you need to apply for a new warehouse in the SIG, please report the issue of new parts to the [Architecture SIG](https://shimo.im/sheets/CqJChdHgcXywT9Gt/MODOC).
+3. Wait for the PMC or the corresponding field SIG, Committer to approve the proposal, the proposer could filed agenda collection on [PMC](https://etherpad.openharmony.cn/p/pmc), PMC will periodic organization review meeting for the proposal. The proposer could go to the [Community](https://gitee.com/openharmony/community) repository to create a Pull Request to create a new SIG after passing the review and perfecting it in accordance with the review comments.
+-**Important**: If you need to apply for a new warehouse in the SIG, please report the issue of new parts to the [Architecture SIG](https://etherpad.openharmony.cn/p/sig-architecture).
 
 
 ## Joining an SIG
