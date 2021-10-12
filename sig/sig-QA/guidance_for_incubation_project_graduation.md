@@ -4,7 +4,7 @@ English | [简体中文](./guidance_for_incubation_project_graduation_cn.md)
 
 - After a Special Interest Group (SIG) incubation project meets the graduation requirements, the SIG leader can request a graduation review. A graduated project can be incorporated into the master code repository of the OpenHarmony community.
 - To apply for a graduation review, the SIG leader shall send an email to dev@openharmony.io.
-- The QA SIG shall organize the graduation review of the incubation project.
+- The QA SIG shall organize the [graduation review of the incubation project](https://etherpad.openharmony.cn/p/sig-graduation-review-board).
 
 #### Graduation Review Participants
 

@@ -4,7 +4,7 @@ SIG孵化项目毕业评审组织
 
 - SIG孵化项目成熟并满足项目毕业要求后，可申请合入OpenHarmony组织代码主库。
 - SIG Leader通过向dev@openharmony.io发送邮件，提交孵化项目毕业申请，[请按照表格内容填写议题](https://shimo.im/sheets/tjdkPCTW3QCHdKGX/MODOC)。
-- QA SIG组组织孵化项目准出，[发布评审纪要并归档](https://shimo.im/sheets/tjdkPCTW3QCHdKGX/MODOC)
+- QA SIG组组织孵化项目准出，[发布评审纪要并归档](https://etherpad.openharmony.cn/p/sig-graduation-review-board)
 
 #### 参加人：
 
