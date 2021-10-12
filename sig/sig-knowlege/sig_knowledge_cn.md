@@ -19,6 +19,7 @@
 
 ## 代码仓
 - 代码仓地址：
+  - https://gitee.com/openharmony-sig/knowledge
   - https://gitee.com/openharmony-sig/knowledge_demo_smart_home
   - https://gitee.com/openharmony-sig/online_event
 

@@ -528,10 +528,12 @@
         {
          "sig-name": "sig-knowlege",
          "projects": [
+         "https://gitee.com/openharmony-sig/knowledge"
          "https://gitee.com/openharmony-sig/online_event",
          "https://gitee.com/openharmony-sig/knowledge_demo_smart_home"
          ],
           "project-path":[
+         "NONE"
          "NONE",
          "NONE"
          ]
