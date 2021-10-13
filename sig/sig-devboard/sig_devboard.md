@@ -101,6 +101,8 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - itcast: https://gitee.com/openharmony-sig/devboard_device_itcast_genkipi
   - itcast: https://gitee.com/openharmony-sig/devboard_vendor_itcast_genkipi
   - waffle: https://gitee.com/openharmony-sig/devboard_waffle_nano
+  - goodix: https://gitee.com/openharmony-sig/devboard_device_goodix_gr551x
+  - goodix: https://gitee.com/openharmony-sig/devboard_vendor_goodix_gr5515_sk_basic
 
 
 ## SIG Members

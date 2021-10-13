@@ -85,6 +85,8 @@
                 "https://gitee.com/openharmony-sig/devboard_device_itcast_genkipi",
                 "https://gitee.com/openharmony-sig/devboard_vendor_itcast_genkipi",
                 "https://gitee.com/openharmony-sig/devboard_waffle_nano"
+                "https://gitee.com/openharmony-sig/devboard_device_goodix_gr551x",
+                "https://gitee.com/openharmony-sig/devboard_vendor_goodix_gr5515_sk_basic"
          ],
          "project-path":[
                 "device/st",
@@ -145,6 +147,8 @@
                 "device/itcast/genkipi",
                 "vendor/itcast/genkipi",
                 "devboard_waffle_nano"
+                "device/goodix/gr551x",
+                "vendor/goodix/gr5515_sk"
          ]
       },
       {
