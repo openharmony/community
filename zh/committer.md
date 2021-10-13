@@ -279,5 +279,5 @@
 |277|notification_ans_standard|base/notification/ans_standard|https://gitee.com/autumn330|hw.liuwei@huawei.com| | |SIG_BasicSoftwareService|
 |278|sensors_start|base/sensors/start|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
 |279|third_party_selinux|third_party/selinux|https://gitee.com/hu-huifeng|huhuifeng@huawei.com| | |SIG_Security|
-|280|third_party_pcre|third_party/pcre|https://gitee.com/hu-huifeng|huhuifeng@huawei.com| | |SIG_Security|
+|280|third_party_pcre2|third_party/pcre2|https://gitee.com/hu-huifeng|huhuifeng@huawei.com| | |SIG_Security|
 |281|security_selinux|base/security/selinux|https://gitee.com/hu-huifeng|huhuifeng@huawei.com| | |SIG_Security|
