@@ -65,6 +65,7 @@
 |账号子系统|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
 |资源调度子系统|[resourceschedule_workscheduler](https://gitee.com/openharmony-sig/resourceschedule_workscheduler)|foundation/resourceschedule/workscheduler|[hujun211](https://gitee.com/hujun211)|
 |资源调度子系统|[resourceschedule_backgroundtaskmanager](https://gitee.com/openharmony-sig/resourceschedule_backgroundtaskmanager)|foundation/resourceschedule/backgroundtaskmanager|[FrankJone](https://gitee.com/FrankJone)|
+|无障碍软件服务子系统|[accessibility](https://gitee.com/openharmony-sig/accessibility)|base/accessibility|[xueyulong](https://gitee.com/ylsnow)|
 
 ## SIG组成员
 
@@ -93,6 +94,8 @@
 |账号子系统|[verystone](https://gitee.com/verystone)|[mail](xudaqing@huawei.com)|
 |资源调度子系统|[hujun211](https://gitee.com/hujun211)|[mail](hujun211@huawei.com)|
 |资源调度子系统|[FrankJone](https://gitee.com/FrankJone)|[mail](zhaofanfan@huawei.com)|
+|无障碍软件服务子系统|[xueyulong](https://gitee.com/ylsnow)|[mail](xueyulong@huawei.com)|
+|无障碍软件服务子系统|[yaoruijiang](https://gitee.com/ydmgr)|[mail](yaoruijiang1@huawei.com)|
 
 ### 会议
  - 会议时间: 双周三 14:00

@@ -65,6 +65,7 @@ Basic Software Services includes the following sub-systems:
 |Account|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
 |ResourceSchedule|[resourceschedule_workscheduler](https://gitee.com/openharmony-sig/resourceschedule_workscheduler)|foundation/resourceschedule/workscheduler|[hujun211](https://gitee.com/hujun211)|
 |ResourceSchedule|[resourceschedule_backgroundtaskmanager](https://gitee.com/openharmony-sig/resourceschedule_backgroundtaskmanager)|foundation/resourceschedule/backgroundtaskmanager|[FrankJone](https://gitee.com/FrankJone)|
+|accessibility|[accessibility](https://gitee.com/openharmony-sig/accessibility)|base/accessibility|[xueyulong](https://gitee.com/ylsnow)|
 
 ## SIG Members
 
@@ -92,6 +93,8 @@ Basic Software Services includes the following sub-systems:
 |Account|[verystone](https://gitee.com/verystone)|[mail](xudaqing@huawei.com)|
 |ResourceSchedule|[hujun211](https://gitee.com/hujun211)|[mail](hujun211@huawei.com)|
 |ResourceSchedule|[FrankJone](https://gitee.com/FrankJone)|[mail](zhaofanfan@huawei.com)|
+|accessibility|[xueyulong](https://gitee.com/ylsnow)|[mail](xueyulong@huawei.com)|
+|accessibility|[yaoruijiang](https://gitee.com/ydmgr)|[mail](yaoruijiang1@huawei.com)|
 
 ### Meetings
  - Meeting time: Wednesday at 14:00 o'clock, biweekly

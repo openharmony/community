@@ -282,3 +282,5 @@
 |280|third_party_pcre2|third_party/pcre2|https://gitee.com/hu-huifeng|huhuifeng@huawei.com| | |SIG_Security|
 |281|security_selinux|base/security/selinux|https://gitee.com/hu-huifeng|huhuifeng@huawei.com| | |SIG_Security|
 |282|third_party_nghttp2|third_party/nghttp2|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
+|283|accessibility|base/accessibility|https://gitee.com/ylsnow|xueyulong@huawei.com| | |SIG_BasicSoftwareService|
+|284|accessibility|base/accessibility|https://gitee.com/ydmgr |yaoruijiang1@huawei.com| | |SIG_BasicSoftwareService|
