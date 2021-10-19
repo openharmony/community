@@ -199,7 +199,6 @@
          "sig-name":"sig-softbus",
          "projects":[
             "https://gitee.com/openharmony/communication_dsoftbus",
-            "https://gitee.com/openharmony/communication_softbus_lite",
             "https://gitee.com/openharmony/communication_ipc",
             "https://gitee.com/openharmony/communication_ipc_lite",
             "https://gitee.com/openharmony/communication_bluetooth",
@@ -222,7 +221,6 @@
          ],
          "project-path":[
             "foundation/communication/dsoftbus",
-            "foundation/communication/softbus_lite",
             "foundation/communication/ipc",
             "foundation/communication/ipc_lite",
             "foundation/communication/bluetooth",

@@ -18,7 +18,6 @@
 ## 代码仓
 - 代码仓地址：
   - communication_dsoftbus：https://gitee.com/openharmony/communication_dsoftbus
-  - communication_softbus_lite：https://gitee.com/openharmony/communication_softbus_lite
   - communication_ipc：https://gitee.com/openharmony/communication_ipc
   - communication_ipc_lite：https://gitee.com/openharmony/communication_ipc_lite
   - communication_bluetooth：https://gitee.com/openharmony/communication_bluetooth
