@@ -21,6 +21,7 @@
 - 代码仓地址：
   - https://gitee.com/openharmony-sig/knowledge
   - https://gitee.com/openharmony-sig/knowledge_demo_smart_home
+  - https://gitee.com/openharmony-sig/knowledge_demo_temp
   - https://gitee.com/openharmony-sig/online_event
 
 ## SIG组成员
