@@ -16,6 +16,17 @@ File system related open source software used by OpenHarmony lite equipment, inc
   - repository3 name:https://gitee.com/openharmony/kernel_linux_build
   - repository4 name:https://gitee.com/openharmony/kernel_linux_4.19
   - repository5 name:https://gitee.com/openharmony/kernel_linux_5.10
+  - repository6 name:https://gitee.com/openharmony-sig/storage_user_file_manger
+  - repository7 name:https://gitee.com/openharmony-sig/storage_app_file_manager
+  - repository8 name:https://gitee.com/openharmony-sig/storage_app_fileshare_manager
+  - repository9 name:https://gitee.com/openharmony-sig/storage_storage_manager
+  - repository10 name:https://gitee.com/openharmony-sig/storage_distributed_file_manager
+  - repository11 name:https://gitee.com/openharmony-sig/storage_fs_tools
+  - repository12 name:https://gitee.com/openharmony-sig/third_party_f2fs-tools
+  - repository13 name:https://gitee.com/openharmony-sig/third_party_ntfs-3g
+  - repository14 name:https://gitee.com/openharmony-sig/third_party_fsck_msdos
+  - repository15 name:https://gitee.com/openharmony-sig/third_party_gptfdisk
+  - repository16 name:https://gitee.com/openharmony-sig/third_party_newfs_msdos
 
 ## SIG Members
 

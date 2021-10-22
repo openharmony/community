@@ -283,3 +283,14 @@
 |281|third_party_nghttp2|third_party/nghttp2|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |282|accessibility|base/accessibility|https://gitee.com/ylsnow|xueyulong@huawei.com| | |SIG_BasicSoftwareService|
 |283|accessibility|base/accessibility|https://gitee.com/ydmgr |yaoruijiang1@huawei.com| | |SIG_BasicSoftwareService|
+|284|storage_user_file_manger|storage/user_file_manger|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
+|285|storage_app_file_manager|storage/app_file_manager|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
+|286|storage_app_fileshare_manager|storage/app_fileshare_manager|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
+|287|storage_storage_manager|storage/storage_manager|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
+|288|storage_distributed_file_manager|storage/distributed_file_manager|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
+|289|storage_fs_tools|storage/fs_tools|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
+|290|third_party_f2fs-tools|third_party/f2fs-tools|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
+|291|third_party_ntfs-3g|third_party/ntfs-3g|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
+|292|third_party_fsck_msdos|third_party/fsck_msdos|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
+|293|third_party_gptfdisk|third_party/gptfdisk|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
+|294|third_party_newfs_msdos|third_party/newfs_msdos|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
