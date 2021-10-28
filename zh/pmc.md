@@ -24,7 +24,7 @@
 | 王意明 | [@youthdragon](https://gitee.com/youthdragon) | PMC成员 | 基础设施SIG |
 
 ## PMC会议链接
-- 会议时间: 每双周周一 14:30-16:00
+- 会议时间: 每双周周四 9:30-11:00
 - 议题申报: [OpenHarmony PMC Meeting Proposal](https://etherpad.openharmony.cn/p/pmc)
 - 会议主题: 通过邮件通知
 - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接

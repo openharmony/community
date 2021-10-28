@@ -17,8 +17,11 @@
      - 创建SIG的背景信息
      - 创建SIG的业务范围
      - 创建SIG的业务目标
- 2. SIG Leader以[SIG-Charter-Proposal-XXX]为邮件标题，需先订阅[dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io/)，将申请材料以附件方式向dev@openharmony.io发送邮件，提交新建SIG申请。
- 3. PMC或对应领域SIG、Committer邮件回复同意后，然后向[PMC](https://etherpad.openharmony.cn/p/pmc)申报议题，PMC会根据收到的议题统一安排SIG申请评审，PMC根据评审通过后，申请者按照评审意见完善后，向[Community](https://gitee.com/openharmony/community)仓创建新的SIG的Pull Request申请新建SIG。
+ 2. **那些情形适合申请创建SIG**:
+     - 发起的申请属于OpenHarmony社区中的已有的技术方向, 建议直接参与到已创建的SIG组中进行共建；
+     - 发起孵化的技术项目, 能代表某一个领域的技术方向, 并最终能转化为OpenHarmony的新增部件；
+ 3. SIG Leader以[SIG-Charter-Proposal-XXX]为邮件标题，需先订阅[dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io/)，将申请材料以附件方式向dev@openharmony.io发送邮件，提交新建SIG申请。
+ 4. PMC或对应领域SIG、Committer邮件回复同意后，然后向[PMC](https://etherpad.openharmony.cn/p/pmc)申报议题，PMC会根据收到的议题统一安排SIG申请评审，PMC根据评审通过后，申请者按照评审意见完善后，向[Community](https://gitee.com/openharmony/community)仓创建新的SIG的Pull Request申请新建SIG。
      - **重要**：SIG中如需新建仓申请的，请向[架构SIG](https://etherpad.openharmony.cn/p/sig-architecture)中申报新增部件的议题。
 
 ## 加入已有SIG
