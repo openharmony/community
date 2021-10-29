@@ -270,6 +270,11 @@
          "project-path":"interface/sdk-js"
       },
       {
+         "sig-name":"sig-telephony",
+         "projects":"https://gitee.com/openharmony-sig/communication_netstack",
+         "project-path":"foundation/communication/netstack"
+      },
+      {
          "sig-name":"sig-distributedhardwaremgr",
          "projects":[
 			"https://gitee.com/openharmony/sensors_miscdevice_lite",

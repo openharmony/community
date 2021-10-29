@@ -294,3 +294,4 @@
 |292|third_party_fsck_msdos|third_party/fsck_msdos|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
 |293|third_party_gptfdisk|third_party/gptfdisk|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
 |294|third_party_newfs_msdos|third_party/newfs_msdos|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
+|295|communication_netstack|foundation/communication/netstack|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG-Telephony|
