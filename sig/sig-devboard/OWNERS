@@ -61,6 +61,18 @@
       {
          "gitee_id": "firefly_team",
          "gitee_email": "zxf@t-chip.com.cn"
+      },
+      {
+         "gitee_id": "northking-super",
+         "gitee_email": "chenxin100@huawei.com"
+      },
+      {
+         "gitee_id": "hisi_zk",
+         "gitee_email": "hisi.zhaokai@hisilicon.com"
+      },
+      {
+         "gitee_id": "Aaron_lv",
+         "gitee_email": "lvyong7@huawei.com"
       }
    ]
 }

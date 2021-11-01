@@ -106,9 +106,11 @@
                 "https://gitee.com/openharmony-sig/vendor_unionpi",
                 "https://gitee.com/openharmony-sig/devboard_device_itcast_genkipi",
                 "https://gitee.com/openharmony-sig/devboard_vendor_itcast_genkipi",
-                "https://gitee.com/openharmony-sig/devboard_waffle_nano"
+                "https://gitee.com/openharmony-sig/devboard_waffle_nano",
                 "https://gitee.com/openharmony-sig/devboard_device_goodix_gr551x",
-                "https://gitee.com/openharmony-sig/devboard_vendor_goodix_gr5515_sk_basic"
+                "https://gitee.com/openharmony-sig/devboard_vendor_goodix_gr5515_sk_basic",
+                "https://gitee.com/openharmony-sig/device_soc_hisilicon",
+                "https://gitee.com/openharmony-sig/device_board_hisilicon"
          ],
          "project-path":[
                 "device/st",
@@ -168,9 +170,11 @@
                 "vendor/unionman/unionpi",
                 "device/itcast/genkipi",
                 "vendor/itcast/genkipi",
-                "devboard_waffle_nano"
+                "devboard_waffle_nano",
                 "device/goodix/gr551x",
-                "vendor/goodix/gr5515_sk"
+                "vendor/goodix/gr5515_sk",
+                "device/soc/hisilicon",
+                "device/board/hisilicon",
          ]
       },
       {
