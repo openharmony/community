@@ -297,3 +297,6 @@
 |295|communication_netstack|foundation/communication/netstack|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG-Telephony|
 |296|device_soc_hisilicon|device/soc/hisilicon|https://gitee.com/northking-super|chenxin100@huawei.com|https://gitee.com/hisi_zk <br> https://gitee.com/Aaron_lv|hisi.zhaokai@hisilicon.com <br> lvyong7@huawei.com|SIG_Devboard|
 |297|device_board_hisilicon|device/board/hisilicon|https://gitee.com/northking-super|chenxin100@huawei.com|https://gitee.com/hisi_zk <br> https://gitee.com/Aaron_lv|hisi.zhaokai@hisilicon.com <br> lvyong7@huawei.com|SIG_Devboard|
+|298|security_selinux|base/security/selinux|https://gitee.com/shell_way|qinfd@superred.com.cn|https://gitee.com/freenull|xieb@superred.com.cn|SIG_SELinux|
+|299|third_party_selinux|third_party/selinux|https://gitee.com/shell_way|qinfd@superred.com.cn|https://gitee.com/freenull|xieb@superred.com.cn|SIG_SELinux|
+|300|third_party_pcre2|third_party/pcre2|https://gitee.com/shell_way|qinfd@superred.com.cn|https://gitee.com/freenull|xieb@superred.com.cn|SIG_SELinux|
