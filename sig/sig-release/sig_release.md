@@ -24,10 +24,10 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ## SIG Members
 
 ### Leader
-- [@fma66169](https://gitee.com/fma66169)
+- [@davidwulanxi](https://gitee.com/davidwulanxi)
 
 ### Committers
-- @gitee account(https://gitee.com/xxx)
+- @[aiyongfu](https://gitee.com/aiyongfu)
 
 ### Meetings
  - Meeting time：Biweekly Friday afternoon 16:30

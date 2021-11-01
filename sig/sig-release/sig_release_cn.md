@@ -23,10 +23,10 @@
 ## SIG组成员
 
 ### Leader
-- [@fma66169](https://gitee.com/fma66169)
+- [@davidwulanxi](https://gitee.com/davidwulanxi)
 
 ### Committers列表
-- @码云账号(https://gitee.com/xxx)
+- @[aiyongfu](https://gitee.com/aiyongfu)
 
 
 ### 会议

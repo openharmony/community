@@ -224,7 +224,7 @@
 |222|sensors_sensor|base/sensors/sensor|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
 |223|usb_manager|base/usb/usb_manager|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
 |224|powermgr_battery_lite|base/powermgr/battery_lite|https://gitee.com/hujun211|hujun211@huawei.com| | |SIG_DistributedHardwareManagement|
-|225|release-management|NA|https://gitee.com/fma66169|mazhanfu@huawei.com| | |SIG_VersionRelease|
+|225|release-management|NA|https://gitee.com/davidwulanxi|wuyonghui9@huawei.com|https://gitee.com/aiyongfu |aiyongfu@huawei.com |SIG_VersionRelease|
 |226|multimedia_medialibrary_standard|foundation/multimedia/medialibrary_standard|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
 |227|multimedia_image_standard|foundation/multimedia/image_standard|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
 |228|powermgr_battery_statistics|base/powermgr/battery_statistics|https://gitee.com/hujun211|hujun211@huawei.com| | |SIG_DistributedHardwareManagement|
