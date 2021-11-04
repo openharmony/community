@@ -6,7 +6,7 @@ Under the guidance of the Project Management Committee (PMC), a special interest
 This repository stores information about all the SIGs in the OpenHamony community.
 
 ## Applying for Creating an SIG
-1. Seek two or three developers in the community who have the same interest or objectives as you and elect a leader for this SIG. Create an SIG proposal based on the [SIG creation template](sig-template/oep_cn.md), The proposal includes the following elements:
+1. Seek two or three developers in the community who have the same interest or objectives as you and elect a leader for this SIG. Create an SIG proposal based on the [SIG creation template](sig-template/sig_template.md), The proposal includes the following elements:
      -Create background information for the SIG
      -Create the business scope of the SIG
      -Create business goals for the SIG
