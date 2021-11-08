@@ -29,7 +29,7 @@
 
 ### 会议
  - 会议时间：每双周周四下午
- - 会议申报：可参考[PMC例会]( https://etherpad.openharmony.cn/p/sig-docs)申请方式，提供石墨共享文档链接，便于SIG相关申报人自行申请议题
+ - 会议申报：[OpenHarmony SIG-Docs Meeting Proposal]( https://etherpad.openharmony.cn/p/sig-docs)
  - 会议链接: Welink或其他会议
  - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
 
@@ -37,5 +37,5 @@
 ### 联系方式(可选)
 
 - 邮件列表：dev@openharmony.io
-- Zulik群组：documentaion_sig
+- Zulip群组：documentaion_sig
 - 微信群：暂无
