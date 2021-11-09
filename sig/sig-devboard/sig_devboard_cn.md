@@ -106,6 +106,7 @@
   - goodix: https://gitee.com/openharmony-sig/devboard_vendor_goodix_gr5515_sk_basic
   - device_soc_hisilicon: https://gitee.com/openharmony-sig/device_soc_hisilicon
   - device_board_hisilicon: https://gitee.com/openharmony-sig/device_board_hisilicon
+  - device_board_fnlink: https://gitee.com/openharmony-sig/device_board_fnlink
 
 ## SIG组成员
 
