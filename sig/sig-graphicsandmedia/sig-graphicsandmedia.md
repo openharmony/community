@@ -29,9 +29,9 @@ OpenHarmony Graphics and Multimedia related design and review.
   - third_party_libsnd:https://gitee.com/openharmony/third_party_libsnd
   - third_party_pulseaudio:https://gitee.com/openharmony/third_party_pulseaudio
   - third_party_ffmpeg:https://gitee.com/openharmony/third_party_ffmpeg
-  - third_party_libsoup:https://gitee.com/openharmony-sig/third_party_libsoup
-  - third_party_libpsl:https://gitee.com/openharmony-sig/third_party_libpsl
-  - third_party_gettext:https://gitee.com/openharmony-sig/third_party_gettext
+  - third_party_libsoup:https://gitee.com/openharmony/third_party_libsoup
+  - third_party_libpsl:https://gitee.com/openharmony/third_party_libpsl
+  - third_party_gettext:https://gitee.com/openharmony/third_party_gettext
   - graphic_standard:https://gitee.com/openharmony/graphic_standard
   - graphic_surface:https://gitee.com/openharmony/graphic_surface
   - graphic_ui:https://gitee.com/openharmony/graphic_ui
