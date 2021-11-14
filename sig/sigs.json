@@ -358,6 +358,7 @@
             "https://gitee.com/openharmony/notification_ces_standard",
             "https://gitee.com/openharmony/notification_ans_standard",
             "https://gitee.com/openharmony/account_os_account",
+            "https://gitee.com/openharmony-sig/account_app_account",
             "https://gitee.com/openharmony-sig/third_party_nghttp2",
             "https://gitee.com/openharmony-sig/resourceschedule_workscheduler",
             "https://gitee.com/openharmony-sig/resourceschedule_backgroundtaskmanager",
@@ -401,6 +402,7 @@
             "base/notification/ces_standard",
             "base/notification/ans_standard",
             "base/account/os_account",
+            "base/account/app_account",
             "foundation/resourceschedule/workscheduler",
             "foundation/resourceschedule/backgroundtaskmanager",
             "base/accessibility"

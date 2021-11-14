@@ -300,3 +300,4 @@
 |298|security_selinux|base/security/selinux|https://gitee.com/shell_way|qinfd@superred.com.cn|https://gitee.com/freenull|xieb@superred.com.cn|SIG_SELinux|
 |299|third_party_selinux|third_party/selinux|https://gitee.com/shell_way|qinfd@superred.com.cn|https://gitee.com/freenull|xieb@superred.com.cn|SIG_SELinux|
 |300|third_party_pcre2|third_party/pcre2|https://gitee.com/shell_way|qinfd@superred.com.cn|https://gitee.com/freenull|xieb@superred.com.cn|SIG_SELinux|
+|301|account_app_account|base/account/app_account|https://gitee.com/verystone|xudaqing@huawei.com| | |SIG_BasicSoftwareService|

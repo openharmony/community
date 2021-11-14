@@ -63,6 +63,7 @@ Basic Software Services includes the following sub-systems:
 |Notification|[notification_ces_standard](https://gitee.com/openharmony/notification_ces_standard)|base/notification/ces_standard|[autumn330](https://gitee.com/autumn330)|
 |Notification|[notification_ans_standard](https://gitee.com/openharmony/notification_ans_standard)|base/notification/ans_standard|[autumn330](https://gitee.com/autumn330)|
 |Account|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
+|Account|[account_app_account](https://gitee.com/openharmony-sig/account_app_account)|base/account/app_account|[verystone](https://gitee.com/verystone)|
 |ResourceSchedule|[resourceschedule_workscheduler](https://gitee.com/openharmony-sig/resourceschedule_workscheduler)|foundation/resourceschedule/workscheduler|[hujun211](https://gitee.com/hujun211)|
 |ResourceSchedule|[resourceschedule_backgroundtaskmanager](https://gitee.com/openharmony-sig/resourceschedule_backgroundtaskmanager)|foundation/resourceschedule/backgroundtaskmanager|[FrankJone](https://gitee.com/FrankJone)|
 |accessibility|[accessibility](https://gitee.com/openharmony-sig/accessibility)|base/accessibility|[xueyulong](https://gitee.com/ylsnow)|
