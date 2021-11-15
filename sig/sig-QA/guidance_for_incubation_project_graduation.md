@@ -15,7 +15,7 @@ English | [简体中文](./guidance_for_incubation_project_graduation_cn.md)
 |  PMC|  Huang Minglong|  [minglonghuang](https://gitee.com/minglonghuang) |
 |  Architecture SIG| Ren Gelin| [im-off-this-week](https://gitee.com/im-off-this-week)  |
 |  Security SIG|  Zhang Adong|[zhangadong](https://gitee.com/zhangadong)   |
-|  Test SIG|  Nie Xin|[nie-x](https://gitee.com/nie-x)   |
+|  Test SIG|  Gao Hanyi | [gaohanyi1982](https://gitee.com/1982)   |
 |  Test SIG|  Wang Juntao| [wangjuntao](https://gitee.com/buranfanchen)  |
 |  Infrastructure SIG| Wang Yiming| [youthdragon](https://gitee.com/youthdragon)  |
 |  API SIG | Zhang Yongzhi| [zhangyongzhi](https://gitee.com/karl-z)|

@@ -29,7 +29,7 @@
 | 赵文华 | [@shidi_snow](https://gitee.com/shidi_snow) | PMC成员 | 驱动框架SIG |
 | 丁勇 | [@ding-yong](https://gitee.com/ding-yong) | PMC成员 | 社区产品规划 |
 | 邢文华 | [@xhuazi](https://gitee.com/xhuazi) | PMC成员 | QA-SIG |
-| 聂  欣 | [@nie-x](https://gitee.com/nie-x) | PMC成员 | 测试SIG |
+| 高涵一 | [@gaohanyi1982](https://gitee.com/gaohanyi1982) | PMC成员 | 测试SIG |
 | 王意明 | [@youthdragon](https://gitee.com/youthdragon) | PMC成员 | 基础设施SIG |
 
 
