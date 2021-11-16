@@ -21,11 +21,10 @@
 ## SIG组成员
 
 ### Leader
-- [wangjuntao](https://gitee.com/buranfanchen)
+- [gaohanyi1982](https://gitee.com/gaohanyi1982)
 
 ### Committers列表
 - [wangjuntao](https://gitee.com/buranfanchen)
-- [gaohanyi1982](https://gitee.com/gaohanyi1982)
 - [NicoYam](https://gitee.com/nicoyam)
 
 ### 会议
