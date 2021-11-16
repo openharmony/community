@@ -301,3 +301,4 @@
 |299|third_party_selinux|third_party/selinux|https://gitee.com/shell_way|qinfd@superred.com.cn|https://gitee.com/freenull|xieb@superred.com.cn|SIG_SELinux|
 |300|third_party_pcre2|third_party/pcre2|https://gitee.com/shell_way|qinfd@superred.com.cn|https://gitee.com/freenull|xieb@superred.com.cn|SIG_SELinux|
 |301|account_app_account|base/account/app_account|https://gitee.com/verystone|xudaqing@huawei.com| | |SIG_BasicSoftwareService|
+|302|third_party_benchmark|third_party/benchmark|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com| https://gitee.com/buranfanchen | wangjuntao.wang@huawei.com |SIG_Test|
