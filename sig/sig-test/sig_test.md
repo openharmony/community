@@ -21,11 +21,10 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ## SIG Members
 
 ### Leader
-- [wangjuntao](https://gitee.com/buranfanchen)
+- [gaohanyi1982](https://gitee.com/gaohanyi1982)
 
 ### Committers
 - [wangjuntao](https://gitee.com/buranfanchen)
-- [gaohanyi1982](https://gitee.com/gaohanyi1982)
 - [NicoYam](https://gitee.com/nicoyam)
 
 ### Meetings
