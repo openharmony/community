@@ -30,7 +30,7 @@ Basic Software Services includes the following sub-systems:
 |HiviewDFX|[hiviewdfx_hilog_lite](https://gitee.com/openharmony/hiviewdfx_hilog_lite)|base/hiviewdfx/hilog_lite|[stesen](https://gitee.com/stesen)|
 |HiviewDFX|[hiviewdfx_hiview_lite](https://gitee.com/openharmony/hiviewdfx_hiview_lite)|base/hiviewdfx/hiview_lite|[stesen](https://gitee.com/stesen)|
 |HiviewDFX|[third_party_curl](https://gitee.com/openharmony/third_party_curl)|third_party/curl|[stesen](https://gitee.com/stesen)|
-|HiviewDFX|[third_party_nghttp2](https://gitee.com/openharmony-sig/third_party_nghttp2)|third_party/nghttp2|[zhuwenchao](https://gitee.com/xautosoft)|
+|HiviewDFX|[third_party_nghttp2](https://gitee.com/openharmony/third_party_nghttp2)|third_party/nghttp2|[zhuwenchao](https://gitee.com/xautosoft)|
 |HiviewDFX|[hiviewdfx_faultloggerd](https://gitee.com/openharmony/hiviewdfx_faultloggerd)|base/hiviewdfx/faultloggerd|[maplestorys](https://gitee.com/maplestorys)|
 |HiviewDFX|[hiviewdfx_hiappevent](https://gitee.com/openharmony/hiviewdfx_hiappevent)|base/hiviewdfx/hiappevent|[stesen](https://gitee.com/stesen)|
 |HiviewDFX|[hiviewdfx_hilog](https://gitee.com/openharmony/hiviewdfx_hilog)|base/hiviewdfx/hilog|[stesen](https://gitee.com/stesen)|

@@ -26,7 +26,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - cellular_data：https://gitee.com/openharmony/telephony_cellular_data
   - data_storage：https://gitee.com/openharmony/telephony_data_storage
   - netmanager_standard：https://gitee.com/openharmony/communication_netmanager_standard
-  - netstack：https://gitee.com/openharmony-sig/communication_netstack
+  - netstack：https://gitee.com/openharmony/communication_netstack
 
 ## SIG Members
 
