@@ -43,6 +43,8 @@ OpenHarmony Graphics and Multimedia related design and review.
   - third_party_wayland_standard:https://gitee.com/openharmony/third_party_wayland_standard
   - third_party_libdrm:https://gitee.com/openharmony/third_party_libdrm
   - third_party_pixman:https://gitee.com/openharmony/third_party_pixman
+  - third_party_egl:https://gitee.com/openharmony/third_party_egl
+  - third_party_opengles:https://gitee.com/openharmony/third_party_opengles
 
 ## SIG Members
 

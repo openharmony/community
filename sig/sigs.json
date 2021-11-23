@@ -440,7 +440,9 @@
             "https://gitee.com/openharmony/third_party_wayland-protocols_standard",
             "https://gitee.com/openharmony/third_party_wayland_standard",
             "https://gitee.com/openharmony/third_party_libdrm",
-            "https://gitee.com/openharmony/third_party_pixman"
+            "https://gitee.com/openharmony/third_party_pixman",
+            "https://gitee.com/openharmony/third_party_egl",
+            "https://gitee.com/openharmony/third_party_opengles"
          ],
          "project-path":[
             "foundation/multimedia/media_standard",
@@ -472,7 +474,9 @@
             "third_party/wayland-protocols_standard",
             "third_party/wayland_standard",
             "third_party/libdrm",
-            "third_party/pixman"
+            "third_party/pixman",
+            "third_party/EGL",
+            "third_party/openGLES"
          ]
       },
       {

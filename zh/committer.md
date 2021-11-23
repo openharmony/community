@@ -304,3 +304,5 @@
 |302|third_party_benchmark|third_party/benchmark|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com| https://gitee.com/buranfanchen | wangjuntao.wang@huawei.com |SIG_Test|
 |303|device_hihope|device/hihope|https://gitee.com/leonard_shi|shi_lei1@hoperun.com| | |SIG_Devboard|
 |304|vendor_hihope|vendor/hihope|https://gitee.com/leonard_shi|shi_lei1@hoperun.com| | |SIG_Devboard|
+|305|third_party_egl|third_party/EGL|https://gitee.com/lijj01|lijunjie29@huawei.com| | |SIG_GraphicsandMedia|
+|306|third_party_opengles|third_party/openGLES|https://gitee.com/lijj01|lijunjie29@huawei.com| | |SIG_GraphicsandMedia|
