@@ -27,7 +27,7 @@
 
 ### Committers列表
 - @[aiyongfu](https://gitee.com/aiyongfu)
-
+- @[zhongxiaoming](https://gitee.com/shermanzhong)
 
 ### 会议
  - 会议时间：双周周五 16:30

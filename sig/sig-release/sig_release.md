@@ -28,6 +28,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ### Committers
 - @[aiyongfu](https://gitee.com/aiyongfu)
+- @[zhongxiaoming](https://gitee.com/shermanzhong)
 
 ### Meetings
  - Meeting time：Biweekly Friday afternoon 16:30
