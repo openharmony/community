@@ -598,6 +598,12 @@
       ],
       "project-path": [
       ]
-   }
+      },
+      {
+         "sig-name":"sig-crossplatformui",
+         "projects":[],
+         "project-path": [
+         ]
+      }
    ]
 }
