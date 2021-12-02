@@ -17,7 +17,8 @@
                      "https://gitee.com/openharmony-sig/third_party_ntfs-3g",
                      "https://gitee.com/openharmony-sig/third_party_fsck_msdos",
                      "https://gitee.com/openharmony-sig/third_party_gptfdisk",
-                     "https://gitee.com/openharmony-sig/third_party_newfs_msdos"],
+                     "https://gitee.com/openharmony-sig/third_party_newfs_msdos",
+                     "https://gitee.com/openharmony-sig/third_party_exfat-utils"],
          "project-path":["third_party/littlefs",
                          "third_party/e2fsprogs",
                          "kernel/linux/build",
@@ -33,7 +34,8 @@
                          "third_party/ntfs-3g",
                          "third_party/fsck_msdos",
                          "third_party/gptfdisk",
-                         "third_party/newfs_msdos"]
+                         "third_party/newfs_msdos",
+                         "third_party/exfat-utils"]
       },
       {
          "sig-name":"sig-driver",

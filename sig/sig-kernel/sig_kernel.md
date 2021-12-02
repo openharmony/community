@@ -27,6 +27,7 @@ File system related open source software used by OpenHarmony lite equipment, inc
   - repository14 name:https://gitee.com/openharmony-sig/third_party_fsck_msdos
   - repository15 name:https://gitee.com/openharmony-sig/third_party_gptfdisk
   - repository16 name:https://gitee.com/openharmony-sig/third_party_newfs_msdos
+  - repository17 name:https://gitee.com/openharmony-sig/third_party_exfat-utils
 
 ## SIG Members
 
