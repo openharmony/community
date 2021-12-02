@@ -306,3 +306,4 @@
 |304|vendor_hihope|vendor/hihope|https://gitee.com/leonard_shi|shi_lei1@hoperun.com| | |SIG_Devboard|
 |305|third_party_egl|third_party/EGL|https://gitee.com/lijj01|lijunjie29@huawei.com| | |SIG_GraphicsandMedia|
 |306|third_party_opengles|third_party/openGLES|https://gitee.com/lijj01|lijunjie29@huawei.com| | |SIG_GraphicsandMedia|
+|307|third_party_openh264|third_party/openh264|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
