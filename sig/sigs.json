@@ -42,11 +42,13 @@
          "projects":["https://gitee.com/openharmony/drivers_framework",
                      "https://gitee.com/openharmony/drivers_peripheral",
                      "https://gitee.com/openharmony/drivers_adapter",
-                     "https://gitee.com/openharmony/drivers_adapter_khdf_linux"],
+                     "https://gitee.com/openharmony/drivers_adapter_khdf_linux",
+                     "https://gitee.com/openharmony-sig/drivers_interface"],
          "project-path":["drivers/framework",
                          "drivers/peripheral",
                          "drivers/adapter",
-                         "drivers/adapter/khdf/linux"]
+                         "drivers/adapter/khdf/linux",
+                         "drivers/interface"]
       },
       {
          "sig-name":"sig-devboard",

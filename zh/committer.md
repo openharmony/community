@@ -308,3 +308,4 @@
 |306|third_party_opengles|third_party/openGLES|https://gitee.com/lijj01|lijunjie29@huawei.com| | |SIG_GraphicsandMedia|
 |307|third_party_openh264|third_party/openh264|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
 |308|third_party_exfat-utils|third_party/exfat_utils|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
+|309|drivers_interface|drivers/interface|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau|liufeihu@huawei.com|SIG_DriverFramework|
