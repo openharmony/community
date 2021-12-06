@@ -17,7 +17,8 @@
                      "https://gitee.com/openharmony-sig/third_party_ntfs-3g",
                      "https://gitee.com/openharmony-sig/third_party_fsck_msdos",
                      "https://gitee.com/openharmony-sig/third_party_gptfdisk",
-                     "https://gitee.com/openharmony-sig/third_party_newfs_msdos"],
+                     "https://gitee.com/openharmony-sig/third_party_newfs_msdos",
+                     "https://gitee.com/openharmony-sig/third_party_exfat-utils"],
          "project-path":["third_party/littlefs",
                          "third_party/e2fsprogs",
                          "kernel/linux/build",
@@ -33,18 +34,21 @@
                          "third_party/ntfs-3g",
                          "third_party/fsck_msdos",
                          "third_party/gptfdisk",
-                         "third_party/newfs_msdos"]
+                         "third_party/newfs_msdos",
+                         "third_party/exfat-utils"]
       },
       {
          "sig-name":"sig-driver",
          "projects":["https://gitee.com/openharmony/drivers_framework",
                      "https://gitee.com/openharmony/drivers_peripheral",
                      "https://gitee.com/openharmony/drivers_adapter",
-                     "https://gitee.com/openharmony/drivers_adapter_khdf_linux"],
+                     "https://gitee.com/openharmony/drivers_adapter_khdf_linux",
+                     "https://gitee.com/openharmony-sig/drivers_interface"],
          "project-path":["drivers/framework",
                          "drivers/peripheral",
                          "drivers/adapter",
-                         "drivers/adapter/khdf/linux"]
+                         "drivers/adapter/khdf/linux",
+                         "drivers/interface"]
       },
       {
          "sig-name":"sig-devboard",
@@ -276,7 +280,7 @@
       },
       {
          "sig-name":"sig-telephony",
-         "projects":"https://gitee.com/openharmony-sig/communication_netstack",
+         "projects":"https://gitee.com/openharmony/communication_netstack",
          "project-path":"foundation/communication/netstack"
       },
       {
@@ -358,7 +362,8 @@
             "https://gitee.com/openharmony/notification_ces_standard",
             "https://gitee.com/openharmony/notification_ans_standard",
             "https://gitee.com/openharmony/account_os_account",
-            "https://gitee.com/openharmony-sig/third_party_nghttp2",
+            "https://gitee.com/openharmony-sig/account_app_account",
+            "https://gitee.com/openharmony/third_party_nghttp2",
             "https://gitee.com/openharmony-sig/resourceschedule_workscheduler",
             "https://gitee.com/openharmony-sig/resourceschedule_backgroundtaskmanager",
             "https://gitee.com/openharmony-sig/accessibility"
@@ -401,6 +406,7 @@
             "base/notification/ces_standard",
             "base/notification/ans_standard",
             "base/account/os_account",
+            "base/account/app_account",
             "foundation/resourceschedule/workscheduler",
             "foundation/resourceschedule/backgroundtaskmanager",
             "base/accessibility"
@@ -425,9 +431,10 @@
             "https://gitee.com/openharmony/third_party_libsnd",
             "https://gitee.com/openharmony/third_party_pulseaudio",
             "https://gitee.com/openharmony/third_party_ffmpeg",
-            "https://gitee.com/openharmony-sig/third_party_libsoup",
-            "https://gitee.com/openharmony-sig/third_party_libpsl",
-            "https://gitee.com/openharmony-sig/third_party_gettext",
+            "https://gitee.com/openharmony/third_party_libsoup",
+            "https://gitee.com/openharmony/third_party_libpsl",
+            "https://gitee.com/openharmony/third_party_gettext",
+            "https://gitee.com/openharmony-sig/third_party_openh264",
             "https://gitee.com/openharmony/graphic_standard",
             "https://gitee.com/openharmony/graphic_surface",
             "https://gitee.com/openharmony/graphic_ui",
@@ -438,7 +445,9 @@
             "https://gitee.com/openharmony/third_party_wayland-protocols_standard",
             "https://gitee.com/openharmony/third_party_wayland_standard",
             "https://gitee.com/openharmony/third_party_libdrm",
-            "https://gitee.com/openharmony/third_party_pixman"
+            "https://gitee.com/openharmony/third_party_pixman",
+            "https://gitee.com/openharmony/third_party_egl",
+            "https://gitee.com/openharmony/third_party_opengles"
          ],
          "project-path":[
             "foundation/multimedia/media_standard",
@@ -460,6 +469,7 @@
             "third_party/libsoup",
             "third_party/libpsl",
             "third_party/gettext",
+            "third_party/openh264",
             "foundation/graphic/standard",
             "foundation/graphic/surface",
             "foundation/graphic/ui",
@@ -470,7 +480,9 @@
             "third_party/wayland-protocols_standard",
             "third_party/wayland_standard",
             "third_party/libdrm",
-            "third_party/pixman"
+            "third_party/pixman",
+            "third_party/EGL",
+            "third_party/openGLES"
          ]
       },
       {
@@ -563,12 +575,22 @@
             "third_party/glfw"
          ]
       },
+      {
+         "sig-name": "sig-test",
+         "projects": [
+            "https://gitee.com/openharmony-sig/third_party_benchmark"
+         ],
+         "project-path": [
+            "third_party/benchmark"
+         ]
+      },
         {
          "sig-name": "sig-knowlege",
          "projects": [
          "https://gitee.com/openharmony-sig/knowledge"
          "https://gitee.com/openharmony-sig/online_event",
          "https://gitee.com/openharmony-sig/knowledge_demo_smart_home"
+         "https://gitee.com/openharmony-sig/knowledge_demo_temp"
          ],
           "project-path":[
          "NONE"
@@ -582,6 +604,12 @@
       ],
       "project-path": [
       ]
-   }
+      },
+      {
+         "sig-name":"sig-crossplatformui",
+         "projects":[],
+         "project-path": [
+         ]
+      }
    ]
 }

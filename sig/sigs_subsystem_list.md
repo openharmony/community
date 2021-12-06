@@ -4,7 +4,7 @@
 |2|SIG_API|SIG_API|[zhangyongzhi](https://gitee.com/karl-z)|NA|
 |3|SIG_Security|SIG_Security|[yangyongjie](yongjie.yan@huawei.com)|L1S_Security <br> L1S_BIOMETRICS|
 |4|SIG_CompileRuntime|SIG_CompileRuntime|[huanghuijin](https://gitee.com/huanghuijin) <br> [wangxing](https://gitee.com/wangxing-hw)|L1S_CCRuntime <br> L1S_Build <br> L1S_UTILS|
-|5|SIG_Test|SIG_Test|[niexin](https://gitee.com/nie-x) <br> [wangjuntao](https://gitee.com/buranfanchen)|L1S_Test|
+|5|SIG_Test|SIG_Test|[gaohanyi](https://gitee.com/gaohanyi1982) <br> [wangjuntao](https://gitee.com/buranfanchen)|L1S_Test|
 |6|SIG_DistributedHardwareManagement|SIG_HardwareMgr|[ligang](william.ligang@huawei.com) <br> [houpengfei](https://gitee.com/hhh2)|L1S_MSDP <br> L1S_PowerMgr <br> L1S_Sensors <br> L1S_USB <br> L1s_DistributedHardware <br> |
 |7|SIG_BasicSoftwareService|SIG_BasicSoftwareService|[zhangxiaotian](https://gitee.com/handyohos) <br> [liyu](https://gitee.com/ericlee)|L1S_DistributedSchedule <br> L1S_ResourceSchedule <br> L1S_StartUp <br> L1S_Notification <br> L1S_HiviewDFX <br> L1S_Update <br> L1S_Account <br> L1S_BarrierFree <br> L1S_MiscServices|
 |8|SIG_Kernel|SIG_Kernel|[lijiaxin](nina.lijiaxin@huawei.com) <br> [wangmihu](https://gitee.com/wangmihu2008)|L1S_Kernel|

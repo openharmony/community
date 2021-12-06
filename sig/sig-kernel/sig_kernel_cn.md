@@ -27,6 +27,7 @@
   - repository14名称：https://gitee.com/openharmony-sig/third_party_fsck_msdos
   - repository15名称：https://gitee.com/openharmony-sig/third_party_gptfdisk
   - repository16名称：https://gitee.com/openharmony-sig/third_party_newfs_msdos
+  - repository17名称：https://gitee.com/openharmony-sig/third_party_exfat-utils
 
 ## SIG组成员
 

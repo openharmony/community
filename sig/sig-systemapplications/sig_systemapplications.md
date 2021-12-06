@@ -41,6 +41,13 @@ Defines and builds OpenHarmony system applications, applies for and implements i
 - @lv-zhongwei(https://gitee.com/lv-zhongwei)
 - @hosphoto(https://gitee.com/hosphoto)
 - @sunjunxiong(https://gitee.com/sunjunxiong)
+- @quantumshark(https://gitee.com/quantumshark)
+- @qano(https://gitee.com/qano)
+- @sjtu_sp(https://gitee.com/sjtu_sp)
+- @zeng_lingyi(https://gitee.com/zeng_lingyi)
+- @zhuchengfeng1(https://gitee.com/zhuchengfeng1)
+- @yangpeng85(https://gitee.com/yangpeng85)
+- @xuchangzhou(https://gitee.com/xuchangzhou)
 
  ### Meetings
 - Meeting time：monthly meeting

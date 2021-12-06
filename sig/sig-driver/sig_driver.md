@@ -9,12 +9,13 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ### Driving related
 
-### The repository 
+### The repository
 - project name:
   - drivers_framework: https://gitee.com/openharmony/drivers_framework
   - drivers_peripheral: https://gitee.com/openharmony/drivers_peripheral
   - drivers_adapter: https://gitee.com/openharmony/drivers_adapter
   - drivers_adapter_khdf_linux: https://gitee.com/openharmony/drivers_adapter_khdf_linux
+  - drivers_interface：https://gitee.com/openharmony-sig/drivers_interface
 
 
 ## SIG Members
@@ -31,7 +32,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
  - Meeting time: BiWeek Wednesday 16:00
  - Meeting application: [SIG-Driver application](https://shimo.im/sheets/36GKhpvrXd8TcQHY)
  - meeting link:Tencent meeting or other meeting
- - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_driver.openharmony.io) mailing list for the 
+ - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_driver.openharmony.io) mailing list for the
  - Meeting Summary:To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/driver/meetings)
 
 ### Contact (optional)

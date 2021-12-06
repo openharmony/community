@@ -15,7 +15,7 @@ SIG孵化项目毕业评审组织
 |  PMC |  黄明龙 |  [minglonghuang](https://gitee.com/minglonghuang) |
 |  架构 SIG | 任革林  | [im-off-this-week](https://gitee.com/im-off-this-week)  |
 |  安全  |  张阿东 |[zhangadong](https://gitee.com/zhangadong)   |
-|  测试 SIG |  聂欣 |[nie-x](https://gitee.com/nie-x)   |
+|  测试 SIG |  高涵一 |[gaohanyi1982](https://gitee.com/gaohanyi1982)   |
 |  测试 SIG |  王俊涛 | [wangjuntao](https://gitee.com/buranfanchen)  |
 |  基础设施SIG | 王意明  | [youthdragon](https://gitee.com/youthdragon)  |
 |  API SIG | 张勇智 | [zhangyognzhi](https://gitee.com/karl-z)  |
