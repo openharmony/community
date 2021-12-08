@@ -61,7 +61,7 @@ Actively cooperate with communities, universities and relevant customers.
  - Meeting application: [OpenHarmony Taro Meeting Proposal](https://etherpad.openharmony.cn/p/taro%E8%AE%AE%E9%A2%98%E7%94%B3%E6%8A%A5)
  - Meeting link: Tencent meeting
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content/tree/master/taro/meetings)
+ - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content/tree/master/crossplatformui/meetings)
 
 ### Contact (optional)
 

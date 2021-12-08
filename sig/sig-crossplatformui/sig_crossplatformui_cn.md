@@ -60,7 +60,7 @@ CrossPlatformUI SIG 致力于降低 OpenHarmony UI 层的上手成本和开发�
  - 会议申报：[OpenHarmony Taro Meeting Proposal](https://etherpad.openharmony.cn/p/taro%E8%AE%AE%E9%A2%98%E7%94%B3%E6%8A%A5)
  - 会议链接: 腾讯会议
  - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/taro/meetings) 
+ - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/crossplatformui/meetings)
 
 ### 联系方式
 
