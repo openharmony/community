@@ -115,7 +115,9 @@
                 "https://gitee.com/openharmony-sig/devboard_vendor_goodix_gr5515_sk_basic",
                 "https://gitee.com/openharmony-sig/device_soc_hisilicon",
                 "https://gitee.com/openharmony-sig/device_board_hisilicon",
-                "https://gitee.com/openharmony-sig/device_board_fnlink"
+                "https://gitee.com/openharmony-sig/device_board_fnlink",
+                "https://gitee.com/openharmony-sig/device_soc_t-head",
+                "https://gitee.com/openharmony-sig/device_board_t-head"
          ],
          "project-path":[
                 "device/st",
