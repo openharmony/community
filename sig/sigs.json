@@ -196,8 +196,10 @@
       },
       {
          "sig-name":"sig-toolchains",
-         "projects":"https://gitee.com/openharmony-sig/sig-tools-toolchains",
-         "project-path":"NONE"
+         "projects":["https://gitee.com/openharmony-sig/sig-tools-toolchains",
+                     "https://gitee.com/openharmony-sig/developtools_hiperf"],
+         "project-path":["NONE",
+                         "developtools/hiperf"],
       },
       {
          "sig-name":"sig-openblock",
