@@ -17,6 +17,10 @@
 ## 代码仓
 - 代码仓地址：
   - https://gitee.com/openharmony-sig/third_party_benchmark
+  - https://gitee.com/openharmony/xts_acts
+  - https://gitee.com/openharmony/xts_tools
+  - https://gitee.com/openharmony-sig/xts_hats
+  - https://gitee.com/openharmony-sig/xts_dcts
 
 ## SIG组成员
 
