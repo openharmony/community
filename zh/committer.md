@@ -306,3 +306,4 @@
 |304|third_party_openh264|third_party/openh264|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
 |305|third_party_exfat-utils|third_party/exfat_utils|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com|https://gitee.com/easy-to-see|salient.yijian@huawei.com|SIG_Kernel|
 |306|drivers_interface|drivers/interface|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau|liufeihu@huawei.com|SIG_DriverFramework|
+|307|device_profile_core|foundation/deviceprofile/device_profile_core|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/cangegegege|jiacan@huawei.com|SIG_BasicSoftwareService|

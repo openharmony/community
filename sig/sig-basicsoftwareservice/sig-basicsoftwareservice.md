@@ -67,6 +67,7 @@ Basic Software Services includes the following sub-systems:
 |ResourceSchedule|[resourceschedule_workscheduler](https://gitee.com/openharmony-sig/resourceschedule_workscheduler)|foundation/resourceschedule/workscheduler|[hujun211](https://gitee.com/hujun211)|
 |ResourceSchedule|[resourceschedule_backgroundtaskmanager](https://gitee.com/openharmony-sig/resourceschedule_backgroundtaskmanager)|foundation/resourceschedule/backgroundtaskmanager|[FrankJone](https://gitee.com/FrankJone)|
 |accessibility|[accessibility](https://gitee.com/openharmony-sig/accessibility)|base/accessibility|[xueyulong](https://gitee.com/ylsnow)|
+|DeviceProfile|[device_profile_core](https://gitee.com/openharmony-sig/device_profile_core)|foundation/deviceprofile/device_profile_core|[lijiarun](https://gitee.com/lijiarun)|
 
 ## SIG Members
 
@@ -96,6 +97,8 @@ Basic Software Services includes the following sub-systems:
 |ResourceSchedule|[FrankJone](https://gitee.com/FrankJone)|[mail](zhaofanfan@huawei.com)|
 |accessibility|[xueyulong](https://gitee.com/ylsnow)|[mail](xueyulong@huawei.com)|
 |accessibility|[yaoruijiang](https://gitee.com/ydmgr)|[mail](yaoruijiang1@huawei.com)|
+|DeviceProfile|[lijiarun](https://gitee.com/lijiarun)|[mail](lijiarun@huawei.com)|
+|DeviceProfile|[jiacan](https://gitee.com/cangegegege)|[mail](jiacan@huawei.com)|
 
 ### Meetings
  - Meeting time: Wednesday at 14:00 o'clock, biweekly

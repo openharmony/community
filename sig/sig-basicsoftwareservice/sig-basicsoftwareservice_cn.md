@@ -67,6 +67,7 @@
 |资源调度子系统|[resourceschedule_workscheduler](https://gitee.com/openharmony-sig/resourceschedule_workscheduler)|foundation/resourceschedule/workscheduler|[hujun211](https://gitee.com/hujun211)|
 |资源调度子系统|[resourceschedule_backgroundtaskmanager](https://gitee.com/openharmony-sig/resourceschedule_backgroundtaskmanager)|foundation/resourceschedule/backgroundtaskmanager|[FrankJone](https://gitee.com/FrankJone)|
 |无障碍软件服务子系统|[accessibility](https://gitee.com/openharmony-sig/accessibility)|base/accessibility|[xueyulong](https://gitee.com/ylsnow)|
+|DeviceProfile子系统|[device_profile_core](https://gitee.com/openharmony-sig/device_profile_core)|foundation/deviceprofile/device_profile_core|[lijiarun](https://gitee.com/lijiarun)|
 
 ## SIG组成员
 
@@ -97,6 +98,8 @@
 |资源调度子系统|[FrankJone](https://gitee.com/FrankJone)|[mail](zhaofanfan@huawei.com)|
 |无障碍软件服务子系统|[xueyulong](https://gitee.com/ylsnow)|[mail](xueyulong@huawei.com)|
 |无障碍软件服务子系统|[yaoruijiang](https://gitee.com/ydmgr)|[mail](yaoruijiang1@huawei.com)|
+|DeviceProfile子系统|[lijiarun](https://gitee.com/lijiarun)|[mail](lijiarun@huawei.com)|
+|DeviceProfile子系统|[jiacan](https://gitee.com/cangegegege)|[mail](jiacan@huawei.com)|
 
 ### 会议
  - 会议时间: 双周三 14:00
