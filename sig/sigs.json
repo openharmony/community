@@ -370,7 +370,9 @@
             "https://gitee.com/openharmony/third_party_nghttp2",
             "https://gitee.com/openharmony-sig/resourceschedule_workscheduler",
             "https://gitee.com/openharmony-sig/resourceschedule_backgroundtaskmanager",
-            "https://gitee.com/openharmony-sig/accessibility"
+            "https://gitee.com/openharmony-sig/accessibility",
+            "https://gitee.com/openharmony-sig/device_profile_core"
+
          ],
          "project-path":[
             "base/hiviewdfx/hievent_lite",
@@ -413,7 +415,8 @@
             "base/account/app_account",
             "foundation/resourceschedule/workscheduler",
             "foundation/resourceschedule/backgroundtaskmanager",
-            "base/accessibility"
+            "base/accessibility",
+            "foundation/deviceprofile/device_profile_core"
          ]
       },
       {
