@@ -107,8 +107,9 @@
   - device_soc_hisilicon: https://gitee.com/openharmony-sig/device_soc_hisilicon
   - device_board_hisilicon: https://gitee.com/openharmony-sig/device_board_hisilicon
   - device_board_fnlink: https://gitee.com/openharmony-sig/device_board_fnlink
-  - device_board_fnlink: https://gitee.com/openharmony-sig/device_soc_t-head
-  - device_board_fnlink: https://gitee.com/openharmony-sig/device_board_t-head
+  - device_t-head: https://gitee.com/openharmony-sig/device_soc_t-head
+  - device_t-head: https://gitee.com/openharmony-sig/device_board_t-head
+  - vendor_t-head: https://gitee.com/openharmony-sig/vendor_t-head
 
 ## SIG组成员
 
