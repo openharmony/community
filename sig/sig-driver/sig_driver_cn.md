@@ -18,6 +18,7 @@
   - drivers_adapter：https://gitee.com/openharmony/drivers_adapter
   - drivers_adapter_khdf_linux：https://gitee.com/openharmony/drivers_adapter_khdf_linux
   - drivers_interface：https://gitee.com/openharmony-sig/drivers_interface
+  - third_party_libnl：https://gitee.com/openharmony-sig/third_party_libnl
 
 ## SIG组成员
 
