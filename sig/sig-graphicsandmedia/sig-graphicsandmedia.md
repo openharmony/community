@@ -46,6 +46,9 @@ OpenHarmony Graphics and Multimedia related design and review.
   - third_party_pixman:https://gitee.com/openharmony/third_party_pixman
   - third_party_egl:https://gitee.com/openharmony/third_party_egl
   - third_party_opengles:https://gitee.com/openharmony/third_party_opengles
+  - third_party_skia:https://gitee.com/openharmony-sig/third_party_skia
+  - windowmanager:https://gitee.com/openharmony-sig/windowmanager
+
 
 ## SIG Members
 
@@ -58,6 +61,12 @@ OpenHarmony Graphics and Multimedia related design and review.
 - @liuyuehua1(https://gitee.com/liuyuehua1)
 - @lz-230(https://gitee.com/lz-230)
 - @bj1010(https://gitee.com/bj1010)
+- @abbuu(https://gitee.com/abbuu)
+- @mk_gc(https://gitee.com/mk_gc)
+- @yifan-cui(https://gitee.com/yifan-cui)
+- @zhouyuehai(https://gitee.com/zhouyuehai)
+- @yiweidengdai(https://gitee.com/yiweidengdai)
+- @zhouyaoying(zhouyaoying@huawei.com)
 
 ### Meetings
  - Meeting time：Every two weeks' Friday 14:30-15:30
