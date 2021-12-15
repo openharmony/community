@@ -67,8 +67,8 @@
 |65|signcenter_tool|prebuilts/signcenter|https://gitee.com/scuteehuangjun|huangjun42@huawei.com| | |SIG_Security|
 |66|test_developertest|test/developertest|https://gitee.com/buranfanchen|wangjuntao.wang@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test|
 |67|test_xdevice|test/xdevice|https://gitee.com/ye-xiangbin|yexiangbin@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test|
-|68|xts_acts|test/xts/acts|https://gitee.com/ye-xiangbin|yexiangbin@huawei.com|https://gitee.com/jiyong|jiyong@huawei.com|SIG_Test|
-|69|xts_tools|test/xts/tools/lite|https://gitee.com/ye-xiangbin|yexiangbin@huawei.com|https://gitee.com/jiyong|jiyong@huawei.com|SIG_Test|
+|68|xts_acts|test/xts/acts|https://gitee.com/ye-xiangbin|yexiangbin@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
+|69|xts_tools|test/xts/tools/lite|https://gitee.com/ye-xiangbin|yexiangbin@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
 |70|third_party_FatFs|third_party/FatFs|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/wangmihu2008 <br> https://gitee.com/DennyShen|wangmihu@huawei.com <br> denny.shenwei@huawei.com|SIG_Kernel|
 |71|third_party_FreeBSD|third_party/FreeBSD|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/wangmihu2008 <br> https://gitee.com/DennyShen|wangmihu@huawei.com <br> denny.shenwei@huawei.com|SIG_Kernel|
 |72|third_party_JSON-C|third_party/JSON-C|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_Security|
@@ -82,7 +82,7 @@
 |80|third_party_curl|third_party/curl|https://gitee.com/stesen|stesen.ma@huawei.com| | |SIG_BasicSoftwareService|
 |81|third_party_freetype|third_party/freetype|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_GraphicsandMedia|
 |82|third_party_giflib|third_party/giflib|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_GraphicsandMedia|
-|83|third_party_googletest|third_party/googletest|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|https://gitee.com/jiyong|jiyong@huawei.com|SIG_Test|
+|83|third_party_googletest|third_party/googletest|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
 |84|third_party_harfbuzz|third_party/harfbuzz|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_GraphicsandMedia|
 |85|third_party_icu|third_party/icu|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
 |86|third_party_iniparser|third_party/iniparser|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
@@ -90,7 +90,7 @@
 |88|third_party_libjpeg|third_party/libjpeg|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_GraphicsandMedia|
 |89|third_party_libpng|third_party/libpng|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_GraphicsandMedia|
 |90|third_party_libuuid|third_party/libuuid|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_Security|
-|91|third_party_ltp|third_party/ltp|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|https://gitee.com/jiyong|jiyong@huawei.com|SIG_Test|
+|91|third_party_ltp|third_party/ltp|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
 |92|third_party_lwip|third_party/lwip|https://gitee.com/rain_myf|maoyufeng3@huawei.com| | |SIG_SoftBus|
 |93|third_party_mbedtls|third_party/mbedtls|https://gitee.com/rain_myf|maoyufeng3@huawei.com|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com|SIG_Security|
 |94|third_party_mksh|third_party/mksh|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/wangmihu2008 <br> https://gitee.com/DennyShen|wangmihu@huawei.com <br> denny.shenwei@huawei.com|SIG_Kernel|
@@ -244,11 +244,11 @@
 |242|kernel_linux_build|kernel/linux/build|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
 |243|kernel_linux_4.19|kernel/linux/linux-4.19|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
 |244|kernel_linux_5.10|kernel/linux/linux-5.10|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
-|245|developtools_ace-js2bundle|developtools/ace-js2bundle|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework
-|246|developtools_ace-ets2bundle|developtools/ace-ets2bundle|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework
-|247|third_party_weex-loader|third_party/weex-loader|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework
-|248|third_party_parse5|third_party/parse5|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework
-|249|third_party_glfw|third_party/glfw|https://gitee.com/laigerendaqiu|lihao71@huawei.com|https://gitee.com/seaside_wu|wuhaibin5@huawei.com|SIG_ApplicationFramework
+|245|developtools_ace-js2bundle|developtools/ace-js2bundle|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework|
+|246|developtools_ace-ets2bundle|developtools/ace-ets2bundle|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework|
+|247|third_party_weex-loader|third_party/weex-loader|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework|
+|248|third_party_parse5|third_party/parse5|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework|
+|249|third_party_glfw|third_party/glfw|https://gitee.com/laigerendaqiu|lihao71@huawei.com|https://gitee.com/seaside_wu|wuhaibin5@huawei.com|SIG_ApplicationFramework|
 |250|hiviewdfx_blackbox|base/hiviewdfx/blackbox|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/pcwlno1|qidechun@huawei.com|SIG_BasicSoftwareService|
 |251|hiviewdfx_hidumper_lite|base/hiviewdfx/hidumper_lite|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/pcwlno1|qidechun@huawei.com|SIG_BasicSoftwareService|
 |252|hiviewdfx_hitrace|base/hiviewdfx/hitrace|https://gitee.com/yaomanhai|yaomanhai@huawei.com|https://gitee.com/stesen|stesen.ma@huawei.com|SIG_BasicSoftwareService|
@@ -310,3 +310,4 @@
 |308|third_party_skia|third_party/skia|https://gitee.com/abbuu|liyu37@huawei.com|  https://gitee.com/mk_gc <br> https://gitee.com/yifan-cui | mengkun@huawei.com <br> cuikun1@huawei.com|SIG_GraphicsandMedia|
 |309|windowmanager|foundation/windowmanager|https://gitee.com/zhouyaoying|zhouyaoying@huawei.com|  https://gitee.com/bj1010 <br> https://gitee.com/abbuu | dubingjian@huawei.com <br> liyu37@huawei.com|SIG_GraphicsandMedia|
 |310|third_party_libnl|third_party/libnl|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau|liufeihu@huawei.com|SIG_DriverFramework|
+|311|xts_hats|                   test/xts/hats                   |  https://gitee.com/teacher-dong   | dongwang.wangdong@huawei.com |               https://gitee.com/liuhonggang123               |                   honggang.liu@huawei.com                    |SIG_Test|
