@@ -119,7 +119,8 @@
                 "https://gitee.com/openharmony-sig/device_board_hisilicon",
                 "https://gitee.com/openharmony-sig/device_board_fnlink",
                 "https://gitee.com/openharmony-sig/device_soc_t-head",
-                "https://gitee.com/openharmony-sig/device_board_t-head"
+                "https://gitee.com/openharmony-sig/device_board_t-head",
+                "https://gitee.com/openharmony-sig/vendor_t-head"
          ],
          "project-path":[
                 "device/st",
@@ -184,6 +185,9 @@
                 "vendor/goodix/gr5515_sk",
                 "device/soc/hisilicon",
                 "device/board/hisilicon",
+                "device/soc/t-head",
+                "device/board/t-head",
+                "vendor/t-head"
          ]
       },
       {
