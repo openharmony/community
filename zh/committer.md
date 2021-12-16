@@ -311,3 +311,4 @@
 |309|windowmanager|foundation/windowmanager|https://gitee.com/zhouyaoying|zhouyaoying@huawei.com|  https://gitee.com/bj1010 <br> https://gitee.com/abbuu | dubingjian@huawei.com <br> liyu37@huawei.com|SIG_GraphicsandMedia|
 |310|third_party_libnl|third_party/libnl|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau|liufeihu@huawei.com|SIG_DriverFramework|
 |311|xts_hats|                   test/xts/hats                   |  https://gitee.com/teacher-dong   | dongwang.wangdong@huawei.com |               https://gitee.com/liuhonggang123               |                   honggang.liu@huawei.com                    |SIG_Test|
+|312|distributeddatamgr_appdatamgr|foundation/distributeddatamgr/appdatamgr|https://gitee.com/mangtsang|mang.tsang@huawei.com|https://gitee.com/code_for_banana|wuchunbo1@huawei.com|SIG_DataManagement|
