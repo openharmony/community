@@ -312,3 +312,9 @@
 |310|third_party_libnl|third_party/libnl|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau|liufeihu@huawei.com|SIG_DriverFramework|
 |311|xts_hats|                   test/xts/hats                   |  https://gitee.com/teacher-dong   | dongwang.wangdong@huawei.com |               https://gitee.com/liuhonggang123               |                   honggang.liu@huawei.com                    |SIG_Test|
 |312|distributeddatamgr_appdatamgr|foundation/distributeddatamgr/appdatamgr|https://gitee.com/mangtsang|mang.tsang@huawei.com|https://gitee.com/code_for_banana|wuchunbo1@huawei.com|SIG_DataManagement|
+|313|third_party_libwebsockets|third_party/libwebsockets|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
+|314|third_party_iptables|third_party/iptables|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
+|315|third_party_libmnl|third_party/libmnl|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
+|316|third_party_libnetfilter_conntrack|third_party/libnetfilter/conntrack|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
+|317|third_party_libnfnetlink|third_party/libnfnetlink|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
+|318|third_party_libnftnl|third_party/libnftnl|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
