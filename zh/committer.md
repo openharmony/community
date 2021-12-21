@@ -318,3 +318,4 @@
 |316|third_party_libnetfilter_conntrack|third_party/libnetfilter/conntrack|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |317|third_party_libnfnetlink|third_party/libnfnetlink|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |318|third_party_libnftnl|third_party/libnftnl|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
+|319|distributeddatamgr_data_share|foundation/distributeddatamgr/data_share|https://gitee.com/verystone|xudaqing@huawei.com| | |SIG_DataManagement|
