@@ -383,7 +383,7 @@
             "https://gitee.com/openharmony-sig/resourceschedule_workscheduler",
             "https://gitee.com/openharmony-sig/resourceschedule_backgroundtaskmanager",
             "https://gitee.com/openharmony-sig/accessibility",
-            "https://gitee.com/openharmony-sig/device_profile_core"
+            "https://gitee.com/openharmony/device_profile_core"
 
          ],
          "project-path":[
