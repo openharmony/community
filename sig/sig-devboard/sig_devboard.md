@@ -104,8 +104,8 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - waffle: https://gitee.com/openharmony-sig/devboard_waffle_nano
   - goodix: https://gitee.com/openharmony-sig/devboard_device_goodix_gr551x
   - goodix: https://gitee.com/openharmony-sig/devboard_vendor_goodix_gr5515_sk_basic
-  - device_soc_hisilicon: https://gitee.com/openharmony-sig/device_soc_hisilicon
-  - device_board_hisilicon: https://gitee.com/openharmony-sig/device_board_hisilicon
+  - device_soc_hisilicon: https://gitee.com/openharmony/device_soc_hisilicon
+  - device_board_hisilicon: https://gitee.com/openharmony/device_board_hisilicon
   - device_board_fnlink: https://gitee.com/openharmony-sig/device_board_fnlink
   - device_t-head: https://gitee.com/openharmony-sig/device_soc_t-head
   - device_t-head: https://gitee.com/openharmony-sig/device_board_t-head
