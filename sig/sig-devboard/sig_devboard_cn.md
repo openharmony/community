@@ -64,7 +64,8 @@
   - vendor_bestechnic: https://gitee.com/openharmony-sig/vendor_bestechnic
   - device_ingenic: https://gitee.com/openharmony-sig/device_ingenic
   - vendor_ingenic: https://gitee.com/openharmony-sig/vendor_ingenic
-  - device_espressif: https://gitee.com/openharmony-sig/device_espressif
+  - device_espressif: https://gitee.com/openharmony-sig/device_soc_espressif
+  - device_espressif: https://gitee.com/openharmony-sig/device_board_espressif
   - vendor_espressif: https://gitee.com/openharmony-sig/vendor_espressif
   - device_winnermicro: https://gitee.com/openharmony-sig/device_winnermicro
   - vendor_winnermicro: https://gitee.com/openharmony-sig/vendor_winnermicro
