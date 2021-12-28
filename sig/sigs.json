@@ -664,6 +664,11 @@
          "projects":[],
          "project-path": [
          ]
+      },
+      {
+         "sig-name":"sig-assist_tools",
+         "projects":"https://gitee.com/openharmony-sig/assist_tools",
+         "project-path": "NONE"
       }
    ]
 }
