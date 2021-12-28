@@ -64,8 +64,14 @@ Basic Software Services includes the following sub-systems:
 |Update|[update_updateservice](https://gitee.com/openharmony/update_updateservice)|base/update/updateservice|[ailorna](https://gitee.com/ailorna)|
 |Update|[third_party_bzip2](https://gitee.com/openharmony/third_party_bzip2)|third_party/bzip2|[ailorna](https://gitee.com/ailorna)|
 |Update|[third_party_lz4](https://gitee.com/openharmony/third_party_lz4)|third_party/lz4|[ailorna](https://gitee.com/ailorna)|
-|MiscServices|[miscservices_time](https://gitee.com/openharmony/miscservices_time)|base/miscservices/time|[autumn330](https://gitee.com/autumn330)|
+|MiscServices|[miscservices_time](https://gitee.com/openharmony/miscservices_time)|base/miscservices/time|[litao33](https://gitee.com/litao33)|
 |MiscServices|[miscservices_inputmethod](https://gitee.com/openharmony/miscservices_inputmethod)|base/miscservices/inputmethod|[demon](https://gitee.com/zhouyongfei)|
+|MiscServices|[miscservices_wallpaper](https://gitee.com/openharmony-sig/miscservices_wallpaper)|base/miscservices/wallpaper|[litao33](https://gitee.com/litao33)|
+|MiscServices|[miscservices_screensaver](https://gitee.com/openharmony-sig/miscservices_screensaver)|base/miscservices/screensaver|[litao33](https://gitee.com/litao33)|
+|MiscServices|[miscservices_screenlock](https://gitee.com/openharmony-sig/miscservices_screenlock)|base/miscservices/screenlock|[litao33](https://gitee.com/litao33)|
+|MiscServices|[miscservices_print](https://gitee.com/openharmony-sig/miscservices_print)|base/miscservices/print|[litao33](https://gitee.com/litao33)|
+|MiscServices|[miscservices_pasteboard](https://gitee.com/openharmony-sig/miscservices_pasteboard)|base/miscservices/pasteboard|[litao33](https://gitee.com/litao33)|
+|MiscServices|[miscservices_download](https://gitee.com/openharmony-sig/miscservices_download)|base/miscservices/download|[litao33](https://gitee.com/litao33)|
 |Notification|[notification_ces_standard](https://gitee.com/openharmony/notification_ces_standard)|base/notification/ces_standard|[autumn330](https://gitee.com/autumn330)|
 |Notification|[notification_ans_standard](https://gitee.com/openharmony/notification_ans_standard)|base/notification/ans_standard|[autumn330](https://gitee.com/autumn330)|
 |Account|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
@@ -92,7 +98,7 @@ Basic Software Services includes the following sub-systems:
 |HiviewDFX|[shenchenkai](https://gitee.com/shenchenkai)|[mail](shenchenkai@huawei.com)|
 |HiviewDFX|[guochuanqi](https://gitee.com/guochuanqi)|[mail](guochuanqi@huawei.com)|
 |HiviewDFX|[qidechun](https://gitee.com/pcwlno1)|[mail](qidechun@huawei.com)|
-|MiscServices|[swan_hilee](https://gitee.com/swan_hilee)|[mail](qushiwan@huawei.com)|
+|MiscServices|[litao3](https://gitee.com/litao33)|[mail](litao33@huawei.com)|
 |DistributedSchedule|[lijiarun](https://gitee.com/lijiarun)|[mail](lijiarun@huawei.com)|
 |StartUp|[handyohos](https://gitee.com/handyohos)|[mail](zhangxiaotian@huawei.com)|
 |StartUp|[derek520](https://gitee.com/derek520)|[mail](wtweitao.wei@huawei.com)|
@@ -113,6 +119,6 @@ Basic Software Services includes the following sub-systems:
 
 ### Contact (optional)
 
-- Mailing list：stesen.ma@huawei.com;liyu1@huawei.com;zengzhi5@huawei.com;yaomanhai@huawei.com;shenchenkai@huawei.com;guochuanqi@huawei.com;qushiwan@huawei.com;lijiarun@huawei.com;zhangxiaotian@huawei.com;wtweitao.wei@huawei.com;max.liuwei@huawei.com;hehuan1@huawei.com;hw.liuwei@huawei.com;xudaqing@huawei.com;qidechun@huawei.com
+- Mailing list：stesen.ma@huawei.com;liyu1@huawei.com;zengzhi5@huawei.com;yaomanhai@huawei.com;shenchenkai@huawei.com;guochuanqi@huawei.com;litao33@huawei.com;lijiarun@huawei.com;zhangxiaotian@huawei.com;wtweitao.wei@huawei.com;max.liuwei@huawei.com;hehuan1@huawei.com;hw.liuwei@huawei.com;xudaqing@huawei.com;qidechun@huawei.com
 - Zulip group: https://zulip.openharmony.cn
 - Wechat group：NA
