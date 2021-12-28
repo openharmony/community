@@ -322,3 +322,4 @@
 |320|device_board_fnlink|device/board/fnlink|https://gitee.com/besyangjian|jianyang@bestechnic.com|https://gitee.com/tingle1314|zetingxu@bestechnic.com|SIG_Devboard|
 |321|device_soc_bestechnic|device/soc/bestechnic|https://gitee.com/besyangjian|jianyang@bestechnic.com|https://gitee.com/tingle1314|zetingxu@bestechnic.com|SIG_Devboard|
 |322|vendor_bestechnic|vendor/bestechnic|https://gitee.com/besyangjian|jianyang@bestechnic.com|https://gitee.com/tingle1314|zetingxu@bestechnic.com|SIG_Devboard|
+|323|third_party_libexif|third_party/libexif|https://gitee.com/zhang-xiaobo1997|tony.zhangxiaobo@huawei.com|||SIG_GraphicsandMedia|
