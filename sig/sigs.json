@@ -487,7 +487,8 @@
             "https://gitee.com/openharmony/third_party_egl",
             "https://gitee.com/openharmony/third_party_opengles",
             "https://gitee.com/openharmony-sig/third_party_skia",
-            "https://gitee.com/openharmony-sig/windowmanager"
+            "https://gitee.com/openharmony-sig/windowmanager",
+            "https://gitee.com/openharmony-sig/third_party_libexif"
          ],
          "project-path":[
             "foundation/multimedia/media_standard",
@@ -524,7 +525,8 @@
             "third_party/EGL",
             "third_party/openGLES",
             "third_party/skia",
-            "foundation/windowmanager"
+            "foundation/windowmanager",
+            "third_party/libexif"
          ]
       },
       {
