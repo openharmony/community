@@ -323,3 +323,5 @@
 |321|device_soc_bestechnic|device/soc/bestechnic|https://gitee.com/besyangjian|jianyang@bestechnic.com|https://gitee.com/tingle1314|zetingxu@bestechnic.com|SIG_Devboard|
 |322|vendor_bestechnic|vendor/bestechnic|https://gitee.com/besyangjian|jianyang@bestechnic.com|https://gitee.com/tingle1314|zetingxu@bestechnic.com|SIG_Devboard|
 |323|third_party_libexif|third_party/libexif|https://gitee.com/zhang-xiaobo1997|tony.zhangxiaobo@huawei.com|||SIG_GraphicsandMedia|
+|324|communication_netmanager_base|foundation/communication/netmanager_base|https://gitee.com/clevercong|lichunlin2@huawei.com| | |SIG-Telephony|
+|325|communication_netmanager_ext|foundation/communication/netmanager_ext|https://gitee.com/clevercong|lichunlin2@huawei.com| | |SIG-Telephony|
