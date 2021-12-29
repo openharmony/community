@@ -28,6 +28,9 @@
   - 数据存储：https://gitee.com/openharmony/telephony_data_storage
   - 网络管理：https://gitee.com/openharmony/communication_netmanager_standard
   - 网络协议栈：https://gitee.com/openharmony/communication_netstack
+  - 网络管理基础仓：https://gitee.com/openharmony-sig/communication_netmanager_base
+  - 网络管理扩展仓：https://gitee.com/openharmony-sig/communication_netmanager_ext
+
 
 ## SIG组成员
 

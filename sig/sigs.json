@@ -291,8 +291,16 @@
       },
       {
          "sig-name":"sig-telephony",
-         "projects":"https://gitee.com/openharmony/communication_netstack",
-         "project-path":"foundation/communication/netstack"
+         "projects":[
+           "https://gitee.com/openharmony/communication_netstack",
+           "https://gitee.com/openharmony-sig/communication_netmanager_base",
+           "https://gitee.com/openharmony-sig/communication_netmanager_ext"
+         ],
+         "project-path":[
+           "foundation/communication/netstack",
+           "foundation/communication/netmanager_base",
+           "foundation/communication/netmanager_ext"
+         ]
       },
       {
          "sig-name":"sig-distributedhardwaremgr",
