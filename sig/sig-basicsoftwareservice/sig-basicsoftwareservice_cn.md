@@ -76,11 +76,13 @@
 |事件通知子系统|[notification_ans_standard](https://gitee.com/openharmony/notification_ans_standard)|base/notification/ans_standard|[autumn330](https://gitee.com/autumn330)|
 |账号子系统|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
 |账号子系统|[account_app_account](https://gitee.com/openharmony-sig/account_app_account)|base/account/app_account|[verystone](https://gitee.com/verystone)|
-|资源调度子系统|[resourceschedule_workscheduler](https://gitee.com/openharmony-sig/resourceschedule_workscheduler)|foundation/resourceschedule/workscheduler|[hujun211](https://gitee.com/hujun211)|
-|资源调度子系统|[resourceschedule_backgroundtaskmanager](https://gitee.com/openharmony-sig/resourceschedule_backgroundtaskmanager)|foundation/resourceschedule/backgroundtaskmanager|[FrankJone](https://gitee.com/FrankJone)|
 |无障碍软件服务子系统|[accessibility](https://gitee.com/openharmony-sig/accessibility)|base/accessibility|[xueyulong](https://gitee.com/ylsnow)|
 |DeviceProfile子系统|[device_profile_core](https://gitee.com/openharmony/device_profile_core)|foundation/deviceprofile/device_profile_core|[lijiarun](https://gitee.com/lijiarun)|
 |DeviceProfile子系统|[device_profile_core](https://gitee.com/openharmony/device_profile_core)|foundation/deviceprofile/device_profile_core|[jiacan](https://gitee.com/cangegegege)|
+|资源调度子系统|[resourceschedule_work_scheduler](https://gitee.com/openharmony-sig/resourceschedule_work_scheduler)|foundation/resourceschedule/work_scheduler|[chenmingJay](https://gitee.com/chenmingJay)|
+|资源调度子系统|[resourceschedule_background_task_mgr](https://gitee.com/openharmony-sig/resourceschedule_background_task_mgr)|foundation/resourceschedule/background_task_mgr|[wanglai-yao](https://gitee.com/wanglai-yao)|
+|资源调度子系统|[resourceschedule_device_usage_statistics](https://gitee.com/openharmony-sig/resourceschedule_device_usage_statistics)|foundation/resourceschedule/device_usage_statistics|[tangtiantian2021](https://gitee.com/tangtiantian2021)|
+|资源调度子系统|[resourceschedule_resource_schedule_service](https://gitee.com/openharmony-sig/resourceschedule_resource_schedule_service)|foundation/resourceschedule/resource_schedule_service|[shire-yao](https://gitee.com/shire-yao)|
 
 ## SIG组成员
 
@@ -107,12 +109,14 @@
 |升级服务子系统|[ailorna](https://gitee.com/ailorna)|[mail](hehuan1@huawei.com)|
 |事件通知子系统|[autumn330](https://gitee.com/autumn330)|[mail](hw.liuwei@huawei.com)|
 |账号子系统|[verystone](https://gitee.com/verystone)|[mail](xudaqing@huawei.com)|
-|资源调度子系统|[hujun211](https://gitee.com/hujun211)|[mail](hujun211@huawei.com)|
-|资源调度子系统|[FrankJone](https://gitee.com/FrankJone)|[mail](zhaofanfan@huawei.com)|
 |无障碍软件服务子系统|[xueyulong](https://gitee.com/ylsnow)|[mail](xueyulong@huawei.com)|
 |无障碍软件服务子系统|[yaoruijiang](https://gitee.com/ydmgr)|[mail](yaoruijiang1@huawei.com)|
 |DeviceProfile子系统|[lijiarun](https://gitee.com/lijiarun)|[mail](lijiarun@huawei.com)|
 |DeviceProfile子系统|[jiacan](https://gitee.com/cangegegege)|[mail](jiacan@huawei.com)|
+|资源调度子系统|[chenmingJay](https://gitee.com/chenmingJay)|[mail](chenming48@huawei.com)|
+|资源调度子系统|[wanglai-yao](https://gitee.com/wanglai-yao)|[mail](yaowanglai@huawei.com)|
+|资源调度子系统|[tangtiantian2021](https://gitee.com/tangtiantian2021)|[mail](tangchengkai@huawei.com)|
+|资源调度子系统|[shire-yao](https://gitee.com/shire-yao)|[mail](yaoyanxia1@huawei.com)|
 
 ### 会议
  - 会议时间: 双周三 14:00
