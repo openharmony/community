@@ -238,8 +238,8 @@
 |236|third_party_ffmpeg|third_party/ffmpeg|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
 |237|vendor_ohemu|vendor/ohemu|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/laokz|laokz@foxmail.com|SIG_Devboard|
 |238|applications_call|applications/standard/call|https://gitee.com/jyh926|jiayanhong@huawei.com|https://gitee.com/ohos-lsw|lishiwei6@huawei.com|SIG_SystemApplication|
-|239|resourceschedule_workscheduler|foundation/resourceschedule/workscheduler|https://gitee.com/hujun211|hujun211@huawei.com|https://gitee.com/FrankJone|zhaofanfan@huawei.com|SIG_BasicSoftwareService|
-|240|resourceschedule_backgroundtaskmanager|foundation/resourceschedule/backgroundtaskmanager|https://gitee.com/hujun211|hujun211@huawei.com|https://gitee.com/FrankJone|zhaofanfan@huawei.com|SIG_BasicSoftwareService|
+|239|resourceschedule_work_scheduler|foundation/resourceschedule/work_scheduler|https://gitee.com/chenmingJay|chenming48@huawei.com|https://gitee.com/wanglai-yao <br> https://gitee.com/tangtiantian2021 <br> https://gitee.com/shire-yao|yaowanglai@huawei.com <br> tangchengkai@huawei.com <br> yaoyanxia1@huawei.com|SIG_BasicSoftwareService|
+|240|resourceschedule_background_task_mgr|foundation/resourceschedule/background_task_mgr|https://gitee.com/wanglai-yao|yaowanglai@huawei.com|https://gitee.com/chenmingJay <br> https://gitee.com/shire-yao <br> https://gitee.com/tangtiantian2021|chenming48@huawei.com <br> yaoyanxia1@huawei.com <br> tangchengkai@huawei.com|SIG_BasicSoftwareService|
 |241|third_party_littlefs|third_party/littlefs|https://gitee.com/JerryH1011|huangjieliang@huawei.com|https://gitee.com/kkup180 <br> https://gitee.com/DennyShen|likailong@huawei.com <br> denny.shenwei@huawei.com|SIG_Kernel|
 |242|kernel_linux_build|kernel/linux/build|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
 |243|kernel_linux_4.19|kernel/linux/linux-4.19|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
@@ -326,3 +326,5 @@
 |324|communication_netmanager_base|foundation/communication/netmanager_base|https://gitee.com/clevercong|lichunlin2@huawei.com| | |SIG-Telephony|
 |325|communication_netmanager_ext|foundation/communication/netmanager_ext|https://gitee.com/clevercong|lichunlin2@huawei.com| | |SIG-Telephony|
 |326|developtools_hiperf|developtools/hiperf|https://gitee.com/wangzaishang|wangzaishang@huawei.com|https://gitee.com/filer000|zhangxianfeng7@huawei.com|SIG_R&DToolChain|
+|327|resourceschedule_device_usage_statistics|foundation/resourceschedule/device_usage_statistics|https://gitee.com/tangtiantian2021|tangchengkai@huawei.com|https://gitee.com/shire-yao <br> https://gitee.com/chenmingJay <br> https://gitee.com/wanglai-yao|yaoyanxia1@huawei.com <br> chenming48@huawei.com <br> yaowanglai@huawei.com|SIG_BasicSoftwareService|
+|328|resourceschedule_resource_schedule_service|foundation/resourceschedule/resource_schedule_service|https://gitee.com/shire-yao|yaoyanxia1@huawei.com|https://gitee.com/tangtiantian2021 <br> https://gitee.com/chenmingJay <br> https://gitee.com/wanglai-yao|tangchengkai@huawei.com <br> chenming48@huawei.com <br> yaowanglai@huawei.com|SIG_BasicSoftwareService|

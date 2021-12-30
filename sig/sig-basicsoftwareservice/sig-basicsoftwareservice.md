@@ -76,11 +76,13 @@ Basic Software Services includes the following sub-systems:
 |Notification|[notification_ans_standard](https://gitee.com/openharmony/notification_ans_standard)|base/notification/ans_standard|[autumn330](https://gitee.com/autumn330)|
 |Account|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
 |Account|[account_app_account](https://gitee.com/openharmony-sig/account_app_account)|base/account/app_account|[verystone](https://gitee.com/verystone)|
-|ResourceSchedule|[resourceschedule_workscheduler](https://gitee.com/openharmony-sig/resourceschedule_workscheduler)|foundation/resourceschedule/workscheduler|[hujun211](https://gitee.com/hujun211)|
-|ResourceSchedule|[resourceschedule_backgroundtaskmanager](https://gitee.com/openharmony-sig/resourceschedule_backgroundtaskmanager)|foundation/resourceschedule/backgroundtaskmanager|[FrankJone](https://gitee.com/FrankJone)|
 |accessibility|[accessibility](https://gitee.com/openharmony-sig/accessibility)|base/accessibility|[xueyulong](https://gitee.com/ylsnow)|
 |DeviceProfile|[device_profile_core](https://gitee.com/openharmony/device_profile_core)|foundation/deviceprofile/device_profile_core|[lijiarun](https://gitee.com/lijiarun)|
 |DeviceProfile|[device_profile_core](https://gitee.com/openharmony/device_profile_core)|foundation/deviceprofile/device_profile_core|[jiacan](https://gitee.com/cangegegege)|
+|ResourceSchedule|[resourceschedule_work_scheduler](https://gitee.com/openharmony-sig/resourceschedule_work_scheduler)|foundation/resourceschedule/work_scheduler|[chenmingJay](https://gitee.com/chenmingJay)|
+|ResourceSchedule|[resourceschedule_background_task_mgr](https://gitee.com/openharmony-sig/resourceschedule_background_task_mgr)|foundation/resourceschedule/background_task_mgr|[wanglai-yao](https://gitee.com/wanglai-yao)|
+|ResourceSchedule|[resourceschedule_device_usage_statistics](https://gitee.com/openharmony-sig/resourceschedule_device_usage_statistics)|foundation/resourceschedule/device_usage_statistics|[tangtiantian2021](https://gitee.com/tangtiantian2021)|
+|ResourceSchedule|[resourceschedule_resource_schedule_service](https://gitee.com/openharmony-sig/resourceschedule_resource_schedule_service)|foundation/resourceschedule/resource_schedule_service|[shire-yao](https://gitee.com/shire-yao)|
 
 ## SIG Members
 
@@ -106,12 +108,14 @@ Basic Software Services includes the following sub-systems:
 |Update|[ailorna](https://gitee.com/ailorna)|[mail](hehuan1@huawei.com)|
 |Notification|[autumn330](https://gitee.com/autumn330)|[mail](hw.liuwei@huawei.com)|
 |Account|[verystone](https://gitee.com/verystone)|[mail](xudaqing@huawei.com)|
-|ResourceSchedule|[hujun211](https://gitee.com/hujun211)|[mail](hujun211@huawei.com)|
-|ResourceSchedule|[FrankJone](https://gitee.com/FrankJone)|[mail](zhaofanfan@huawei.com)|
 |accessibility|[xueyulong](https://gitee.com/ylsnow)|[mail](xueyulong@huawei.com)|
 |accessibility|[yaoruijiang](https://gitee.com/ydmgr)|[mail](yaoruijiang1@huawei.com)|
 |DeviceProfile|[lijiarun](https://gitee.com/lijiarun)|[mail](lijiarun@huawei.com)|
 |DeviceProfile|[jiacan](https://gitee.com/cangegegege)|[mail](jiacan@huawei.com)|
+|ResourceSchedule|[chenmingJay](https://gitee.com/chenmingJay)|[mail](chenming48@huawei.com)|
+|ResourceSchedule|[wanglai-yao](https://gitee.com/wanglai-yao)|[mail](yaowanglai@huawei.com)|
+|ResourceSchedule|[tangtiantian2021](https://gitee.com/tangtiantian2021)|[mail](tangchengkai@huawei.com)|
+|ResourceSchedule|[shire-yao](https://gitee.com/shire-yao)|[mail](yaoyanxia1@huawei.com)|
 
 ### Meetings
  - Meeting time: Wednesday at 14:00 o'clock, biweekly
