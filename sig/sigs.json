@@ -400,7 +400,8 @@
             "https://gitee.com/openharmony-sig/resourceschedule_work_scheduler",
             "https://gitee.com/openharmony-sig/resourceschedule_background_task_mgr",
             "https://gitee.com/openharmony-sig/resourceschedule_device_usage_statistics",
-            "https://gitee.com/openharmony-sig/resourceschedule_resource_schedule_service"
+            "https://gitee.com/openharmony-sig/resourceschedule_resource_schedule_service",
+            "https://gitee.com/openharmony-sig/third_party_pyyaml"
          ],
          "project-path":[
             "base/hiviewdfx/hievent_lite",
@@ -458,7 +459,8 @@
             "foundation/resourceschedule/work_scheduler",
             "foundation/resourceschedule/background_task_mgr",
             "foundation/resourceschedule/device_usage_statistics",
-            "foundation/resourceschedule/resource_schedule_service"
+            "foundation/resourceschedule/resource_schedule_service",
+            "third_party/pyyaml"
          ]
       },
       {

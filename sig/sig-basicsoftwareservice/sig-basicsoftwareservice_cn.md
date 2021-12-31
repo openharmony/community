@@ -83,6 +83,7 @@
 |资源调度子系统|[resourceschedule_background_task_mgr](https://gitee.com/openharmony-sig/resourceschedule_background_task_mgr)|foundation/resourceschedule/background_task_mgr|[wanglai-yao](https://gitee.com/wanglai-yao)|
 |资源调度子系统|[resourceschedule_device_usage_statistics](https://gitee.com/openharmony-sig/resourceschedule_device_usage_statistics)|foundation/resourceschedule/device_usage_statistics|[tangtiantian2021](https://gitee.com/tangtiantian2021)|
 |资源调度子系统|[resourceschedule_resource_schedule_service](https://gitee.com/openharmony-sig/resourceschedule_resource_schedule_service)|foundation/resourceschedule/resource_schedule_service|[shire-yao](https://gitee.com/shire-yao)|
+|DFX子系统|[third_party_pyyaml](https://gitee.com/openharmony-sig/third_party_pyyaml)|third_party/pyyaml|[guochuanqi](https://gitee.com/guochuanqi)|
 
 ## SIG组成员
 
