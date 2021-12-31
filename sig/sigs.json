@@ -569,16 +569,30 @@
             "https://gitee.com/openharmony-sig/third_party_selinux",
             "https://gitee.com/openharmony-sig/third_party_pcre2",
             "https://gitee.com/openharmony-sig/security_selinux",
-            "https://gitee.com/openharmony-sig/security_access_token"
+            "https://gitee.com/openharmony-sig/security_access_token",
+            "https://gitee.com/openharmony-sig/useriam_coauth",
+            "https://gitee.com/openharmony-sig/useriam_faceauth",
+            "https://gitee.com/openharmony-sig/useriam_pinauth",
+            "https://gitee.com/openharmony-sig/useriam_userauth",
+            "https://gitee.com/openharmony-sig/useriam_useridm",
+            "https://gitee.com/openharmony-sig/security_devicesecuritylevel",
+            "https://gitee.com/openharmony-sig/developtools_hapsigner"
          ],
          "project-path":[
             "base/security/deviceauth",
             "base/security/huks/",
             "base/security/dataclassification",
+            "base/security/devicesecuritylevel",
             "base/security/appverify",
             "base/security/permission",
             "base/security/access_token",
             "third_party/selinux",
+            "base/useriam/coauth",
+            "base/useriam/faceauth",
+            "base/useriam/pinauth",
+            "base/useriam/userauth",
+            "base/useriam/useridm",
+            "developtools/hapsigner",
             "NONE"
          ]
       },

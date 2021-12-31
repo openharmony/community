@@ -22,6 +22,13 @@ OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密�
   - pcre2:https://gitee.com/openharmony-sig/third_party_pcre2
   - selinux:https://gitee.com/openharmony-sig/security_selinux
   - access_token:https://gitee.com/openharmony-sig/security_access_token
+  - useriam_coauth:https://gitee.com/openharmony-sig/useriam_coauth
+  - useriam_faceauth:https://gitee.com/openharmony-sig/useriam_faceauth
+  - useriam_pinauth:https://gitee.com/openharmony-sig/useriam_pinauth
+  - useriam_userauth:https://gitee.com/openharmony-sig/useriam_userauth
+  - useriam_useridm:https://gitee.com/openharmony-sig/useriam_useridm
+  - security_devicesecuritylevel:https://gitee.com/openharmony-sig/security_devicesecuritylevel
+  - developtools_hapsigner:https://gitee.com/openharmony-sig/developtools_hapsigner
 
 ## SIG组成员
 
