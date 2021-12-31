@@ -37,8 +37,7 @@ The toolchain is provided in binary form and in source form with a simple build 
 ### The repository 
 - project name:
   - Tools & Toolchains: https://gitee.com/openharmony-sig/sig-tools-toolchains
-
-
+  - developtools_hiperf: https://gitee.com/openharmony/developtools_hiperf
 
 ## SIG Members
 
@@ -47,6 +46,7 @@ The toolchain is provided in binary form and in source form with a simple build 
 
 ### Committers
 - @[berolinux](https://gitee.com/berolinux)
+- @[wangzaishang](https://gitee.com/wangzaishang)
 
  ### Meetings
  - Meeting time：TBD
