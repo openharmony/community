@@ -5,7 +5,7 @@
 |3|applications_sample_camera|applications/sample/camera|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_GraphicsandMedia|
 |4|applications_camera_sample_communication|applications/sample/camera/communication|https://gitee.com/rain_myf|maoyufeng3@huawei.com| | |SIG_SoftBus|
 |5|applications_camera_screensaver_app|applications/sample/camera/screensaver|https://gitee.com/borne|bo.lu@huawei.com| | |SIG_ApplicationFramework|
-|6|applications_sample_wifi_iot|applications/sample/wifi-iot|https://gitee.com/rain_myf|maoyufeng3@huawei.com| | |SIG_SoftBus|
+|6|applications_sample_wifi_iot|applications/sample/wifi-iot|https://gitee.com/five-yuan|wuyunjie@huawei.com| | |SIG_SoftBus|
 |7|global_cust_lite|base/global/cust_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
 |8|global_i18n_lite|base/global/i18n_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
 |9|global_resmgr_lite|base/global/resmgr_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
