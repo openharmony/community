@@ -26,6 +26,10 @@
   - applications_contacts: https://gitee.com/openharmony/applications_contacts
   - applications_mms: https://gitee.com/openharmony/applications_mms
   - applications_call: https://gitee.com/openharmony/applications_call
+  - applications_screenshot: https://gitee.com/openharmony-sig/applications_screenshot
+  - applications_screenlock: https://gitee.com/openharmony-sig/applications_screenlock
+  - applications_theme: https://gitee.com/openharmony-sig/applications_theme
+  - applications_settingsdata: https://gitee.com/openharmony-sig/applications_settings_data
 
 ## SIG组成员
 
