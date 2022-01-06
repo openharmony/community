@@ -39,7 +39,11 @@
 - @hujun211(https://gitee.com/hujun211)
 - @aqxyjay(https://gitee.com/aqxyjay)
 - @hhh2(https://gitee.com/hhh2)
+<<<<<<< HEAD
 - @intermilano(https://gitee.com/intermilano)
+=======
+- @BinZhang(https://gitee.com/intermilano)
+>>>>>>> d06fa6e2ce25c47d0d055d65f8a5180d75d4343f
 - @hwzhangchuang(https://gitee.com/hwzhangchuang)
 - @skypuhui(https://gitee.com/skypuhui)
 
