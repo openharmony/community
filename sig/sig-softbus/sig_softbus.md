@@ -66,10 +66,10 @@ Continuously contributes to the softbus of the OpenHarmony community, implements
  - Meeting time: Bi-weekly meeting, Monday 19:15 pm, UTC+8 
  - Meeting Proposal: [OpenHarmony SIG-SoftBus Meeting Proposal](https://shimo.im/sheets/iDp1dGmnk3sVjJoE/MODOC)
  - Meeting link: Welink
- - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
+ - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_dsoftbus.openharmony.io) mailing list sig_dsoftbus@openharmony.io for the meeting link
 
 ### Contact
 | Address                                 | Introduction | Usage Description                                                  |
 | ---------------------------------------|---------- | ------------------------------------------------------------ |
 | dev@openharmony.io  <img width=120/>| Mailing list <img width=100/> | OpenHarmony community development discussion mailing list, any community development related topics can be discussed in the mailing list. Any developer can [subscribe](https://lists.openatom.io/postorius/lists/dev.openharmony.io)。<img width=200/>|
-
+| sig_dsoftbus@openharmony.io  <img width=120/>| Sig-Softbus Mailing list <img width=100/> | OpenHarmony community SIG-Softbus development discussion mailing list, any Softbus related topics can be discussed in the mailing list. Any developer can [subscribe](https://lists.openatom.io/postorius/lists/sig_dsoftbus.openharmony.io/)。<img width=200/>|

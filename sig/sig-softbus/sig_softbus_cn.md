@@ -65,10 +65,10 @@
  - 会议链接：Welink
  - 议题申报: [OpenHarmony SIG-SoftBus Meeting Proposal](https://shimo.im/sheets/iDp1dGmnk3sVjJoE/MODOC)
  - 会议主题: 通过邮件通知
- - 会议通知: 请订阅邮件列表 dev@openharmony.io 获取会议链接
+ - 会议通知: 请订阅邮件列表 sig_dsoftbus@openharmony.io 获取会议链接
 
 ### 联系方式(可选)
 | 地址                                 | 简介        | 用途说明                                                         |
 | ---------------------------------------|---------- | ------------------------------------------------------------ |
 | dev@openharmony.io  <img width=120/>| 开发邮件列表 <img width=100/> | OpenHarmony社区开发讨论邮件列表，任何社区开发相关话题都可以在邮件列表讨论。任何开发者可[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)。<img width=200/>|
-
+| sig_dsoftbus@openharmony.io  <img width=120/>| Sig-Softbus邮件列表 <img width=100/> | OpenHarmony社区SIG-Softbus开发讨论邮件列表，任何软总线开发相关话题都可以在邮件列表讨论。任何开发者可[订阅](https://lists.openatom.io/postorius/lists/sig_dsoftbus.openharmony.io/)。<img width=200/>|
