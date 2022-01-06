@@ -27,6 +27,8 @@
   - powermgr_battery_statistics: https://gitee.com/openharmony/powermgr_battery_statistics
   - powermgr_thermal_manager: https://gitee.com/openharmony/powermgr_thermal_manager
   - devicemanager：https://gitee.com/openharmony/device_manager
+  - distributedhardwarefwk: https://gitee.com/openharmony-sig/distributed_hardware_fwk
+  - distributedinput: https://gitee.com/openharmony-sig/distributed_input
 
 ## SIG组成员
 
@@ -36,9 +38,10 @@
 ### Committers列表
 - @hujun211(https://gitee.com/hujun211)
 - @aqxyjay(https://gitee.com/aqxyjay)
-- @pengguanqi(https://gitee.com/pengguanqi)
-- @locheng7(https://gitee.com/locheng7)
 - @hhh2(https://gitee.com/hhh2)
+- @BinZhang(https://gitee.com/intermilano)
+- @hwzhangchuang(https://gitee.com/hwzhangchuang)
+- @skypuhui(https://gitee.com/skypuhui)
 
 ### 会议
  - 会议时间：每周六 10:00
