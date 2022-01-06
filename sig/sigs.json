@@ -242,8 +242,14 @@
       },
       {
          "sig-name":"sig-dllite-micro",
-         "projects": "https://gitee.com/openharmony-sig/dllite_micro",
-         "project-path":["foundation/ai/dllite-micro"]
+         "projects": [
+            "https://gitee.com/openharmony-sig/dllite_micro",
+            "https://gitee.com/openharmony-sig/mindspore"
+         ],
+         "project-path":[
+            "foundation/ai/dllite-micro",
+            "third_party/mindspore"
+         ]
       },
       {
          "sig-name":"sig-softbus",
