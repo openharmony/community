@@ -36,10 +36,9 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### Committers
 - @hujun211(https://gitee.com/hujun211)
 - @aqxyjay(https://gitee.com/aqxyjay)
+- @pengguanqi(https://gitee.com/pengguanqi)
+- @locheng7(https://gitee.com/locheng7)
 - @hhh2(https://gitee.com/hhh2)
-- @intermilano(https://gitee.com/intermilano)
-- @hwzhangchuang(https://gitee.com/hwzhangchuang)
-- @skypuhui(https://gitee.com/skypuhui)
 
 ### Meetings
  - Meeting time：Every Saturday at 10:00 o'clock
