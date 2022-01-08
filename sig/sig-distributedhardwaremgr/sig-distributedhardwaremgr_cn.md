@@ -38,10 +38,9 @@
 ### Committers列表
 - @hujun211(https://gitee.com/hujun211)
 - @aqxyjay(https://gitee.com/aqxyjay)
+- @pengguanqi(https://gitee.com/pengguanqi)
+- @locheng7(https://gitee.com/locheng7)
 - @hhh2(https://gitee.com/hhh2)
-- @intermilano(https://gitee.com/intermilano)
-- @hwzhangchuang(https://gitee.com/hwzhangchuang)
-- @skypuhui(https://gitee.com/skypuhui)
 
 ### 会议
  - 会议时间：每周六 10:00
