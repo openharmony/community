@@ -242,8 +242,14 @@
       },
       {
          "sig-name":"sig-dllite-micro",
-         "projects": "https://gitee.com/openharmony-sig/dllite_micro",
-         "project-path":["foundation/ai/dllite-micro"]
+         "projects": [
+            "https://gitee.com/openharmony-sig/dllite_micro",
+            "https://gitee.com/openharmony-sig/mindspore"
+         ],
+         "project-path":[
+            "foundation/ai/dllite-micro",
+            "third_party/mindspore"
+         ]
       },
       {
          "sig-name":"sig-softbus",
@@ -415,7 +421,8 @@
             "https://gitee.com/openharmony-sig/resourceschedule_background_task_mgr",
             "https://gitee.com/openharmony-sig/resourceschedule_device_usage_statistics",
             "https://gitee.com/openharmony-sig/resourceschedule_resource_schedule_service",
-            "https://gitee.com/openharmony-sig/third_party_pyyaml"
+            "https://gitee.com/openharmony-sig/third_party_pyyaml",
+            "https://gitee.com/openharmony-sig/resourceschedule_memmgr"
          ],
          "project-path":[
             "base/hiviewdfx/hievent_lite",
@@ -476,7 +483,8 @@
             "foundation/resourceschedule/background_task_mgr",
             "foundation/resourceschedule/device_usage_statistics",
             "foundation/resourceschedule/resource_schedule_service",
-            "third_party/pyyaml"
+            "third_party/pyyaml",
+            "foundation/resourceschedule/plugins/memmgr"
          ]
       },
       {

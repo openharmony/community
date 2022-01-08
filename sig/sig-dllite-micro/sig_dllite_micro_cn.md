@@ -20,6 +20,7 @@
 ## 代码仓
 - 代码仓地址：
   - DLLite-micro: https://gitee.com/openharmony-sig/dllite_micro
+  - MindSpore: https://gitee.com/openharmony-sig/mindspore
 
 ## SIG组成员
 

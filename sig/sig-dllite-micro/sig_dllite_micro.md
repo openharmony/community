@@ -12,7 +12,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### The repository 
 - project name:
   - DLLite-micro: https://gitee.com/openharmony-sig/dllite_micro
-
+  - MindSpore: https://gitee.com/openharmony-sig/mindspore
 
 ## SIG Members
 
