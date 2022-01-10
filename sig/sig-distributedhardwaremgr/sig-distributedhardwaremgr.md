@@ -25,6 +25,8 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - powermgr_battery_statistics: https://gitee.com/openharmony/powermgr_battery_statistics
   - powermgr_thermal_manager: https://gitee.com/openharmony/powermgr_thermal_manager
   - devicemanager：https://gitee.com/openharmony/device_manager
+  - distributedhardwarefwk: https://gitee.com/openharmony-sig/distributed_hardware_fwk
+  - distributedinput: https://gitee.com/openharmony-sig/distributed_input
 
 ## SIG Members
 
