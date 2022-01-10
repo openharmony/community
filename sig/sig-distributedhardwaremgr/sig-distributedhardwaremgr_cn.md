@@ -27,6 +27,8 @@
   - powermgr_battery_statistics: https://gitee.com/openharmony/powermgr_battery_statistics
   - powermgr_thermal_manager: https://gitee.com/openharmony/powermgr_thermal_manager
   - devicemanager：https://gitee.com/openharmony/device_manager
+  - distributedhardwarefwk: https://gitee.com/openharmony-sig/distributed_hardware_fwk
+  - distributedinput: https://gitee.com/openharmony-sig/distributed_input
 
 ## SIG组成员
 
