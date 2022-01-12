@@ -597,7 +597,7 @@
             "https://gitee.com/openharmony-sig/security_selinux",
             "https://gitee.com/openharmony/security_access_token",
             "https://gitee.com/openharmony-sig/useriam_coauth",
-            "https://gitee.com/openharmony-sig/useriam_faceauth",
+            "https://gitee.com/openharmony/useriam_faceauth",
             "https://gitee.com/openharmony-sig/useriam_pinauth",
             "https://gitee.com/openharmony-sig/useriam_userauth",
             "https://gitee.com/openharmony-sig/useriam_useridm",
