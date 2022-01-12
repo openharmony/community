@@ -23,7 +23,7 @@ OpenHarmony security sbusystem, including application permissions, application s
   - selinux:https://gitee.com/openharmony-sig/security_selinux
   - access_token:https://gitee.com/openharmony/security_access_token
   - useriam_coauth:https://gitee.com/openharmony-sig/useriam_coauth
-  - useriam_faceauth:https://gitee.com/openharmony-sig/useriam_faceauth
+  - useriam_faceauth:https://gitee.com/openharmony/useriam_faceauth
   - useriam_pinauth:https://gitee.com/openharmony-sig/useriam_pinauth
   - useriam_userauth:https://gitee.com/openharmony-sig/useriam_userauth
   - useriam_useridm:https://gitee.com/openharmony-sig/useriam_useridm
