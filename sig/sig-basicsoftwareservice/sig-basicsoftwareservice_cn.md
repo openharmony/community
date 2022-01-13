@@ -81,10 +81,10 @@
 |无障碍软件服务子系统|[accessibility](https://gitee.com/openharmony-sig/accessibility)|base/accessibility|[xueyulong](https://gitee.com/ylsnow)|
 |DeviceProfile子系统|[device_profile_core](https://gitee.com/openharmony/device_profile_core)|foundation/deviceprofile/device_profile_core|[lijiarun](https://gitee.com/lijiarun)|
 |DeviceProfile子系统|[device_profile_core](https://gitee.com/openharmony/device_profile_core)|foundation/deviceprofile/device_profile_core|[jiacan](https://gitee.com/cangegegege)|
-|资源调度子系统|[resourceschedule_work_scheduler](https://gitee.com/openharmony-sig/resourceschedule_work_scheduler)|foundation/resourceschedule/work_scheduler|[chenmingJay](https://gitee.com/chenmingJay)|
-|资源调度子系统|[resourceschedule_background_task_mgr](https://gitee.com/openharmony-sig/resourceschedule_background_task_mgr)|foundation/resourceschedule/background_task_mgr|[wanglai-yao](https://gitee.com/wanglai-yao)|
-|资源调度子系统|[resourceschedule_device_usage_statistics](https://gitee.com/openharmony-sig/resourceschedule_device_usage_statistics)|foundation/resourceschedule/device_usage_statistics|[tangtiantian2021](https://gitee.com/tangtiantian2021)|
-|资源调度子系统|[resourceschedule_resource_schedule_service](https://gitee.com/openharmony-sig/resourceschedule_resource_schedule_service)|foundation/resourceschedule/resource_schedule_service|[shire-yao](https://gitee.com/shire-yao)|
+|资源调度子系统|[resourceschedule_work_scheduler](https://gitee.com/openharmony/resourceschedule_work_scheduler)|foundation/resourceschedule/work_scheduler|[chenmingJay](https://gitee.com/chenmingJay)|
+|资源调度子系统|[resourceschedule_background_task_mgr](https://gitee.com/openharmony/resourceschedule_background_task_mgr)|foundation/resourceschedule/background_task_mgr|[wanglai-yao](https://gitee.com/wanglai-yao)|
+|资源调度子系统|[resourceschedule_device_usage_statistics](https://gitee.com/openharmony/resourceschedule_device_usage_statistics)|foundation/resourceschedule/device_usage_statistics|[tangtiantian2021](https://gitee.com/tangtiantian2021)|
+|资源调度子系统|[resourceschedule_resource_schedule_service](https://gitee.com/openharmony/resourceschedule_resource_schedule_service)|foundation/resourceschedule/resource_schedule_service|[shire-yao](https://gitee.com/shire-yao)|
 |资源调度子系统|[resourceschedule_memmgr](https://gitee.com/openharmony-sig/resourceschedule_memmgr)|foundation/resourceschedule/plugins/memmgr|[cbraham](https://gitee.com/cbraham)|
 |DFX子系统|[third_party_pyyaml](https://gitee.com/openharmony-sig/third_party_pyyaml)|third_party/pyyaml|[guochuanqi](https://gitee.com/guochuanqi)|
 
