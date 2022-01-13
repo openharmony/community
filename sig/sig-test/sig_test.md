@@ -16,7 +16,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ## The repository
 - project name：
-  - https://gitee.com/openharmony-sig/third_party_benchmark
+  - https://gitee.com/openharmony/third_party_benchmark
   - https://gitee.com/openharmony/xts_acts
   - https://gitee.com/openharmony/xts_tools
   - https://gitee.com/openharmony/xts_hats
