@@ -24,10 +24,10 @@ OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密�
   - access_token:https://gitee.com/openharmony/security_access_token
   - useriam_auth_executor_mgr:https://gitee.com/openharmony/useriam_auth_executor_mgr
   - useriam_faceauth:https://gitee.com/openharmony/useriam_faceauth
-  - useriam_pin_auth:https://gitee.com/openharmony-sig/useriam_pin_auth
-  - useriam_user_auth:https://gitee.com/openharmony-sig/useriam_user_auth
-  - useriam_user_idm:https://gitee.com/openharmony-sig/useriam_user_idm
-  - security_device_security_level:https://gitee.com/openharmony-sig/security_device_security_level
+  - useriam_pin_auth:https://gitee.com/openharmony/useriam_pin_auth
+  - useriam_user_auth:https://gitee.com/openharmony/useriam_user_auth
+  - useriam_user_idm:https://gitee.com/openharmony/useriam_user_idm
+  - security_device_security_level:https://gitee.com/openharmony/security_device_security_level
   - developtools_hapsigner:https://gitee.com/openharmony-sig/developtools_hapsigner
 
 ## SIG组成员
