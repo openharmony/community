@@ -114,7 +114,7 @@
 |112|applications_launcher|applications/standard/launcher|https://gitee.com/lv-zhongwei|lvzhongwei@huawei.com|https://gitee.com/zhao-zhiqiang-zzq|zhaozhiqiang21@huawei.com|SIG_SystemApplication|
 |113|applications_settings|applications/standard/settings|https://gitee.com/lv-zhongwei|lvzhongwei@huawei.com|https://gitee.com/wshj-huangjian|huangjian68@huawei.com|SIG_SystemApplication|
 |114|applications_systemui|applications/standard/systemui|https://gitee.com/lv-zhongwei|lvzhongwei@huawei.com|https://gitee.com/lin-shuai5|linshuai5@huawei.com|SIG_SystemApplication|
-|115|account_os_account|base/account/os_account|https://gitee.com/verystone|xudaqing@huawei.com| | |SIG_BasicSoftwareService|
+|115|account_os_account|base/account/os_account|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/verystone|xudaqing@huawei.com|SIG_BasicSoftwareService|
 |116|global_i18n_standard|base/global/i18n_standard|https://gitee.com/mengjingzhimo|luoboming@huawei.com| | |SIG_ApplicationFramework|
 |117|global_resmgr_standard|base/global/resmgr_standard|https://gitee.com/jameshw|jameslee@huawei.com| | |SIG_ApplicationFramework|
 |118|hiviewdfx_faultloggerd|base/hiviewdfx/faultloggerd|https://gitee.com/maplestorys|zengzhi5@huawei.com|https://gitee.com/stesen|stesen.ma@huawei.com|SIG_BasicSoftwareService|
