@@ -598,10 +598,10 @@
             "https://gitee.com/openharmony/security_access_token",
             "https://gitee.com/openharmony/useriam_auth_executor_mgr",
             "https://gitee.com/openharmony/useriam_faceauth",
-            "https://gitee.com/openharmony-sig/useriam_pin_auth",
-            "https://gitee.com/openharmony-sig/useriam_user_auth",
-            "https://gitee.com/openharmony-sig/useriam_user_idm",
-            "https://gitee.com/openharmony-sig/security_device_security_level",
+            "https://gitee.com/openharmony/useriam_pin_auth",
+            "https://gitee.com/openharmony/useriam_user_auth",
+            "https://gitee.com/openharmony/useriam_user_idm",
+            "https://gitee.com/openharmony/security_device_security_level",
             "https://gitee.com/openharmony-sig/developtools_hapsigner"
          ],
          "project-path":[
