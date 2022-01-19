@@ -126,6 +126,7 @@
 
 ### 会议
  - 会议时间: 双周三 14:00
+ - 会议申报: [OpenHarmony SIG-BasicSoftware Meeting Proposal](https://etherpad.openharmony.cn/p/sig-basicsoftware)
  - 会议链接: Welink
 
 ### 联系方式(可选)

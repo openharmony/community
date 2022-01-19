@@ -125,6 +125,7 @@ Basic Software Services includes the following sub-systems:
 
 ### Meetings
  - Meeting time: Wednesday at 14:00 o'clock, biweekly
+ - Meeting proposal: [OpenHarmony SIG-BasicSoftware Meeting Proposal](https://etherpad.openharmony.cn/p/sig-basicsoftware)
  - Meeting link: Welink
 
 ### Contact (optional)
