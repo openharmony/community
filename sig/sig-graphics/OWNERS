@@ -1,0 +1,38 @@
+{
+   "Leader": [
+      {
+         "gitee_id": "abbuu",
+         "gitee_email": "liyu37@huawei.com"
+      },
+      {
+         "gitee_id": "yifan-cui",
+         "gitee_email": "cuikun1@huawei.com"
+      }
+   ],
+   "Committers": [
+      {
+         "gitee_id": "zhouyaoying",
+         "gitee_email": "zhouyaoying@huawei.com"
+      },
+      {
+         "gitee_id": "lijj01",
+         "gitee_email": "lijunjie29@huawei.com"
+      },
+      {
+         "gitee_id": "lz-230",
+         "gitee_email": "lizheng2@huawei.com"
+      },
+      {
+         "gitee_id": "bj1010",
+         "gitee_email": "dubingjian@huawei.com"
+      },
+	  {
+         "gitee_id": "mk_gc",
+         "gitee_email": "mengkun@huawei.com"
+      },
+      {
+         "gitee_id": "zhouyuehai",
+         "gitee_email": "zhouyuehai@huawei.com"
+      }
+   ]
+}
