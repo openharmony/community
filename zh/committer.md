@@ -333,3 +333,4 @@
 |331|distributed_hardware_fwk|foundation/distributedhardware/distributedhardwarefwk|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|https://gitee.com/intermilano|night.zhangbin@huawei.com|SIG_DistributedHardwareManagement|
 |332|distributed_input|foundation/distributedhardware/distributedinput|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|https://gitee.com/skypuhui|puhui1@huawei.com|SIG_DistributedHardwareManagement|
 |333|security_access_token|base/security/access_token|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/hu-huifeng|huhuifeng@huawei.com|SIG_Security|
+|310|third_party_openmax|third_party/openmax|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau|liufeihu@huawei.com|SIG_DriverFramework|
