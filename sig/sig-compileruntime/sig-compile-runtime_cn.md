@@ -38,6 +38,7 @@
   - third_party_python: https://gitee.com/openharmony/third_party_python
   - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
   - utils: https://gitee.com/openharmony/utils
+  - utils_memory: https://gitee.com/openharmony-sig/utils_memory
   - utils_native: https://gitee.com/openharmony/utils_native
   - utils_native_lite: https://gitee.com/openharmony/utils_native_lite
 

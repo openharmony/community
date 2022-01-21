@@ -39,6 +39,7 @@
   - third_party_python: https://gitee.com/openharmony/third_party_python
   - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
   - utils: https://gitee.com/openharmony/utils
+  - utils_memory: https://gitee.com/openharmony-sig/utils_memory
   - utils_native: https://gitee.com/openharmony/utils_native
   - utils_native_lite: https://gitee.com/openharmony/utils_native_lite
 
@@ -69,6 +70,10 @@
 - @godmiaozi (https://gitee.com/godmiaozi)
 - @dhy308 (https://gitee.com/dhy308)
 - @pengzhuoli (https://gitee.com/zhuoli72)
+- @cbraham (https://gitee.com/cbraham)
+- @wang2002xu (https://gitee.com/wang2002xu)
+- @chen-wandun (https://gitee.com/chen-wandun)
+- @eliotc (https://gitee.com/eliotc)
 
  ### Meetings
  - Meeting time: Bi-weekly meeting, Monday 19:00 pm, UTC+8
