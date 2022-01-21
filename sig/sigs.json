@@ -640,13 +640,15 @@
             "https://gitee.com/openharmony/js_api_module",
             "https://gitee.com/openharmony/js_sys_module",
             "https://gitee.com/openharmony/js_util_module",
-            "https://gitee.com/openharmony/js_worker_module"
+            "https://gitee.com/openharmony/js_worker_module",
+            "https://gitee.com/openharmony-sig/utils_memory"
          ],
          "project-path":[
             "base/compileruntime/js_api_module",
             "base/compileruntime/js_sys_module",
             "base/compileruntime/js_util_module",
-            "base/compileruntime/js_worker_module"
+            "base/compileruntime/js_worker_module",
+            "utils/memory"
          ]
       },
 	  {
