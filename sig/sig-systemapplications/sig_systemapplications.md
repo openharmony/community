@@ -28,6 +28,7 @@ Defines and builds OpenHarmony system applications, applies for and implements i
   - applications_call: https://gitee.com/openharmony/applications_call
   - applications_screenshot: https://gitee.com/openharmony-sig/applications_screenshot
   - applications_screenlock: https://gitee.com/openharmony-sig/applications_screenlock
+  - applications_admin_provisioning: https://gitee.com/openharmony-sig/applications_admin_provisioning
   - applications_theme: https://gitee.com/openharmony-sig/applications_theme
   - applications_settingsdata: https://gitee.com/openharmony-sig/applications_settings_data
 
