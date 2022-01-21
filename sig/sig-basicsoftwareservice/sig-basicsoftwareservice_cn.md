@@ -21,6 +21,7 @@
 |账号子系统|提供系统的账号管理能力|
 |无障碍软件服务子系统|提供无障碍软件服务能力|
 |Misc软件服务子系统|提供杂散系统服务|
+|定制子系统|提供系统定制化能力，包括基于配置层级的定制框架、企业环境下的设备管理和定制化设置等|
 
 ## 代码仓
 
@@ -87,6 +88,7 @@
 |资源调度子系统|[resourceschedule_resource_schedule_service](https://gitee.com/openharmony/resourceschedule_resource_schedule_service)|foundation/resourceschedule/resource_schedule_service|[shire-yao](https://gitee.com/shire-yao)|
 |资源调度子系统|[resourceschedule_memmgr](https://gitee.com/openharmony-sig/resourceschedule_memmgr)|foundation/resourceschedule/plugins/memmgr|[cbraham](https://gitee.com/cbraham)|
 |DFX子系统|[third_party_pyyaml](https://gitee.com/openharmony-sig/third_party_pyyaml)|third_party/pyyaml|[guochuanqi](https://gitee.com/guochuanqi)|
+|定制子系统|[customization_enterprise_device_management](https://gitee.com/openharmony-sig/customization_enterprise_device_management)|customization_enterprise_device_management|[caiminggang](https://gitee.com/caiminggang)|
 
 ## SIG组成员
 
@@ -123,6 +125,7 @@
 |资源调度子系统|[shire-yao](https://gitee.com/shire-yao)|[mail](yaoyanxia1@huawei.com)|
 |资源调度子系统|[cbraham](https://gitee.com/cbraham)|[mail](suncai1@huawei.com)|
 |资源调度子系统|[wang2002xu](https://gitee.com/wang2002xu)|[mail](wangxu44@huawei.com)|
+|定制子系统|[jameshw](https://gitee.com/jameshw)|[mail](jameslee@huawei.com)|
 
 ### 会议
  - 会议时间: 双周三 14:00
