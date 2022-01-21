@@ -231,6 +231,7 @@
                      "https://gitee.com/openharmony-sig/system_applications",
                      "https://gitee.com/openharmony-sig/applications_screenshot",
                      "https://gitee.com/openharmony-sig/applications_screenlock",
+                     "https://gitee.com/openharmony-sig/applications_admin_provisioning",
                      "https://gitee.com/openharmony-sig/applications_theme",
                      "https://gitee.com/openharmony-sig/applications_settings_data"],
          "project-path":["applications/standard/systemui",
@@ -239,6 +240,7 @@
                          "NONE",
                          "applications/standard/screenshot",
                          "applications/standard/screenlock",
+                         "applications/standard/admin_provisioning",
                          "applications/standard/theme",
                          "applications/standard/settings_data"]
       },
