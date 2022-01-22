@@ -17,7 +17,7 @@
   - drivers_peripheral：https://gitee.com/openharmony/drivers_peripheral
   - drivers_adapter：https://gitee.com/openharmony/drivers_adapter
   - drivers_adapter_khdf_linux：https://gitee.com/openharmony/drivers_adapter_khdf_linux
-  - drivers_interface：https://gitee.com/openharmony-sig/drivers_interface
+  - drivers_interface：https://gitee.com/openharmony/drivers_interface
   - third_party_libnl：https://gitee.com/openharmony-sig/third_party_libnl
   - third_party_openmax：https://gitee.com/openharmony-sig/third_party_openmax
 
@@ -30,6 +30,7 @@
 - @zianed(https://gitee.com/zianed)
 - @dxbedu(https://gitee.com/dxbedu)
 - @Kevin-Lau(https://gitee.com/Kevin-Lau)
+- @yuanbo(https://gitee.com/yuanbogit)
 
 ### 会议
  - 会议时间：双周例会，周三下午16:00
