@@ -32,7 +32,7 @@ OpenHarmony 媒体管理。
   - third_party_libsoup:https://gitee.com/openharmony/third_party_libsoup
   - third_party_libpsl:https://gitee.com/openharmony/third_party_libpsl
   - third_party_gettext:https://gitee.com/openharmony/third_party_gettext
-  - third_party_openh264:https://gitee.com/openharmony-sig/third_party_openh264
+  - third_party_openh264:https://gitee.com/openharmony/third_party_openh264
 
 ## SIG组成员
 
@@ -51,7 +51,7 @@ OpenHarmony 媒体管理。
 
 ### 联系方式(可选)
 
-- dumingliang@huawei.com 
+- dumingliang@huawei.com
 
 - 邮件列表：dev@openharmony.io
 - Zulip群组：https://zulip.openharmony.cn
