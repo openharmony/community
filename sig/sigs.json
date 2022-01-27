@@ -338,7 +338,14 @@
             "https://gitee.com/openharmony/powermgr_thermal_manager",
             "https://gitee.com/openharmony/device_manager",
             "https://gitee.com/openharmony-sig/distributed_hardware_fwk",
-            "https://gitee.com/openharmony-sig/distributed_input"
+            "https://gitee.com/openharmony-sig/distributed_input",
+            "https://gitee.com/openharmony-sig/msdp_start",
+            "https://gitee.com/openharmony-sig/msdp_motion",
+            "https://gitee.com/openharmony-sig/msdp_movement",
+            "https://gitee.com/openharmony-sig/msdp_device_status",
+            "https://gitee.com/openharmony-sig/msdp_spatial_awareness",
+            "https://gitee.com/openharmony-sig/msdp_geofence",
+            "https://gitee.com/openharmony-sig/msdp_timeline"
          ],
          "project-path":[
             "base/sensors/miscdevice_lite",
@@ -356,7 +363,14 @@
             "base/powermgr/thermal_manager",
             "foundation/distributedhardware/devicemanager",
             "foundation/distributedhardware/distributedhardwarefwk",
-            "foundation/distributedhardware/distributedinput"
+            "foundation/distributedhardware/distributedinput",
+            "base/msdp/start",
+            "base/msdp/motion",
+            "base/msdp/movement",
+            "base/msdp/device_status",
+            "base/msdp/spatial_awareness",
+            "base/msdp/geofence",
+            "base/msdp/timeline"
          ]
       },
       {

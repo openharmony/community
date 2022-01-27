@@ -342,3 +342,10 @@
 |340|useriam_user_idm|base/user_iam/user_idm|https://gitee.com/wangxu43|wangxu43@huawei.com|https://gitee.com/zhirenx|xuzhiren@huawei.com|SIG_Security|
 |341|security_device_security_level|base/security/device_security_level|https://gitee.com/zhirenx|xuzhiren@huawei.com|https://gitee.com/wangxu43|wangxu43@huawei.com|SIG_Security|
 |342|developtools_hapsigner|developtools/hapsigner|https://gitee.com/liuchibin|liuchibin@huawei.com|https://gitee.com/wangxu43|wangxu43@huawei.com|SIG_Security|
+|343|msdp_start|base/msdp/start|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
+|344|msdp_motion|base/msdp/motion|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
+|345|msdp_movement|base/msdp/movement|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
+|346|msdp_device_status|base/msdp/device_status|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
+|347|msdp_spatial_awareness|base/msdp/spatial_awareness|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
+|348|msdp_geofence|base/msdp/geofence|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
+|349|msdp_timeline|base/msdp/timeline|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
