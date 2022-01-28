@@ -245,14 +245,14 @@
                          "applications/standard/settings_data"]
       },
       {
-         "sig-name":"sig-dllite-micro",
+         "sig-name":"sig-ai-framework",
          "projects": [
-            "https://gitee.com/openharmony-sig/dllite_micro",
-            "https://gitee.com/openharmony-sig/mindspore"
+            "https://gitee.com/openharmony-sig/mindspore",
+            "https://gitee.com/openharmony-sig/dllite_micro"
          ],
          "project-path":[
-            "foundation/ai/dllite-micro",
-            "third_party/mindspore"
+            "third_party/mindspore",
+            "foundation/ai/dllite-micro"
          ]
       },
       {
