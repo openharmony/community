@@ -31,6 +31,7 @@
   - applications_admin_provisioning: https://gitee.com/openharmony-sig/applications_admin_provisioning
   - applications_theme: https://gitee.com/openharmony-sig/applications_theme
   - applications_settingsdata: https://gitee.com/openharmony-sig/applications_settings_data
+  - applications_contactsdata: https://gitee.com/openharmony-sig/applications_contactsdata
 
 ## SIG组成员
 
