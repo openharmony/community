@@ -16,18 +16,18 @@
   - repository3名称：https://gitee.com/openharmony/kernel_linux_build
   - repository4名称：https://gitee.com/openharmony/kernel_linux_4.19
   - repository5名称：https://gitee.com/openharmony/kernel_linux_5.10
-  - repository6名称：https://gitee.com/openharmony-sig/storage_user_file_manger
-  - repository7名称：https://gitee.com/openharmony-sig/storage_app_file_manager
-  - repository8名称：https://gitee.com/openharmony-sig/storage_app_fileshare_manager
-  - repository9名称：https://gitee.com/openharmony-sig/storage_storage_manager
-  - repository10名称：https://gitee.com/openharmony-sig/storage_distributed_file_manager
-  - repository11名称：https://gitee.com/openharmony-sig/storage_fs_tools
-  - repository12名称：https://gitee.com/openharmony-sig/third_party_f2fs-tools
-  - repository13名称：https://gitee.com/openharmony-sig/third_party_ntfs-3g
-  - repository14名称：https://gitee.com/openharmony-sig/third_party_fsck_msdos
-  - repository15名称：https://gitee.com/openharmony-sig/third_party_gptfdisk
-  - repository16名称：https://gitee.com/openharmony-sig/third_party_newfs_msdos
-  - repository17名称：https://gitee.com/openharmony-sig/third_party_exfat-utils
+  - repository6名称：https://gitee.com/openharmony/filemanagement_user_file_service
+  - repository7名称：https://gitee.com/openharmony/filemanagement_file_api
+  - repository8名称：https://gitee.com/openharmony/filemanagement_app_file_service
+  - repository9名称：https://gitee.com/openharmony/filemanagement_storage_service
+  - repository10名称：https://gitee.com/openharmony/filemanagement_dfs_service
+  - repository11名称：https://gitee.com/openharmony-sig/filemanagement_fs_tools
+  - repository12名称：https://gitee.com/openharmony/third_party_f2fs-tools
+  - repository13名称：https://gitee.com/openharmony/third_party_ntfs-3g
+  - repository14名称：https://gitee.com/openharmony/third_party_fsck_msdos
+  - repository15名称：https://gitee.com/openharmony/third_party_gptfdisk
+  - repository16名称：https://gitee.com/openharmony/third_party_newfs_msdos
+  - repository17名称：https://gitee.com/openharmony/third_party_exfat-utils
 
 ## SIG组成员
 

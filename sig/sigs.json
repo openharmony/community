@@ -9,7 +9,7 @@
                      "https://gitee.com/openharmony/kernel_linux_5.10",
                      "https://gitee.com/openharmony/filemanagement_user_file_service",
                      "https://gitee.com/openharmony/filemanagement_file_api",
-                     "https://gitee.com/openharmony-sig/filemanagement_app_file_service",
+                     "https://gitee.com/openharmony/filemanagement_app_file_service",
                      "https://gitee.com/openharmony/filemanagement_storage_service",
                      "https://gitee.com/openharmony/filemanagement_dfs_service",
                      "https://gitee.com/openharmony-sig/filemanagement_fs_tools",
