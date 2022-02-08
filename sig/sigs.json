@@ -233,7 +233,8 @@
                      "https://gitee.com/openharmony-sig/applications_screenlock",
                      "https://gitee.com/openharmony-sig/applications_admin_provisioning",
                      "https://gitee.com/openharmony-sig/applications_theme",
-                     "https://gitee.com/openharmony-sig/applications_settings_data"],
+                     "https://gitee.com/openharmony-sig/applications_settings_data",
+                     "https://gitee.com/openharmony-sig/applications_contactsdata"],
          "project-path":["applications/standard/systemui",
                          "applications/standard/settings",
                          "applications/standard/launcher",
@@ -242,7 +243,8 @@
                          "applications/standard/screenlock",
                          "applications/standard/admin_provisioning",
                          "applications/standard/theme",
-                         "applications/standard/settings_data"]
+                         "applications/standard/settings_data",
+                         "applications/standard/contactsdata"]
       },
       {
          "sig-name":"sig-ai-framework",
