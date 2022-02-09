@@ -11,7 +11,7 @@ Manage OpenHarmony Media
 ### work scope
 OpenHarmony media related design and review.
 
-## The repository 
+## The repository
 - project name:
   - multimedia_media_standard:https://gitee.com/openharmony/multimedia_media_standard
   - multimedia_audio_standard:https://gitee.com/openharmony/multimedia_audio_standard
@@ -32,7 +32,7 @@ OpenHarmony media related design and review.
   - third_party_libsoup:https://gitee.com/openharmony/third_party_libsoup
   - third_party_libpsl:https://gitee.com/openharmony/third_party_libpsl
   - third_party_gettext:https://gitee.com/openharmony/third_party_gettext
-  - third_party_openh264:https://gitee.com/openharmony-sig/third_party_openh264
+  - third_party_openh264:https://gitee.com/openharmony/third_party_openh264
 
 
 ## SIG Members
@@ -53,7 +53,7 @@ OpenHarmony media related design and review.
 
 ### Contact (optional)
 
-- dumingliang@huawei.com 
+- dumingliang@huawei.com
 
 - Mailing list：dev@openharmony.io
 - Zulip group: https://zulip.openharmony.cn
