@@ -40,7 +40,7 @@
 |网络管理子系统|[third_party_libnftnl](https://gitee.com/openharmony-sig/third_party_libnftnl)|third_party/libnftnl|[zhuwenchao](https://gitee.com/xautosoft)|
 |DFX子系统|[hiviewdfx_faultloggerd](https://gitee.com/openharmony/hiviewdfx_faultloggerd)|base/hiviewdfx/faultloggerd|[maplestorys](https://gitee.com/maplestorys)|
 |DFX子系统|[hiviewdfx_hiappevent](https://gitee.com/openharmony/hiviewdfx_hiappevent)|base/hiviewdfx/hiappevent|[stesen](https://gitee.com/stesen)|
-|DFX子系统|[hiviewdfx_hichecker](https://gitee.com/openharmony-sig/hiviewdfx_hichecker)|base/hiviewdfx/hichecker|[jiangweizheng](https://gitee.com/jeyogg)|
+|DFX子系统|[hiviewdfx_hichecker](https://gitee.com/openharmony/hiviewdfx_hichecker)|base/hiviewdfx/hichecker|[jiangweizheng](https://gitee.com/jeyogg)|
 |DFX子系统|[hiviewdfx_hidumper](https://gitee.com/openharmony-sig/hiviewdfx_hidumper)|base/hiviewdfx/hidumper|[jiangweizheng](https://gitee.com/jeyogg)|
 |DFX子系统|[hiviewdfx_hilog](https://gitee.com/openharmony/hiviewdfx_hilog)|base/hiviewdfx/hilog|[stesen](https://gitee.com/stesen)|
 |DFX子系统|[hiviewdfx_hisysevent](https://gitee.com/openharmony/hiviewdfx_hisysevent)|base/hiviewdfx/hisysevent|[yaomanhai](https://gitee.com/yaomanhai)|

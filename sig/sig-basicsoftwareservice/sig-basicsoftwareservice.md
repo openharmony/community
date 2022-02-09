@@ -39,7 +39,7 @@ Basic Software Services includes the following sub-systems:
 |netmanager|[third_party_libnftnl](https://gitee.com/openharmony-sig/third_party_libnftnl)|third_party/libnftnl|[zhuwenchao](https://gitee.com/xautosoft)|
 |HiviewDFX|[hiviewdfx_faultloggerd](https://gitee.com/openharmony/hiviewdfx_faultloggerd)|base/hiviewdfx/faultloggerd|[maplestorys](https://gitee.com/maplestorys)|
 |HiviewDFX|[hiviewdfx_hiappevent](https://gitee.com/openharmony/hiviewdfx_hiappevent)|base/hiviewdfx/hiappevent|[stesen](https://gitee.com/stesen)|
-|HiviewDFX|[hiviewdfx_hichecker](https://gitee.com/openharmony-sig/hiviewdfx_hichecker)|base/hiviewdfx/hichecker|[jiangweizheng](https://gitee.com/jeyogg)|
+|HiviewDFX|[hiviewdfx_hichecker](https://gitee.com/openharmony/hiviewdfx_hichecker)|base/hiviewdfx/hichecker|[jiangweizheng](https://gitee.com/jeyogg)|
 |HiviewDFX|[hiviewdfx_hidumper](https://gitee.com/openharmony-sig/hiviewdfx_hidumper)|base/hiviewdfx/hidumper|[jiangweizheng](https://gitee.com/jeyogg)|
 |HiviewDFX|[hiviewdfx_hilog](https://gitee.com/openharmony/hiviewdfx_hilog)|base/hiviewdfx/hilog|[stesen](https://gitee.com/stesen)|
 |HiviewDFX|[hiviewdfx_hisysevent](https://gitee.com/openharmony/hiviewdfx_hisysevent)|base/hiviewdfx/hisysevent|[yaomanhai](https://gitee.com/yaomanhai)|
