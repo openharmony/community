@@ -158,7 +158,7 @@
 |156|graphic_standard|foundation/graphic/standard|https://gitee.com/abbuu|liyu37@huawei.com|  https://gitee.com/lz-230 <br> https://gitee.com/mk_gc <br> https://gitee.com/yifan-cui <br> https://gitee.com/lijj01 | lizheng2@huawei.com <br> mengkun@huawei.com <br> cuikun1@huawei.com <br> lijunjie29@huawei.com|SIG_Graphics|
 |157|multimedia_audio_standard|foundation/multimedia/audio_standard|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com|https://gitee.com/anurup|anurup.m@huawei.com|SIG_Media|
 |158|multimedia_camera_standard|foundation/multimedia/camera_standard|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com|https://gitee.com/srmurali|muralidhar.s.r@huawei.com|SIG_Media|
-|159|multimedia_histreamer|foundation/multimedia/histreamer|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com| | |SIG_Media|
+|159|multimedia_histreamer|foundation/multimedia/histreamer|https://gitee.com/guodongchen|chenguodong@huawei.com|https://gitee.com/yiweidengdai|wangxiaokai1@huawei.com|SIG_Media|
 |160|multimedia_media_standard|foundation/multimedia/media_standard|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com|https://gitee.com/sharpshooter_t|taojun13@huawei.com|SIG_Media|
 |161|multimodalinput_input|foundation/multimodalinput/input|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_GraphicsandMedia|
 |162|interface_sdk-js|interface/sdk-js|https://gitee.com/karl-z|zhangyongzhi@huawei.com|https://gitee.com/im-off-this-week <br> https://gitee.com/wanchengzhen <br> https://gitee.com/wangzaishang <br> https://gitee.com/huawei_qiangbo <br> https://gitee.com/xiadengping|rengelin@huawei.com <br> wanchengzhen@huawei.com <br> wangzaishang@huawei.com <br> qiangbo2@huawei.com <br> xiadengping@huawei.com|SIG_ApplicationFramework|
@@ -349,3 +349,5 @@
 |347|msdp_spatial_awareness|base/msdp/spatial_awareness|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
 |348|msdp_geofence|base/msdp/geofence|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
 |349|msdp_timeline|base/msdp/timeline|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
+|350|third_party_minimp3|third_party/minimp3|https://gitee.com/yiweidengdai|wangxiaokai1@huawei.com| | |SIG_Media|
+|351|third_party_minimp4|third_party/minimp4|https://gitee.com/yiweidengdai|wangxiaokai1@huawei.com| | |SIG_Media|
