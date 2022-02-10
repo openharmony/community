@@ -351,3 +351,4 @@
 |349|msdp_timeline|base/msdp/timeline|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
 |350|third_party_minimp3|third_party/minimp3|https://gitee.com/yiweidengdai|wangxiaokai1@huawei.com| | |SIG_Media|
 |351|third_party_minimp4|third_party/minimp4|https://gitee.com/yiweidengdai|wangxiaokai1@huawei.com| | |SIG_Media|
+|352|developtools_hapsigner|developtools/hapsigner|https://gitee.com/liuchibin|liuchibin@huawei.com| | |SIG_Security|
