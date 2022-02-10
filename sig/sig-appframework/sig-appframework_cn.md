@@ -22,6 +22,7 @@ ApplicationFramework相关的设计评审、提交评审、《OpenHarmony Applic
   - third_party_weex-loader:https://gitee.com/openharmony/third_party_weex-loader
   - third_party_parse5:https://gitee.com/openharmony/third_party_parse5
   - third_party_glfw:https://gitee.com/openharmony/third_party_glfw
+  - global_resource_tool:"https://gitee.com/openharmony-sig/global_resource_tool"
 
 ## SIG组成员
 
