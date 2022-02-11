@@ -217,7 +217,7 @@
 |215|utils_native|utils/native|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
 |216|resources|utils/resources|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
 |217|utils_selinux_policy_standard|utils/system/selinux_policy_standard|https://gitee.com/xuwenfang|xuwenfang@huawei.com| | |SIG_Security|
-|218|app_samples|NA|https://gitee.com/illybyy|baoyayong@huawei.com| | |SIG_SystemApplication|
+|218|app_samples|NA|https://gitee.com/illybyy|baoyayong@huawei.com|https://gitee.com/jiangtao92|jiangtao57@huawei.com|SIG_SystemApplication|
 |219|tools_oat|NA|https://gitee.com/jalenchen|chenyaxun@huawei.com| | |SIG_CommunityBuilding|
 |220|device_manager|foundation/distributedhardware/devicemanager|https://gitee.com/skypuhui|puhui1@huawei.com|https://gitee.com/pengguanqi|pengguanqi@huawei.com|SIG_DistributedHardwareManagement|
 |221|sensors_miscdevice|base/sensors/miscdevice|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
