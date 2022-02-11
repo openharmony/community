@@ -18,9 +18,9 @@ OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密�
   - dataclassification：https://gitee.com/openharmony/security_dataclassification
   - appverify：https://gitee.com/openharmony/security_appverify
   - app_permission:https://gitee.com/openharmony/security_permission
-  - selinux:https://gitee.com/openharmony-sig/third_party_selinux
-  - pcre2:https://gitee.com/openharmony-sig/third_party_pcre2
-  - selinux:https://gitee.com/openharmony-sig/security_selinux
+  - selinux:https://gitee.com/openharmony/third_party_selinux
+  - pcre2:https://gitee.com/openharmony/third_party_pcre2
+  - selinux:https://gitee.com/openharmony/security_selinux
   - access_token:https://gitee.com/openharmony/security_access_token
   - useriam_auth_executor_mgr:https://gitee.com/openharmony/useriam_auth_executor_mgr
   - useriam_faceauth:https://gitee.com/openharmony/useriam_faceauth
@@ -28,7 +28,7 @@ OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密�
   - useriam_user_auth:https://gitee.com/openharmony/useriam_user_auth
   - useriam_user_idm:https://gitee.com/openharmony/useriam_user_idm
   - security_device_security_level:https://gitee.com/openharmony/security_device_security_level
-  - developtools_hapsigner:https://gitee.com/openharmony-sig/developtools_hapsigner
+  - developtools_hapsigner:https://gitee.com/openharmony/developtools_hapsigner
 
 ## SIG组成员
 
