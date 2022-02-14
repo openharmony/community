@@ -60,7 +60,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - device_fudanmicro: https://gitee.com/openharmony-sig/device_fudanmicro
   - vendor_fudanmicro: https://gitee.com/openharmony-sig/vendor_fudanmicro
   - device_bestechnic: https://gitee.com/openharmony-sig/device_bestechnic
-  - vendor_bestechnic: https://gitee.com/openharmony-sig/vendor_bestechnic
+  - vendor_bestechnic: https://gitee.com/openharmony/vendor_bestechnic
   - device_ingenic: https://gitee.com/openharmony-sig/device_ingenic
   - vendor_ingenic: https://gitee.com/openharmony-sig/vendor_ingenic
   - device_espressif: https://gitee.com/openharmony-sig/device_soc_espressif
@@ -87,9 +87,9 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_hihope_build
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_hihope_dayu
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_vendor_hihope
-  - device_bearpi: https://gitee.com/openharmony-sig/device_bearpi_bearpi_hm_nano
+  - device_bearpi: https://gitee.com/openharmony/device_bearpi_bearpi_hm_nano
   - device_bearpi:https://gitee.com/openharmony-sig/applications_sample_bearpi_hm_nano
-  - device_bearpi:https://gitee.com/openharmony-sig/vendor_bearpi
+  - device_bearpi:https://gitee.com/openharmony/vendor_bearpi
   - vendor_huawei_ipcamera_v3s: https://gitee.com/openharmony-sig/vendor_huawei_ipcamera_v3s
   - vendor_oh_fun: https://gitee.com/openharmony-sig/vendor_oh_fun
   - vendor_huawei_minidisplay_demo: https://gitee.com/openharmony-sig/vendor_huawei_minidisplay_demo
@@ -106,7 +106,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - goodix: https://gitee.com/openharmony-sig/devboard_vendor_goodix_gr5515_sk_basic
   - device_soc_hisilicon: https://gitee.com/openharmony/device_soc_hisilicon
   - device_board_hisilicon: https://gitee.com/openharmony/device_board_hisilicon
-  - device_board_fnlink: https://gitee.com/openharmony-sig/device_board_fnlink
+  - device_board_fnlink: https://gitee.com/openharmony/device_board_fnlink
   - device_t-head: https://gitee.com/openharmony-sig/device_soc_t-head
   - device_t-head: https://gitee.com/openharmony-sig/device_board_t-head
   - vendor_t-head: https://gitee.com/openharmony-sig/vendor_t-head
