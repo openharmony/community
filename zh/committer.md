@@ -281,8 +281,7 @@
 |279|third_party_pcre2|third_party/pcre2|https://gitee.com/hu-huifeng|huhuifeng@huawei.com|https://gitee.com/shell_way <br> https://gitee.com/freenull <br> https://gitee.com/jiang-xiaofeng|qinfd@superred.com.cn <br> xieb@superred.com.cn <br> jiangxiaofeng8@huawei.com|SIG_Security|
 |280|security_selinux|base/security/selinux|https://gitee.com/hu-huifeng|huhuifeng@huawei.com|https://gitee.com/shell_way <br> https://gitee.com/freenull <br> https://gitee.com/jiang-xiaofeng|qinfd@superred.com.cn <br> xieb@superred.com.cn <br> jiangxiaofeng8@huawei.com|SIG_Security|
 |281|third_party_nghttp2|third_party/nghttp2|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
-|282|accessibility|base/accessibility|https://gitee.com/ylsnow|xueyulong@huawei.com| | |SIG_BasicSoftwareService|
-|283|accessibility|base/accessibility|https://gitee.com/ydmgr |yaoruijiang1@huawei.com| | |SIG_BasicSoftwareService|
+|282|accessibility|base/accessibility|https://gitee.com/bj1010|dubingjian@huawei.com| https://gitee.com/zhouyaoying | zhouyaoying@huawei.com |SIG_BasicSoftwareService|
 |284|filemanagement_user_file_service|foundation/filemanagement/user_file_service|https://gitee.com/panqinxu|panqinxu1@huawei.com|https://gitee.com/zhangzhiwi <br> https://gitee.com/easy-to-see|weizhi.zhang@huawei.com <br> salient.yijian@huawei.com|SIG_Kernel|
 |285|filemanagement_file_api|foundation/filemanagement/file_api|https://gitee.com/panqinxu|panqinxu1@huawei.com|https://gitee.com/zhangzhiwi <br> https://gitee.com/easy-to-see|weizhi.zhang@huawei.com <br> salient.yijian@huawei.com|SIG_Kernel|
 |286|filemanagement_app_file_service|foundation/filemanagement/app_file_service|https://gitee.com/bubble_mao|maojingjing1@huawei.com|https://gitee.com/panqinxu <br> https://gitee.com/ningzuobin|panqinxu1@huawei.com <br> ningzuobin@huawei.com|SIG_Kernel|
