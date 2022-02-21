@@ -78,7 +78,7 @@ Basic Software Services includes the following sub-systems:
 |Notification|[notification_ans_standard](https://gitee.com/openharmony/notification_ans_standard)|base/notification/ans_standard|[autumn330](https://gitee.com/autumn330)|
 |Account|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
 |Account|[account_app_account](https://gitee.com/openharmony-sig/account_app_account)|base/account/app_account|[verystone](https://gitee.com/verystone)|
-|accessibility|[accessibility](https://gitee.com/openharmony-sig/accessibility)|base/accessibility|[xueyulong](https://gitee.com/ylsnow)|
+|accessibility|[accessibility](https://gitee.com/openharmony/accessibility)|base/accessibility|[dubingjian](https://gitee.com/bj1010)|
 |DeviceProfile|[device_profile_core](https://gitee.com/openharmony/device_profile_core)|foundation/deviceprofile/device_profile_core|[lijiarun](https://gitee.com/lijiarun)|
 |DeviceProfile|[device_profile_core](https://gitee.com/openharmony/device_profile_core)|foundation/deviceprofile/device_profile_core|[jiacan](https://gitee.com/cangegegege)|
 |ResourceSchedule|[resourceschedule_work_scheduler](https://gitee.com/openharmony/resourceschedule_work_scheduler)|foundation/resourceschedule/work_scheduler|[chenmingJay](https://gitee.com/chenmingJay)|
@@ -112,8 +112,7 @@ Basic Software Services includes the following sub-systems:
 |Update|[ailorna](https://gitee.com/ailorna)|[mail](hehuan1@huawei.com)|
 |Notification|[autumn330](https://gitee.com/autumn330)|[mail](hw.liuwei@huawei.com)|
 |Account|[verystone](https://gitee.com/verystone)|[mail](xudaqing@huawei.com)|
-|accessibility|[xueyulong](https://gitee.com/ylsnow)|[mail](xueyulong@huawei.com)|
-|accessibility|[yaoruijiang](https://gitee.com/ydmgr)|[mail](yaoruijiang1@huawei.com)|
+|accessibility|[dubingjian](https://gitee.com/bj1010)|[mail](dubingjian@huawei.com)|
 |DeviceProfile|[lijiarun](https://gitee.com/lijiarun)|[mail](lijiarun@huawei.com)|
 |DeviceProfile|[jiacan](https://gitee.com/cangegegege)|[mail](jiacan@huawei.com)|
 |ResourceSchedule|[chenmingJay](https://gitee.com/chenmingJay)|[mail](chenming48@huawei.com)|
