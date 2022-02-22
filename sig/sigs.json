@@ -749,6 +749,23 @@
          "sig-name":"sig-assist_tools",
          "projects":"https://gitee.com/openharmony-sig/assist_tools",
          "project-path": "NONE"
+      },
+      {
+         "sig-name":"sig-tee",
+         "projects":[
+            "https://gitee.com/openharmony-sig/tee_tee_client",
+            "https://gitee.com/openharmony-sig/tee_tee_tzdriver",
+            "https://gitee.com/openharmony-sig/tee_tee_os_framework",
+            "https://gitee.com/openharmony-sig/tee_tee_os_kernel",
+            "https://gitee.com/openharmony-sig/tee_tee_dev_kit"
+         ],
+         "project-path":[
+            "base/tee/tee_client",
+            "base/tee/tee_tzdriver",
+            "base/tee/tee_os_framework",
+            "base/tee/tee_os_kernel",
+            "base/tee/tee_dev_kit"
+         ]
       }
    ]
 }
