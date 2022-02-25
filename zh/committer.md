@@ -352,3 +352,5 @@
 |350|third_party_minimp4|third_party/minimp4|https://gitee.com/yiweidengdai|wangxiaokai1@huawei.com| | |SIG_Media|
 |351|developtools_hapsigner|developtools/hapsigner|https://gitee.com/liuchibin|liuchibin@huawei.com| | |SIG_Security|
 |352|frame_aware_sched|foundation/resourceschedule/plugins/frame_aware_sched|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/lizongfeng|lizongfeng1@huawei.com|SIG_BasicSoftwareService|
+|353|third_party_typescript|third_party/typescript|https://gitee.com/gongpingde |chengongping@huawei.com | | |SIG_ApplicationFramework|
+|354|third_party_typescript_eslint|third_party/typescript_eslint|https://gitee.com/gongpingde |chengongping@huawei.com | | |SIG_ApplicationFramework|
