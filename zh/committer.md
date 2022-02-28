@@ -143,10 +143,10 @@
 |141|developtools_hdc_standard|developtools/hdc_standard|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/zhaifenghw|zhaifeng@huawei.com|SIG_R&DToolChain|
 |142|developtools_profiler|developtools/profiler|https://gitee.com/wangzaishang|wangzaishang@huawei.com|https://gitee.com/filer000|zhangxianfeng7@huawei.com|SIG_R&DToolChain|
 |143|device_hisilicon_hi3516dv300|device/hisilicon/hi3516dv300|https://gitee.com/northking-super|chenxin100@huawei.com| | |SIG_DriverFramework|
-|144|aafwk_standard|foundation/aafwk/standard|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/jayleehw|liqiang121@huawei.com|SIG_ApplicationFramework|
+|144|aafwk_standard|foundation/aafwk/standard|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/jayleehw <br/> https://gitee.com/zhongjianfei|liqiang121@huawei.com <br/> zhongjianfei@huawei.com|SIG_ApplicationFramework|
 |145|ace_ace_engine|foundation/ace/ace_engine|https://gitee.com/sunfei2021|sunfei.sun@huawei.com|https://gitee.com/shiyu_huang|huangshiyu1@huawei.com|SIG_ApplicationFramework|
 |146|ace_napi|foundation/ace/napi|https://gitee.com/sunfei2021|sunfei.sun@huawei.com|https://gitee.com/shiyu_huang|huangshiyu1@huawei.com|SIG_ApplicationFramework|
-|147|appexecfwk_standard|foundation/appexecfwk/standard|https://gitee.com/gwang2008|wanggenliang@huawei.com| https://gitee.com/shuaytao | shuaiyutao1@huawei.com |SIG_ApplicationFramework|
+|147|appexecfwk_standard|foundation/appexecfwk/standard|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/shuaytao <br/> https://gitee.com/zhongjianfei|shuaiyutao1@huawei.com <br/> zhongjianfei@huawei.com|SIG_ApplicationFramework|
 |148|communication_dsoftbus|foundation/communication/dsoftbus|https://gitee.com/bigpumpkin|chenzhennan@huawei.com|https://gitee.com/Xi_Yuhao <br> https://gitee.com/maerlii|xiyuhao@huawei.com <br> maerli@huawei.com|SIG_SoftBus|
 |149|communication_ipc|foundation/communication/ipc|https://gitee.com/yinyouzhan|yinyouzhan@huawei.com|https://gitee.com/maerlii <br> https://gitee.com/Xi_Yuhao |maerli@huawei.com <br> xiyuhao@huawei.com|SIG_SoftBus|
 |150|communication_wifi|foundation/communication/wifi|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/fenis-two-thousand-and-one|lujunxin@huawei.com|SIG_SoftBus|
