@@ -63,10 +63,11 @@ Continuously contributes to the softbus of the OpenHarmony community, implements
 - @MaErlii(https://gitee.com/maerlii)
 
 ### Meetings
- - Meeting time: Bi-weekly meeting, Monday 19:15 pm, UTC+8 
+ - Meeting time: Bi-weekly meeting, Monday 16:00 pm, UTC+8 
  - Meeting Proposal: [OpenHarmony SIG-SoftBus Meeting Proposal](https://shimo.im/sheets/iDp1dGmnk3sVjJoE/MODOC)
  - Meeting link: Welink
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_dsoftbus.openharmony.io) mailing list sig_dsoftbus@openharmony.io for the meeting link
+ - Meeting Summary:To view the minutes of past meetings, please click this [Meeting minutes](https://gitee.com/openharmony-sig/sig-content/blob/master/softbus/meetings)
 
 ### Contact
 | Address                                 | Introduction | Usage Description                                                  |
