@@ -38,7 +38,7 @@
 |36|device_hisilicon_third_party_ffmpeg|device/hisilicon/third_party/ffmpeg|https://gitee.com/yuanwhong|yuanwenhong@hisilicon.com|https://gitee.com/helsingchen|helsing.chen@hisilicon.com|SIG_DriverFramework|
 |37|device_hisilicon_third_party_uboot|device/hisilicon/third_party/uboot|https://gitee.com/yuanwhong|yuanwenhong@hisilicon.com|https://gitee.com/helsingchen|helsing.chen@hisilicon.com|SIG_DriverFramework|
 |38|device_qemu|device/qemu|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/laokz|laokz@foxmail.com|SIG_Devboard|
-|39|docs|docs|https://gitee.com/neeen|neen.yang@huawei.com|https://gitee.com/duangavin123|duanxichao@huawei.com|SIG_Docs|
+|39|docs|docs|https://gitee.com/neeen|neen.yang@huawei.com|https://gitee.com/duangavin123 <br> https://gitee.com/RayShih|duanxichao@huawei.com <br> shirui721@huawei.com |SIG_Docs|
 |40|iot_link|domains/iot/link|https://gitee.com/defeng2020|wudefeng@huawei.com| | |SIG_SoftBus|
 |41|drivers_adapter_khdf_linux|drivers/adapter/khdf/linux|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau <br> https://gitee.com/yuanbogit|liufeihu@huawei.com <br> yuanbo@huawei.com|SIG_DriverFramework|
 |42|drivers_framework|drivers/framework|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau <br> https://gitee.com/yuanbogit|liufeihu@huawei.com <br> yuanbo@huawei.com|SIG_DriverFramework|
