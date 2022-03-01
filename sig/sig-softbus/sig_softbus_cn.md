@@ -61,11 +61,11 @@
 - @MaErlii(https://gitee.com/maerlii)
 
 ### 会议
- - 会议时间：双周例会，周一晚上19:15，UTC+8
- - 会议链接：Welink
+ - 会议时间：双周例会，周一下午16:00，UTC+8
  - 议题申报: [OpenHarmony SIG-SoftBus Meeting Proposal](https://shimo.im/sheets/iDp1dGmnk3sVjJoE/MODOC)
- - 会议主题: 通过邮件通知
- - 会议通知: 请订阅邮件列表 sig_dsoftbus@openharmony.io 获取会议链接
+ - 会议链接：Welink
+ - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_dsoftbus.openharmony.io) 邮件列表 sig_dsoftbus@openharmony.io 获取会议链接
+ - 会议纪要：查看往期会议纪要，请点此[会议纪要](https://gitee.com/openharmony-sig/sig-content/blob/master/softbus/meetings)
 
 ### 联系方式(可选)
 | 地址                                 | 简介        | 用途说明                                                         |
