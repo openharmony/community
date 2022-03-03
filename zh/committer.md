@@ -332,7 +332,7 @@
 |330|distributed_hardware_fwk|foundation/distributedhardware/distributedhardwarefwk|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|https://gitee.com/intermilano|night.zhangbin@huawei.com|SIG_DistributedHardwareManagement|
 |331|distributed_input|foundation/distributedhardware/distributedinput|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|https://gitee.com/skypuhui|puhui1@huawei.com|SIG_DistributedHardwareManagement|
 |332|security_access_token|base/security/access_token|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/hu-huifeng|huhuifeng@huawei.com|SIG_Security|
-|333|third_party_openmax|third_party/openmax|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau|liufeihu@huawei.com|SIG_DriverFramework|
+|333|third_party_openmax|third_party/openmax|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau <br> https://gitee.com/yuanbogit|liufeihu@huawei.com <br> yuanbo@huawei.com|SIG_DriverFramework|
 |334|third_party_opensles|third_party/openSLES|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_Media|
 |335|useriam_auth_executor_mgr|base/user_iam/auth_executor_mgr|https://gitee.com/wangxu43|wangxu43@huawei.com|https://gitee.com/zhirenx|xuzhiren@huawei.com|SIG_Security|
 |336|useriam_faceauth|base/user_iam/face_auth|https://gitee.com/wangxu43|wangxu43@huawei.com|https://gitee.com/zhirenx|xuzhiren@huawei.com|SIG_Security|
