@@ -354,3 +354,4 @@
 |352|frame_aware_sched|foundation/resourceschedule/plugins/frame_aware_sched|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/lizongfeng|lizongfeng1@huawei.com|SIG_BasicSoftwareService|
 |353|third_party_typescript|third_party/typescript|https://gitee.com/gongpingde |chengongping@huawei.com | | |SIG_ApplicationFramework|
 |354|third_party_typescript_eslint|third_party/typescript_eslint|https://gitee.com/gongpingde |chengongping@huawei.com | | |SIG_ApplicationFramework|
+|355|utils_memory|utils/memory|https://gitee.com/cbraham|suncai1@huawei.com|https://gitee.com/wang2002xu|wangxu44@huawei.com|SIG_CompileRuntime|
