@@ -27,7 +27,7 @@
   - powermgr_battery_statistics: https://gitee.com/openharmony/powermgr_battery_statistics
   - powermgr_thermal_manager: https://gitee.com/openharmony/powermgr_thermal_manager
   - devicemanager：https://gitee.com/openharmony/device_manager
-  - distributedhardwarefwk: https://gitee.com/openharmony-sig/distributed_hardware_fwk
+  - distributedhardwarefwk: https://gitee.com/openharmony/distributed_hardware_fwk
   - distributedinput: https://gitee.com/openharmony-sig/distributed_input
   - msdp_start: https://gitee.com/openharmony-sig/msdp_start
   - msdp_motion: https://gitee.com/openharmony-sig/msdp_motion
