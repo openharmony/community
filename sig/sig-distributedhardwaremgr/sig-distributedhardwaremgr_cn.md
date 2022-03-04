@@ -29,6 +29,9 @@
   - devicemanager：https://gitee.com/openharmony/device_manager
   - distributedhardwarefwk: https://gitee.com/openharmony/distributed_hardware_fwk
   - distributedinput: https://gitee.com/openharmony-sig/distributed_input
+  - distributedcamera: https://gitee.com/openharmony-sig/distributed_camera
+  - distributedscreen: https://gitee.com/openharmony-sig/distributed_screen
+  - distributedaudio: https://gitee.com/openharmony-sig/distributed_audio
   - msdp_start: https://gitee.com/openharmony-sig/msdp_start
   - msdp_motion: https://gitee.com/openharmony-sig/msdp_motion
   - msdp_movement: https://gitee.com/openharmony-sig/msdp_movement
