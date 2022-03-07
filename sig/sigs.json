@@ -251,7 +251,7 @@
       {
          "sig-name":"sig-ai-framework",
          "projects": [
-            "https://gitee.com/openharmony-sig/mindspore",
+            "https://gitee.com/openharmony/third_party_mindspore",
             "https://gitee.com/openharmony-sig/dllite_micro"
          ],
          "project-path":[
