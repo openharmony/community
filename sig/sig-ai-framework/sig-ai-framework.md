@@ -30,7 +30,7 @@ Support Special AI chip to connect to MindSpore Lite.
 
 ### The repository
 - project name:
-  - MindSpore: https://gitee.com/openharmony-sig/mindspore
+  - MindSpore: https://gitee.com/openharmony/third_party_mindspore
   - DLLite-micro: https://gitee.com/openharmony-sig/dllite_micro
 
 ## SIG Members

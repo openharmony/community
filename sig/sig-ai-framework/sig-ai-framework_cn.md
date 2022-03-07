@@ -30,7 +30,7 @@ MindSpore Lite模型转换工具不仅提供了将TensorFlow、TensorFlow Lite�
 
 ## 代码仓
 - 代码仓地址：
-  - MindSpore: https://gitee.com/openharmony-sig/mindspore
+  - MindSpore: https://gitee.com/openharmony/third_party_mindspore
   - DLLite-micro: https://gitee.com/openharmony-sig/dllite_micro
 
 ## SIG组成员
