@@ -144,7 +144,7 @@
 |142|developtools_profiler|developtools/profiler|https://gitee.com/wangzaishang|wangzaishang@huawei.com|https://gitee.com/filer000|zhangxianfeng7@huawei.com|SIG_R&DToolChain|
 |143|device_hisilicon_hi3516dv300|device/hisilicon/hi3516dv300|https://gitee.com/northking-super|chenxin100@huawei.com| | |SIG_DriverFramework|
 |144|aafwk_standard|foundation/aafwk/standard|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/jayleehw <br/> https://gitee.com/zhongjianfei|liqiang121@huawei.com <br/> zhongjianfei@huawei.com|SIG_ApplicationFramework|
-|145|ace_ace_engine|foundation/ace/ace_engine|https://gitee.com/sunfei2021|sunfei.sun@huawei.com|https://gitee.com/shiyu_huang|huangshiyu1@huawei.com|SIG_ApplicationFramework|
+|145|ace_ace_engine|foundation/ace/ace_engine|https://gitee.com/sunfei2021|sunfei.sun@huawei.com|https://gitee.com/shiyu_huang <br> https://gitee.com/yan-shuifeng |huangshiyu1@huawei.com <br> yanshuifeng@huawei.com |SIG_ApplicationFramework|
 |146|ace_napi|foundation/ace/napi|https://gitee.com/sunfei2021|sunfei.sun@huawei.com|https://gitee.com/shiyu_huang|huangshiyu1@huawei.com|SIG_ApplicationFramework|
 |147|appexecfwk_standard|foundation/appexecfwk/standard|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/shuaytao <br/> https://gitee.com/zhongjianfei|shuaiyutao1@huawei.com <br/> zhongjianfei@huawei.com|SIG_ApplicationFramework|
 |148|communication_dsoftbus|foundation/communication/dsoftbus|https://gitee.com/bigpumpkin|chenzhennan@huawei.com|https://gitee.com/Xi_Yuhao <br> https://gitee.com/maerlii|xiyuhao@huawei.com <br> maerli@huawei.com|SIG_SoftBus|
@@ -307,7 +307,7 @@
 |305|drivers_interface|drivers/interface|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau <br> https://gitee.com/yuanbogit|liufeihu@huawei.com <br> yuanbo@huawei.com|SIG_DriverFramework|
 |306|device_profile_core|foundation/deviceprofile/device_profile_core|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/cangegegege|jiacan@huawei.com|SIG_BasicSoftwareService|
 |307|third_party_skia|third_party/skia|https://gitee.com/abbuu|liyu37@huawei.com|  https://gitee.com/mk_gc <br> https://gitee.com/yifan-cui | mengkun@huawei.com <br> cuikun1@huawei.com|SIG_Graphics|
-|308|windowmanager|foundation/windowmanager|https://gitee.com/zhouyaoying|zhouyaoying@huawei.com|  https://gitee.com/bj1010 <br> https://gitee.com/abbuu | dubingjian@huawei.com <br> liyu37@huawei.com|SIG_Graphics|
+|308|windowmanager|foundation/windowmanager|https://gitee.com/zhouyaoying|zhouyaoying@huawei.com|  https://gitee.com/bj1010 <br> https://gitee.com/abbuu <br> https://www.gitee.com/qianlf | dubingjian@huawei.com <br> liyu37@huawei.com <br> qianliangfang@huawei.com |SIG_Graphics|
 |309|third_party_libnl|third_party/libnl|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau|liufeihu@huawei.com|SIG_DriverFramework|
 |310|xts_hats|                   test/xts/hats                   |  https://gitee.com/teacher-dong   | dongwang.wangdong@huawei.com |               https://gitee.com/liuhonggang123               |                   honggang.liu@huawei.com                    |SIG_Test|
 |311|distributeddatamgr_appdatamgr|foundation/distributeddatamgr/appdatamgr|https://gitee.com/mangtsang|mang.tsang@huawei.com|https://gitee.com/code_for_banana|wuchunbo1@huawei.com|SIG_DataManagement|
