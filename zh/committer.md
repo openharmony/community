@@ -357,3 +357,4 @@
 |355|utils_memory|utils/memory|https://gitee.com/cbraham|suncai1@huawei.com|https://gitee.com/wang2002xu|wangxu44@huawei.com|SIG_CompileRuntime|
 |356|third_party_mindspore|third_party/mindspore|https://gitee.com/zhaizhiqiang|zhaizhiqiang@huawei.com|https://gitee.com/sunsuodong <br> https://gitee.com/zhang_xue_tong <br> https://gitee.com/HilbertDavid <br> https://gitee.com/jpc_chenjianping|sunsuodong@huawei.com <br> zhangxuetong@huawei.com <br> lizheng53@huawei.com <br> jpc.chen@huawei.com|SIG-AI-Framework|
 |357|syscap_codec|developtools/syscap_codec|https://gitee.com/taiyipei|peitaiyi@huawei.com| | |SIG_R&DToolChain|
+|358|xts_dcts|                   test/xts/dcts                   |  https://gitee.com/gaohanyi1982   | gaohanyi@huawei.com |               https://gitee.com/jiyong_sd               |                   jiyong@huawei.com                    |SIG_Test|

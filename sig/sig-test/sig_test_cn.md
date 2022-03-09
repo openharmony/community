@@ -20,7 +20,7 @@
   - https://gitee.com/openharmony/xts_acts
   - https://gitee.com/openharmony/xts_tools
   - https://gitee.com/openharmony/xts_hats
-  - https://gitee.com/openharmony-sig/xts_dcts
+  - https://gitee.com/openharmony/xts_dcts
 
 ## SIG组成员
 
