@@ -20,7 +20,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - https://gitee.com/openharmony/xts_acts
   - https://gitee.com/openharmony/xts_tools
   - https://gitee.com/openharmony/xts_hats
-  - https://gitee.com/openharmony-sig/xts_dcts
+  - https://gitee.com/openharmony/xts_dcts
 
 ## SIG Members
 
