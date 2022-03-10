@@ -9,9 +9,9 @@
 |7|global_cust_lite|base/global/cust_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
 |8|global_i18n_lite|base/global/i18n_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
 |9|global_resmgr_lite|base/global/resmgr_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
-|10|hiviewdfx_hievent_lite|base/hiviewdfx/hievent_lite|https://gitee.com/stesen|stesen.ma@huawei.com| | |SIG_BasicSoftwareService|
-|11|hiviewdfx_hilog_lite|base/hiviewdfx/hilog_lite|https://gitee.com/stesen|stesen.ma@huawei.com| | |SIG_BasicSoftwareService|
-|12|hiviewdfx_hiview_lite|base/hiviewdfx/hiview_lite|https://gitee.com/stesen|stesen.ma@huawei.com| | |SIG_BasicSoftwareService|
+|10|hiviewdfx_hievent_lite|base/hiviewdfx/hievent_lite|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|
+|11|hiviewdfx_hilog_lite|base/hiviewdfx/hilog_lite|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|
+|12|hiviewdfx_hiview_lite|base/hiviewdfx/hiview_lite|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|
 |13|iothardware_peripheral|base/iot_hardware/peripheral|https://gitee.com/defeng2020|wudefeng@huawei.com| | |SIG_SoftBus|
 |14|powermgr_powermgr_lite|base/powermgr/powermgr_lite|https://gitee.com/aqxyjay|zhangchunxin@huawei.com| | |SIG_DistributedHardwareManagement|
 |15|security_appverify|base/security/appverify|https://gitee.com/scuteehuangjun|huangjun42@huawei.com| | |SIG_Security|
