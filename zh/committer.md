@@ -359,3 +359,4 @@
 |357|syscap_codec|developtools/syscap_codec|https://gitee.com/taiyipei|peitaiyi@huawei.com| | |SIG_R&DToolChain|
 |358|xts_dcts|                   test/xts/dcts                   |  https://gitee.com/gaohanyi1982   | gaohanyi@huawei.com |               https://gitee.com/jiyong_sd               |                   jiyong@huawei.com                    |SIG_Test|
 |359|distributed_camera|foundation/distributedhardware/distributedcamera|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|https://gitee.com/skypuhui|puhui1@huawei.com|SIG_DistributedHardwareManagement|
+|360|distributed_screen|foundation/distributedhardware/distributedscreen|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|https://gitee.com/skypuhui|puhui1@huawei.com|SIG_DistributedHardwareManagement|

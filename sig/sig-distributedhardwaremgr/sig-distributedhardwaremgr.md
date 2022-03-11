@@ -28,7 +28,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - distributedhardwarefwk: https://gitee.com/openharmony/distributed_hardware_fwk
   - distributedinput: https://gitee.com/openharmony-sig/distributed_input
   - distributedcamera: https://gitee.com/openharmony/distributed_camera
-  - distributedscreen: https://gitee.com/openharmony-sig/distributed_screen
+  - distributedscreen: https://gitee.com/openharmony/distributed_screen
   - distributedaudio: https://gitee.com/openharmony-sig/distributed_audio
   - msdp_start: https://gitee.com/openharmony-sig/msdp_start
   - msdp_motion: https://gitee.com/openharmony-sig/msdp_motion
