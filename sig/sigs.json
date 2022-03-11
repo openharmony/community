@@ -698,7 +698,10 @@
             "https://gitee.com/openharmony/third_party_weex-loader",
             "https://gitee.com/openharmony/third_party_parse5",
             "https://gitee.com/openharmony/third_party_glfw",
-            "https://gitee.com/openharmony-sig/global_resource_tool"
+            "https://gitee.com/openharmony-sig/global_resource_tool",
+            "https://gitee.com/openharmony/third_party_chromium",
+            "https://gitee.com/openharmony/third_party_cef",
+            "https://gitee.com/openharmony/web_webview"
          ],
          "project-path": [
             "developtools/ace-js2bundle",
@@ -706,7 +709,10 @@
             "third_party/weex-loader",
             "third_party/parse5",
             "third_party/glfw",
-            "developtools/global_resource_tool"
+            "developtools/global_resource_tool",
+            "third_party/chromium",
+            "third_party/cef",
+            "base/web/webview"
          ]
       },
       {
