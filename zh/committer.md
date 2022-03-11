@@ -360,3 +360,6 @@
 |358|xts_dcts|                   test/xts/dcts                   |  https://gitee.com/gaohanyi1982   | gaohanyi@huawei.com |               https://gitee.com/jiyong_sd               |                   jiyong@huawei.com                    |SIG_Test|
 |359|distributed_camera|foundation/distributedhardware/distributedcamera|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|https://gitee.com/skypuhui|puhui1@huawei.com|SIG_DistributedHardwareManagement|
 |360|distributed_screen|foundation/distributedhardware/distributedscreen|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|https://gitee.com/skypuhui|puhui1@huawei.com|SIG_DistributedHardwareManagement|
+|361|third_party_chromium|third_party/chromium|https://gitee.com/bigpumpkin|chenzhennan@huawei.com|https://gitee.com/leezheng_hz|lizheng@huawei.com|SIG_ApplicationFramework|
+|362|third_party_cef|third_party/cef|https://gitee.com/bigpumpkin|chenzhennan@huawei.com|https://gitee.com/leezheng_hz|lizheng@huawei.com|SIG_ApplicationFramework|
+|363|web_webview|base/web/webview|https://gitee.com/bigpumpkin|chenzhennan@huawei.com|https://gitee.com/leezheng_hz|lizheng@huawei.com|SIG_ApplicationFramework|
