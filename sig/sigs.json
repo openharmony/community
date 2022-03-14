@@ -268,10 +268,11 @@
             "https://gitee.com/openharmony/communication_ipc",
             "https://gitee.com/openharmony/communication_ipc_lite",
             "https://gitee.com/openharmony/communication_bluetooth",
-	    "https://gitee.com/openharmony-sig/communication_nfc",
+            "https://gitee.com/openharmony-sig/communication_nfc",
             "https://gitee.com/openharmony/communication_wifi",
             "https://gitee.com/openharmony/communication_wifi_lite",
             "https://gitee.com/openharmony/communication_wifi_aware",
+            "https://gitee.com/openharmony/base_location",
             "https://gitee.com/openharmony/telephony_call_manager",
             "https://gitee.com/openharmony/telephony_cellular_call",
             "https://gitee.com/openharmony/telephony_core_service",
@@ -290,10 +291,11 @@
             "foundation/communication/ipc",
             "foundation/communication/ipc_lite",
             "foundation/communication/bluetooth",
-	    "foundation/communication/nfc",
+            "foundation/communication/nfc",
             "foundation/communication/wifi",
             "foundation/communication/wifi_lite",
             "foundation/communication/wifi_aware",
+            "base/location",
             "base/telephony/call_manager",
             "base/telephony/cellular_call",
             "base/telephony/core_service",
@@ -681,14 +683,14 @@
             "utils/memory"
          ]
       },
-	  {
-		 "sig-name":"sig-miniblink",
+      {
+         "sig-name":"sig-miniblink",
          "projects":[
             "NONE"
          ],
          "project-path":[
-		 "NONE"
-		 ]
+         "NONE"
+         ]
      },
      {
          "sig-name": "sig-appframework",
@@ -719,17 +721,17 @@
          "sig-name": "sig-test",
          "projects": [
             "https://gitee.com/openharmony/third_party_benchmark",
-			"https://gitee.com/openharmony/xts_acts",
-			"https://gitee.com/openharmony/xts_tools",
-			"https://gitee.com/openharmony/xts_hats",
-			"https://gitee.com/openharmony/xts_dcts"
+            "https://gitee.com/openharmony/xts_acts",
+            "https://gitee.com/openharmony/xts_tools",
+            "https://gitee.com/openharmony/xts_hats",
+            "https://gitee.com/openharmony/xts_dcts"
          ],
          "project-path": [
             "third_party/benchmark",
-			"test/xts/acts",
-			"test/xts/tools",
-			"test/xts/hats",
-			"test/xts/dcts"
+            "test/xts/acts",
+            "test/xts/tools",
+            "test/xts/hats",
+            "test/xts/dcts"
          ]
       },
         {
