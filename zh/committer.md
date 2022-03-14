@@ -365,3 +365,4 @@
 |363|web_webview|base/web/webview|https://gitee.com/bigpumpkin|chenzhennan@huawei.com|https://gitee.com/leezheng_hz|lizheng@huawei.com|SIG_ApplicationFramework|
 |364|global_resource_tool|developtools/global_resource_tool|https://gitee.com/jameshw|jameslee@huawei.com|https://gitee.com/zhengbin5|zhengbin5@huawei.com|SIG_ApplicationFramework|
 |365|base_location|base/location|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/liu-binjun|liubinjun@huawei.com|SIG_SoftBus|
+|366|sensors_medical_sensor|base/sensors/medical_sensor|https://gitee.com/chiptest|guocs@chipsea.com|https://gitee.com/371931794|wuhb30061@chipsea.com|SIG_DistributedHardwareManagement|
