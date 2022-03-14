@@ -22,7 +22,7 @@ Continuously contributes to the softbus of the OpenHarmony community, implements
   - communication_ipc: https://gitee.com/openharmony/communication_ipc
   - communication_ipc_lite: https://gitee.com/openharmony/communication_ipc_lite
   - communication_bluetooth: https://gitee.com/openharmony/communication_bluetooth
-  - communication_nfc: https://gitee.com/openharmony-sig/communication_nfc
+  - communication_nfc: https://gitee.com/openharmony/communication_nfc
   - communication_wifi: https://gitee.com/openharmony/communication_wifi
   - communication_wifi_lite: https://gitee.com/openharmony/communication_wifi_lite
   - communication_wifi_aware: https://gitee.com/openharmony/communication_wifi_aware
