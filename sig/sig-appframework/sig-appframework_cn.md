@@ -22,7 +22,7 @@ ApplicationFramework相关的设计评审、提交评审、《OpenHarmony Applic
   - third_party_weex-loader:https://gitee.com/openharmony/third_party_weex-loader
   - third_party_parse5:https://gitee.com/openharmony/third_party_parse5
   - third_party_glfw:https://gitee.com/openharmony/third_party_glfw
-  - global_resource_tool:"https://gitee.com/openharmony-sig/global_resource_tool"
+  - global_resource_tool:"https://gitee.com/openharmony/global_resource_tool"
   - third_party_chromium:https://gitee.com/openharmony/third_party_chromium
   - third_party_cef:https://gitee.com/openharmony/third_party_cef
   - web_webview:https://gitee.com/openharmony/web_webview

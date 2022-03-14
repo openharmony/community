@@ -25,6 +25,7 @@
   - communication_wifi：https://gitee.com/openharmony/communication_wifi
   - communication_wifi_lite：https://gitee.com/openharmony/communication_wifi_lite
   - communication_wifi_aware：https://gitee.com/openharmony/communication_wifi_aware
+  - base_location：https://gitee.com/openharmony/base_location
   - telephony_call_manager：https://gitee.com/openharmony/telephony_call_manager
   - telephony_cellular_call：https://gitee.com/openharmony/telephony_cellular_call
   - telephony_core_service：https://gitee.com/openharmony/telephony_core_service
