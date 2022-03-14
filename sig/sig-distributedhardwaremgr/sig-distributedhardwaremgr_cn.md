@@ -17,6 +17,7 @@
   - sensors_sensor_lite: https://gitee.com/openharmony/sensors_sensor_lite
   - sensors_miscdevice: https://gitee.com/openharmony/sensors_miscdevice
   - sensors_sensor: https://gitee.com/openharmony/sensors_sensor
+  - sensors_medical_sensor: https://gitee.com/openharmony/sensors_medical_sensor
   - sensors_start: https://gitee.com/openharmony/sensors_start
   - usb_manager: https://gitee.com/openharmony/usb_manager
   - powermgr_powermgr_lite: https://gitee.com/openharmony/powermgr_powermgr_lite
