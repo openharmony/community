@@ -13,7 +13,7 @@
 | 姓名 | 账号   | 角色 | 领域 |
 | :----: | :----: | :----: | :----: |
 | 李毅 | [@nicholas-li](https://gitee.com/nicholas-li) | PMC主席 | 总架构 |
-| 高泉 | [@gaoquan2020](https://gitee.com/gaoquan2020) | PMC成员 | 社区经理 |
+| 张明修 | [@zmx1104](https://gitee.com/zmx1104) | PMC成员 | 社区经理 |
 | 董金光 |[@dongjinguang](https://gitee.com/dongjinguang) | PMC成员 | 系统架构 |
 | 任革林 | [@im-off-this-week](https://gitee.com/im-off-this-week) | PMC成员 | 架构SIG |
 | 万承臻 | [@wanchengzhen](https://gitee.com/wanchengzhen) | PMC成员 | 架构SIG |
