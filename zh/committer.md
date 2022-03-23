@@ -14,7 +14,7 @@
 |12|hiviewdfx_hiview_lite|base/hiviewdfx/hiview_lite|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|
 |13|iothardware_peripheral|base/iot_hardware/peripheral|https://gitee.com/defeng2020|wudefeng@huawei.com| | |SIG_SoftBus|
 |14|powermgr_powermgr_lite|base/powermgr/powermgr_lite|https://gitee.com/aqxyjay|zhangchunxin@huawei.com| | |SIG_DistributedHardwareManagement|
-|15|security_appverify|base/security/appverify|https://gitee.com/scuteehuangjun|huangjun42@huawei.com| | |SIG_Security|
+|15|security_appverify|base/security/appverify|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com| | |SIG_Security|
 |16|security_deviceauth|base/security/deviceauth|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com| | |SIG_Security|
 |17|security_huks|base/security/huks|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com| | |SIG_Security|
 |18|security_permission|base/security/permission|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_Security|
@@ -96,7 +96,7 @@
 |94|third_party_mksh|third_party/mksh|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/JerryH1011 <br> https://gitee.com/DennyShen|huangjieliang@huawei.com <br> denny.shenwei@huawei.com|SIG_Kernel|
 |95|third_party_mtd_utils|third_party/mtd-utils|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/JerryH1011 <br> https://gitee.com/DennyShen|huangjieliang@huawei.com <br> denny.shenwei@huawei.com|SIG_Kernel|
 |96|third_party_musl|third_party/musl|https://gitee.com/huanghuijin|huanghuijin@huawei.com|https://gitee.com/kkup180 <br> https://gitee.com/JerryH1011 <br> https://gitee.com/DennyShen |likailong@huawei.com <br> huangjieliang@huawei.com <br> denny.shenwei@huawei.com |SIG_CompileRuntime|
-|97|third_party_openssl|third_party/openssl|https://gitee.com/scuteehuangjun|huangjun42@huawei.com| | |SIG_Security|
+|97|third_party_openssl|third_party/openssl|https://gitee.com/haixiangw|wanghaixiang@huawei.com| | |SIG_Security|
 |98|third_party_optimized_routines|third_party/optimized-routines|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/JerryH1011 <br> https://gitee.com/DennyShen|huangjieliang@huawei.com <br> denny.shenwei@huawei.com|SIG_Kernel|
 |99|third_party_popt|third_party/popt|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_Security|
 |100|third_party_qrcodegen|third_party/qrcodegen|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_GraphicsandMedia|
