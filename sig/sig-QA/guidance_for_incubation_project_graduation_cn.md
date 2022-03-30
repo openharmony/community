@@ -3,8 +3,8 @@ SIG孵化项目毕业评审组织
 简体中文 | [English](./guidance_for_incubation_project_graduation.md)
 
 - SIG孵化项目成熟并满足项目毕业要求后，可申请合入OpenHarmony组织代码主库。
-- SIG Leader通过向dev@openharmony.io发送邮件，提交孵化项目毕业申请，[请按照表格内容填写议题](https://shimo.im/sheets/tjdkPCTW3QCHdKGX/MODOC)。
-- QA SIG组组织孵化项目准出，[发布评审纪要并归档](https://etherpad.openharmony.cn/p/sig-graduation-review-board)
+- SIG Leader通过向dev@openharmony.io发送邮件，提交孵化项目毕业申请，[请按照表格内容填写议题](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC)。
+- QA SIG组组织孵化项目准出，[发布评审纪要并归档](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC)
 
 #### 参加人：
 
@@ -38,9 +38,10 @@ SIG孵化项目毕业评审组织
 | 法务  | 知识产权  | 项目新开发代码为独立自主开发,当提交第三方贡献时，提交备注中要包含可靠的代码来源信息  |  工具：通过社区FOSSSCAN门禁扫描自研代码，不存在三方代码片断 |  QA SIG |
 | 法务  | 知识产权  | 项目Committer都签署DCO协议  | 工具+人工：工具检测代码提交者是否签署DCO，人工审核DCO协议签署  | QA SIG  |
 | 法务  | 许可证  | 项目包含的许可证为OSI批准的，且其许可证及其依赖软件的许可证不会比OpenHarmony项目的许可证添加更多的限制。  |   工具+人工：通过社区OAT工具门禁，检查项目的许可证兼容性，如果存在问题人工与律师确认  | QA SIG  |
-| 法务  | 许可证  |项目依赖的库必须是开源软件，可公开获得。 |  工具+人工：通过社区FOSSSCAN门禁扫描三方代码匹配度，人工确认是否是开源软件 | QA SIG  |
+| 法务  | 许可证  |项目依赖的库必须是开源软件，可公开获得。保留原开源软件的提交记录 |  工具+人工：通过社区FOSSSCAN门禁扫描三方代码匹配度，人工确认是否是开源软件 | QA SIG  |
+| 法务  | 许可证  |项目所引用的开源软件需要增加README.OpenSource、OAT.xml以及在BUILD.gn中增加生成开源软件使用NOTICE|  人工：check以上三个文件 | QA SIG  |
 | 法务  | 许可证  | 项目的许可证文件在项目仓库中的标准位置并且命名符合社区规范。  | 工具：通过社区OAT工具门禁，检查项目的LICENSE文件  | QA SIG  |
-| 项目运作  | 问题响应  |项目必须提供Issues跟踪所有问题，并对登记的issue应进行合理的分类、分级。   |  人工：审核Issues清单 | SIG Owner  |
+| 项目运作  | 问题响应  |项目必须提供issue跟踪所有问题，并对登记的issue应进行合理的分类、分级。   |  人工：审核issue清单 | SIG Owner  |
 | 项目运作  | 问题响应  | 项目必须响应过去2~12个月的大多数Issues（>80%)。  | 工具+人工：社区Issue平台统计问题关闭情况，人工审核  | SIG Owner  |
 | 项目运作  | 问题响应  | 项目在过去6个月收到的本项目涉及的三方软件的任何漏洞报告的初始响应时间必须小于或等于14天。  | 人工：审核漏洞报告的响应记录  | SIG Owner  |
 | 协作  | 文化  |项目维护一个具备决策权的贡献者的公开列表，项目的所有重要讨论都以书面方式记录在项目的正式沟通渠道上，对于讨论不充分或意见不完全一致的问题，基于社区公开的投票规则建立共识。   | 人工：审核项目会议纪要  | SIG Owner   |
