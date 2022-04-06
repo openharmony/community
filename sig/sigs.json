@@ -732,14 +732,18 @@
             "https://gitee.com/openharmony/xts_acts",
             "https://gitee.com/openharmony/xts_tools",
             "https://gitee.com/openharmony/xts_hats",
-            "https://gitee.com/openharmony/xts_dcts"
+            "https://gitee.com/openharmony/xts_dcts",
+            "https://gitee.com/openharmony/arkXtest",
+            "https://gitee.com/openharmony/wukong"
          ],
          "project-path": [
             "third_party/benchmark",
             "test/xts/acts",
             "test/xts/tools",
             "test/xts/hats",
-            "test/xts/dcts"
+            "test/xts/dcts",
+            "test/arkXtest",
+            "test/wukong"
          ]
       },
         {

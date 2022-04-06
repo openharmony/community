@@ -21,7 +21,8 @@
   - https://gitee.com/openharmony/xts_tools
   - https://gitee.com/openharmony/xts_hats
   - https://gitee.com/openharmony/xts_dcts
-
+  - https://gitee.com/openharmony/arkXtest
+  - https://gitee.com/openharmony/wukong
 ## SIG组成员
 
 ### Leader
