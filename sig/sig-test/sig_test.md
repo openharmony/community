@@ -21,7 +21,8 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - https://gitee.com/openharmony/xts_tools
   - https://gitee.com/openharmony/xts_hats
   - https://gitee.com/openharmony/xts_dcts
-
+  - https://gitee.com/openharmony/arkXtest
+  - https://gitee.com/openharmony/wukong
 ## SIG Members
 
 ### Leader
