@@ -289,6 +289,7 @@
             "https://gitee.com/openharmony/iothardware_peripheral",
             "https://gitee.com/openharmony/iot_link",
             "https://gitee.com/openharmony/third_party_lwip",
+            "https://gitee.com/openharmony-sig/third_party_nfc-nci",
             "https://gitee.com/openharmony/third_party_wpa_supplicant",
             "https://gitee.com/openharmony/third_party_libcoap"
          ],
@@ -312,6 +313,7 @@
             "base/iot_hardware/peripheral",
             "domains/iot/link",
             "third_party/lwip",
+            "third_party/nfc-nci",
             "third_party/wpa_supplicant",
             "third_party/libcoap"
          ]
