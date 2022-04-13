@@ -367,4 +367,4 @@
 |365|base_location|base/location|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/liu-binjun|liubinjun@huawei.com|SIG_SoftBus|
 |366|sensors_medical_sensor|base/sensors/medical_sensor|https://gitee.com/chiptest|guocs@chipsea.com|https://gitee.com/371931794|wuhb30061@chipsea.com|SIG_DistributedHardwareManagement|
 |367|wukong|test/wukong|https://gitee.com/gaoxi785|gaoxi785@huawei.com|https://gitee.com/currydavids|daiweiqi@huawei.com|SIG_Test|
-|368|arkXtest|test/artXtest|https://gitee.com/inter515|ry.renyi@huawei.com|https://gitee.com/leid_1021|leidan.lei@huawei.com|SIG_Test|
+|368|arkXtest|test/artXtest|https://gitee.com/inter515|ry.renyi@huawei.com|||SIG_Test|
