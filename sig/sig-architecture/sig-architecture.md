@@ -28,8 +28,8 @@ Responsible for the OpenHarmony architecture (including adding, merging, splitti
 - @karl-z(https://gitee.com/karl-z)
 
 ### Meetings
- - Meeting time：Every Tuesday at 16:00 o'clock
- - Meeting application: [OpenHarmony SIG-Architecture Meeting Proposal](https://etherpad.openharmony.cn/p/sig-architecture)
+ - Meeting time：Every Tuesday at 9:30 o'clock
+ - Meeting application: [OpenHarmony SIG-Architecture Meeting Proposal](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC)
  - Meeting link: Welink
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
 
