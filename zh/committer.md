@@ -274,7 +274,7 @@
 |272|js_util_module|base/compileruntime/js_util_module|https://gitee.com/wuzhefengh|wuzhefeng1@huawei.com|https://gitee.com/sunzhe23 <br> https://gitee.com/gongjunsong|sunzhe23@huawei.com <br> gongjunsong@huawei.com|SIG_CompileRuntime|
 |273|js_worker_module|base/compileruntime/js_worker_module|https://gitee.com/wuzhefengh|wuzhefeng1@huawei.com|https://gitee.com/sunzhe23 <br> https://gitee.com/gongjunsong|sunzhe23@huawei.com <br> gongjunsong@huawei.com|SIG_CompileRuntime|
 |274|communication_bluetooth|foundation/communication/bluetooth|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/xujiang181|jiang.xu@huawei.com|SIG_SoftBus|
-|275|miscservices_inputmethod|base/miscservices/inputmethod|https://gitee.com/zhouyongfei|zhouyongfei@huawei.com| | |SIG_BasicSoftwareService|
+|275|miscservices_inputmethod|base/miscservices/inputmethod|https://gitee.com/illybyy|baoyayong@huawei.com| | |SIG_BasicSoftwareService|
 |276|notification_ans_standard|base/notification/ans_standard|https://gitee.com/autumn330|hw.liuwei@huawei.com|https://gitee.com/jayleehw|liqiang121@huawei.com|SIG_BasicSoftwareService|
 |277|sensors_start|base/sensors/start|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
 |278|third_party_selinux|third_party/selinux|https://gitee.com/hu-huifeng|huhuifeng@huawei.com|https://gitee.com/shell_way <br> https://gitee.com/freenull <br> https://gitee.com/jiang-xiaofeng|qinfd@superred.com.cn <br> xieb@superred.com.cn <br> jiangxiaofeng8@huawei.com|SIG_Security|
