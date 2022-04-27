@@ -370,3 +370,4 @@
 |368|arkXtest|test/artXtest|https://gitee.com/inter515|ry.renyi@huawei.com|||SIG_Test|
 |369|hiviewdfx_hichecker|base/hiviewdfx/hichecker|https://gitee.com/zlxia|xiazhonglin@huawei.com|https://gitee.com/jeyogg|jiangweizheng@huawei.com|SIG_BasicSoftwareService|
 |370|hiviewdfx_hidumper|base/hiviewdfx/hidumper|https://gitee.com/zlxia|xiazhonglin@huawei.com|https://gitee.com/jeyogg|jiangweizheng@huawei.com|SIG_BasicSoftwareService|
+|371|napi_generator|NA/napi_generator|https://gitee.com/zhaojunxia2020|zhaojunxia@kaihongdigi.com|https://gitee.com/bayanxing|bayanxing@kaihongdigi.com|SIG_Napi_generator|

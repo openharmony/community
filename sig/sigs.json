@@ -778,9 +778,13 @@
          ]
       },
       {
-         "sig-name":"sig-assist_tools",
-         "projects":"https://gitee.com/openharmony-sig/assist_tools",
-         "project-path": "NONE"
+         "sig-name":"sig-napi_generator",
+         "projects":[
+            "https://gitee.com/openharmony/napi_generator"
+         ],
+         "project-path":[
+            "NONE"
+         ]
       },
       {
          "sig-name":"sig-tee",
