@@ -4,7 +4,7 @@
 ## 背景
  1. SIG（Special Interest Group）是指特别兴趣小组，SIG在PMC项目管理委员会指导下，负责OpenHarmony社区特定子领域及创新项目的架构设计、开源开发及项目维护等工作。
  2. 为了便于OpenHarmony开源社区工作开展和交流，默认将其划分为23个初始的SIG小组：[Maps_Sigs_Subsystem](./sigs_subsystem_list.md)。
- 3. 本目录用于存放OpenHamony社区所有 “特别兴趣小组”（Special Interest Group，以下简称 SIG）的运作信息。
+ 3. 本目录用于存放OpenHarmony社区所有 “特别兴趣小组”（Special Interest Group，以下简称 SIG）的运作信息。
 
 ## SIG职责&运作方式
  1. 领域的技术演进方向由SIG组承担，负责领域技术竞争力分析和关键技术识别及决策。
@@ -28,7 +28,7 @@
 1. 开发者可通过SIG列表查看感兴趣的SIG，通过订阅邮件列表、参与SIG会议等形式，参与对应SIG项目的技术讨论、社区维护及开源开发。
 
 ## 运营维护SIG
-1. SIG Leader Fork OpenHamony/community分支，在SIG文件夹下，以新SIG名称新建文件夹，并参考[SIG模板](sig-template/)，创建对应的SIG配置文件，提交PR合入申请。
+1. SIG Leader Fork OpenHarmony/community分支，在SIG文件夹下，以新SIG名称新建文件夹，并参考[SIG模板](sig-template/)，创建对应的SIG配置文件，提交PR合入申请。
 2. SIG孵化子项目，统一存放在[OpenHarmony SIG组织](https://gitee.com/openharmony-sig)，待孵化成熟后，可合入OpenHarmony组织代码主库。
 3. SIG Leader及Committer负责对应SIG的运营及维护，会议纪要和资料统一参考sig-template目录下的[meetings](https://gitee.com/openharmony-sig/sig-content)和[docs](https://gitee.com/openharmony-sig/sig-content)模版进行归档。
 4. SIG Leader定期在PMC项目管理委员会汇报SIG孵化项目及SIG运营进展，PMC基于SIG运作情况给出指导建议。
@@ -40,7 +40,7 @@
  4. 孵化项目毕业评审请按照[要求自检](./sig-QA/guidance_for_incubation_project_graduation_cn.md)。
 
 ## SIG数据存放和管理方式
-SIG信息记录统一归档在OpenHamony/community仓库的sig目录内：
+SIG信息记录统一归档在OpenHarmony/community仓库的sig目录内：
 1. sig_xxx.md/sig_xxx_cn.md：包括SIG组工作目标和范围、SIG管理的repository及描述、SIG组织会议、SIG成员。
 
 2. sigs.json：为了便于工具自动提取，其中SIG的maintainer/committer信息单独备份一份至OWNER文件内，每个SIG所维护的仓库名称列表/目录结构位于sigs.json文件中。
@@ -85,8 +85,8 @@ SIG信息记录统一归档在OpenHamony/community仓库的sig目录内：
          "project-path":"python/"
       },
       {
-         "sig-name ":"sig-updates",
-         "projects":["https://gitee.com/openharmony/startup_appspawn_lite", "https://gitee.com/openharmony/startup_bootstrap_lite"]
+         "sig-name":"sig-updates",
+         "projects":["https://gitee.com/openharmony/startup_appspawn_lite", "https://gitee.com/openharmony/startup_bootstrap_lite"],
          "project-path":["base/startup/appspawn_lite", "base/startup/bootstrap_lite"]
       },
    ]
