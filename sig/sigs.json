@@ -206,9 +206,11 @@
       {
          "sig-name":"sig-toolchains",
          "projects":["https://gitee.com/openharmony-sig/sig-tools-toolchains",
+                     "https://gitee.com/openharmony/developtools_hdc",
                      "https://gitee.com/openharmony/developtools_hiperf",
                      "https://gitee.com/openharmony/developtools_syscap_codec"],
          "project-path":["NONE",
+                         "developtools/hdc",
                          "developtools/hiperf",
                          "developtools/syscap_codec"],
       },
