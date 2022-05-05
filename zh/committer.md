@@ -140,7 +140,7 @@
 |138|update_updateservice|base/update/updateservice|https://gitee.com/ailorna|hehuan1@huawei.com| | |SIG_BasicSoftwareService|
 |139|build|build|https://gitee.com/wangxing-hw|raymond.wangxing@huawei.com|https://gitee.com/weichaox|wangweichao2@huawei.com|SIG_CompileRuntime|
 |140|developtools_bytrace_standard|developtools/bytrace_standard|https://gitee.com/leizhenzang|zangleizhen@huawei.com|https://gitee.com/filer000|zhangxianfeng7@huawei.com|SIG_R&DToolChain|
-|141|developtools_hdc_standard|developtools/hdc_standard|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/zhaifenghw|zhaifeng@huawei.com|SIG_R&DToolChain|
+|141|developtools_hdc|developtools/hdc|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/zhaifenghw|zhaifeng@huawei.com|SIG_R&DToolChain|
 |142|developtools_profiler|developtools/profiler|https://gitee.com/leizhenzang|zangleizhen@huawei.com|https://gitee.com/filer000|zhangxianfeng7@huawei.com|SIG_R&DToolChain|
 |143|device_hisilicon_hi3516dv300|device/hisilicon/hi3516dv300|https://gitee.com/northking-super|chenxin100@huawei.com| | |SIG_DriverFramework|
 |144|aafwk_standard|foundation/aafwk/standard|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/jayleehw <br/> https://gitee.com/zhongjianfei|liqiang121@huawei.com <br/> zhongjianfei@huawei.com|SIG_ApplicationFramework|
