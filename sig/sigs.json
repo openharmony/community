@@ -1,259 +1,281 @@
 {
-   "sigs-List":[
+   "sigs-List": [
       {
-         "sig-name":"sig-kernel",
-         "projects":["https://gitee.com/openharmony/third_party_littlefs",
-                     "https://gitee.com/openharmony/third_party_e2fsprogs",
-                     "https://gitee.com/openharmony/kernel_linux_build",
-                     "https://gitee.com/openharmony/kernel_linux_4.19",
-                     "https://gitee.com/openharmony/kernel_linux_5.10",
-                     "https://gitee.com/openharmony/filemanagement_user_file_service",
-                     "https://gitee.com/openharmony/filemanagement_file_api",
-                     "https://gitee.com/openharmony/filemanagement_app_file_service",
-                     "https://gitee.com/openharmony/filemanagement_storage_service",
-                     "https://gitee.com/openharmony/filemanagement_dfs_service",
-                     "https://gitee.com/openharmony-sig/filemanagement_fs_tools",
-                     "https://gitee.com/openharmony/third_party_f2fs-tools",
-                     "https://gitee.com/openharmony/third_party_ntfs-3g",
-                     "https://gitee.com/openharmony/third_party_fsck_msdos",
-                     "https://gitee.com/openharmony/third_party_gptfdisk",
-                     "https://gitee.com/openharmony/third_party_newfs_msdos",
-                     "https://gitee.com/openharmony/third_party_exfat-utils"],
-         "project-path":["third_party/littlefs",
-                         "third_party/e2fsprogs",
-                         "kernel/linux/build",
-                         "kernel/linux/linux-4.19",
-                         "kernel/linux/linux-5.10",
-                         "foundation/filemanagement/user_file_service",
-                         "foundation/filemanagement/file_api",
-                         "foundation/filemanagement/app_file_service",
-                         "foundation/filemanagement/storage_service",
-                         "foundation/filemanagement/dfs_service",
-                         "foundation/filemanagement/fs_tools",
-                         "third_party/f2fs-tools",
-                         "third_party/ntfs-3g",
-                         "third_party/fsck_msdos",
-                         "third_party/gptfdisk",
-                         "third_party/newfs_msdos",
-                         "third_party/exfat-utils"]
-      },
-      {
-         "sig-name":"sig-driver",
-         "projects":["https://gitee.com/openharmony/drivers_framework",
-                     "https://gitee.com/openharmony/drivers_peripheral",
-                     "https://gitee.com/openharmony/drivers_adapter",
-                     "https://gitee.com/openharmony/drivers_adapter_khdf_linux",
-                     "https://gitee.com/openharmony/drivers_interface",
-                     "https://gitee.com/openharmony/third_party_libnl",
-                     "https://gitee.com/openharmony/third_party_openmax"],
-         "project-path":["drivers/framework",
-                         "drivers/peripheral",
-                         "drivers/adapter",
-                         "drivers/adapter/khdf/linux",
-                         "drivers/interface",
-                         "third_party/libnl",
-                         "third_party/openmax"]
-      },
-      {
-         "sig-name":"sig-devboard",
-         "projects":[
-                "https://gitee.com/openharmony-sig/device_st",
-                "https://gitee.com/openharmony-sig/vendor_st",
-                "https://gitee.com/openharmony-sig/device_allwinner",
-                "https://gitee.com/openharmony-sig/vendor_allwinner",
-                "https://gitee.com/openharmony-sig/devboard_device_allwinner_xr806",
-                "https://gitee.com/openharmony-sig/devboard_vendor_allwinner_xr806",
-                "https://gitee.com/openharmony-sig/devboard_device_allwinner_t507",
-                "https://gitee.com/openharmony-sig/devboard_vendor_allwinner_t507",
-                "https://gitee.com/openharmony-sig/device_mediatek",
-                "https://gitee.com/openharmony-sig/vendor_mediatek",
-                "https://gitee.com/openharmony-sig/device_nordic",
-                "https://gitee.com/openharmony-sig/vendor_nordic",
-                "https://gitee.com/openharmony-sig/device_nxp",
-                "https://gitee.com/openharmony-sig/vendor_nxp",
-                "https://gitee.com/openharmony-sig/device_fudanmicro",
-                "https://gitee.com/openharmony-sig/vendor_fudanmicro",
-                "https://gitee.com/openharmony-sig/device_bestechnic",
-                "https://gitee.com/openharmony/vendor_bestechnic",
-                "https://gitee.com/openharmony-sig/device_ingenic",
-                "https://gitee.com/openharmony-sig/vendor_ingenic",
-                "https://gitee.com/openharmony-sig/device_soc_espressif",
-                "https://gitee.com/openharmony-sig/device_board_espressif",
-                "https://gitee.com/openharmony-sig/vendor_espressif",
-                "https://gitee.com/openharmony-sig/device_winnermicro",
-                "https://gitee.com/openharmony-sig/vendor_winnermicro",
-                "https://gitee.com/openharmony-sig/device_rockchip",
-                "https://gitee.com/openharmony-sig/vendor_rockchip",
-                "https://gitee.com/openharmony-sig/device_unisoc",
-                "https://gitee.com/openharmony-sig/vendor_unisoc",
-                "https://gitee.com/openharmony-sig/device_broadcom",
-                "https://gitee.com/openharmony-sig/vendor_broadcom",
-                "https://gitee.com/openharmony-sig/device_realtek",
-                "https://gitee.com/openharmony-sig/vendor_realtek",
-                "https://gitee.com/openharmony-sig/device_bouffalolab",
-                "https://gitee.com/openharmony-sig/vendor_bouffalolab",
-                "https://gitee.com/openharmony-sig/device_beken",
-                "https://gitee.com/openharmony-sig/vendor_beken",
-                "https://gitee.com/openharmony-sig/device_asrmicro",
-                "https://gitee.com/openharmony-sig/vendor_asrmicro",
-                "https://gitee.com/openharmony/device_qemu",
-                "https://gitee.com/openharmony/vendor_ohemu",
-                "https://gitee.com/openharmony-sig/devboard_device_hihope_build",
-                "https://gitee.com/openharmony-sig/devboard_device_hihope_dayu",
-                "https://gitee.com/openharmony-sig/devboard_vendor_hihope",
-                "https://gitee.com/openharmony/device_bearpi_bearpi_hm_nano",
-                "https://gitee.com/openharmony-sig/applications_sample_bearpi_hm_nano",
-                "https://gitee.com/openharmony/vendor_bearpi",
-                "https://gitee.com/openharmony-sig/vendor_huawei_ipcamera_v3s",
-                "https://gitee.com/openharmony-sig/vendor_oh_fun",
-                "https://gitee.com/openharmony-sig/vendor_huawei_minidisplay_demo",
-                "https://gitee.com/openharmony-sig/devboard_applications_sample_talkweb_niobe",
-                "https://gitee.com/openharmony-sig/devboard_device_talkweb_niobe",
-                "https://gitee.com/openharmony-sig/devboard_vendor_talkweb",
-                "https://gitee.com/openharmony-sig/devboard_vendor_rpi3b",
-                "https://gitee.com/openharmony-sig/device_unionpi",
-                "https://gitee.com/openharmony-sig/vendor_unionpi",
-                "https://gitee.com/openharmony-sig/devboard_device_itcast_genkipi",
-                "https://gitee.com/openharmony-sig/devboard_vendor_itcast_genkipi",
-                "https://gitee.com/openharmony-sig/devboard_waffle_nano",
-                "https://gitee.com/openharmony-sig/devboard_device_goodix_gr551x",
-                "https://gitee.com/openharmony-sig/devboard_vendor_goodix_gr5515_sk_basic",
-                "https://gitee.com/openharmony/device_soc_hisilicon",
-                "https://gitee.com/openharmony/device_board_hisilicon",
-                "https://gitee.com/openharmony/device_board_fnlink",
-                "https://gitee.com/openharmony-sig/device_soc_t-head",
-                "https://gitee.com/openharmony-sig/device_board_t-head",
-                "https://gitee.com/openharmony-sig/vendor_t-head"
+         "sig-name": "sig-kernel",
+         "projects": [
+            "https://gitee.com/openharmony/third_party_littlefs",
+            "https://gitee.com/openharmony/third_party_e2fsprogs",
+            "https://gitee.com/openharmony/kernel_linux_build",
+            "https://gitee.com/openharmony/kernel_linux_4.19",
+            "https://gitee.com/openharmony/kernel_linux_5.10",
+            "https://gitee.com/openharmony/filemanagement_user_file_service",
+            "https://gitee.com/openharmony/filemanagement_file_api",
+            "https://gitee.com/openharmony/filemanagement_app_file_service",
+            "https://gitee.com/openharmony/filemanagement_storage_service",
+            "https://gitee.com/openharmony/filemanagement_dfs_service",
+            "https://gitee.com/openharmony-sig/filemanagement_fs_tools",
+            "https://gitee.com/openharmony/third_party_f2fs-tools",
+            "https://gitee.com/openharmony/third_party_ntfs-3g",
+            "https://gitee.com/openharmony/third_party_fsck_msdos",
+            "https://gitee.com/openharmony/third_party_gptfdisk",
+            "https://gitee.com/openharmony/third_party_newfs_msdos",
+            "https://gitee.com/openharmony/third_party_exfat-utils"
          ],
-         "project-path":[
-                "device/st",
-                "vendor/st",
-                "device/allwinner",
-                "vendor/allwinner",
-                "device/xradio/xr806",
-                "vendor/xradio/xr806",
-                "device/allwinner/t507",
-                "vendor/allwinner/t507",
-                "device/mediatek",
-                "vendor/mediatek",
-                "device/nordic",
-                "vendor/nordic",
-                "device/nxp",
-                "vendor/nxp",
-                "device/fudanmicro",
-                "vendor/fudanmicro",
-                "device/bestechnic",
-                "vendor/bestechnic",
-                "device/ingenic",
-                "vendor/ingenic",
-                "device/soc/espressif",
-                "vendor/board/espressif",
-                "device/winnermicro",
-                "vendor/winnermicro",
-                "device/rockchip",
-                "vendor/rockchip",
-                "device/unisoc",
-                "vendor/unisoc",
-                "device/broadcom",
-                "vendor/broadcom",
-                "device/realtek",
-                "vendor/realtek",
-                "device/bouffalolab",
-                "vendor/bouffalolab",
-                "device/beken",
-                "vendor/beken",
-                "device/asrmicro",
-                "vendor/asrmicro",
-                "device/qemu",
-                "vendor/ohemu",
-                "device/hihope/dayu",
-                "device/hihope/build",
-                "vendor/hihope",
-                "device/bearpi/bearpi_hm_nano",
-                "applications/sample/bearpi_hm_nano",
-                "vendor/bearpi",
-                "vendor/huawei/ipcamera_v3s",
-                "vendor/huawei/minidisplay_demo",
-                "vendor/oh_fun",
-                "applications",
-                "device/talkweb/niobe",
-                "vendor/talkweb",
-                "vendor/rpi3",
-                "device/unionman/unionpi",
-                "vendor/unionman/unionpi",
-                "device/itcast/genkipi",
-                "vendor/itcast/genkipi",
-                "devboard_waffle_nano",
-                "device/goodix/gr551x",
-                "vendor/goodix/gr5515_sk",
-                "device/soc/hisilicon",
-                "device/board/hisilicon",
-                "device/soc/t-head",
-                "device/board/t-head",
-                "vendor/t-head"
+         "project-path": [
+            "third_party/littlefs",
+            "third_party/e2fsprogs",
+            "kernel/linux/build",
+            "kernel/linux/linux-4.19",
+            "kernel/linux/linux-5.10",
+            "foundation/filemanagement/user_file_service",
+            "foundation/filemanagement/file_api",
+            "foundation/filemanagement/app_file_service",
+            "foundation/filemanagement/storage_service",
+            "foundation/filemanagement/dfs_service",
+            "foundation/filemanagement/fs_tools",
+            "third_party/f2fs-tools",
+            "third_party/ntfs-3g",
+            "third_party/fsck_msdos",
+            "third_party/gptfdisk",
+            "third_party/newfs_msdos",
+            "third_party/exfat-utils"
          ]
       },
       {
-         "sig-name":"sig-bluetooth",
-         "projects":"https://gitee.com/openharmony/communication_bluetooth",
-         "project-path":"foundation/communication/bluetooth"
+         "sig-name": "sig-driver",
+         "projects": [
+            "https://gitee.com/openharmony/drivers_framework",
+            "https://gitee.com/openharmony/drivers_peripheral",
+            "https://gitee.com/openharmony/drivers_adapter",
+            "https://gitee.com/openharmony/drivers_adapter_khdf_linux",
+            "https://gitee.com/openharmony/drivers_interface",
+            "https://gitee.com/openharmony/third_party_libnl",
+            "https://gitee.com/openharmony/third_party_openmax"
+         ],
+         "project-path": [
+            "drivers/framework",
+            "drivers/peripheral",
+            "drivers/adapter",
+            "drivers/adapter/khdf/linux",
+            "drivers/interface",
+            "third_party/libnl",
+            "third_party/openmax"
+         ]
       },
       {
-         "sig-name":"sig-distributerdatamgr",
-         "projects":"https://gitee.com/openharmony/distributeddatamgr_appdatamgr",
-         "project-path":"foundation/distributeddatamgr/appdatamgr"
+         "sig-name": "sig-devboard",
+         "projects": [
+            "https://gitee.com/openharmony-sig/device_st",
+            "https://gitee.com/openharmony-sig/vendor_st",
+            "https://gitee.com/openharmony-sig/device_allwinner",
+            "https://gitee.com/openharmony-sig/vendor_allwinner",
+            "https://gitee.com/openharmony-sig/devboard_device_allwinner_xr806",
+            "https://gitee.com/openharmony-sig/devboard_vendor_allwinner_xr806",
+            "https://gitee.com/openharmony-sig/devboard_device_allwinner_t507",
+            "https://gitee.com/openharmony-sig/devboard_vendor_allwinner_t507",
+            "https://gitee.com/openharmony-sig/device_mediatek",
+            "https://gitee.com/openharmony-sig/vendor_mediatek",
+            "https://gitee.com/openharmony-sig/device_nordic",
+            "https://gitee.com/openharmony-sig/vendor_nordic",
+            "https://gitee.com/openharmony-sig/device_nxp",
+            "https://gitee.com/openharmony-sig/vendor_nxp",
+            "https://gitee.com/openharmony-sig/device_fudanmicro",
+            "https://gitee.com/openharmony-sig/vendor_fudanmicro",
+            "https://gitee.com/openharmony-sig/device_bestechnic",
+            "https://gitee.com/openharmony/vendor_bestechnic",
+            "https://gitee.com/openharmony-sig/device_ingenic",
+            "https://gitee.com/openharmony-sig/vendor_ingenic",
+            "https://gitee.com/openharmony-sig/device_soc_espressif",
+            "https://gitee.com/openharmony-sig/device_board_espressif",
+            "https://gitee.com/openharmony-sig/vendor_espressif",
+            "https://gitee.com/openharmony-sig/device_winnermicro",
+            "https://gitee.com/openharmony-sig/vendor_winnermicro",
+            "https://gitee.com/openharmony-sig/device_rockchip",
+            "https://gitee.com/openharmony-sig/vendor_rockchip",
+            "https://gitee.com/openharmony-sig/device_unisoc",
+            "https://gitee.com/openharmony-sig/vendor_unisoc",
+            "https://gitee.com/openharmony-sig/device_broadcom",
+            "https://gitee.com/openharmony-sig/vendor_broadcom",
+            "https://gitee.com/openharmony-sig/device_realtek",
+            "https://gitee.com/openharmony-sig/vendor_realtek",
+            "https://gitee.com/openharmony-sig/device_bouffalolab",
+            "https://gitee.com/openharmony-sig/vendor_bouffalolab",
+            "https://gitee.com/openharmony-sig/device_beken",
+            "https://gitee.com/openharmony-sig/vendor_beken",
+            "https://gitee.com/openharmony-sig/device_asrmicro",
+            "https://gitee.com/openharmony-sig/vendor_asrmicro",
+            "https://gitee.com/openharmony/device_qemu",
+            "https://gitee.com/openharmony/vendor_ohemu",
+            "https://gitee.com/openharmony-sig/devboard_device_hihope_build",
+            "https://gitee.com/openharmony-sig/devboard_device_hihope_dayu",
+            "https://gitee.com/openharmony-sig/devboard_vendor_hihope",
+            "https://gitee.com/openharmony/device_bearpi_bearpi_hm_nano",
+            "https://gitee.com/openharmony-sig/applications_sample_bearpi_hm_nano",
+            "https://gitee.com/openharmony/vendor_bearpi",
+            "https://gitee.com/openharmony-sig/vendor_huawei_ipcamera_v3s",
+            "https://gitee.com/openharmony-sig/vendor_oh_fun",
+            "https://gitee.com/openharmony-sig/vendor_huawei_minidisplay_demo",
+            "https://gitee.com/openharmony-sig/devboard_applications_sample_talkweb_niobe",
+            "https://gitee.com/openharmony-sig/devboard_device_talkweb_niobe",
+            "https://gitee.com/openharmony-sig/devboard_vendor_talkweb",
+            "https://gitee.com/openharmony-sig/devboard_vendor_rpi3b",
+            "https://gitee.com/openharmony-sig/device_unionpi",
+            "https://gitee.com/openharmony-sig/vendor_unionpi",
+            "https://gitee.com/openharmony-sig/devboard_device_itcast_genkipi",
+            "https://gitee.com/openharmony-sig/devboard_vendor_itcast_genkipi",
+            "https://gitee.com/openharmony-sig/devboard_waffle_nano",
+            "https://gitee.com/openharmony-sig/devboard_device_goodix_gr551x",
+            "https://gitee.com/openharmony-sig/devboard_vendor_goodix_gr5515_sk_basic",
+            "https://gitee.com/openharmony/device_soc_hisilicon",
+            "https://gitee.com/openharmony/device_board_hisilicon",
+            "https://gitee.com/openharmony/device_board_fnlink",
+            "https://gitee.com/openharmony-sig/device_soc_t-head",
+            "https://gitee.com/openharmony-sig/device_board_t-head",
+            "https://gitee.com/openharmony-sig/vendor_t-head"
+         ],
+         "project-path": [
+            "device/st",
+            "vendor/st",
+            "device/allwinner",
+            "vendor/allwinner",
+            "device/xradio/xr806",
+            "vendor/xradio/xr806",
+            "device/allwinner/t507",
+            "vendor/allwinner/t507",
+            "device/mediatek",
+            "vendor/mediatek",
+            "device/nordic",
+            "vendor/nordic",
+            "device/nxp",
+            "vendor/nxp",
+            "device/fudanmicro",
+            "vendor/fudanmicro",
+            "device/bestechnic",
+            "vendor/bestechnic",
+            "device/ingenic",
+            "vendor/ingenic",
+            "device/soc/espressif",
+            "vendor/board/espressif",
+            "device/winnermicro",
+            "vendor/winnermicro",
+            "device/rockchip",
+            "vendor/rockchip",
+            "device/unisoc",
+            "vendor/unisoc",
+            "device/broadcom",
+            "vendor/broadcom",
+            "device/realtek",
+            "vendor/realtek",
+            "device/bouffalolab",
+            "vendor/bouffalolab",
+            "device/beken",
+            "vendor/beken",
+            "device/asrmicro",
+            "vendor/asrmicro",
+            "device/qemu",
+            "vendor/ohemu",
+            "device/hihope/dayu",
+            "device/hihope/build",
+            "vendor/hihope",
+            "device/bearpi/bearpi_hm_nano",
+            "applications/sample/bearpi_hm_nano",
+            "vendor/bearpi",
+            "vendor/huawei/ipcamera_v3s",
+            "vendor/huawei/minidisplay_demo",
+            "vendor/oh_fun",
+            "applications",
+            "device/talkweb/niobe",
+            "vendor/talkweb",
+            "vendor/rpi3",
+            "device/unionman/unionpi",
+            "vendor/unionman/unionpi",
+            "device/itcast/genkipi",
+            "vendor/itcast/genkipi",
+            "devboard_waffle_nano",
+            "device/goodix/gr551x",
+            "vendor/goodix/gr5515_sk",
+            "device/soc/hisilicon",
+            "device/board/hisilicon",
+            "device/soc/t-head",
+            "device/board/t-head",
+            "vendor/t-head"
+         ]
       },
       {
-         "sig-name":"sig-toolchains",
-         "projects":["https://gitee.com/openharmony-sig/sig-tools-toolchains",
-                     "https://gitee.com/openharmony/developtools_hdc",
-                     "https://gitee.com/openharmony/developtools_hiperf",
-                     "https://gitee.com/openharmony/developtools_syscap_codec"],
-         "project-path":["NONE",
-                         "developtools/hdc",
-                         "developtools/hiperf",
-                         "developtools/syscap_codec"],
+         "sig-name": "sig-bluetooth",
+         "projects": "https://gitee.com/openharmony/communication_bluetooth",
+         "project-path": "foundation/communication/bluetooth"
       },
       {
-         "sig-name":"sig-openblock",
-         "projects":["https://gitee.com/openharmony-sig/openblock",
-                     "https://gitee.com/openharmony-sig/openblock_blocks"],
-         "project-path":"NONE"
+         "sig-name": "sig-distributerdatamgr",
+         "projects": "https://gitee.com/openharmony/distributeddatamgr_appdatamgr",
+         "project-path": "foundation/distributeddatamgr/appdatamgr"
       },
       {
-         "sig-name":"sig-riscv",
-         "projects":["https://gitee.com/openharmony-sig/riscv",
-                     "https://gitee.com/openharmony-sig/riscv_device_sunxi"],
-         "project-path":["None",
-                         "device/sunxi"]
+         "sig-name": "sig-toolchains",
+         "projects": [
+            "https://gitee.com/openharmony-sig/sig-tools-toolchains",
+            "https://gitee.com/openharmony/developtools_hdc",
+            "https://gitee.com/openharmony/developtools_hiperf",
+            "https://gitee.com/openharmony/developtools_syscap_codec"
+         ],
+         "project-path": [
+            "NONE",
+            "developtools/hdc",
+            "developtools/hiperf",
+            "developtools/syscap_codec"
+         ]
       },
       {
-         "sig-name":"sig-systemapplications",
-         "projects":["https://gitee.com/openharmony/applications_systemui",
-                     "https://gitee.com/openharmony/applications_settings",
-                     "https://gitee.com/openharmony/applications_launcher",
-                     "https://gitee.com/openharmony-sig/system_applications",
-                     "https://gitee.com/openharmony-sig/applications_screenshot",
-                     "https://gitee.com/openharmony-sig/applications_screenlock",
-                     "https://gitee.com/openharmony-sig/applications_admin_provisioning",
-                     "https://gitee.com/openharmony-sig/applications_theme",
-                     "https://gitee.com/openharmony-sig/applications_settings_data",
-                     "https://gitee.com/openharmony-sig/applications_contactsdata",
-                     "https://gitee.com/openharmony-sig/applications_notes"],
-         "project-path":["applications/standard/systemui",
-                         "applications/standard/settings",
-                         "applications/standard/launcher",
-                         "NONE",
-                         "applications/standard/screenshot",
-                         "applications/standard/screenlock",
-                         "applications/standard/admin_provisioning",
-                         "applications/standard/theme",
-                         "applications/standard/settings_data",
-                         "applications/standard/contactsdata",
-                         "applications/standard/notes"]
+         "sig-name": "sig-openblock",
+         "projects": [
+            "https://gitee.com/openharmony-sig/openblock",
+            "https://gitee.com/openharmony-sig/openblock_blocks"
+         ],
+         "project-path": "NONE"
       },
       {
-         "sig-name":"sig-ai-framework",
+         "sig-name": "sig-riscv",
+         "projects": [
+            "https://gitee.com/openharmony-sig/riscv",
+            "https://gitee.com/openharmony-sig/riscv_device_sunxi"
+         ],
+         "project-path": [
+            "None",
+            "device/sunxi"
+         ]
+      },
+      {
+         "sig-name": "sig-systemapplications",
+         "projects": [
+            "https://gitee.com/openharmony/applications_systemui",
+            "https://gitee.com/openharmony/applications_settings",
+            "https://gitee.com/openharmony/applications_launcher",
+            "https://gitee.com/openharmony-sig/system_applications",
+            "https://gitee.com/openharmony-sig/applications_screenshot",
+            "https://gitee.com/openharmony-sig/applications_screenlock",
+            "https://gitee.com/openharmony-sig/applications_admin_provisioning",
+            "https://gitee.com/openharmony-sig/applications_theme",
+            "https://gitee.com/openharmony-sig/applications_settings_data",
+            "https://gitee.com/openharmony-sig/applications_contactsdata",
+            "https://gitee.com/openharmony-sig/applications_notes"
+         ],
+         "project-path": [
+            "applications/standard/systemui",
+            "applications/standard/settings",
+            "applications/standard/launcher",
+            "NONE",
+            "applications/standard/screenshot",
+            "applications/standard/screenlock",
+            "applications/standard/admin_provisioning",
+            "applications/standard/theme",
+            "applications/standard/settings_data",
+            "applications/standard/contactsdata",
+            "applications/standard/notes"
+         ]
+      },
+      {
+         "sig-name": "sig-ai-framework",
          "projects": [
             "https://gitee.com/openharmony/third_party_mindspore",
             "https://gitee.com/openharmony-sig/dllite_micro",
@@ -261,7 +283,7 @@
             "https://gitee.com/openharmony-sig/third_party_opencl-headers",
             "https://gitee.com/openharmony-sig/third_party_opencl-clhpp"
          ],
-         "project-path":[
+         "project-path": [
             "third_party/mindspore",
             "foundation/ai/dllite-micro",
             "third_party/flatbuffers",
@@ -270,8 +292,8 @@
          ]
       },
       {
-         "sig-name":"sig-softbus",
-         "projects":[
+         "sig-name": "sig-softbus",
+         "projects": [
             "https://gitee.com/openharmony/communication_dsoftbus",
             "https://gitee.com/openharmony/communication_ipc",
             "https://gitee.com/openharmony/communication_ipc_lite",
@@ -295,7 +317,7 @@
             "https://gitee.com/openharmony/third_party_wpa_supplicant",
             "https://gitee.com/openharmony/third_party_libcoap"
          ],
-         "project-path":[
+         "project-path": [
             "foundation/communication/dsoftbus",
             "foundation/communication/ipc",
             "foundation/communication/ipc_lite",
@@ -321,26 +343,26 @@
          ]
       },
       {
-         "sig-name":"sig-api",
-         "projects":"https://gitee.com/openharmony/interface_sdk-js",
-         "project-path":"interface/sdk-js"
+         "sig-name": "sig-api",
+         "projects": "https://gitee.com/openharmony/interface_sdk-js",
+         "project-path": "interface/sdk-js"
       },
       {
-         "sig-name":"sig-telephony",
-         "projects":[
-           "https://gitee.com/openharmony/communication_netstack",
-           "https://gitee.com/openharmony/communication_netmanager_base",
-           "https://gitee.com/openharmony/communication_netmanager_ext"
+         "sig-name": "sig-telephony",
+         "projects": [
+            "https://gitee.com/openharmony/communication_netstack",
+            "https://gitee.com/openharmony/communication_netmanager_base",
+            "https://gitee.com/openharmony/communication_netmanager_ext"
          ],
-         "project-path":[
-           "foundation/communication/netstack",
-           "foundation/communication/netmanager_base",
-           "foundation/communication/netmanager_ext"
+         "project-path": [
+            "foundation/communication/netstack",
+            "foundation/communication/netmanager_base",
+            "foundation/communication/netmanager_ext"
          ]
       },
       {
-         "sig-name":"sig-distributedhardwaremgr",
-         "projects":[
+         "sig-name": "sig-distributedhardwaremgr",
+         "projects": [
             "https://gitee.com/openharmony/sensors_miscdevice_lite",
             "https://gitee.com/openharmony/sensors_sensor_lite",
             "https://gitee.com/openharmony/sensors_miscdevice",
@@ -369,7 +391,7 @@
             "https://gitee.com/openharmony-sig/msdp_geofence",
             "https://gitee.com/openharmony-sig/msdp_timeline"
          ],
-         "project-path":[
+         "project-path": [
             "base/sensors/miscdevice_lite",
             "base/sensors/sensor_lite",
             "base/sensors/miscdevice",
@@ -400,13 +422,13 @@
          ]
       },
       {
-         "sig-name":"sig-release",
-         "projects":"https://gitee.com/openharmony/release-management",
-         "project-path":"NONE"
+         "sig-name": "sig-release",
+         "projects": "https://gitee.com/openharmony/release-management",
+         "project-path": "NONE"
       },
       {
-         "sig-name":"sig-basicsoftwareservice",
-         "projects":[
+         "sig-name": "sig-basicsoftwareservice",
+         "projects": [
             "https://gitee.com/openharmony/hiviewdfx_hievent_lite",
             "https://gitee.com/openharmony/hiviewdfx_hilog_lite",
             "https://gitee.com/openharmony/hiviewdfx_hiview_lite",
@@ -469,7 +491,7 @@
             "https://gitee.com/openharmony/resourceschedule_memmgr",
             "https://gitee.com/openharmony-sig/customization_enterprise_device_management"
          ],
-         "project-path":[
+         "project-path": [
             "base/hiviewdfx/hievent_lite",
             "base/hiviewdfx/hilog_lite",
             "base/hiviewdfx/hiview_lite",
@@ -534,8 +556,8 @@
          ]
       },
       {
-         "sig-name":"sig-graphicsandmedia",
-         "projects":[
+         "sig-name": "sig-graphicsandmedia",
+         "projects": [
             "https://gitee.com/openharmony/multimedia_media_standard",
             "https://gitee.com/openharmony/multimedia_audio_standard",
             "https://gitee.com/openharmony/multimedia_camera_standard",
@@ -573,9 +595,9 @@
             "https://gitee.com/openharmony/third_party_skia",
             "https://gitee.com/openharmony/windowmanager",
             "https://gitee.com/openharmony-sig/third_party_libexif",
-            "https://gitee.com/openharmony/third_party_opensles",
+            "https://gitee.com/openharmony/third_party_opensles"
          ],
-         "project-path":[
+         "project-path": [
             "foundation/multimedia/media_standard",
             "foundation/multimedia/audio_standard",
             "foundation/multimedia/camera_standard",
@@ -616,26 +638,27 @@
          ]
       },
       {
-         "sig-name":"sig-python",
-         "projects":"https://gitee.com/openharmony-sig/python",
-         "project-path":"NONE"
+         "sig-name": "sig-python",
+         "projects": "https://gitee.com/openharmony-sig/python",
+         "project-path": "NONE"
       },
       {
-         "sig-name":"sig-infrastructure",
-         "projects":"https://gitee.com/openharmony-sig/website",
-         "projects":"https://gitee.com/openharmony-sig/cicd",
-         "projects":"https://gitee.com/openharmony-sig/archive",
-         "projects":"https://gitee.com/openharmony-sig/sig-content",
-         "project-path":"NONE"
+         "sig-name": "sig-infrastructure",
+         "projects": [
+            "https://gitee.com/openharmony-sig/website",
+            "https://gitee.com/openharmony-sig/cicd",
+            "https://gitee.com/openharmony-sig/archive",
+            "https://gitee.com/openharmony-sig/sig-content"
+         ]
       },
       {
-         "sig-name":"sig-linkboy",
-         "projects":"https://gitee.com/openharmony-sig/linkboy",
-         "project-path":"NONE"
+         "sig-name": "sig-linkboy",
+         "projects": "https://gitee.com/openharmony-sig/linkboy",
+         "project-path": "NONE"
       },
       {
-         "sig-name":"sig-security",
-         "projects":[
+         "sig-name": "sig-security",
+         "projects": [
             "https://gitee.com/openharmony/security_deviceauth",
             "https://gitee.com/openharmony/security_huks",
             "https://gitee.com/openharmony/security_dataclassification",
@@ -653,7 +676,7 @@
             "https://gitee.com/openharmony/security_device_security_level",
             "https://gitee.com/openharmony/developtools_hapsigner"
          ],
-         "project-path":[
+         "project-path": [
             "base/security/deviceauth",
             "base/security/huks/",
             "base/security/dataclassification",
@@ -672,24 +695,24 @@
          ]
       },
       {
-         "sig-name":"sig-blockchain",
-         "projects":[
+         "sig-name": "sig-blockchain",
+         "projects": [
             "https://gitee.com/openharmony-sig/security_block_chain"
          ],
-         "project-path":[
+         "project-path": [
             "NONE"
          ]
       },
       {
-         "sig-name":"sig-compileruntime",
-         "projects":[
+         "sig-name": "sig-compileruntime",
+         "projects": [
             "https://gitee.com/openharmony/js_api_module",
             "https://gitee.com/openharmony/js_sys_module",
             "https://gitee.com/openharmony/js_util_module",
             "https://gitee.com/openharmony/js_worker_module",
             "https://gitee.com/openharmony-sig/utils_memory"
          ],
-         "project-path":[
+         "project-path": [
             "base/compileruntime/js_api_module",
             "base/compileruntime/js_sys_module",
             "base/compileruntime/js_util_module",
@@ -698,15 +721,15 @@
          ]
       },
       {
-         "sig-name":"sig-miniblink",
-         "projects":[
+         "sig-name": "sig-miniblink",
+         "projects": [
             "NONE"
          ],
-         "project-path":[
-         "NONE"
+         "project-path": [
+            "NONE"
          ]
-     },
-     {
+      },
+      {
          "sig-name": "sig-appframework",
          "projects": [
             "https://gitee.com/openharmony/developtools_ace-js2bundle",
@@ -752,52 +775,47 @@
             "test/wukong"
          ]
       },
-        {
+      {
          "sig-name": "sig-knowlege",
          "projects": [
-         "https://gitee.com/openharmony-sig/knowledge"
-         "https://gitee.com/openharmony-sig/online_event",
-         "https://gitee.com/openharmony-sig/knowledge_demo_smart_home"
-         "https://gitee.com/openharmony-sig/knowledge_demo_temp"
+            "https://gitee.com/openharmony-sig/knowledge",
+            "https://gitee.com/openharmony-sig/online_event",
+            "https://gitee.com/openharmony-sig/knowledge_demo_smart_home",
+            "https://gitee.com/openharmony-sig/knowledge_demo_temp"
          ],
-          "project-path":[
-         "NONE"
-         "NONE",
-         "NONE"
-         ]
-        },
-     {
-      "sig-name":"sig-ai_framework_integration",
-      "projects":["https://gitee.com/openharmony-sig/ai_framework_integration"
-      ],
-      "project-path": [
-      ]
+         "project-path": "NONE"
       },
       {
-         "sig-name":"sig-crossplatformui",
-         "projects":[],
-         "project-path": [
-         ]
+         "sig-name": "sig-ai_framework_integration",
+         "projects": [
+            "https://gitee.com/openharmony-sig/ai_framework_integration"
+         ],
+         "project-path": []
       },
       {
-         "sig-name":"sig-napi_generator",
-         "projects":[
+         "sig-name": "sig-crossplatformui",
+         "projects": [],
+         "project-path": []
+      },
+      {
+         "sig-name": "sig-napi_generator",
+         "projects": [
             "https://gitee.com/openharmony/napi_generator"
          ],
-         "project-path":[
+         "project-path": [
             "NONE"
          ]
       },
       {
-         "sig-name":"sig-tee",
-         "projects":[
+         "sig-name": "sig-tee",
+         "projects": [
             "https://gitee.com/openharmony-sig/tee_tee_client",
             "https://gitee.com/openharmony-sig/tee_tee_tzdriver",
             "https://gitee.com/openharmony-sig/tee_tee_os_framework",
             "https://gitee.com/openharmony-sig/tee_tee_os_kernel",
             "https://gitee.com/openharmony-sig/tee_tee_dev_kit"
          ],
-         "project-path":[
+         "project-path": [
             "base/tee/tee_client",
             "base/tee/tee_tzdriver",
             "base/tee/tee_os_framework",

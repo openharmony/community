@@ -1,14 +1,14 @@
 {
    "Leader": [
-	  {
-	     "gitee_id": "sunmingang",
-	     "gitee_email": "sunmingang@jd.com"
-	  }
-	  {
+      {
+         "gitee_id": "sunmingang",
+         "gitee_email": "sunmingang@jd.com"
+      },
+      {
          "gitee_id": "ricther",
          "gitee_email": "liuxu6@jd.com"
-      }
-	  {
+      },
+      {
          "gitee_id": "shangchunpeng",
          "gitee_email": "shangchunpeng@jd.com"
       }
@@ -17,24 +17,24 @@
       {
          "gitee_id": "leaforever",
          "gitee_email": "lipengfeng1@jd.com"
-      }
-	  {
-	     "gitee_id": "tongkedong",
-	     "gitee_email": "tongkedong@jd.com"
-	  }
-	  {
-		 "gitee_id": "songguoku",
-		 "gitee_email": "songguoku@jd.com"
-	  }
-	  {
+      },
+      {
+         "gitee_id": "tongkedong",
+         "gitee_email": "tongkedong@jd.com"
+      },
+      {
+         "gitee_id": "songguoku",
+         "gitee_email": "songguoku@jd.com"
+      },
+      {
          "gitee_id": "kun",
          "gitee_email": "shenkun9@jd.com"
-      }
-	  {
+      },
+      {
          "gitee_id": "sunzuxin",
          "gitee_email": "sunzuxin@jd.com"
-      }
-	  {
+      },
+      {
          "gitee_id": "zhangjie",
          "gitee_email": "zhangjie589@jd.com"
       }
