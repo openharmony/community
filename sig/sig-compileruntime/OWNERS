@@ -1,62 +1,60 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "Xingwa",
-         "gitee_email": "raymond.wangxing@huawei.com",
-      }
-      {
-         "gitee_id": "huanghuijin",
-         "gitee_email": "huanghuijin@huawei.com"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "weichaox",
-         "gitee_email": "wangweichao2@huawei.com"
-      },
-      {
-         "gitee_id": "jady3356",
-         "gitee_email": "peitaiyi@huawei.com"
-      },
-      {
-         "gitee_id": "Han00000000",
-         "gitee_email": "jianghan2@huawei.com"
-      },
-      {
-         "gitee_id": "wuzhefengh",
-         "gitee_email": "wuzhefeng1@huawei.com"
-      },
-      {
-         "gitee_id": "gongjunsong",
-         "gitee_email": "gongjunsong@huawei.com"
-      },
-      {
-         "gitee_id": "sunzhe23",
-         "gitee_email": "sunzhe23@huawei.com"
-      },
-      {
-         "gitee_id": "weng-changcheng",
-         "gitee_email": "wengchangcheng@huawei.com"
-      },
-      {
-         "gitee_id": "yingguofeng",
-         "gitee_email": "yingguofeng@huawei.com"
-      },
-      {
-         "gitee_id": "flyingwolf",
-         "gitee_email": "liyongbiao1@huawei.com"
-      },
-      {
-         "gitee_id": "godmiaozi",
-         "gitee_email": "pengbiao1@huawei.com"
-      },
-      {
-         "gitee_id": "dhy308",
-         "gitee_email": "tony.gan@hisilicon.com"
-      },
-      {
-         "gitee_id": "pengzhuoli",
-         "gitee_email": "pengzhuoli@huawei.com"
-      }
-   ]
+    "Leader": [{
+            "gitee_id": "Xingwa",
+            "gitee_email": "raymond.wangxing@huawei.com"
+        },
+        {
+            "gitee_id": "huanghuijin",
+            "gitee_email": "huanghuijin@huawei.com"
+        }
+    ],
+    "Committers": [{
+            "gitee_id": "weichaox",
+            "gitee_email": "wangweichao2@huawei.com"
+        },
+        {
+            "gitee_id": "jady3356",
+            "gitee_email": "peitaiyi@huawei.com"
+        },
+        {
+            "gitee_id": "Han00000000",
+            "gitee_email": "jianghan2@huawei.com"
+        },
+        {
+            "gitee_id": "wuzhefengh",
+            "gitee_email": "wuzhefeng1@huawei.com"
+        },
+        {
+            "gitee_id": "gongjunsong",
+            "gitee_email": "gongjunsong@huawei.com"
+        },
+        {
+            "gitee_id": "sunzhe23",
+            "gitee_email": "sunzhe23@huawei.com"
+        },
+        {
+            "gitee_id": "weng-changcheng",
+            "gitee_email": "wengchangcheng@huawei.com"
+        },
+        {
+            "gitee_id": "yingguofeng",
+            "gitee_email": "yingguofeng@huawei.com"
+        },
+        {
+            "gitee_id": "flyingwolf",
+            "gitee_email": "liyongbiao1@huawei.com"
+        },
+        {
+            "gitee_id": "godmiaozi",
+            "gitee_email": "pengbiao1@huawei.com"
+        },
+        {
+            "gitee_id": "dhy308",
+            "gitee_email": "tony.gan@hisilicon.com"
+        },
+        {
+            "gitee_id": "pengzhuoli",
+            "gitee_email": "pengzhuoli@huawei.com"
+        }
+    ]
 }

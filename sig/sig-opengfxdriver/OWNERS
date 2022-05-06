@@ -1,54 +1,51 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "frank-huangran",
-         "gitee_email": "frank.huangran@huawei.com"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "xfan1024",
-         "gitee_email": "xiaofan@iscas.ac.cn"
-      },
-      {
-         "gitee_id": "xzmu",
-         "gitee_email": "kelei@iscas.ac.cn"
-      },
-      {
-         "gitee_id": "biannm",
-         "gitee_email": "bian_naimeng@hoperun.com"
-      },
-      {
-         "gitee_id": "zhouwjfi",
-         "gitee_email": "zhou_wenjian@hoperun.com"
-      },
-      {
-         "gitee_id": "robinXiao777",
-         "gitee_email": "fengxiao@pateo.com.cn"
-      },
-      {
-         "gitee_id": "cosmoslhf",
-         "gitee_email": "hongfeilin@pateo.com.cn"
-      },
-      {
-         "gitee_id": "algoideas",
-         "gitee_email": "yu19881234@163.com"
-      },
-      {
-         "gitee_id": "zxg-gitee",
-         "gitee_email": "zhaoxiaoguang2@huawei.com"
-      },
-      {
-         "gitee_id": "zheoyu",
-         "gitee_email": "zhangleiyu1@huawei.com"
-      },
-      {
-         "gitee_id": "hiharmonica_leo",
-         "gitee_email": "leo@hiharmonica.com"
-      },
-      {
-         "gitee_id": "alata",
-         "gitee_email": "alatafoo@sina.com"
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "frank-huangran",
+        "gitee_email": "frank.huangran@huawei.com"
+    }],
+    "Committers": [{
+            "gitee_id": "xfan1024",
+            "gitee_email": "xiaofan@iscas.ac.cn"
+        },
+        {
+            "gitee_id": "xzmu",
+            "gitee_email": "kelei@iscas.ac.cn"
+        },
+        {
+            "gitee_id": "biannm",
+            "gitee_email": "bian_naimeng@hoperun.com"
+        },
+        {
+            "gitee_id": "zhouwjfi",
+            "gitee_email": "zhou_wenjian@hoperun.com"
+        },
+        {
+            "gitee_id": "robinXiao777",
+            "gitee_email": "fengxiao@pateo.com.cn"
+        },
+        {
+            "gitee_id": "cosmoslhf",
+            "gitee_email": "hongfeilin@pateo.com.cn"
+        },
+        {
+            "gitee_id": "algoideas",
+            "gitee_email": "yu19881234@163.com"
+        },
+        {
+            "gitee_id": "zxg-gitee",
+            "gitee_email": "zhaoxiaoguang2@huawei.com"
+        },
+        {
+            "gitee_id": "zheoyu",
+            "gitee_email": "zhangleiyu1@huawei.com"
+        },
+        {
+            "gitee_id": "hiharmonica_leo",
+            "gitee_email": "leo@hiharmonica.com"
+        },
+        {
+            "gitee_id": "alata",
+            "gitee_email": "alatafoo@sina.com"
+        }
+    ]
 }

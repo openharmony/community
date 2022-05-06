@@ -1,62 +1,59 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "o2team",
-         "gitee_email": "o2labs@163.com"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "baosiqing",
-         "gitee_email": "baosiqing@jd.com"
-      },
-      {
-         "gitee_id": "medivhcai",
-         "gitee_email": "caishuai6@jd.com"
-      },
-      {
-         "gitee_id": "chenjj68",
-         "gitee_email": "chenjiajian@jd.com"
-      },
-      {
-         "gitee_id": "advancedcat",
-         "gitee_email": "hongxin@jd.com"
-      },
-      {
-         "gitee_id": "hawleyhuo",
-         "gitee_email": "huozhongyi@jd.com"
-      },
-      {
-         "gitee_id": "evernoteHW",
-         "gitee_email": "huwei161@jd.com"
-      },
-      {
-         "gitee_id": "JSZabc",
-         "gitee_email": "jiangshangze@jd.com"
-      },
-      {
-         "gitee_id": "showeb",
-         "gitee_email": "bin.liu@jd.com"
-      },
-      {
-         "gitee_id": "lumeiling3",
-         "gitee_email": "lumeiling@jd.com"
-      },
-      {
-         "gitee_id": "xiaojianshang",
-         "gitee_email": "shangxiaojian@jd.com"
-      },
-      {
-         "gitee_id": "tangjiao11",
-         "gitee_email": "tangjiao11@jd.com"
-      },
-      {
-         "gitee_id": "xuanzebin",
-         "gitee_email": "xuanzebin3@jd.com"
-      },
-      {
-         "gitee_id": "shuairuofukua",
-         "gitee_email": "xueshuai@jd.com"
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "o2team",
+        "gitee_email": "o2labs@163.com"
+    }],
+    "Committers": [{
+            "gitee_id": "baosiqing",
+            "gitee_email": "baosiqing@jd.com"
+        },
+        {
+            "gitee_id": "medivhcai",
+            "gitee_email": "caishuai6@jd.com"
+        },
+        {
+            "gitee_id": "chenjj68",
+            "gitee_email": "chenjiajian@jd.com"
+        },
+        {
+            "gitee_id": "advancedcat",
+            "gitee_email": "hongxin@jd.com"
+        },
+        {
+            "gitee_id": "hawleyhuo",
+            "gitee_email": "huozhongyi@jd.com"
+        },
+        {
+            "gitee_id": "evernoteHW",
+            "gitee_email": "huwei161@jd.com"
+        },
+        {
+            "gitee_id": "JSZabc",
+            "gitee_email": "jiangshangze@jd.com"
+        },
+        {
+            "gitee_id": "showeb",
+            "gitee_email": "bin.liu@jd.com"
+        },
+        {
+            "gitee_id": "lumeiling3",
+            "gitee_email": "lumeiling@jd.com"
+        },
+        {
+            "gitee_id": "xiaojianshang",
+            "gitee_email": "shangxiaojian@jd.com"
+        },
+        {
+            "gitee_id": "tangjiao11",
+            "gitee_email": "tangjiao11@jd.com"
+        },
+        {
+            "gitee_id": "xuanzebin",
+            "gitee_email": "xuanzebin3@jd.com"
+        },
+        {
+            "gitee_id": "shuairuofukua",
+            "gitee_email": "xueshuai@jd.com"
+        }
+    ]
 }
