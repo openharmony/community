@@ -35,7 +35,7 @@ OpenHarmony社区通过[项目管理委员会](/zh/pmc.md)（ Project Management
 | ---------------------------------------|---------- | ------------------------------------------------------------ |
 | contact@openharmony.io <img width=150/>  | 公用邮箱 <img width=100/> | OpenHarmony社区公共邮箱。<img width=200/>|
 | dev@openharmony.io  <img width=150/>| 开发邮件列表 <img width=100/> | OpenHarmony社区开发讨论邮件列表，任何社区开发相关话题都可以在邮件列表讨论。任何开发者可[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)。<img width=200/>|
-| cicd@openharmony.io <img width=150/> | CI邮件列表  <img width=100/>| OpenHarmomny CICD构建邮件列表，任何开发者可[订阅](https://lists.openatom.io/postorius/lists/cicd.openharmony.io)。<img width=200/>|
+| cicd@openharmony.io <img width=150/> | CI邮件列表  <img width=100/>| OpenHarmony CICD构建邮件列表，任何开发者可[订阅](https://lists.openatom.io/postorius/lists/cicd.openharmony.io)。<img width=200/>|
 | pmc@openharmony.io  <img width=150/>| PMC邮件列表  <img width=100/>| PMC讨论邮件列表，PMC成员可[订阅](https://lists.openatom.io/postorius/lists/pmc.openharmony.io/)。<img width=200/>|
 | scy@openharmony.io <img width=150/> | 安全问题邮箱 <img width=100/> | 开发者可反馈OpenHarmony安全问题到此邮箱。<img width=200/>|
 | scy-priv@openharmony.io  <img width=150/>| 安全组邮件列表  <img width=100/>| 安全组成员安全问题处理讨论邮件列表，安全组成员可[订阅](https://lists.openatom.io/postorius/lists/scy-priv.openharmony.io/)。<img width=200/>|
