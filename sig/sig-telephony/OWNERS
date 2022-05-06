@@ -1,34 +1,31 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "zhang-hai-feng",
-         "gitee_email": "zhanghaifeng11@huawei.com"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "zhang-hai-feng",
-         "gitee_email": "zhanghaifeng11@huawei.com"
-      },
-      {
-         "gitee_id": "jyh926",
-         "gitee_email": "jiayanhong@huawei.com"
-      },
-      {
-         "gitee_id": "clevercong",
-         "gitee_email": "lichunlin2@huawei.com"
-      },
-      {
-         "gitee_id": "ohos-lsw",
-         "gitee_email": "lishiwei6@huawei.com"
-      },
-      {
-         "gitee_id": "xautosoft",
-         "gitee_email": "zhuwenchao@huawei.com"
-      },
-      {
-         "gitee_id": "hwlitao",
-         "gitee_email": "litao25@huawei.com"
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "zhang-hai-feng",
+        "gitee_email": "zhanghaifeng11@huawei.com"
+    }],
+    "Committers": [{
+            "gitee_id": "zhang-hai-feng",
+            "gitee_email": "zhanghaifeng11@huawei.com"
+        },
+        {
+            "gitee_id": "jyh926",
+            "gitee_email": "jiayanhong@huawei.com"
+        },
+        {
+            "gitee_id": "clevercong",
+            "gitee_email": "lichunlin2@huawei.com"
+        },
+        {
+            "gitee_id": "ohos-lsw",
+            "gitee_email": "lishiwei6@huawei.com"
+        },
+        {
+            "gitee_id": "xautosoft",
+            "gitee_email": "zhuwenchao@huawei.com"
+        },
+        {
+            "gitee_id": "hwlitao",
+            "gitee_email": "litao25@huawei.com"
+        }
+    ]
 }

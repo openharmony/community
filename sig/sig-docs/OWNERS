@@ -1,22 +1,19 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "neeen",
-         "gitee_email": " neen.yang@huawei.com"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "duangavin123",
-         "gitee_email": "duanxichao@huawei.com "
-      }
-      {
-         "gitee_id": "RayShih",
-         "gitee_email": "shirui721@huawei.com "
-      }
-      {
-         "gitee_id": "Peter_1988",
-         "gitee_email": "zhouyun2@huawei.com "
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "neeen",
+        "gitee_email": " neen.yang@huawei.com"
+    }],
+    "Committers": [{
+            "gitee_id": "duangavin123",
+            "gitee_email": "duanxichao@huawei.com "
+        },
+        {
+            "gitee_id": "RayShih",
+            "gitee_email": "shirui721@huawei.com "
+        },
+        {
+            "gitee_id": "Peter_1988",
+            "gitee_email": "zhouyun2@huawei.com "
+        }
+    ]
 }

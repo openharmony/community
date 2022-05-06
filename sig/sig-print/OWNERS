@@ -1,26 +1,23 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "eric.li",
-         "gitee_email": "eric.li@urovo.com"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "eric.li",
-         "gitee_email": "eric.li@urovo.com"
-      },
-      {
-         "gitee_id": "stur.guan",
-         "gitee_email": "stur.guan@urovo.com"
-      },
-      {
-         "gitee_id": "jorway.ou",
-         "gitee_email": "jorway.ou@urovo.com"
-      },
-      {
-         "gitee_id": "litao33",
-         "gitee_email": "litao33@huawei.com"
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "eric.li",
+        "gitee_email": "eric.li@urovo.com"
+    }],
+    "Committers": [{
+            "gitee_id": "eric.li",
+            "gitee_email": "eric.li@urovo.com"
+        },
+        {
+            "gitee_id": "stur.guan",
+            "gitee_email": "stur.guan@urovo.com"
+        },
+        {
+            "gitee_id": "jorway.ou",
+            "gitee_email": "jorway.ou@urovo.com"
+        },
+        {
+            "gitee_id": "litao33",
+            "gitee_email": "litao33@huawei.com"
+        }
+    ]
 }

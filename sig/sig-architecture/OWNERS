@@ -1,22 +1,19 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "im-off-this-week",
-         "gitee_email": "rengelin@huawei.com"
-      }
-   ]
-   "Committers": [
-      {
-         "gitee_id": "karl-z",
-         "gitee_email": "zhangyongzhi@huawei.com"
-      },
-      {
-         "gitee_id": "wanchengzhen",
-         "gitee_email": "wanchengzhen@huawei.com"
-      },
-      {
-         "gitee_id": "huawei_qiangbo",
-         "gitee_email": "qiangbo2@huawei.com"
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "im-off-this-week",
+        "gitee_email": "rengelin@huawei.com"
+    }],
+    "Committers": [{
+            "gitee_id": "karl-z",
+            "gitee_email": "zhangyongzhi@huawei.com"
+        },
+        {
+            "gitee_id": "wanchengzhen",
+            "gitee_email": "wanchengzhen@huawei.com"
+        },
+        {
+            "gitee_id": "huawei_qiangbo",
+            "gitee_email": "qiangbo2@huawei.com"
+        }
+    ]
 }

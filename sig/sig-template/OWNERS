@@ -1,14 +1,10 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "dongjinguang",
-         "gitee_email": "dongjinguang@huawei.com"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "dongjinguang",
-         "gitee_email": "dongjinguang@huawei.com"
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "dongjinguang",
+        "gitee_email": "dongjinguang@huawei.com"
+    }],
+    "Committers": [{
+        "gitee_id": "dongjinguang",
+        "gitee_email": "dongjinguang@huawei.com"
+    }]
 }

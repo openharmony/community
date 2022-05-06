@@ -1,38 +1,35 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "xhuazi",
-         "gitee_email": "xw.hua@huawei.com"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "xhuazi",
-         "gitee_email": "xw.hua@huawei.com"
-      },
-      {
-         "gitee_id": "jony_code",
-         "gitee_email": "longjun@iscas.ac.cn"
-      },
-      {
-         "gitee_id": "kevenNO1",
-         "gitee_email": "likai20@iscas.ac.cn"
-      },
-      {
-         "gitee_id": "xzmu",
-         "gitee_email": "xzmu@openatom.org"
-      },
-      {
-         "gitee_id": "minglonghuang",
-         "gitee_email": "minglong@iscas.ac.cn"
-      },
-      {
-         "gitee_id": "vanessaguo",
-         "gitee_email": "vanessa@openatom.org"
-      },
-      {
-         "gitee_id": "heartoflight",
-         "gitee_email": "lotus@openatom.org"
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "xhuazi",
+        "gitee_email": "xw.hua@huawei.com"
+    }],
+    "Committers": [{
+            "gitee_id": "xhuazi",
+            "gitee_email": "xw.hua@huawei.com"
+        },
+        {
+            "gitee_id": "jony_code",
+            "gitee_email": "longjun@iscas.ac.cn"
+        },
+        {
+            "gitee_id": "kevenNO1",
+            "gitee_email": "likai20@iscas.ac.cn"
+        },
+        {
+            "gitee_id": "xzmu",
+            "gitee_email": "xzmu@openatom.org"
+        },
+        {
+            "gitee_id": "minglonghuang",
+            "gitee_email": "minglong@iscas.ac.cn"
+        },
+        {
+            "gitee_id": "vanessaguo",
+            "gitee_email": "vanessa@openatom.org"
+        },
+        {
+            "gitee_id": "heartoflight",
+            "gitee_email": "lotus@openatom.org"
+        }
+    ]
 }

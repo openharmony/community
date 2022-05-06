@@ -1,18 +1,15 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "dumingliang_hw",
-         "gitee_email": "dumingliang@huawei.com"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "zhu-mingliang",
-         "gitee_email": "zhumingliang@huawei.com"
-      },
-      {
-         "gitee_id": "liuyuehua1",
-         "gitee_email": "liuyuehua1@huawei.com"
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "dumingliang_hw",
+        "gitee_email": "dumingliang@huawei.com"
+    }],
+    "Committers": [{
+            "gitee_id": "zhu-mingliang",
+            "gitee_email": "zhumingliang@huawei.com"
+        },
+        {
+            "gitee_id": "liuyuehua1",
+            "gitee_email": "liuyuehua1@huawei.com"
+        }
+    ]
 }

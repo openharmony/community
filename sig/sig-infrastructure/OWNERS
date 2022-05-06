@@ -1,50 +1,47 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "xzmu",
-         "gitee_email": "kelei@iscas.ac.cn"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "flfaye",
-         "gitee_email": "fanluofei@huawei.com"
-      },
-      {
-         "gitee_id": "niuyuan888",
-         "gitee_email": "niuyuan@huawei.com"
-      },
-      {
-         "gitee_id": "youthdragon",
-         "gitee_email": "youthdragon.wangyiming@huawei.com"
-      },
-      {
-         "gitee_id": "minglonghuang",
-         "gitee_email": "roberthuang1010@163.com"
-      },
-      {
-         "gitee_id": "ownery",
-         "gitee_email": "2518665972@qq.com"
-      },
-      {
-         "gitee_id": "chaoyangc",
-         "gitee_email": "cuichaoyang136@163.com "
-      },
-      {
-         "gitee_id": "kevenNO1",
-         "gitee_email": "likai20@iscas.ac.cn"
-      },
-      {
-         "gitee_id": "jony_code",
-         "gitee_email": "longjun@iscas.ac.cn"
-      },
-      {
-         "gitee_id": "neeen",
-         "gitee_email": "neen.yang@huawei.com"
-      },
-      {
-         "gitee_id": "zhanglunet",
-         "gitee_email": "zhanglu@iscas.ac.cn"
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "xzmu",
+        "gitee_email": "kelei@iscas.ac.cn"
+    }],
+    "Committers": [{
+            "gitee_id": "flfaye",
+            "gitee_email": "fanluofei@huawei.com"
+        },
+        {
+            "gitee_id": "niuyuan888",
+            "gitee_email": "niuyuan@huawei.com"
+        },
+        {
+            "gitee_id": "youthdragon",
+            "gitee_email": "youthdragon.wangyiming@huawei.com"
+        },
+        {
+            "gitee_id": "minglonghuang",
+            "gitee_email": "roberthuang1010@163.com"
+        },
+        {
+            "gitee_id": "ownery",
+            "gitee_email": "2518665972@qq.com"
+        },
+        {
+            "gitee_id": "chaoyangc",
+            "gitee_email": "cuichaoyang136@163.com "
+        },
+        {
+            "gitee_id": "kevenNO1",
+            "gitee_email": "likai20@iscas.ac.cn"
+        },
+        {
+            "gitee_id": "jony_code",
+            "gitee_email": "longjun@iscas.ac.cn"
+        },
+        {
+            "gitee_id": "neeen",
+            "gitee_email": "neen.yang@huawei.com"
+        },
+        {
+            "gitee_id": "zhanglunet",
+            "gitee_email": "zhanglu@iscas.ac.cn"
+        }
+    ]
 }
