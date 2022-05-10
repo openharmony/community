@@ -37,5 +37,5 @@
 ### 联系方式(可选)
 
 - 邮件列表：dev@openharmony.io
-- Zulip群组：documentaion_sig
+- Zulip群组：documentation_sig
 - 微信群：暂无

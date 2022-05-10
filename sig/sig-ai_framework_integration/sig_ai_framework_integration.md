@@ -10,9 +10,9 @@ Integrates current state of art high quality open sourced AI inference framework
 
 ### work scope
 1. Integrate current state of art AI inference framework into OpenHarmony
-2. Provide demo app to illustrate how to use these AI inference framwork
-3. Continous support for optimization on memory and speed
-4. COntinous support for model model convertion tool
+2. Provide demo app to illustrate how to use these AI inference framework
+3. Continuous support for optimization on memory and speed
+4. Continuous support for model model convertion tool
 
 ### The repository 
 - repository :
