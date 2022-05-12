@@ -298,8 +298,8 @@
 |296|device_board_hisilicon|device/board/hisilicon|https://gitee.com/northking-super|chenxin100@huawei.com|https://gitee.com/hisi_zk <br> https://gitee.com/Aaron_lv|hisi.zhaokai@hisilicon.com <br> lvyong7@huawei.com|SIG_Devboard|
 |297|account_app_account|base/account/app_account|https://gitee.com/verystone|xudaqing@huawei.com| | |SIG_BasicSoftwareService|
 |298|third_party_benchmark|third_party/benchmark|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com| https://gitee.com/buranfanchen | wangjuntao.wang@huawei.com |SIG_Test|
-|299|device_hihope|device/hihope|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| | |SIG_Devboard|
-|300|vendor_hihope|vendor/hihope|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| | |SIG_Devboard|
+|299|device_hihope|device/hihope|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/bob_qu|qu_bo@hoperun.com|SIG_Devboard|
+|300|vendor_hihope|vendor/hihope|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/bob_qu|qu_bo@hoperun.com|SIG_Devboard||
 |301|third_party_egl|third_party/EGL|https://gitee.com/lijj01|lijunjie29@huawei.com| | |SIG_Graphics|
 |302|third_party_opengles|third_party/openGLES|https://gitee.com/lijj01|lijunjie29@huawei.com| | |SIG_Graphics|
 |303|third_party_openh264|third_party/openh264|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_Media|
@@ -318,9 +318,9 @@
 |316|third_party_libnfnetlink|third_party/libnfnetlink|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |317|third_party_libnftnl|third_party/libnftnl|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |318|distributeddatamgr_data_share|foundation/distributeddatamgr/data_share|https://gitee.com/verystone|xudaqing@huawei.com| | |SIG_DataManagement|
-|319|device_board_fnlink|device/board/fnlink|https://gitee.com/besyangjian|jianyang@bestechnic.com|https://gitee.com/tingle1314|zetingxu@bestechnic.com|SIG_Devboard|
-|320|device_soc_bestechnic|device/soc/bestechnic|https://gitee.com/besyangjian|jianyang@bestechnic.com|https://gitee.com/tingle1314|zetingxu@bestechnic.com|SIG_Devboard|
-|321|vendor_bestechnic|vendor/bestechnic|https://gitee.com/besyangjian|jianyang@bestechnic.com|https://gitee.com/tingle1314|zetingxu@bestechnic.com|SIG_Devboard|
+|319|device_board_fnlink|device/board/fnlink|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/besyangjian <br> https://gitee.com/tingle1314|jianyang@bestechnic.com <br> zetingxu@bestechnic.com|SIG_Devboard|
+|320|device_soc_bestechnic|device/soc/bestechnic|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/besyangjian <br> https://gitee.com/tingle1314|jianyang@bestechnic.com <br> zetingxu@bestechnic.com|SIG_Devboard|
+|321|vendor_bestechnic|vendor/bestechnic|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/besyangjian <br> https://gitee.com/tingle1314|jianyang@bestechnic.com <br> zetingxu@bestechnic.com|SIG_Devboard|
 |322|third_party_libexif|third_party/libexif|https://gitee.com/zhang-xiaobo1997|tony.zhangxiaobo@huawei.com|||SIG_Media|
 |323|communication_netmanager_base|foundation/communication/netmanager_base|https://gitee.com/clevercong|lichunlin2@huawei.com| | |SIG-Telephony|
 |324|communication_netmanager_ext|foundation/communication/netmanager_ext|https://gitee.com/clevercong|lichunlin2@huawei.com| | |SIG-Telephony|
@@ -371,3 +371,23 @@
 |369|hiviewdfx_hichecker|base/hiviewdfx/hichecker|https://gitee.com/zlxia|xiazhonglin@huawei.com|https://gitee.com/jeyogg|jiangweizheng@huawei.com|SIG_BasicSoftwareService|
 |370|hiviewdfx_hidumper|base/hiviewdfx/hidumper|https://gitee.com/zlxia|xiazhonglin@huawei.com|https://gitee.com/jeyogg|jiangweizheng@huawei.com|SIG_BasicSoftwareService|
 |371|napi_generator|NA/napi_generator|https://gitee.com/zhaojunxia2020|zhaojunxia@kaihongdigi.com|https://gitee.com/bayanxing|bayanxing@kaihongdigi.com|SIG_Napi_generator|
+|372|vendor_goodix|base/vendor/goodix|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/sink-top|zounan@goodix.com|SIG_Devboard|
+|373|device_soc_goodix|device/soc/goodix|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/sink-top | zounan@goodix.com |SIG_Devboard|
+|374|device_board_goodix|device/board/goodix|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/sink-top | zounan@goodix.com |SIG_Devboard|
+|375|device_board_bearpi|device/board/bearpi|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/bearpi |admin@bearpi.cn|SIG_Devboard|
+|376|vendor_bearpi|vendor/bearpi|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/bearpi |admin@bearpi.cn |SIG_Devboard|
+|377|device_soc_st|device/soc/st|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/talkweb_houpengfei<br>https://gitee.com/bearpi |houpengfei@talkweb.com.cn<br>admin@bearpi.cn|SIG_Devboard|
+|378|device_board_hihope|device/board/hihope|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/bob_qu |qu_bo@hoperun.com|SIG_Devboard|
+|379|device_soc_winnermicro| device/socwinnermicro |https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/bob_qu | qu_bo@hoperun.com |SIG_Devboard|
+|380| device_soc_asrmicro|device/soc/asrmicro  |https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/lango-tech_0 | shaopeng.yao@lango-tech.cn |SIG_Devboard|
+|381|device_board_lango| device/board/lango |https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/lango-tech_0 | shaopeng.yao@lango-tech.cn |SIG_Devboard|
+|382|vendor_asrmicro|vendor/asrmicro |https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/lango-tech_0 | shaopeng.yao@lango-tech.cn |SIG_Devboard|
+|383|vendor_chipsea|vendor/chipsea |https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/ihaobo | haobo@chipsea.com |SIG_Devboard|
+|384|device_board_chipsea|device/soc/chipsea|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/ihaobo | haobo@chipsea.com |SIG_Devboard|
+|385|device_soc_chipsea|device/soc/chipsea|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/ihaobo | haobo@chipsea.com |SIG_Devboard|
+|386|device_soc_allwinner|device/soc/allwinner|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/vyagoo_0 | ygopenhm@vyagoo.com |SIG_Devboard|
+|387|device_board_seed|device/board/seed|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/vyagoo_0 | ygopenhm@vyagoo.com |SIG_Devboard|
+|388|vendor_seed |vendor/seed|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/vyagoo_0 | ygopenhm@vyagoo.com |SIG_Devboard|
+|389|vendor_talkweb|vendor/talkweb|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/talkweb_houpengfei | houpengfei@talkweb.com.cn |SIG_Devboard|
+|390| device_board_talkweb|device/board/talkweb|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/talkweb_houpengfei | houpengfei@talkweb.com.cn |SIG_Devboard|
+|391| device_soc_rockchip|device/soc/rockchip|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/bob_qu |qu_bo@hoperun.com|SIG_Devboard|
