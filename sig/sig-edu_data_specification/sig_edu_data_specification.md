@@ -21,7 +21,7 @@ SIG will work with partners to establish and improve corresponding data collecti
 
 **Set the benchmark**
 
-Innovate Oh education application scenarios and build demonstration benchmark projects based on Oh root technology; Promote the development of industrial hongmenghua with demonstration effect.
+Innovate Oh education application scenarios and build demonstration benchmark projects based on Oh root technology; Promote the development of industrial in an OpenHarmony-based way with demonstration effect.
 
 **Donate abilities**
 

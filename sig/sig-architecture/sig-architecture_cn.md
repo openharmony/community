@@ -25,8 +25,8 @@
 - @huawei_qiangbo(https://gitee.com/huawei_qiangbo)
 
 ### 会议
- - 会议时间：每周二 16:00
- - 会议申报：[OpenHarmony SIG-Architecture Meeting Proposal](https://etherpad.openharmony.cn/p/sig-architecture)
+ - 会议时间：每周二 9:30
+ - 会议申报：[OpenHarmony SIG-Architecture Meeting Proposal](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC)
  - 会议链接: Welink
  - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
 

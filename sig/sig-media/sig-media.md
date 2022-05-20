@@ -18,6 +18,7 @@ OpenHarmony media related design and review.
   - multimedia_camera_standard:https://gitee.com/openharmony/multimedia_camera_standard
   - multimedia_medialibrary_standard:https://gitee.com/openharmony/multimedia_medialibrary_standard
   - multimedia_image_standard:https://gitee.com/openharmony/multimedia_image_standard
+  - multimedia_avsession_standard:https://gitee.com/openharmony-sig/multimedia_avsession_standard
   - multimedia_histreamer:https://gitee.com/openharmony/multimedia_histreamer
   - multimedia_media_lite:https://gitee.com/openharmony/multimedia_media_lite
   - multimedia_audio_lite:https://gitee.com/openharmony/multimedia_audio_lite
@@ -43,7 +44,7 @@ OpenHarmony media related design and review.
 ### Committers
 - @zhu-mingliang(https://gitee.com/zhu-mingliang)
 - @liuyuehua1(https://gitee.com/liuyuehua1)
-
+- @wangjuntao(https://gitee.com/buranfanchen)
 
 ### Meetings
  - Meeting time：Every two weeks' Friday 14:30-15:30

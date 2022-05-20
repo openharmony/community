@@ -1,42 +1,39 @@
 {
-   "Leader":[
-      {
-         "gitee_id":"huawei_qiangbo",
-         "gitee_email":"qiangbo2@huawei.com"
-      }
-   ],
-   "Committers":[
-      {
-         "gitee_id":"sunbxonline",
-         "gitee_email":"sunbingxin@huawei.com"
-      },
-      {
-         "gitee_id":"zhouyaoying",
-         "gitee_email":"zhouyaoying@huawei.com"
-      },
-      {
-         "gitee_id":"gwang2008",
-         "gitee_email":"wanggenliang@huawei.com"
-      },
-      {
-         "gitee_id":"chengongpingde",
-         "gitee_email":"chengongping@huawei.com"
-      },
-      {
-         "gitee_id":"lihong67",
-         "gitee_email":"lihong67@huawei.com"
-      },
-      {
-         "gitee_id":"seaside_wu",
-         "gitee_email":"wuhaibin5@huawei.com"
-      },
-      {
-         "gitee_id":"laigerendaqiu",
-         "gitee_email":"lihao71@huawei.com"
-      },
-      {
-         "gitee_id":"lanshouren",
-         "gitee_email":"lanshouren@huawei.com"
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "huawei_qiangbo",
+        "gitee_email": "qiangbo2@huawei.com"
+    }],
+    "Committers": [{
+            "gitee_id": "sunbxonline",
+            "gitee_email": "sunbingxin@huawei.com"
+        },
+        {
+            "gitee_id": "zhouyaoying",
+            "gitee_email": "zhouyaoying@huawei.com"
+        },
+        {
+            "gitee_id": "gwang2008",
+            "gitee_email": "wanggenliang@huawei.com"
+        },
+        {
+            "gitee_id": "chengongpingde",
+            "gitee_email": "chengongping@huawei.com"
+        },
+        {
+            "gitee_id": "lihong67",
+            "gitee_email": "lihong67@huawei.com"
+        },
+        {
+            "gitee_id": "seaside_wu",
+            "gitee_email": "wuhaibin5@huawei.com"
+        },
+        {
+            "gitee_id": "laigerendaqiu",
+            "gitee_email": "lihao71@huawei.com"
+        },
+        {
+            "gitee_id": "lanshouren",
+            "gitee_email": "lanshouren@huawei.com"
+        }
+    ]
 }

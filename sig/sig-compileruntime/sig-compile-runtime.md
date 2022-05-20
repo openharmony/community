@@ -7,10 +7,10 @@
 
 ### work goals
 
-- The evelopment and maintenance of compilation framework and its efficiency improvement. Supporting compilation of multiple products and components.
+- The development and maintenance of compilation framework and its efficiency improvement. Supporting compilation of multiple products and components.
 - Support JS/TS language compilation and runtime, and create high-performance JS/TS virtual machines. Provide basic JSAPI capabilities, including multi-threading capabilities, encoding and decoding string capabilities, and URL parsing capabilities.
-- Support C/C++ compilation, debuging based on Clang/LLVM.
-- Provide basic libarary supoort such as musl and evolution of related abilities.
+- Support C/C++ compilation, debugging based on Clang/LLVM.
+- Provide basic library support such as musl and evolution of related abilities.
 
 ### work scope
 - Design, review, and make decisions on the architecture of the language compilation and runtime.

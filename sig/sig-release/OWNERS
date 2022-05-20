@@ -1,18 +1,15 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "David.Wu.Lanxi",
-         "gitee_email": "wuyonghui9@huawei.com"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "aiyongfu",
-         "gitee_email": "aiyongfu@huawei.com"
-      }
-	  {
-         "gitee_id": "shermanzhong",
-         "gitee_email": "sherman.zhong@huawei.com"
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "David.Wu.Lanxi",
+        "gitee_email": "wuyonghui9@huawei.com"
+    }],
+    "Committers": [{
+            "gitee_id": "aiyongfu",
+            "gitee_email": "aiyongfu@huawei.com"
+        },
+        {
+            "gitee_id": "shermanzhong",
+            "gitee_email": "sherman.zhong@huawei.com"
+        }
+    ]
 }

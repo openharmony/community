@@ -26,6 +26,9 @@ ApplicationFramework相关的设计评审、提交评审、《OpenHarmony Applic
   - third_party_chromium:https://gitee.com/openharmony/third_party_chromium
   - third_party_cef:https://gitee.com/openharmony/third_party_cef
   - web_webview:https://gitee.com/openharmony/web_webview
+  - arkui_ace_engine_lite:https://gitee.com/openharmony/arkui_ace_engine_lite
+  - arkui_napi:https://gitee.com/openharmony/arkui_napi
+  - arkui_ace_engine:https://gitee.com/openharmony/arkui_ace_engine
 
 ## SIG组成员
 
