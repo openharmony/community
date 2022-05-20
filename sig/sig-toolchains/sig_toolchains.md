@@ -37,6 +37,7 @@ The toolchain is provided in binary form and in source form with a simple build 
 ### The repository 
 - project name:
   - Tools & Toolchains: https://gitee.com/openharmony-sig/sig-tools-toolchains
+  - developtools_hdc: https://gitee.com/openharmony/developtools_hdc
   - developtools_hiperf: https://gitee.com/openharmony/developtools_hiperf
   - developtools_syscap_codec: https://gitee.com/openharmony/developtools_syscap_codec
 

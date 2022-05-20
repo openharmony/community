@@ -1,18 +1,15 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "delphi-tang",
-         "gitee_email": "delphi_tang@dt4sw.com"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "cindy",
-         "gitee_email": "chenyang870625@126.com"
-      },
-      {
-         "gitee_id": "yi_xiong",
-         "gitee_email": "14858520@qq.com"
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "delphi-tang",
+        "gitee_email": "delphi_tang@dt4sw.com"
+    }],
+    "Committers": [{
+            "gitee_id": "cindy",
+            "gitee_email": "chenyang870625@126.com"
+        },
+        {
+            "gitee_id": "yi_xiong",
+            "gitee_email": "14858520@qq.com"
+        }
+    ]
 }

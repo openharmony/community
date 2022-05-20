@@ -32,7 +32,7 @@
 |DFX子系统|[hiviewdfx_hiview_lite](https://gitee.com/openharmony/hiviewdfx_hiview_lite)|base/hiviewdfx/hiview_lite|[stesen](https://gitee.com/stesen)|
 |DFX子系统|[third_party_curl](https://gitee.com/openharmony/third_party_curl)|third_party/curl|[stesen](https://gitee.com/stesen)|
 |DFX子系统|[third_party_nghttp2](https://gitee.com/openharmony/third_party_nghttp2)|third_party/nghttp2|[zhuwenchao](https://gitee.com/xautosoft)|
-|网络管理子系统|[third_party_libwebsockets](https://gitee.com/openharmony-sig/third_party_libwebsockets)|third_party/libwebsockets|[zhuwenchao](https://gitee.com/xautosoft)|
+|网络管理子系统|[third_party_libwebsockets](https://gitee.com/openharmony/third_party_libwebsockets)|third_party/libwebsockets|[zhuwenchao](https://gitee.com/xautosoft)|
 |网络管理子系统|[third_party_iptables](https://gitee.com/openharmony-sig/third_party_iptables)|third_party/iptables|[zhuwenchao](https://gitee.com/xautosoft)|
 |网络管理子系统|[third_party_libmnl](https://gitee.com/openharmony-sig/third_party_libmnl)|third_party/libmnl|[zhuwenchao](https://gitee.com/xautosoft)|
 |网络管理子系统|[third_party_libnetfilter_conntrack](https://gitee.com/openharmony-sig/third_party_libnetfilter_conntrack)|third_party/libnetfilter/conntrack|[zhuwenchao](https://gitee.com/xautosoft)|
@@ -50,6 +50,7 @@
 | DFX子系统            | [hiviewdfx_hidumper_lite](https://gitee.com/openharmony/hiviewdfx_hidumper_lite) | base/hiviewdfx/hidumper_lite                      | [stesen](https://gitee.com/stesen)           |
 | DFX子系统            | [hiviewdfx_hitrace](https://gitee.com/openharmony/hiviewdfx_hitrace) | base/hiviewdfx/hitrace                            | [yaomanhai](https://gitee.com/yaomanhai)     |
 | DFX子系统            | [hiviewdfx_hicollie](https://gitee.com/openharmony/hiviewdfx_hicollie) | base/hiviewdfx/hicollie                           | [ericlee](https://gitee.com/ericlee)         |
+| DFX子系统            | [developtools_bytrace](https://gitee.com/openharmony/developtools_bytrace) | developtools/bytrace                           | [leizhenzang](https://gitee.com/leizhenzang)         |
 | DFX子系统            | [third_party_ejdb](https://gitee.com/openharmony/third_party_ejdb) | third_party/ejdb                                  | [ericlee](https://gitee.com/ericlee)         |
 | DFX子系统            | [third_party_iowow](https://gitee.com/openharmony/third_party_iowow) | third_party/iowow                                 |[ericlee](https://gitee.com/ericlee)|
 |分布式任务调度子系统|[distributedschedule_dms_fwk_lite](https://gitee.com/openharmony/distributedschedule_dms_fwk_lite)|foundation/distributedschedule/dmsfwk_lite|[lijiarun](https://gitee.com/lijiarun)|
@@ -89,6 +90,7 @@
 |资源调度子系统|[resourceschedule_memmgr](https://gitee.com/openharmony/resourceschedule_memmgr)|foundation/resourceschedule/plugins/memmgr|[cbraham](https://gitee.com/cbraham)|
 |DFX子系统|[third_party_pyyaml](https://gitee.com/openharmony/third_party_pyyaml)|third_party/pyyaml|[guochuanqi](https://gitee.com/guochuanqi)|
 |定制子系统|[customization_enterprise_device_management](https://gitee.com/openharmony-sig/customization_enterprise_device_management)|customization_enterprise_device_management|[caiminggang](https://gitee.com/caiminggang)|
+|事件通知子系统|[notification_eventhandler](https://gitee.com/openharmony-sig/notification_eventhandler)|base/notification/eventhandler|[zero-cyc](https://gitee.com/zero-cyc)|
 
 ## SIG组成员
 

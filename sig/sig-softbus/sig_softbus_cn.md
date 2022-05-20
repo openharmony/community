@@ -36,6 +36,7 @@
   - iothardware_peripheral：https://gitee.com/openharmony/iothardware_peripheral
   - iot_link：https://gitee.com/openharmony/iot_link
   - third_party_lwip：https://gitee.com/openharmony/third_party_lwip
+  - third_party_nfc-nci：https://gitee.com/openharmony-sig/third_party_nfc-nci
   - third_party_wpa_supplicant：https://gitee.com/openharmony/third_party_wpa_supplicant
   - third_party_libcoap：https://gitee.com/openharmony/third_party_libcoap
 

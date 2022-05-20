@@ -29,6 +29,8 @@ OpenHarmony security sbusystem, including application permissions, application s
   - useriam_user_idm:https://gitee.com/openharmony/useriam_user_idm
   - security_device_security_level:https://gitee.com/openharmony/security_device_security_level
   - developtools_hapsigner:https://gitee.com/openharmony/developtools_hapsigner
+  - security_certificate_manager:https://gitee.com/openharmony-sig/security_certificate_manager
+  - security_privacy_center:https://gitee.com/openharmony-sig/security_privacy_center
 
 ## SIG Members
 

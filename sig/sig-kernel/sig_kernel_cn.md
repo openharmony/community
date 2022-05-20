@@ -6,9 +6,12 @@
 ## SIG组工作目标和范围
 
 ### 工作目标
-维护文件系统相关的三方开源软件
+- 使能OpenHarmony内核能力： 孵化内核（存储、内存、调度、安全等）增强能力，支撑框架子系统能力；看护内核Linux架构，保证能够持续跟进Linux LTS主线；看护多内核架构，保证OpenHarmony能够同时支持多个内核，方便厂商适配，方便生态发展。
 ### 工作范围
-鸿蒙在轻设备上文件系统相关的三方开源软件, 包含文件系统开发和镜像包制作工具
+- 孵化内核（存储、内存、调度、安全等）增强能力，支撑框架子系统能力，提升OpenHarmony平台竞争力；
+- 维护内核Linux架构，跟踪Linux LTS主线及安全补丁，提供稳定、安全的内核基线；
+- 维护多内核架构，支持轻量化设备选择LiteOS内核，维护生态发展。
+
 ## 代码仓
 - 代码仓地址：
   - repository1名称：https://gitee.com/openharmony/third_party_littlefs
@@ -32,14 +35,16 @@
 ## SIG组成员
 
 ### Leader
-- [@ninalijiaxin](https://gitee.com/ninalijiaxin)
+- [@easy-to-see](https://gitee.com/easy-to-see)
 
 ### Committers列表
-- [@wangmihu2008](https://gitee.com/wangmihu2008)
 - [@liuyoufang](https://gitee.com/liuyoufang)
-- [@easy-to-see](https://gitee.com/easy-to-see)
-- [@li_zan](https://gitee.com/li_zan)
-- [@taiyipei](https://gitee.com/taiyipei)
+- [@kkup180](https://gitee.com/kkup180)
+- [@zhangzhiwi](https://gitee.com/zhangzhiwi)
+- [@bubble_mao](https://gitee.com/bubble_mao)
+- [@linux_anio](https://gitee.com/linux_anio)
+- [@vincent_qianjing](https://gitee.com/vincent_qianjing)
+- [@weiyj_lk](https://gitee.com/weiyj_lk)
 
 ### 会议
  - 会议时间：周二上午9:30
@@ -52,4 +57,3 @@
 
 - 邮件列表：kernel@openharmony.io
 - Zulip群组：https://zulip.openharmony.cn
-- 微信群：请联系 [@ninalijiaxin](https://gitee.com/ninalijiaxin)

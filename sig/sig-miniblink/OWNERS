@@ -1,22 +1,19 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "ampereufo",
-         "gitee_email": "ampereufo@qq.com"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "weolar",
-         "gitee_email": "weolar@qq.com"
-      },
-      {
-         "gitee_id": "nickehu",
-         "gitee_email": "misterh@live.cn"
-      },
-	  {
-	     "gitee_id": "Cai_Huan",
-         "gitee_email": "cai.huan25@gmail.com"
-	  }
-   ]
+    "Leader": [{
+        "gitee_id": "ampereufo",
+        "gitee_email": "ampereufo@qq.com"
+    }],
+    "Committers": [{
+            "gitee_id": "weolar",
+            "gitee_email": "weolar@qq.com"
+        },
+        {
+            "gitee_id": "nickehu",
+            "gitee_email": "misterh@live.cn"
+        },
+        {
+            "gitee_id": "Cai_Huan",
+            "gitee_email": "cai.huan25@gmail.com"
+        }
+    ]
 }

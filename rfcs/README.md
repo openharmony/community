@@ -14,7 +14,7 @@
 
 ## 如何提交 RFC
 
-1. 在提交 RFC 之前，请与OpenHarmony组建维护者和贡献者充分讨论您的目标，并获得反馈。请使用OpenHarmony的开发者邮寄列表或对应领域SIG邮件列表（[dev@openharmony.io 或 sig_signame@openharmony.io](https://lists.openatom.io/postorius/lists/)）。
+1. 在提交 RFC 之前，请与OpenHarmony部件维护者和贡献者充分讨论您的目标，并获得反馈。请使用OpenHarmony的开发者邮件列表或对应领域SIG邮件列表（[dev@openharmony.io 或 sig_signame@openharmony.io](https://lists.openatom.io/postorius/lists/)）。
 
 2. 起草您的 RFC。
 
@@ -22,16 +22,16 @@
 - 将您的 RFC 文件命名为  `YYYYMMDD-description-name.md`，其中  `YYYYMMDD`  是提交日期，而  `descriptive-name`  与您的 RFC 标题相关。（例如如果 RFC 标题名称为  _Micro Python Framework_，则可以使用文件名  `20210720-micro-python-framework.md`）。
 - 如果要提交图片或其他有助于理解设计的附属文档，请创建格式为  `YYYYMMDD-descriptive-name`  的目录来存储这些文件。
 
-3. 编写 RFC 草稿后，请先征求项目仓Commiter和贡献者的反馈，然后再提交。 不要求编写并实现代码，如果有代码实现将有利于研讨。
+3. 编写 RFC 草稿后，请先征求项目仓Committer和贡献者的反馈，然后再提交。 不要求编写并实现代码，如果有代码实现将有利于研讨。
 
 4.  招募发起人。
 - 发起人必须是项目仓库的[Committer](https://gitee.com/openharmony/community/blob/master/zh/committer.md)或对应领域的[SIG Leader](https://gitee.com/openharmony/community/blob/master/sig/sigs_subsystem_list.md)。
 - 请先在 RFC 中注明发起人，然后再发布 PR。
 -  您 _可以_ 在没有发起人的情况下发布 RFC请求，但是如果在发布 PR 请求的一个月内仍然没有发起人，则该 PR 将被关闭。
 
-5. 将您的 RFC 作为拉取请求提交到  [openharmony/community/rfcs](https://gitee.com/openharmony/community/tree/master/rfcs)。
+5. 将您的 RFC 作为 PR 提交到  [openharmony/community/rfcs](https://gitee.com/openharmony/community/tree/master/rfcs)。
 
-6. 通过开发者邮寄列表向开发者发送简要说明、PR 链接和审查请求，邮件标题加前缀[RFC]。
+6. 通过开发者邮件列表向开发者发送简要说明、PR 链接和审查请求，邮件标题加前缀[RFC]。
 
 7. 发起人将在 RFC PR 发布后的两周内请求召开SIG技术评审会议。评审会议的目的是解决小的争议，大争议应提前达成共识。如果评审过程中提出了问题，请等到问题解决后再重新发起进行评审。
 
@@ -58,8 +58,8 @@
     - 引导评审委员会达成共识。
     - 当评审委员会请求更改时，确保更改得到妥善实施并寻求委员会成员的后续批准。
     - 当 RFC 经批准待实现时：
-    - 确保建议的实现方法符合设计。
-    - 与相关方进行协调以成功落实实现方案。
+      - 确保建议的实现方法符合设计。
+      - 与相关方进行协调以成功落实实现方案。
 
 ### RFC 评审委员会
 
@@ -69,7 +69,7 @@
 - 添加其会议记录作为 PR 评论。
 - 提供其做出决策的详细理由。
 
-2. 评审委员会的人员构成可能会因每个项目而异。对于核心OpenHarmonyu组建，委员会将由在相关领域具有专业知识的SIG Leader 和Committer维护者组成。
+2. 评审委员会的人员构成可能会因每个项目而异。对于核心OpenHarmony部件，委员会将由在相关领域具有专业知识的SIG Leader 和Committer维护者组成。
 
 ### 社区成员和 RFC 流程
 

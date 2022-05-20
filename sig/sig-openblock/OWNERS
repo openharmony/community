@@ -1,18 +1,15 @@
 {
-   "Leader": [
-      {
-         "gitee_id": "duzc2",
-         "gitee_email": "duzc2@163.com"
-      }
-   ],
-   "Committers": [
-      {
-         "gitee_id": "aaronchan_cx",
-         "gitee_email": "630620242@qq.com"
-      },
-      {
-         "gitee_id": "htq110219891",
-         "gitee_email": "124329640@qq.com"
-      }
-   ]
+    "Leader": [{
+        "gitee_id": "duzc2",
+        "gitee_email": "duzc2@163.com"
+    }],
+    "Committers": [{
+            "gitee_id": "aaronchan_cx",
+            "gitee_email": "630620242@qq.com"
+        },
+        {
+            "gitee_id": "htq110219891",
+            "gitee_email": "124329640@qq.com"
+        }
+    ]
 }

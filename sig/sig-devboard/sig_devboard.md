@@ -45,12 +45,9 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - project name:
   - device_st: https://gitee.com/openharmony-sig/device_st
   - vendor_st: https://gitee.com/openharmony-sig/vendor_st
-  - device_allwinner: https://gitee.com/openharmony-sig/device_allwinner
-  - device_allwinner: https://gitee.com/openharmony-sig/devboard_device_allwinner_xr806
-  - device_allwinner: https://gitee.com/openharmony-sig/devboard_device_allwinner_t507
-  - vendor_allwinner: https://gitee.com/openharmony-sig/vendor_allwinner
-  - vendor_allwinner: https://gitee.com/openharmony-sig/devboard_vendor_allwinner_xr806
-  - vendor_allwinner: https://gitee.com/openharmony-sig/devboard_vendor_allwinner_t507
+  - device_soc_allwinner: https://gitee.com/openharmony/device_soc_allwinner
+  - device_board_seed: https://gitee.com/openharmony/device_board_seed
+  - vendor_seed: https://gitee.com/openharmony/vendor_seed
   - device_mediatek: https://gitee.com/openharmony-sig/device_mediatek
   - vendor_mediatek: https://gitee.com/openharmony-sig/vendor_mediatek
   - device_nordic: https://gitee.com/openharmony-sig/device_nordic
@@ -59,8 +56,9 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - vendor_nxp: https://gitee.com/openharmony-sig/vendor_nxp
   - device_fudanmicro: https://gitee.com/openharmony-sig/device_fudanmicro
   - vendor_fudanmicro: https://gitee.com/openharmony-sig/vendor_fudanmicro
-  - device_bestechnic: https://gitee.com/openharmony-sig/device_bestechnic
+  - device_soc_bestechnic: https://gitee.com/openharmony/device_soc_bestechnic
   - vendor_bestechnic: https://gitee.com/openharmony/vendor_bestechnic
+  - device_board_fnlink: https://gitee.com/openharmony/device_board_fnlink
   - device_ingenic: https://gitee.com/openharmony-sig/device_ingenic
   - vendor_ingenic: https://gitee.com/openharmony-sig/vendor_ingenic
   - device_espressif: https://gitee.com/openharmony-sig/device_soc_espressif
@@ -80,36 +78,45 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - vendor_bouffalolab: https://gitee.com/openharmony-sig/vendor_bouffalolab
   - device_beken: https://gitee.com/openharmony-sig/device_beken
   - vendor_beken: https://gitee.com/openharmony-sig/vendor_beken
-  - device_asrmicro: https://gitee.com/openharmony-sig/device_asrmicro
-  - vendor_asrmicro: https://gitee.com/openharmony-sig/vendor_asrmicro
+  - device_board_lango: https://gitee.com/openharmony/device_board_lango
+  - vendor_asrmicro: https://gitee.com/openharmony/vendor_asrmicro
+  - device_soc_asrmicro: https://gitee.com/openharmony/device_soc_asrmicro
   - device_qemu: https://gitee.com/openharmony/device_qemu
   - vendor_ohemu: https://gitee.com/openharmony/vendor_ohemu
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_hihope_build
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_device_hihope_dayu
   - device_hoperun:https://gitee.com/openharmony-sig/devboard_vendor_hihope
-  - device_bearpi: https://gitee.com/openharmony/device_bearpi_bearpi_hm_nano
+  - device_board_hihope:https://gitee.com/openharmony/device_board_hihope
+  - vendor_hihope:https://gitee.com/openharmony/vendor_hihope
+  - device_soc_rockchip:https://gitee.com/openharmony/device_soc_rockchip
+  - device_soc_winnermicro:https://gitee.com/openharmony/device_soc_winnermicro
+  - device_board_bearpi: https://gitee.com/openharmony/device_board_bearpi
   - device_bearpi:https://gitee.com/openharmony-sig/applications_sample_bearpi_hm_nano
   - device_bearpi:https://gitee.com/openharmony/vendor_bearpi
   - vendor_huawei_ipcamera_v3s: https://gitee.com/openharmony-sig/vendor_huawei_ipcamera_v3s
   - vendor_oh_fun: https://gitee.com/openharmony-sig/vendor_oh_fun
   - vendor_huawei_minidisplay_demo: https://gitee.com/openharmony-sig/vendor_huawei_minidisplay_demo
-  - talkweb: https://gitee.com/openharmony-sig/devboard_applications_sample_talkweb_niobe
-  - talkweb: https://gitee.com/openharmony-sig/devboard_device_talkweb_niobe
-  - talkweb: https://gitee.com/openharmony-sig/devboard_vendor_talkweb
+  - device_board_talkweb: https://gitee.com/openharmony/device_board_talkweb
+  - vendor_talkweb: https://gitee.com/openharmony/vendor_talkweb
   - raspberrypi : https://gitee.com/openharmony-sig/devboard_vendor_rpi3b
   - Unionman: https://gitee.com/openharmony-sig/device_unionpi
   - Unionman: https://gitee.com/openharmony-sig/vendor_unionpi
   - itcast: https://gitee.com/openharmony-sig/devboard_device_itcast_genkipi
   - itcast: https://gitee.com/openharmony-sig/devboard_vendor_itcast_genkipi
   - waffle: https://gitee.com/openharmony-sig/devboard_waffle_nano
-  - goodix: https://gitee.com/openharmony-sig/devboard_device_goodix_gr551x
-  - goodix: https://gitee.com/openharmony-sig/devboard_vendor_goodix_gr5515_sk_basic
+  - device_board_goodix: https://gitee.com/openharmony/device_board_goodix
+  - vendor_goodix: https://gitee.com/openharmony/vendor_goodix
+  - device_soc_goodix: https://gitee.com/openharmony/device_soc_goodix
   - device_soc_hisilicon: https://gitee.com/openharmony/device_soc_hisilicon
   - device_board_hisilicon: https://gitee.com/openharmony/device_board_hisilicon
   - device_board_fnlink: https://gitee.com/openharmony/device_board_fnlink
   - device_t-head: https://gitee.com/openharmony-sig/device_soc_t-head
   - device_t-head: https://gitee.com/openharmony-sig/device_board_t-head
   - vendor_t-head: https://gitee.com/openharmony-sig/vendor_t-head
+  - device_soc_chipsea: https://gitee.com/openharmony/device_soc_chipsea
+  - device_board_chipsea: https://gitee.com/openharmony/device_board_chipsea
+  - vendor_chipsea: https://gitee.com/openharmony/vendor_chipsea
+  - device_soc_st: https://gitee.com/openharmony/device_soc_st
 
 ## SIG Members
 
