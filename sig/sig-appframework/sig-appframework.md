@@ -16,6 +16,7 @@ OpenHarmony ApplicationFramework Governance Charter、ApplicationFramework Revie
 ## The repository 
 
 - project name:
+  - bundlemanager_bundle_framework:https://gitee.com/openharmony/bundlemanager_bundle_framework
   - developtools_ace-js2bundle:https://gitee.com/openharmony/developtools_ace-js2bundle
   - developtools_ace-ets2bundle:https://gitee.com/openharmony/developtools_ace-ets2bundle
   - third_party_weex-loader:https://gitee.com/openharmony/third_party_weex-loader
