@@ -848,12 +848,14 @@
             "projects": [
                 "https://gitee.com/openharmony/arkui_ace_engine",
                 "https://gitee.com/openharmony/arkui_ace_engine_lite",
-                "https://gitee.com/openharmony/arkui_napi"
+                "https://gitee.com/openharmony/arkui_napi",
+		"https://gitee.com/openharmony/bundlemanager_bundle_framework"
             ],
             "project-path": [
                 "foundation/arkui/ace_engine",
                 "foundation/arkui/ace_engine_lite",
-                "foundation/arkui/napi"
+                "foundation/arkui/napi",
+		"foundation/bundlemanager/bundle_framework"
             ]
         }
     ]
