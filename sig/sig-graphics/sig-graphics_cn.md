@@ -13,7 +13,7 @@ OpenHarmony 图形管理。
 
 ## 代码仓
 - 代码仓地址：
-  - graphic_standard:https://gitee.com/openharmony/graphic_standard
+  - graphic_graphic_2d:https://gitee.com/openharmony/graphic_graphic_2d
   - graphic_surface:https://gitee.com/openharmony/graphic_surface
   - graphic_ui:https://gitee.com/openharmony/graphic_ui
   - graphic_utils:https://gitee.com/openharmony/graphic_utils
