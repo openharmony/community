@@ -34,6 +34,7 @@
   - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
   - third_party_mingw-w64: https://gitee.com/openharmony/third_party_mingw-w64
   - third_party_musl: https://gitee.com/openharmony/third_party_musl
+  - third_party_mimalloc: https://gitee.com/openharmony-sig/third_party_mimalloc
   - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
   - third_party_python: https://gitee.com/openharmony/third_party_python
   - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
