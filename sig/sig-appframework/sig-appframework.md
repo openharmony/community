@@ -21,6 +21,7 @@ OpenHarmony ApplicationFramework Governance Charter、ApplicationFramework Revie
   - ability_form_runtime:https://gitee.com/openharmony-sig/ability_form_runtime
   - ability_idl:https://gitee.com/openharmony-sig/ability_idl
   - bundlemanager_bundle_framework:https://gitee.com/openharmony/bundlemanager_bundle_framework
+  - bundlemanager_bundle_framework_lite:https://gitee.com/openharmony/bundlemanager_bundle_framework_lite
   - developtools_ace-js2bundle:https://gitee.com/openharmony/developtools_ace-js2bundle
   - developtools_ace-ets2bundle:https://gitee.com/openharmony/developtools_ace-ets2bundle
   - third_party_weex-loader:https://gitee.com/openharmony/third_party_weex-loader

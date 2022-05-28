@@ -13,13 +13,13 @@ ApplicationFramework相关的设计评审、提交评审、《OpenHarmony Applic
 
 ## 代码仓
 - 代码仓地址：
-  - appexecfwk_lite:https://gitee.com/openharmony/appexecfwk_appexecfwk_lite
   - aafwk_lite:https://gitee.com/openharmony/aafwk_aafwk_lite
   - ability_ability_runtime:https://gitee.com/openharmony/ability_ability_runtime
   - ability_ability_base:https://gitee.com/openharmony-sig/ability_ability_base
   - ability_form_runtime:https://gitee.com/openharmony-sig/ability_form_runtime
   - ability_idl:https://gitee.com/openharmony-sig/ability_idl
   - bundlemanager_bundle_framework:https://gitee.com/openharmony/bundlemanager_bundle_framework
+  - bundlemanager_bundle_framework_lite:https://gitee.com/openharmony/bundlemanager_bundle_framework_lite
   - developtools_ace-js2bundle:https://gitee.com/openharmony/developtools_ace-js2bundle
   - developtools_ace-ets2bundle:https://gitee.com/openharmony/developtools_ace-ets2bundle
   - third_party_weex-loader:https://gitee.com/openharmony/third_party_weex-loader
