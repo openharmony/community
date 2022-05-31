@@ -75,8 +75,6 @@ Basic Software Services includes the following sub-systems:
 |MiscServices|[miscservices_print](https://gitee.com/openharmony-sig/miscservices_print)|base/miscservices/print|[litao33](https://gitee.com/litao33)|
 |MiscServices|[miscservices_pasteboard](https://gitee.com/openharmony-sig/miscservices_pasteboard)|base/miscservices/pasteboard|[litao33](https://gitee.com/litao33)|
 |MiscServices|[miscservices_download](https://gitee.com/openharmony-sig/miscservices_download)|base/miscservices/download|[litao33](https://gitee.com/litao33)|
-|Notification|[notification_ces_standard](https://gitee.com/openharmony/notification_ces_standard)|base/notification/ces_standard|[autumn330](https://gitee.com/autumn330)|
-|Notification|[notification_ans_standard](https://gitee.com/openharmony/notification_ans_standard)|base/notification/ans_standard|[autumn330](https://gitee.com/autumn330)|
 |Account|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
 |Account|[account_app_account](https://gitee.com/openharmony-sig/account_app_account)|base/account/app_account|[verystone](https://gitee.com/verystone)|
 |accessibility|[accessibility](https://gitee.com/openharmony/accessibility)|base/accessibility|[dubingjian](https://gitee.com/bj1010)|
@@ -89,6 +87,8 @@ Basic Software Services includes the following sub-systems:
 |ResourceSchedule|[resourceschedule_memmgr](https://gitee.com/openharmony/resourceschedule_memmgr)|foundation/resourceschedule/plugins/memmgr|[cbraham](https://gitee.com/cbraham)|
 |HiviewDFX|[third_party_pyyaml](https://gitee.com/openharmony/third_party_pyyaml)|third_party/pyyaml|[guochuanqi](https://gitee.com/guochuanqi)|
 |Notification|[notification_eventhandler](https://gitee.com/openharmony-sig/notification_eventhandler)|base/notification/eventhandler|[zero-cyc](https://gitee.com/zero-cyc)|
+|Notification|[notification_distributed_notification_service](https://gitee.com/openharmony/notification_distributed_notification_service)|base/notification/distributed_notification_service|[zero-cyc](https://gitee.com/zero-cyc)|
+|Notification|[notification_common_event_service](https://gitee.com/openharmony/notification_common_event_service)|base/notification/common_event_service|[zero-cyc](https://gitee.com/zero-cyc)|
 
 ## SIG Members
 
