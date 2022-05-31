@@ -1,0 +1,70 @@
+{
+   "Leader": [
+       {
+           "gitee_id": "xiaojian_ide",
+           "gitee_email": "xiaojian756@huawei.com"
+       }
+   ],
+   "Committers": [
+       {
+           "gitee_id": "mumuyuegu",
+           "gitee_email": "hulin.hulin@huawei.com"
+       }, 
+       {
+           "gitee_id": "Sanchuan_IDE",
+           "gitee_email": "weisanchuan@huawei.com"
+       },
+       {
+           "gitee_id": "mingrui_emu",
+           "gitee_email": "mingrui@huawei.com"
+       },
+       {
+           "gitee_id": "yang-lin-16",
+           "gitee_email": "yanglin5@huawei.com"
+       },
+       {
+           "gitee_id": "idealmost",
+           "gitee_email": "limian1@huawei.com"
+       },
+       {
+           "gitee_id": "wangjian_oh",
+           "gitee_email": "michael.wangjian@huawei.com"
+       },
+       {
+           "gitee_id": "lipeng_side",
+           "gitee_email": "lipeng45@huawei.com"
+       },
+       {
+           "gitee_id": "xiongxiaoyong8",
+           "gitee_email": "xiongxiaoyong@huawei.com"
+       },
+       {
+           "gitee_id": "gaoxi785",
+           "gitee_email": "gaoxi785@huawei.com"
+       },
+       {
+           "gitee_id": "harmonyide",
+           "gitee_email": "fangcen@huawei.com"
+       },
+       {
+           "gitee_id": "xiexg-dc",
+           "gitee_email": "xiexg@digitalchina.com"
+       },
+       {
+           "gitee_id": "sz-dc",
+           "gitee_email": "harmonyos_sz@digitalchina.com"
+       },
+       {
+           "gitee_id": "lengege",
+           "gitee_email": "liulongc@digitalchina.com"
+       },
+       {
+           "gitee_id": "zhaojunxia2020",
+           "gitee_email": "zhaojunxia@kaihongdigi.com"
+       },
+       {
+           "gitee_id": "bayanxing",
+           "gitee_email": "bayanxing@kaihongdigi.com"
+       }
+   ]
+}
