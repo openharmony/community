@@ -32,6 +32,9 @@ ApplicationFramework相关的设计评审、提交评审、《OpenHarmony Applic
   - arkui_ace_engine_lite:https://gitee.com/openharmony/arkui_ace_engine_lite
   - arkui_napi:https://gitee.com/openharmony/arkui_napi
   - arkui_ace_engine:https://gitee.com/openharmony/arkui_ace_engine
+  - global_resource_management:https://gitee.com/openharmony/global_resource_management
+  - global_resource_management_lite:https://gitee.com/openharmony/global_resource_management_lite
+  - utils_system_resources:https://gitee.com/openharmony/utils_system_resources
 
 ## SIG组成员
 
