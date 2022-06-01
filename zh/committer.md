@@ -8,7 +8,7 @@
 |6|applications_sample_wifi_iot|applications/sample/wifi-iot|https://gitee.com/five-yuan|wuyunjie@huawei.com| | |SIG_SoftBus|
 |7|global_cust_lite|base/global/cust_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
 |8|global_i18n_lite|base/global/i18n_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
-|9|global_resmgr_lite|base/global/resmgr_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
+|9|global_resource_management_lite|base/global/resource_management_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
 |10|hiviewdfx_hievent_lite|base/hiviewdfx/hievent_lite|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|
 |11|hiviewdfx_hilog_lite|base/hiviewdfx/hilog_lite|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|
 |12|hiviewdfx_hiview_lite|base/hiviewdfx/hiview_lite|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|
@@ -116,7 +116,7 @@
 |114|applications_systemui|applications/standard/systemui|https://gitee.com/lv-zhongwei|lvzhongwei@huawei.com|https://gitee.com/lin-shuai5|linshuai5@huawei.com|SIG_SystemApplication|
 |115|account_os_account|base/account/os_account|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/verystone|xudaqing@huawei.com|SIG_BasicSoftwareService|
 |116|global_i18n_standard|base/global/i18n_standard|https://gitee.com/mengjingzhimo|luoboming@huawei.com| | |SIG_ApplicationFramework|
-|117|global_resmgr_standard|base/global/resmgr_standard|https://gitee.com/jameshw|jameslee@huawei.com| | |SIG_ApplicationFramework|
+|117|global_resource_management|base/global/resource_management|https://gitee.com/jameshw|jameslee@huawei.com| | |SIG_ApplicationFramework|
 |118|hiviewdfx_faultloggerd|base/hiviewdfx/faultloggerd|https://gitee.com/maplestorys|zengzhi5@huawei.com|https://gitee.com/stesen|stesen.ma@huawei.com|SIG_BasicSoftwareService|
 |119|hiviewdfx_hiappevent|base/hiviewdfx/hiappevent|https://gitee.com/yaomanhai|yaomanhai@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|
 |120|hiviewdfx_hilog|base/hiviewdfx/hilog|https://gitee.com/yaomanhai|yaomanhai@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|
@@ -215,7 +215,7 @@
 |213|third_party_weston|third_party/weston|https://gitee.com/lz-230|lizheng2@huawei.com| | |SIG_Graphics|
 |214|utils|utils|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
 |215|utils_native|utils/native|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
-|216|resources|utils/resources|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
+|216|utils_system_resources|utils/system_resources|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
 |217|utils_selinux_policy_standard|utils/system/selinux_policy_standard|https://gitee.com/xuwenfang|xuwenfang@huawei.com| | |SIG_Security|
 |218|app_samples|NA|https://gitee.com/illybyy|baoyayong@huawei.com|https://gitee.com/jiangtao92|jiangtao57@huawei.com|SIG_SystemApplication|
 |219|tools_oat|NA|https://gitee.com/jalenchen|chenyaxun@huawei.com| | |SIG_CommunityBuilding|
