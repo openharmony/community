@@ -504,7 +504,8 @@
                 "https://gitee.com/openharmony/resourceschedule_resource_schedule_service",
                 "https://gitee.com/openharmony/third_party_pyyaml",
                 "https://gitee.com/openharmony/resourceschedule_memmgr",
-                "https://gitee.com/openharmony-sig/customization_enterprise_device_management"
+                "https://gitee.com/openharmony-sig/customization_enterprise_device_management",
+                "https://gitee.com/openharmony/notification_eventhandler"
             ],
             "project-path": [
                 "base/hiviewdfx/hievent_lite",
@@ -568,7 +569,8 @@
                 "foundation/resourceschedule/resource_schedule_service",
                 "third_party/pyyaml",
                 "foundation/resourceschedule/plugins/memmgr",
-                "base/customization/enterprise_device_management"
+                "base/customization/enterprise_device_management",
+                "base/notification/eventhandler"
             ]
         },
         {

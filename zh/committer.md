@@ -391,3 +391,4 @@
 |389|vendor_talkweb|vendor/talkweb|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/talkweb_houpengfei | houpengfei@talkweb.com.cn |SIG_Devboard|
 |390| device_board_talkweb|device/board/talkweb|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/talkweb_houpengfei | houpengfei@talkweb.com.cn |SIG_Devboard|
 |391| device_soc_rockchip|device/soc/rockchip|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/bob_qu |qu_bo@hoperun.com|SIG_Devboard|
+|392|notification_eventhandler|base/notification/eventhandler|https://gitee.com/zero-cyc|chenlien@huawei.com|https://gitee.com/jayleehw|liqiang121@huawei.com|SIG_BasicSoftwareService|
