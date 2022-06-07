@@ -13,9 +13,10 @@ Specifies basic design requirements of OpenHarmony ApplicationFramework, Applica
 
 OpenHarmony ApplicationFramework Governance Charter、ApplicationFramework Review, etc.
 
-## The repository 
+## The repository
 
 - project name:
+  - ability_ability_lite:https://gitee.com/openharmony/ability_ability_lite
   - ability_ability_runtime:https://gitee.com/openharmony/ability_ability_runtime
   - ability_ability_base:https://gitee.com/openharmony-sig/ability_ability_base
   - ability_form_runtime:https://gitee.com/openharmony-sig/ability_form_runtime
