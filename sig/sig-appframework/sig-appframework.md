@@ -19,8 +19,8 @@ OpenHarmony ApplicationFramework Governance Charter、ApplicationFramework Revie
   - ability_ability_lite:https://gitee.com/openharmony/ability_ability_lite
   - ability_ability_runtime:https://gitee.com/openharmony/ability_ability_runtime
   - ability_ability_base:https://gitee.com/openharmony-sig/ability_ability_base
-  - ability_form_runtime:https://gitee.com/openharmony-sig/ability_form_runtime
-  - ability_idl:https://gitee.com/openharmony-sig/ability_idl
+  - ability_form_fwk:https://gitee.com/openharmony-sig/ability_form_fwk
+  - ability_idl_tool:https://gitee.com/openharmony-sig/ability_idl_tool
   - bundlemanager_bundle_framework:https://gitee.com/openharmony/bundlemanager_bundle_framework
   - bundlemanager_bundle_framework_lite:https://gitee.com/openharmony/bundlemanager_bundle_framework_lite
   - developtools_ace-js2bundle:https://gitee.com/openharmony/developtools_ace-js2bundle
