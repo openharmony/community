@@ -14,7 +14,6 @@ ApplicationFramework相关的设计评审、提交评审、《OpenHarmony Applic
 ## 代码仓
 - 代码仓地址：
   - ability_ability_lite:https://gitee.com/openharmony/ability_ability_lite
-  - aafwk_lite:https://gitee.com/openharmony/aafwk_aafwk_lite
   - ability_ability_runtime:https://gitee.com/openharmony/ability_ability_runtime
   - ability_ability_base:https://gitee.com/openharmony-sig/ability_ability_base
   - ability_form_fwk:https://gitee.com/openharmony-sig/ability_form_fwk
