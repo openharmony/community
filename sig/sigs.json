@@ -879,6 +879,17 @@
                 "base/global/global_resource_management_lite",
                 "utils/system_resources"
             ]
+        },
+        {
+            "sig-name": "sig-ide",
+            "projects": [
+                "https://gitee.com/openharmony-sig/napi_plugin",
+                "https://gitee.com/openharmony-sig/hcs_config_plugin"
+            ],
+            "project-path": [
+                "NONE",
+                "NONE"
+            ]
         }
     ]
 }
