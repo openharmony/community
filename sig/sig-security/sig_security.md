@@ -13,7 +13,7 @@ OpenHarmony security sbusystem, including application permissions, application s
 
 ### The repository
 - project name:
-  - deviceauth：https://gitee.com/openharmony/security_deviceauth
+  - device_auth：https://gitee.com/openharmony/security_device_auth
   - huks：https://gitee.com/openharmony/security_huks
   - dataclassification：https://gitee.com/openharmony/security_dataclassification
   - appverify：https://gitee.com/openharmony/security_appverify

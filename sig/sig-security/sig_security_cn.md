@@ -13,7 +13,7 @@ OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密�
 
 ## 代码仓
 - 代码仓地址：
-  - deviceauth：https://gitee.com/openharmony/security_deviceauth
+  - device_auth：https://gitee.com/openharmony/security_device_auth
   - huks：https://gitee.com/openharmony/security_huks
   - dataclassification：https://gitee.com/openharmony/security_dataclassification
   - appverify：https://gitee.com/openharmony/security_appverify

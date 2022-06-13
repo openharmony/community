@@ -677,7 +677,7 @@
         {
             "sig-name": "sig-security",
             "projects": [
-                "https://gitee.com/openharmony/security_deviceauth",
+                "https://gitee.com/openharmony/security_device_auth",
                 "https://gitee.com/openharmony/security_huks",
                 "https://gitee.com/openharmony/security_dataclassification",
                 "https://gitee.com/openharmony/security_appverify",
@@ -697,7 +697,7 @@
                 "https://gitee.com/openharmony-sig/security_privacy_center"
             ],
             "project-path": [
-                "base/security/deviceauth",
+                "base/security/device_auth",
                 "base/security/huks/",
                 "base/security/dataclassification",
                 "base/security/device_security_level",
