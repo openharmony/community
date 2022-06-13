@@ -15,7 +15,7 @@
 |13|iothardware_peripheral|base/iot_hardware/peripheral|https://gitee.com/defeng2020|wudefeng@huawei.com| | |SIG_SoftBus|
 |14|powermgr_powermgr_lite|base/powermgr/powermgr_lite|https://gitee.com/aqxyjay|zhangchunxin@huawei.com| | |SIG_DistributedHardwareManagement|
 |15|security_appverify|base/security/appverify|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com| | |SIG_Security|
-|16|security_deviceauth|base/security/deviceauth|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com| | |SIG_Security|
+|16|security_device_auth|base/security/device_auth|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com| | |SIG_Security|
 |17|security_huks|base/security/huks|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com| | |SIG_Security|
 |18|security_permission|base/security/permission|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_Security|
 |19|sensors_miscdevice_lite|base/sensors/miscdevice_lite|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
