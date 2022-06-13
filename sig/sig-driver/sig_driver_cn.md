@@ -24,14 +24,14 @@
 ## SIG组成员
 
 ### Leader
-- @chenfeng469(https://gitee.com/chenfeng469)
+- @zhaowenhua(https://gitee.com/shidi_snow)
 
 ### Committers列表
 - @zianed(https://gitee.com/zianed)
-- @dxbedu(https://gitee.com/dxbedu)
+- @duxiaobo(https://gitee.com/dxbedu)
 - @Kevin-Lau(https://gitee.com/Kevin-Lau)
 - @yuanbo(https://gitee.com/yuanbogit)
-
+- @zhuangchunxin(https://gitee.com/aqxyjay)
 ### 会议
  - 会议时间：双周例会，周三下午16:00
  - 会议申报：[SIG-Driver会议议题收集](https://shimo.im/sheets/36GKhpvrXd8TcQHY)
