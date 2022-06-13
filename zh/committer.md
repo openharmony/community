@@ -334,11 +334,11 @@
 |332|security_access_token|base/security/access_token|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/hu-huifeng|huhuifeng@huawei.com|SIG_Security|
 |333|third_party_openmax|third_party/openmax|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau <br> https://gitee.com/yuanbogit|liufeihu@huawei.com <br> yuanbo@huawei.com|SIG_DriverFramework|
 |334|third_party_opensles|third_party/openSLES|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_Media|
-|335|useriam_auth_executor_mgr|base/user_iam/auth_executor_mgr|https://gitee.com/wangxu43|wangxu43@huawei.com|https://gitee.com/zhirenx|xuzhiren@huawei.com|SIG_Security|
-|336|useriam_faceauth|base/user_iam/face_auth|https://gitee.com/wangxu43|wangxu43@huawei.com|https://gitee.com/zhirenx|xuzhiren@huawei.com|SIG_Security|
-|337|useriam_pin_auth|base/user_iam/pin_auth|https://gitee.com/wangxu43|wangxu43@huawei.com|https://gitee.com/zhirenx|xuzhiren@huawei.com|SIG_Security|
-|338|useriam_user_auth|base/user_iam/user_auth|https://gitee.com/wangxu43|wangxu43@huawei.com|https://gitee.com/zhirenx|xuzhiren@huawei.com|SIG_Security|
-|339|useriam_user_idm|base/user_iam/user_idm|https://gitee.com/wangxu43|wangxu43@huawei.com|https://gitee.com/zhirenx|xuzhiren@huawei.com|SIG_Security|
+|335|useriam_auth_executor_mgr|base/useriam/auth_executor_mgr|https://gitee.com/wangxu43|wangxu43@huawei.com|https://gitee.com/zhirenx|xuzhiren@huawei.com|SIG_Security|
+|336|useriam_face_auth|base/useriam/face_auth|https://gitee.com/wangxu43|wangxu43@huawei.com|https://gitee.com/zhirenx|xuzhiren@huawei.com|SIG_Security|
+|337|useriam_pin_auth|base/useriam/pin_auth|https://gitee.com/wangxu43|wangxu43@huawei.com|https://gitee.com/zhirenx|xuzhiren@huawei.com|SIG_Security|
+|338|useriam_user_auth_framework|base/useriam/user_auth_framework|https://gitee.com/wangxu43|wangxu43@huawei.com|https://gitee.com/zhirenx|xuzhiren@huawei.com|SIG_Security|
+|339|useriam_user_idm|base/useriam/user_idm|https://gitee.com/wangxu43|wangxu43@huawei.com|https://gitee.com/zhirenx|xuzhiren@huawei.com|SIG_Security|
 |340|security_device_security_level|base/security/device_security_level|https://gitee.com/zhirenx|xuzhiren@huawei.com|https://gitee.com/wangxu43|wangxu43@huawei.com|SIG_Security|
 |341|developtools_hapsigner|developtools/hapsigner|https://gitee.com/liuchibin|liuchibin@huawei.com|https://gitee.com/wangxu43|wangxu43@huawei.com|SIG_Security|
 |342|msdp_start|base/msdp/start|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
