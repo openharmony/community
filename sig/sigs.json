@@ -47,8 +47,6 @@
             "projects": [
                 "https://gitee.com/openharmony/drivers_framework",
                 "https://gitee.com/openharmony/drivers_peripheral",
-                "https://gitee.com/openharmony/drivers_adapter",
-                "https://gitee.com/openharmony/drivers_adapter_khdf_linux",
                 "https://gitee.com/openharmony/drivers_interface",
                 "https://gitee.com/openharmony/third_party_libnl",
                 "https://gitee.com/openharmony/third_party_openmax"
@@ -56,8 +54,6 @@
             "project-path": [
                 "drivers/framework",
                 "drivers/peripheral",
-                "drivers/adapter",
-                "drivers/adapter/khdf/linux",
                 "drivers/interface",
                 "third_party/libnl",
                 "third_party/openmax"
