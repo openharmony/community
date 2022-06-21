@@ -45,14 +45,14 @@
         {
             "sig-name": "sig-driver",
             "projects": [
-                "https://gitee.com/openharmony/drivers_framework",
+                "https://gitee.com/openharmony/drivers_hdf_core",
                 "https://gitee.com/openharmony/drivers_peripheral",
                 "https://gitee.com/openharmony/drivers_interface",
                 "https://gitee.com/openharmony/third_party_libnl",
                 "https://gitee.com/openharmony/third_party_openmax"
             ],
             "project-path": [
-                "drivers/framework",
+                "drivers/hdf_core",
                 "drivers/peripheral",
                 "drivers/interface",
                 "third_party/libnl",

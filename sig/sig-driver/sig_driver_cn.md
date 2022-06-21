@@ -13,10 +13,8 @@
 
 ## 代码仓
 - 代码仓地址：
-  - drivers_framework：https://gitee.com/openharmony/drivers_framework
+  - drivers_hdf_core：https://gitee.com/openharmony/drivers_hdf_core
   - drivers_peripheral：https://gitee.com/openharmony/drivers_peripheral
-  - drivers_adapter：https://gitee.com/openharmony/drivers_adapter
-  - drivers_adapter_khdf_linux：https://gitee.com/openharmony/drivers_adapter_khdf_linux
   - drivers_interface：https://gitee.com/openharmony/drivers_interface
   - third_party_libnl：https://gitee.com/openharmony/third_party_libnl
   - third_party_openmax：https://gitee.com/openharmony/third_party_openmax
