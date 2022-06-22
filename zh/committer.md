@@ -41,7 +41,7 @@
 |39|docs|docs|https://gitee.com/neeen|neen.yang@huawei.com|https://gitee.com/duangavin123_admin <br> https://gitee.com/RayShih <br> https://gitee.com/Peter_1988|duanxichao@huawei.com <br> shirui721@huawei.com <br> zhouyun2@huawei.com |SIG_Docs|
 |40|iot_link|domains/iot/link|https://gitee.com/defeng2020|wudefeng@huawei.com| | |SIG_SoftBus|
 |41|drivers_adapter_khdf_linux|drivers/adapter/khdf/linux|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau <br> https://gitee.com/yuanbogit|liufeihu@huawei.com <br> yuanbo@huawei.com|SIG_DriverFramework|
-|42|drivers_framework|drivers/framework|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau <br> https://gitee.com/yuanbogit|liufeihu@huawei.com <br> yuanbo@huawei.com|SIG_DriverFramework|
+|42|drivers_hdf_core|drivers/hdf_core|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau <br> https://gitee.com/yuanbogit|liufeihu@huawei.com <br> yuanbo@huawei.com|SIG_DriverFramework|
 |43|drivers_liteos|drivers/liteos|https://gitee.com/JerryH1011|huangjieliang@huawei.com|https://gitee.com/kkup180 <br> https://gitee.com/DennyShen|likailong@huawei.com <br> denny.shenwei@huawei.com|SIG_Kernel|
 |44|ability_ability_lite|foundation/ability/ability_lite|https://gitee.com/autumn330|hw.liuwei@huawei.com| | |SIG_ApplicationFramework|
 |45|arkui_ace_engine_lite|foundation/arkui/ace_engine_lite|https://gitee.com/borne|bo.lu@huawei.com|https://gitee.com/crazyracing0726|wangjiongfeng@huawei.com|SIG_ApplicationFramework|
