@@ -31,6 +31,7 @@
   - repository15名称：https://gitee.com/openharmony/third_party_gptfdisk
   - repository16名称：https://gitee.com/openharmony/third_party_newfs_msdos
   - repository17名称：https://gitee.com/openharmony/third_party_exfat-utils
+  - repository18名称：https://gitee.com/openharmony/third_party_exfatprogs
 
 ## SIG组成员
 

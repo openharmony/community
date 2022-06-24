@@ -13,7 +13,7 @@ OpenHarmony security sbusystem, including application permissions, application s
 
 ### The repository
 - project name:
-  - deviceauth：https://gitee.com/openharmony/security_deviceauth
+  - device_auth：https://gitee.com/openharmony/security_device_auth
   - huks：https://gitee.com/openharmony/security_huks
   - dataclassification：https://gitee.com/openharmony/security_dataclassification
   - appverify：https://gitee.com/openharmony/security_appverify
@@ -23,9 +23,9 @@ OpenHarmony security sbusystem, including application permissions, application s
   - selinux:https://gitee.com/openharmony/security_selinux
   - access_token:https://gitee.com/openharmony/security_access_token
   - useriam_auth_executor_mgr:https://gitee.com/openharmony/useriam_auth_executor_mgr
-  - useriam_faceauth:https://gitee.com/openharmony/useriam_faceauth
+  - useriam_face_auth:https://gitee.com/openharmony/useriam_face_auth
   - useriam_pin_auth:https://gitee.com/openharmony/useriam_pin_auth
-  - useriam_user_auth:https://gitee.com/openharmony/useriam_user_auth
+  - useriam_user_auth_framework:https://gitee.com/openharmony/useriam_user_auth_framework
   - useriam_user_idm:https://gitee.com/openharmony/useriam_user_idm
   - security_device_security_level:https://gitee.com/openharmony/security_device_security_level
   - developtools_hapsigner:https://gitee.com/openharmony/developtools_hapsigner
