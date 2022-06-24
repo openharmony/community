@@ -44,6 +44,13 @@ Secure Element (SE) is a secure chip that is by design protected from unauthoriz
 - @zhaoyonggang2022(https://gitee.com/zhaoyonggang2022)
 - @huanghanbin(https://gitee.com/huanghanbin)
 - @haiyang691(https://gitee.com/haiyang691)
+- @louisa21(https://gitee.com/louisa21)
+- @liujiawei06(https://gitee.com/liujiawei06)
+- @sun-hengbo(https://gitee.com/sun-hengbo)
+- @wangxin_tsinghuaic(https://gitee.com/wangxin_tsinghuaic)
+- @luckyChina2022(https://gitee.com/luckyChina2022)
+- @liangyanchen_fe41(https://gitee.com/liangyanchen_fe41)
+- @HuomingXIE(https://gitee.com/HuomingXIE)
 
 ### Meetings
  - Meeting time：Every Wednesday at 10:00 am, UTC+8

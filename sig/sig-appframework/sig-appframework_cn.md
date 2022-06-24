@@ -13,10 +13,13 @@ ApplicationFramework相关的设计评审、提交评审、《OpenHarmony Applic
 
 ## 代码仓
 - 代码仓地址：
-  - appexecfwk_lite:https://gitee.com/openharmony/appexecfwk_appexecfwk_lite
-  - appexecfwk_standard:https://gitee.com/openharmony/appexecfwk_standard
-  - aafwk_lite:https://gitee.com/openharmony/aafwk_aafwk_lite
-  - aafwk_standard:https://gitee.com/openharmony/aafwk_standard
+  - ability_ability_lite:https://gitee.com/openharmony/ability_ability_lite
+  - ability_ability_runtime:https://gitee.com/openharmony/ability_ability_runtime
+  - ability_ability_base:https://gitee.com/openharmony/ability_ability_base
+  - ability_form_fwk:https://gitee.com/openharmony/ability_form_fwk
+  - ability_idl_tool:https://gitee.com/openharmony/ability_idl_tool
+  - bundlemanager_bundle_framework:https://gitee.com/openharmony/bundlemanager_bundle_framework
+  - bundlemanager_bundle_framework_lite:https://gitee.com/openharmony/bundlemanager_bundle_framework_lite
   - developtools_ace-js2bundle:https://gitee.com/openharmony/developtools_ace-js2bundle
   - developtools_ace-ets2bundle:https://gitee.com/openharmony/developtools_ace-ets2bundle
   - third_party_weex-loader:https://gitee.com/openharmony/third_party_weex-loader
@@ -29,6 +32,9 @@ ApplicationFramework相关的设计评审、提交评审、《OpenHarmony Applic
   - arkui_ace_engine_lite:https://gitee.com/openharmony/arkui_ace_engine_lite
   - arkui_napi:https://gitee.com/openharmony/arkui_napi
   - arkui_ace_engine:https://gitee.com/openharmony/arkui_ace_engine
+  - global_resource_management:https://gitee.com/openharmony/global_resource_management
+  - global_resource_management_lite:https://gitee.com/openharmony/global_resource_management_lite
+  - utils_system_resources:https://gitee.com/openharmony/utils_system_resources
 
 ## SIG组成员
 

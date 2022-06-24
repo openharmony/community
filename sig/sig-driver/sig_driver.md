@@ -11,24 +11,23 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ### The repository
 - project name:
-  - drivers_framework: https://gitee.com/openharmony/drivers_framework
+  - drivers_hdf_core: https://gitee.com/openharmony/drivers_hdf_core
   - drivers_peripheral: https://gitee.com/openharmony/drivers_peripheral
-  - drivers_adapter: https://gitee.com/openharmony/drivers_adapter
-  - drivers_adapter_khdf_linux: https://gitee.com/openharmony/drivers_adapter_khdf_linux
   - drivers_interface：https://gitee.com/openharmony/drivers_interface
-  - third_party_libnl：https://gitee.com/openharmony-sig/third_party_libnl
+  - third_party_libnl：https://gitee.com/openharmony/third_party_libnl
   - third_party_openmax: https://gitee.com/openharmony/third_party_openmax
 
 ## SIG Members
 
 ### Leader
-- @chenfeng469(https://gitee.com/chenfeng469)
+- @zhaowenhua(https://gitee.com/shidi_snow)
 
-### Committers
+### Committers列表
 - @zianed(https://gitee.com/zianed)
-- @dxbedu(https://gitee.com/dxbedu)
+- @duxiaobo(https://gitee.com/dxbedu)
 - @Kevin-Lau(https://gitee.com/Kevin-Lau)
 - @yuanbo(https://gitee.com/yuanbogit)
+- @zhuangchunxin(https://gitee.com/aqxyjay)
 
  ### Meetings
  - Meeting time: BiWeek Wednesday 16:00
