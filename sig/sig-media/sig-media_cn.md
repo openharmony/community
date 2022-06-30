@@ -16,7 +16,7 @@ OpenHarmony 媒体管理。
   - multimedia_media_standard:https://gitee.com/openharmony/multimedia_media_standard
   - multimedia_audio_framework:https://gitee.com/openharmony/multimedia_audio_framework
   - multimedia_camera_standard:https://gitee.com/openharmony/multimedia_camera_standard
-  - multimedia_medialibrary_standard:https://gitee.com/openharmony/multimedia_medialibrary_standard
+  - multimedia_media_library:https://gitee.com/openharmony/multimedia_media_library
   - multimedia_image_standard:https://gitee.com/openharmony/multimedia_image_standard
   - multimedia_avsession_standard:https://gitee.com/openharmony-sig/multimedia_avsession_standard
   - multimedia_histreamer:https://gitee.com/openharmony/multimedia_histreamer
