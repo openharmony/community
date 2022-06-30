@@ -1,0 +1,46 @@
+{
+   "Leader":[
+      {
+         "gitee_id":"hongtao6573",
+         "gitee_email":"gitee_email: tao.hong@ingenic.com"
+      },
+      {
+         "gitee_id":"cip_syq",
+         "gitee_email":"yunqiang.su@oss.cipunited.com"
+      }
+   ],
+   "Committers":[
+      {
+         "gitee_id":"hongtao6573",
+         "gitee_email":"gitee_email: tao.hong@ingenic.com"
+      },
+      {
+         "gitee_id":"cip_syq",
+         "gitee_email":"yunqiang.su@oss.cipunited.com"
+      },
+	  {
+         "gitee_id":"wicom",
+         "gitee_email":"xiangren.yuan@ingenic.com"
+      },
+	  {
+         "gitee_id":"boysic",
+         "gitee_email":"boysic@163.com"
+      },
+	  {
+         "gitee_id":"xiongtao",
+         "gitee_email":"min_rex9698@163.com"
+      },
+	  {
+         "gitee_id":"wangxing-hw",
+         "gitee_email":"raymond.wangxing@huawei.com"
+      },
+	  {
+         "gitee_id":"libing23",
+         "gitee_email":"libing3@huawei.com"
+      },
+	  {
+         "gitee_id":"huangsox",
+         "gitee_email":"huangshouxi@huawei.com"
+      }
+   ]
+}
