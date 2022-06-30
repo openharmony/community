@@ -6,7 +6,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ## SIG group work objectives and scope
 
 ### work goals
-SIG aims to build a software and hardware ecosystem around openharmony, work with software and hardware partners in the field of education to solve the high-frequency pain points in the scene of educational data collection, jointly formulate educational exclusive operating system and data collection standards, help the independent innovation of the education industry, and promote the rapid development of educational informatization on openharmony in the north-south direction.
+SIG aims to build a software and hardware ecosystem around OpenHarmony, work with software and hardware partners in the field of education to solve the high-frequency pain points in the scene of educational data collection, jointly formulate educational exclusive operating system and data collection standards, help the independent innovation of the education industry, and promote the rapid development of educational informatization on OpenHarmony in the north-south direction.
 
 **Donate the ability components related to data collection to form the factual standard for data collection of educational information**.
 

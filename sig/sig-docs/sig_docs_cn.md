@@ -34,7 +34,7 @@
 [@neeen](https://gitee.com/neeen)
 
 ### Committers列表
-- [@duangavin123](https://gitee.com/duangavin123)
+- [@duangavin123](https://gitee.com/duangavin123_admin)
 - [@RayShih](https://gitee.com/RayShih)
 - [@Peter_1988](https://gitee.com/Peter_1988)
 
