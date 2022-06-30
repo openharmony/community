@@ -575,7 +575,7 @@
             "sig-name": "sig-graphicsandmedia",
             "projects": [
                 "https://gitee.com/openharmony/multimedia_media_standard",
-                "https://gitee.com/openharmony/multimedia_audio_standard",
+                "https://gitee.com/openharmony/multimedia_audio_framework",
                 "https://gitee.com/openharmony/multimedia_camera_standard",
                 "https://gitee.com/openharmony/multimedia_medialibrary_standard",
                 "https://gitee.com/openharmony/multimedia_image_standard",
@@ -615,7 +615,7 @@
             ],
             "project-path": [
                 "foundation/multimedia/media_standard",
-                "foundation/multimedia/audio_standard",
+                "foundation/multimedia/audio_framework",
                 "foundation/multimedia/camera_standard",
                 "foundation/multimedia/medialibrary_standard",
                 "foundation/multimedia/image_standard",
