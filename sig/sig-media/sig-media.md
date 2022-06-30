@@ -34,6 +34,7 @@ OpenHarmony media related design and review.
   - third_party_libpsl:https://gitee.com/openharmony/third_party_libpsl
   - third_party_gettext:https://gitee.com/openharmony/third_party_gettext
   - third_party_openh264:https://gitee.com/openharmony/third_party_openh264
+  - third_party_opensles:https://gitee.com/openharmony/third_party_opensles
 
 
 ## SIG Members
