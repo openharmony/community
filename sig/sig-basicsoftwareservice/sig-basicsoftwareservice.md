@@ -17,7 +17,7 @@ Basic Software Services includes the following sub-systems:
 |DFX System|Design-for-Test, Design-for-Reliability and Design-for-Manufacturing|
 |Event Notification System|Manage system and application notifications|
 |Resource Management System|Manage system resources, including CPU, IO and memory，Background task manager，Workscheduler|
-|Distributed Scheduling System|Scheduing Abilities in Open Harmony distributed network|
+|Distributed Scheduling System|Scheduling Abilities in Open Harmony distributed network|
 |Account Management System|Manage user accounts for Open Harmony|
 |Barrier Free System|Provide barrier free common capabilities for Open Harmony|
 |Miscellaneous Software System|Provide some miscellaneous services for Open Harmony|
