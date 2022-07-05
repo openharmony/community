@@ -11,7 +11,7 @@
 |9|SIG_DriverFramework|SIG_DriverFramework|[chenfeng](https://gitee.com/chenfeng469)|L1S_Drivers|
 |10|SIG_DataManagement|SIG_DataManagement|[gongashi](https://gitee.com/gong-a-shi)|L1S_DistributedDataMgr_DFS|
 |11|SIG_SoftBus|SIG_SoftBus|[maerlii](maerli@huawei.com) <br> [chengguohong](https://gitee.com/cheng_guohong)|L1S_Communication <br> L1S_telepony <br> L1S_Location <br> L1S_Communication_HW <br> L1S_Communication_NetMgr|
-|12|SIG_GraphicsandMedia|SIG_GraphicsandMedia|[abbuu](liyu37@huawei.com)|L1S_Graphic_AGPEngine <br> L1S_Graphic_AGPComponent <br> L1S_Graphic_AGPWindows|
+|12|SIG_Graphic|SIG_Graphic|[abbuu](liyu37@huawei.com)|L1S_Graphic_AGPEngine <br> L1S_Graphic_AGPComponent <br> L1S_Graphic_AGPWindows|
 |13|SIG_SystemApplication|SIG_SysApplication|[wangfeng](https://gitee.com/nicolaswang)|L1S_Applications|
 |14|SIG_R&DToolChain|SIG_R&DToolChain|[wangzaishang](https://gitee.com/wangzaishang)|L1S_DevTools|
 |15|SIG_IVI|SIG_IVI|[guojinwei](guojinwei@huawei.com)|L1S_IVIHardware <br> L1S_IVI|
