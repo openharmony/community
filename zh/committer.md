@@ -255,7 +255,7 @@
 |253|hiviewdfx_hicollie|base/hiviewdfx/hicollie|https://gitee.com/ericlee|liyu1@huawei.com|https://gitee.com/stesen|stesen.ma@huawei.com|SIG_BasicSoftwareService|
 |254|third_party_ejdb|third_party/ejdb|https://gitee.com/ericlee|liyu1@huawei.com|https://gitee.com/yaomanhai|yaomanhai@huawei.com|SIG_BasicSoftwareService|
 |255|third_party_iowow|third_party/iowow|https://gitee.com/ericlee|liyu1@huawei.com|https://gitee.com/yaomanhai|yaomanhai@huawei.com|SIG_BasicSoftwareService|
-|256|ark_runtime_core|ark/runtime_core|https://gitee.com/peijiajun|peijiajun@hisilicon.com|https://gitee.com/igelhaus <br> https://gitee.com/konstantinbaladurin <br> https://gitee.com/godmiaozi|soldatov.anton@huawei.com <br> konstantin.baladurin@huawei.com <br> pengbiao1@huawei.com|SIG_CompileRuntime|
+|256|arkcompiler_runtime_core|arkcompiler/runtime_core|https://gitee.com/peijiajun|peijiajun@hisilicon.com|https://gitee.com/igelhaus <br> https://gitee.com/konstantinbaladurin <br> https://gitee.com/godmiaozi|soldatov.anton@huawei.com <br> konstantin.baladurin@huawei.com <br> pengbiao1@huawei.com|SIG_CompileRuntime|
 |257|ark_js_runtime|ark/js_runtime|https://gitee.com/wuzhefengh|wuzhefeng1@huawei.com|https://gitee.com/sunzhe23 <br> https://gitee.com/gongjunsong|sunzhe23@huawei.com <br> gongjunsong@huawei.com|SIG_CompileRuntime|
 |258|ark_ts2abc|ark/ts2abc|https://gitee.com/godmiaozi|pengbiao1@huawei.com|https://gitee.com/huanghuijin|huanghuijin@huawei.com|SIG_CompileRuntime|
 |259|third_party_miniz|third_party/miniz|https://gitee.com/dong-kaixing|dongkaixing2@huawei.com|||SIG_CompileRuntime|
