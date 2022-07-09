@@ -1,15 +1,15 @@
 # SIG_COMPILERUNTIME
-简体中文 | [English](./sig_compileruntime.md)
+简体中文 | [English](./sig_compile-runtime.md)
 
 说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
 ### 工作目标
-- 编译框架开发与维护及编译效率提升，支持多产品、多部件的编译构建。
 - 支持JS/TS语言编译及运行时，打造高性能JS/TS虚拟机。提供基础的JSAPI能力，包括多线程能力，字符串编解码能力，以及URL解析等能力。
 - 基于Clang/LLVM提供C/C++编译构建、调试能力。
 - 提供Musl等基础库支持, 及相关能力演进。
+- 编译框架开发与维护及编译效率提升，支持多产品、多部件的编译构建。
 
 ### 工作范围
 - 负责语言编译和运行时相关软件模块架构设计、评审和决策；
@@ -19,37 +19,39 @@
 - 结合评审和开发活动，给予代码质量反馈与指导，促进开源社区代码质量提升。
 
 ## 代码仓
-- 代码仓地址：
-  - build_lite: https://gitee.com/openharmony/build_lite
-  - build: https://gitee.com/openharmony/build
+  - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
+  - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
+  - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
+
   - js_api_module: https://gitee.com/openharmony/js_api_module
   - js_sys_module: https://gitee.com/openharmony/js_sys_module
   - js_util_module: https://gitee.com/openharmony/js_util_module
   - js_worker_module: https://gitee.com/openharmony/js_worker_module
-  - productdefine_common: https://gitee.com/openharmony/productdefine_common
-  - prebuilts_aosp_libs: https://gitee.com/openharmony/prebuilts_aosp_libs
-  - third_party_gn: https://gitee.com/openharmony/third_party_gn
-  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
+
   - third_party_jerryscript: https://gitee.com/openharmony/third_party_jerryscript
-  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
+  - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
+
+  - third_party_llvm-project: https://gitee.com/openharmony-sig/third_party_llvm-project
+  - third_party_lldb-mi: https://gitee.com/openharmony-sig/third_party_lldb-mi
   - third_party_mingw-w64: https://gitee.com/openharmony/third_party_mingw-w64
   - third_party_musl: https://gitee.com/openharmony/third_party_musl
   - third_party_mimalloc: https://gitee.com/openharmony-sig/third_party_mimalloc
-  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
-  - third_party_python: https://gitee.com/openharmony/third_party_python
-  - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
+
   - utils: https://gitee.com/openharmony/utils
   - utils_memory: https://gitee.com/openharmony/utils_memory
   - utils_native: https://gitee.com/openharmony/utils_native
   - utils_native_lite: https://gitee.com/openharmony/utils_native_lite
-
-  - third_party_llvm-project: https://gitee.com/openharmony-sig/third_party_llvm-project
-  - third_party_lldb-mi: https://gitee.com/openharmony-sig/third_party_lldb-mi
-
-  - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
-  - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
-  - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
   - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
+
+  - build_lite: https://gitee.com/openharmony/build_lite
+  - build: https://gitee.com/openharmony/build
+  - third_party_gn: https://gitee.com/openharmony/third_party_gn
+  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
+  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
+  - third_party_python: https://gitee.com/openharmony/third_party_python
+  - productdefine_common: https://gitee.com/openharmony/productdefine_common
+  - prebuilts_aosp_libs: https://gitee.com/openharmony/prebuilts_aosp_libs
+  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
 
 ## SIG组成员
 

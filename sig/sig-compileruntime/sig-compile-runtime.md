@@ -1,56 +1,58 @@
 # SIG_COMPILERUNTIME
- English | [简体中文](./sig_compileruntime_cn.md)
+ English | [简体中文](./sig_compile-runtime_cn.md)
  
  Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
 
 ## SIG group work objectives and scope
 
-### work goals
+### objectives
 
-- The development and maintenance of compilation framework and its efficiency improvement. Supporting compilation of multiple products and components.
-- Support JS/TS language compilation and runtime, and create high-performance JS/TS virtual machines. Provide basic JSAPI capabilities, including multi-threading capabilities, encoding and decoding string capabilities, and URL parsing capabilities.
+- Support JS/TS language compilation and execution, and create high-performance JS/TS virtual machines.
+- Provide basic JSAPI capabilities, including concurrency, string encoding and decoding, and URL parsing capabilities, etc..
 - Support C/C++ compilation, debugging based on Clang/LLVM.
 - Provide basic library support such as musl and evolution of related abilities.
+- Provide new programming language design and implementation based on OpenHarmony's requirements.
+- Provide development, maintenance and optimizations of the build framework, supporting the build for multiple products and configurable components.
 
 ### work scope
-- Design, review, and make decisions on the architecture of the language compilation and runtime.
-- Review and incorporate the code of the language compilation and runtime, prohibit low-quality code from being incorporated into the master branch.
-- Actively and effectively participate in code review and comment, share programming experience, communicate with developers, transfer software development skills, and effectively coach open source community developers to write good code.
-- Handle requirements, issues and mailing lists, and ensure that the closure period meets the SLA requirements of the OpenHarmony community.
-- Provide feedback and guidance on code quality based on review and development activities to improve code quality in the OpenHarmony community.
+- Programming language, compiler and runtime architecture design and review.
+- Programming language, compiler and runtime implementation and review.
+- Community requirements, issues and mailing lists processing.
 
-### The repository 
-- project name:
-  - build_lite: https://gitee.com/openharmony/build_lite
-  - build: https://gitee.com/openharmony/build
+### repositories
+  - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
+  - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
+  - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
+
   - js_api_module: https://gitee.com/openharmony/js_api_module
   - js_sys_module: https://gitee.com/openharmony/js_sys_module
   - js_util_module: https://gitee.com/openharmony/js_util_module
   - js_worker_module: https://gitee.com/openharmony/js_worker_module
-  - productdefine_common: https://gitee.com/openharmony/productdefine_common
-  - prebuilts_aosp_libs: https://gitee.com/openharmony/prebuilts_aosp_libs
-  - third_party_gn: https://gitee.com/openharmony/third_party_gn
-  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
+
   - third_party_jerryscript: https://gitee.com/openharmony/third_party_jerryscript
-  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
+  - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
+
+  - third_party_llvm-project: https://gitee.com/openharmony-sig/third_party_llvm-project
+  - third_party_lldb-mi: https://gitee.com/openharmony-sig/third_party_lldb-mi
   - third_party_mingw-w64: https://gitee.com/openharmony/third_party_mingw-w64
   - third_party_musl: https://gitee.com/openharmony/third_party_musl
   - third_party_mimalloc: https://gitee.com/openharmony-sig/third_party_mimalloc
-  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
-  - third_party_python: https://gitee.com/openharmony/third_party_python
-  - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
+
   - utils: https://gitee.com/openharmony/utils
   - utils_memory: https://gitee.com/openharmony/utils_memory
   - utils_native: https://gitee.com/openharmony/utils_native
   - utils_native_lite: https://gitee.com/openharmony/utils_native_lite
-
-  - third_party_llvm-project: https://gitee.com/openharmony-sig/third_party_llvm-project
-  - third_party_lldb-mi: https://gitee.com/openharmony-sig/third_party_lldb-mi
-
-  - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
-  - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
-  - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
   - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
+
+  - build_lite: https://gitee.com/openharmony/build_lite
+  - build: https://gitee.com/openharmony/build
+  - third_party_gn: https://gitee.com/openharmony/third_party_gn
+  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
+  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
+  - third_party_python: https://gitee.com/openharmony/third_party_python
+  - productdefine_common: https://gitee.com/openharmony/productdefine_common
+  - prebuilts_aosp_libs: https://gitee.com/openharmony/prebuilts_aosp_libs
+  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
 
 ## SIG Members
 
