@@ -51,7 +51,6 @@
   - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
   - third_party_python: https://gitee.com/openharmony/third_party_python
   - productdefine_common: https://gitee.com/openharmony/productdefine_common
-  - prebuilts_aosp_libs: https://gitee.com/openharmony/prebuilts_aosp_libs
   - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
 
 ## SIG Members
