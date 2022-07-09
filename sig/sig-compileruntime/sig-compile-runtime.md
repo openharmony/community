@@ -1,5 +1,5 @@
 # SIG_COMPILERUNTIME
- English | [简体中文](./sig_compile-runtime_cn.md)
+ English | [简体中文](./sig-compile-runtime_cn.md)
  
  Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
 

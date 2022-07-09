@@ -1,5 +1,5 @@
 # SIG_COMPILERUNTIME
-简体中文 | [English](./sig_compile-runtime.md)
+简体中文 | [English](./sig-compile-runtime.md)
 
 说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
 
