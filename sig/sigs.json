@@ -734,7 +734,8 @@
                 "https://gitee.com/openharmony-sig/third_party_mimalloc",
                 "https://gitee.com/openharmony/arkcompiler_runtime_core",
                 "https://gitee.com/openharmony/arkcompiler_ets_runtime",
-                "https://gitee.com/openharmony/arkcompiler_ets_frontend"
+                "https://gitee.com/openharmony/arkcompiler_ets_frontend",
+                "https://gitee.com/openharmony/arkcompiler_toolchain"
             ],
             "project-path": [
                 "base/compileruntime/js_api_module",
@@ -745,7 +746,8 @@
                 "third_party/mimalloc",
                 "arkcompiler/runtime_core",
                 "arkcompiler/ets_runtime",
-                "arkcompiler/ets_frontend"
+                "arkcompiler/ets_frontend",
+                "arkcompiler/toolchain"
             ]
         },
         {
