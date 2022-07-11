@@ -50,6 +50,7 @@
   - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
   - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
   - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
+  - arkcompiler_toolchain: https://gitee.com/openharmony/arkcompiler_toolchain
   - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
 
 ## SIG Members
