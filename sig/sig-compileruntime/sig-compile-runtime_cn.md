@@ -40,8 +40,8 @@
   - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
   - utils: https://gitee.com/openharmony/utils
   - utils_memory: https://gitee.com/openharmony/utils_memory
-  - utils_native: https://gitee.com/openharmony/utils_native
-  - utils_native_lite: https://gitee.com/openharmony/utils_native_lite
+  - commonlibrary_c_utils: https://gitee.com/openharmony/commonlibrary_c_utils
+  - commonlibrary_utils_lite: https://gitee.com/openharmony/commonlibrary_utils_lite
 
   - third_party_llvm-project: https://gitee.com/openharmony-sig/third_party_llvm-project
   - third_party_lldb-mi: https://gitee.com/openharmony-sig/third_party_lldb-mi

@@ -105,7 +105,7 @@
 |103|third_party_unity|third_party/unity|https://gitee.com/buranfanchen|wangjuntao.wang@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test|
 |104|third_party_wpa_supplicant|third_party/wpa_supplicant|https://gitee.com/rain_myf|maoyufeng3@huawei.com| | |SIG_SoftBus|
 |105|third_party_zlib|third_party/zlib|https://gitee.com/autumn330|hw.liuwei@huawei.com| | |SIG_ApplicationFramework|
-|106|utils_native_lite|utils/native/lite|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
+|106|commonlibrary_utils_lite|commonlibrary/utils_lite|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
 |107|vendor_hisilicon|vendor/hisilicon|https://gitee.com/yuanwhong|yuanwenhong@hisilicon.com|https://gitee.com/helsingchen|helsing.chen@hisilicon.com|SIG_DriverFramework|
 |108|vendor_huawei_hdf|vendor/huawei/hdf|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau|liufeihu@huawei.com|SIG_DriverFramework|
 |109|drivers_peripheral|drivers/peripheral|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau <br> https://gitee.com/yuanbogit <br> https://gitee.com/aqxyjay|liufeihu@huawei.com <br> yuanbo@huawei.com <br> zhangchunxin@huawei.com|SIG_DriverFramework|
@@ -214,7 +214,7 @@
 |212|third_party_wayland_standard|third_party/wayland_standard|https://gitee.com/bj1010|dubingjian@huawei.com| | |SIG_Graphics|
 |213|third_party_weston|third_party/weston|https://gitee.com/lz-230|lizheng2@huawei.com| | |SIG_Graphics|
 |214|utils|utils|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
-|215|utils_native|utils/native|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
+|215|commonlibrary_c_utils|commonlibrary/c_utils|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
 |216|utils_system_resources|utils/system_resources|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
 |217|utils_selinux_policy_standard|utils/system/selinux_policy_standard|https://gitee.com/xuwenfang|xuwenfang@huawei.com| | |SIG_Security|
 |218|app_samples|NA|https://gitee.com/illybyy|baoyayong@huawei.com|https://gitee.com/jiangtao92|jiangtao57@huawei.com|SIG_SystemApplication|
