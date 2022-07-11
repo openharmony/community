@@ -728,11 +728,8 @@
         {
             "sig-name": "sig-compileruntime",
             "projects": [
-                "https://gitee.com/openharmony/js_api_module",
-                "https://gitee.com/openharmony/js_sys_module",
-                "https://gitee.com/openharmony/js_util_module",
-                "https://gitee.com/openharmony/js_worker_module",
-                "https://gitee.com/openharmony-sig/utils_memory",
+                "https://gitee.com/openharmony-sig/commonlibrary_ets_utils",
+		"https://gitee.com/openharmony-sig/utils_memory",
                 "https://gitee.com/openharmony-sig/third_party_mimalloc",
                 "https://gitee.com/openharmony/commonlibrary_c_utils",
                 "https://gitee.com/openharmony/commonlibrary_utils_lite",
@@ -742,11 +739,8 @@
                 "https://gitee.com/openharmony/arkcompiler_toolchain"
             ],
             "project-path": [
-                "base/compileruntime/js_api_module",
-                "base/compileruntime/js_sys_module",
-                "base/compileruntime/js_util_module",
-                "base/compileruntime/js_worker_module",
-                "utils/memory",
+                "commonlibrary/ets_utils",
+		"utils/memory",
                 "third_party/mimalloc",
                 "commonlibrary/c_utils",
                 "commonlibrary/utils_lite",
