@@ -25,12 +25,12 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - powermgr_battery_lite: https://gitee.com/openharmony/powermgr_battery_lite
   - powermgr_battery_statistics: https://gitee.com/openharmony/powermgr_battery_statistics
   - powermgr_thermal_manager: https://gitee.com/openharmony/powermgr_thermal_manager
-  - devicemanager：https://gitee.com/openharmony/device_manager
-  - distributedhardwarefwk: https://gitee.com/openharmony/distributed_hardware_fwk
-  - distributedinput: https://gitee.com/openharmony-sig/distributed_input
-  - distributedcamera: https://gitee.com/openharmony/distributed_camera
-  - distributedscreen: https://gitee.com/openharmony/distributed_screen
-  - distributedaudio: https://gitee.com/openharmony-sig/distributed_audio
+  - distributedhardware_device_manager: https://gitee.com/openharmony/distributedhardware_device_manager
+  - distributedhardware_distributed_hardware_fwk: https://gitee.com/openharmony/distributedhardware_distributed_hardware_fwk
+  - distributedhardware_distributed_input: https://gitee.com/openharmony-sig/distributedhardware_distributed_input
+  - distributedhardware_distributed_camera: https://gitee.com/openharmony/distributedhardware_distributed_camera
+  - distributedhardware_distributed_screen: https://gitee.com/openharmony/distributedhardware_distributed_screen
+  - distributedhardware_distributed_audio: https://gitee.com/openharmony-sig/distributedhardware_distributed_audio
   - msdp_start: https://gitee.com/openharmony-sig/msdp_start
   - msdp_motion: https://gitee.com/openharmony-sig/msdp_motion
   - msdp_movement: https://gitee.com/openharmony-sig/msdp_movement
