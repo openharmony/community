@@ -14,31 +14,19 @@
 - 积极有效参与开源社区代码检视与点评，共享编程经验，与开源社区开发者交流，传递软件开发技能，有效辅导开源社区开发者写出好代码；
 - 处理开源社区上的需求、issue、邮件列表和开发问题，闭环周期满足开源社区的SLA要求；
 - 结合评审和开发活动，给予代码质量反馈与指导，促进开源社区代码质量提升。
+![软总线SIG](figures/softbus-overview.png)
 
 ## 代码仓
-- 代码仓地址：
-  - communication_dsoftbus：https://gitee.com/openharmony/communication_dsoftbus
-  - communication_ipc：https://gitee.com/openharmony/communication_ipc
-  - communication_ipc_lite：https://gitee.com/openharmony/communication_ipc_lite
-  - communication_bluetooth：https://gitee.com/openharmony/communication_bluetooth
-  - communication_nfc：https://gitee.com/openharmony/communication_nfc
-  - communication_wifi：https://gitee.com/openharmony/communication_wifi
-  - communication_wifi_lite：https://gitee.com/openharmony/communication_wifi_lite
-  - communication_wifi_aware：https://gitee.com/openharmony/communication_wifi_aware
-  - base_location：https://gitee.com/openharmony/base_location
-  - telephony_call_manager：https://gitee.com/openharmony/telephony_call_manager
-  - telephony_cellular_call：https://gitee.com/openharmony/telephony_cellular_call
-  - telephony_core_service：https://gitee.com/openharmony/telephony_core_service
-  - telephony_sms_mms：https://gitee.com/openharmony/telephony_sms_mms
-  - telephony_state_registry：https://gitee.com/openharmony/telephony_state_registry
-  - applications_camera_sample_communication：https://gitee.com/openharmony/applications_camera_sample_communication
-  - applications_sample_wifi_iot：https://gitee.com/openharmony/applications_sample_wifi_iot
-  - iothardware_peripheral：https://gitee.com/openharmony/iothardware_peripheral
-  - iot_link：https://gitee.com/openharmony/iot_link
-  - third_party_lwip：https://gitee.com/openharmony/third_party_lwip
-  - third_party_nfc-nci：https://gitee.com/openharmony-sig/third_party_nfc-nci
-  - third_party_wpa_supplicant：https://gitee.com/openharmony/third_party_wpa_supplicant
-  - third_party_libcoap：https://gitee.com/openharmony/third_party_libcoap
+| 部件名称<img width=100/>| 部件功能描述<img width=200/>| 部件仓名称<img width=200/>  |
+| ---------------------------------------|---------- | ------------------------------------------------------------ |
+|分布式软总线| 分布式软总线实现近场（LAN、WLAN、蓝牙）设备间统一的分布式通信管理能力，提供不区分链路的设备间发现连接、组网和传输能力，主要功能如下：发现连接：提供设备发现和连接能力。设备组网：提供统一的设备组网和拓扑管理能力，为数据传输提供已组网设备信息。数据传输：提供数据传输通道，支持消息、字节、文件和流数据传输能力。 | communication_dsoftbus|
+|进程间通信|进程间通信包含IPC（Inter-Process Communication）与RPC（Remote Procedure Call），用于实现跨进程通信。IPC用于设备内的跨进程通信，而RPC可提供设备间跨进程通信。| communication_ipc/communication_ipc_lite|
+|WLAN服务| 提供WLAN基础功能，包括WLAN STA、AP、P2P等功能的管理服务。为应用和系统服务提供用可以通过WLAN和其他设备互联互通|communication_wifi/communication_wifi_lite|
+|WPA服务|提供WiFi和P2P相关认证协议功能，包含WPA和HostAPD两个主要部分。|third_party_wpa_supplicant|
+|蓝牙服务|提供蓝牙profile服务、蓝牙协议栈等相关能力。为设备提供接入与使用Bluetooth的相关接口，包括BR配对连接，BLE广播、扫描，BLE设备gatt相关的操作及功能。|communication_bluetooth|
+|NFC服务|提供有源标签读写能力，包括NFC标签读写、TAG等服务能力。|communication_nfc|
+|位置服务|提供GNSS、网络定位、地理编码转换等位置服务框架能力。|base_location|
+
 
 ## SIG组成员
 
@@ -46,21 +34,19 @@
 - @MaErlii(https://gitee.com/maerlii)
 
 ### Committers列表
-- @xuyongpan(https://gitee.com/xuyongpan)
-- @yinyouzhan(https://gitee.com/yinyouzhan)
-- @rain_myf(https://gitee.com/rain_myf)
-- @bigpumpkin(https://gitee.com/bigpumpkin)
-- @jyh926(https://gitee.com/jyh926)
-- @life-liu(https://gitee.com/life-liu)
-- @knpingan(https://gitee.com/knpingan)
-- @hwlitao(https://gitee.com/hwlitao)
-- @defeng2020(https://gitee.com/defeng2020)
-- @brickhz(https://gitee.com/brickhz)
-- @clevercong(https://gitee.com/clevercong)
-- @ohos-lsw(https://gitee.com/ohos-lsw)
-- @xautosoft(https://gitee.com/xautosoft)
-- @li-jet(https://gitee.com/li-jet)
 - @MaErlii(https://gitee.com/maerlii)
+- @waibozie(https://gitee.com/waibozie)
+- @fengyonghui123(https://gitee.com/fengyonghui123)
+- @duxbbo(https://gitee.com/duxbbo)
+- @fanxiaoyu321(https://gitee.com/fanxiaoyu321)
+- @Xi_Yuhao(https://gitee.com/Xi_Yuhao)
+- @yinyouzhan(https://gitee.com/yinyouzhan)
+- @cheng_guohong(https://gitee.com/cheng_guohong)
+- @rain_myf(https://gitee.com/rain_myf)
+- @xujiang1981(https://gitee.com/xujiang1981)
+- @knpingan(https://gitee.com/knpingan)
+- @liu-binjun(https://gitee.com/liu-binjun)
+- @zf0719(https://gitee.com/zf0719)
 
 ### 会议
  - 会议时间：双周例会，周一下午16:00，UTC+8
