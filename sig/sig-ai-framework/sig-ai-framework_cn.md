@@ -1,6 +1,6 @@
 # SIG-AI-Framework
 
-简体中文 | [English](./sig_ai_framework.md)
+简体中文 | [English](./sig-ai-framework.md)
 
 说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
 
@@ -28,8 +28,13 @@ MindSpore Lite模型转换工具不仅提供了将TensorFlow、TensorFlow Lite�
 
 支持专用AI芯片接入MindSpore Lite。
 
+![figures/ai-framework-overview.png](figures/ai-framework-overview.png)
+
 ## 代码仓
-- 代码仓地址：
+|             部件名称             |       部件功能描述       |                                   部件仓名称                                   |
+| :------------------------------: | :----------------------: | :----------------------------------------------------------------------------: |
+| 昇思推理框架<br>(MindSpore Lite) | 提供模型转换和推理的功能 | third_party_mindspore,<br>third_party_flatbuffers|
+- 代码仓地址:
   - MindSpore: https://gitee.com/openharmony/third_party_mindspore
   - DLLite-micro: https://gitee.com/openharmony-sig/dllite_micro
   - FlatBuffers: https://gitee.com/openharmony/third_party_flatbuffers
