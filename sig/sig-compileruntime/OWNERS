@@ -1,24 +1,12 @@
 {
     "Leader": [{
-            "gitee_id": "Xingwa",
-            "gitee_email": "raymond.wangxing@huawei.com"
-        },
-        {
-            "gitee_id": "huanghuijin",
-            "gitee_email": "huanghuijin@huawei.com"
+            "gitee_id": "klooer",
+            "gitee_email": "xianyuqiang@huawei.com"
         }
     ],
     "Committers": [{
-            "gitee_id": "weichaox",
-            "gitee_email": "wangweichao2@huawei.com"
-        },
-        {
-            "gitee_id": "jady3356",
-            "gitee_email": "peitaiyi@huawei.com"
-        },
-        {
-            "gitee_id": "Han00000000",
-            "gitee_email": "jianghan2@huawei.com"
+            "gitee_id": "huanghuijin",
+            "gitee_email": "huanghuijin@huawei.com"
         },
         {
             "gitee_id": "wuzhefengh",
@@ -41,6 +29,10 @@
             "gitee_email": "yingguofeng@huawei.com"
         },
         {
+            "gitee_id": "xliu-huanwei",
+            "gitee_email": "liuxin259@huawei.com"
+        },
+        {
             "gitee_id": "flyingwolf",
             "gitee_email": "liyongbiao1@huawei.com"
         },
@@ -55,6 +47,14 @@
         {
             "gitee_id": "pengzhuoli",
             "gitee_email": "pengzhuoli@huawei.com"
+        },
+        {
+            "gitee_id": "JerryH1011",
+            "gitee_email": "huangjieliang@huawei.com"
+        },
+        {
+            "gitee_id": "dongduResearcher",
+            "gitee_email": "dd_nirvana@sjtu.edu.cn"
         }
     ]
 }
