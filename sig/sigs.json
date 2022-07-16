@@ -730,26 +730,38 @@
         {
             "sig-name": "sig-compileruntime",
             "projects": [
-                "https://gitee.com/openharmony-sig/commonlibrary_ets_utils",
-		"https://gitee.com/openharmony-sig/utils_memory",
-                "https://gitee.com/openharmony-sig/third_party_mimalloc",
-                "https://gitee.com/openharmony/commonlibrary_c_utils",
-                "https://gitee.com/openharmony/commonlibrary_utils_lite",
                 "https://gitee.com/openharmony/arkcompiler_runtime_core",
                 "https://gitee.com/openharmony/arkcompiler_ets_runtime",
                 "https://gitee.com/openharmony/arkcompiler_ets_frontend",
-                "https://gitee.com/openharmony/arkcompiler_toolchain"
+                "https://gitee.com/openharmony/arkcompiler_toolchain",
+                "https://gitee.com/openharmony/commonlibrary_ets_utils",
+                "https://gitee.com/openharmony/commonlibrary_c_utils",
+                "https://gitee.com/openharmony/commonlibrary_utils_lite",
+                "https://gitee.com/openharmony/third_party_jerryscript",
+                "https://gitee.com/openharmony/third_party_quickjs",
+                "https://gitee.com/openharmony-sig/third_party_llvm-project",
+                "https://gitee.com/openharmony-sig/third_party_lldb-mi",
+                "https://gitee.com/openharmony/third_party_mingw-w64",
+                "https://gitee.com/openharmony/third_party_musl",
+                "https://gitee.com/openharmony-sig/utils_memory",
+                "https://gitee.com/openharmony-sig/third_party_mimalloc"
             ],
             "project-path": [
-                "commonlibrary/ets_utils",
-		"utils/memory",
-                "third_party/mimalloc",
-                "commonlibrary/c_utils",
-                "commonlibrary/utils_lite",
                 "arkcompiler/runtime_core",
                 "arkcompiler/ets_runtime",
                 "arkcompiler/ets_frontend",
-                "arkcompiler/toolchain"
+                "arkcompiler/toolchain",
+                "commonlibrary/ets_utils",
+                "commonlibrary/c_utils",
+                "commonlibrary/utils_lite",
+                "third_party/jerryscript",
+                "third_party/quickjs",
+                "third_party/llvm-project",
+                "third_party/lldb-mi",
+                "third_party/mingw-w64",
+                "third_party/musl",
+                "utils/memory",
+                "third_party/mimalloc"
             ]
         },
         {

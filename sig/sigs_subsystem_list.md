@@ -3,7 +3,7 @@
 |1|SIG_AI_Framework|SIG_AI_Framework|[ivss](chaijun@huawei.com)|L1S_AI|
 |2|SIG_API|SIG_API|[huawei_qiangbo](qiangbo2@huawei.com)|NA|
 |3|SIG_Security|SIG_Security|[yongjie2020](yongjie.yan@huawei.com)|L1S_Security <br> L1S_BIOMETRICS|
-|4|SIG_CompileRuntime|SIG_CompileRuntime|[huanghuijin](https://gitee.com/huanghuijin) |L1S_CCRuntime <br> L1S_Build <br> L1S_UTILS|
+|4|SIG_CompileRuntime|SIG_CompileRuntime|[klooer](https://gitee.com/klooer) |L1S_CCRuntime <br> L1S_UTILS|
 |5|SIG_Test|SIG_Test|[gaohanyi](https://gitee.com/gaohanyi1982) |L1S_Test|
 |6|SIG_DistributedHardwareManagement|SIG_HardwareMgr|[ligang](william.ligang@huawei.com) <br> [houpengfei](https://gitee.com/hhh2)|L1S_MSDP <br> L1S_PowerMgr <br> L1S_Sensors <br> L1S_USB <br> L1s_DistributedHardware <br> |
 |7|SIG_BasicSoftwareService|SIG_BasicSoftwareService|[zhangxiaotian](https://gitee.com/handyohos)|L1S_DistributedSchedule <br> L1S_ResourceSchedule <br> L1S_StartUp <br> L1S_Notification <br> L1S_Update <br> L1S_Account <br> L1S_BarrierFree <br> L1S_MiscServices|
