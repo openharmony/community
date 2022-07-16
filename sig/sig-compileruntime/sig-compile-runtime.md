@@ -12,7 +12,6 @@
 - Support C/C++ compilation, debugging based on Clang/LLVM.
 - Provide basic library support such as musl and evolution of related abilities.
 - Provide new programming language design and implementation based on OpenHarmony's requirements.
-- Provide development, maintenance and optimizations of the build framework, supporting the build for multiple products and configurable components.
 
 ### work scope
 - Programming language, compiler and runtime architecture design and review.
@@ -43,38 +42,25 @@
 
   - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
 
-  - build_lite: https://gitee.com/openharmony/build_lite
-  - build: https://gitee.com/openharmony/build
-  - third_party_gn: https://gitee.com/openharmony/third_party_gn
-  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
-  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
-  - third_party_python: https://gitee.com/openharmony/third_party_python
-  - productdefine_common: https://gitee.com/openharmony/productdefine_common
-  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
-
 ## SIG Members
 
 ### Leader
-- @Xingwa (https://gitee.com/wangxing-hw)
-- @huanghuijin (https://gitee.com/huanghuijin)
+- @klooer (https://gitee.com/klooer)
 
 ### Committers
-- @weichaox (https://gitee.com/weichaox)
-- @jady3356 (https://gitee.com/taiyipei)
-- @Han00000000 (https://gitee.com/Han00000000)
+- @huanghuijin (https://gitee.com/huanghuijin)
 - @wuzhefengh (https://gitee.com/wuzhefengh)
 - @gongjunsong (https://gitee.com/gongjunsong)
 - @sunzhe23 (https://gitee.com/sunzhe23)
 - @weng-changcheng (https://gitee.com/weng-changcheng)
 - @yingguofeng (https://gitee.com/yingguofeng)
+- @xliu-huanwei (https://gitee.com/xliu-huanwei)
 - @flyingwolf (https://gitee.com/flyingwolf)
 - @godmiaozi (https://gitee.com/godmiaozi)
 - @dhy308 (https://gitee.com/dhy308)
 - @pengzhuoli (https://gitee.com/zhuoli72)
-- @cbraham (https://gitee.com/cbraham)
-- @wang2002xu (https://gitee.com/wang2002xu)
-- @chen-wandun (https://gitee.com/chen-wandun)
-- @eliotc (https://gitee.com/eliotc)
+- @JerryH1011 (https://gitee.com/JerryH1011)
+- @dongduResearcher (https://gitee.com/dongduResearcher)
 
  ### Meetings
  - Meeting time: Bi-weekly meeting, Monday 19:00 pm, UTC+8

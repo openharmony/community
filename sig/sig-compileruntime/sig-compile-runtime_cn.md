@@ -9,7 +9,6 @@
 - 支持JS/TS语言编译及运行时，打造高性能JS/TS虚拟机。提供基础的JSAPI能力，包括多线程能力，字符串编解码能力，以及URL解析等能力。
 - 基于Clang/LLVM提供C/C++编译构建、调试能力。
 - 提供Musl等基础库支持, 及相关能力演进。
-- 编译框架开发与维护及编译效率提升，支持多产品、多部件的编译构建。
 
 ### 工作范围
 - 负责语言编译和运行时相关软件模块架构设计、评审和决策；
@@ -42,34 +41,25 @@
 
   - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
 
-  - build_lite: https://gitee.com/openharmony/build_lite
-  - build: https://gitee.com/openharmony/build
-  - third_party_gn: https://gitee.com/openharmony/third_party_gn
-  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
-  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
-  - third_party_python: https://gitee.com/openharmony/third_party_python
-  - productdefine_common: https://gitee.com/openharmony/productdefine_common
-  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
-
 ## SIG组成员
 
 ### Leader
-- @Xingwa (https://gitee.com/wangxing-hw)
-- @huanghuijin (https://gitee.com/huanghuijin)
+- @klooer (https://gitee.com/klooer)
 
-### Committers列表
-- @weichaox (https://gitee.com/weichaox)
-- @jady3356 (https://gitee.com/taiyipei)
-- @Han00000000 (https://gitee.com/Han00000000)
+### Committers
+- @huanghuijin (https://gitee.com/huanghuijin)
 - @wuzhefengh (https://gitee.com/wuzhefengh)
 - @gongjunsong (https://gitee.com/gongjunsong)
 - @sunzhe23 (https://gitee.com/sunzhe23)
 - @weng-changcheng (https://gitee.com/weng-changcheng)
 - @yingguofeng (https://gitee.com/yingguofeng)
+- @xliu-huanwei (https://gitee.com/xliu-huanwei)
 - @flyingwolf (https://gitee.com/flyingwolf)
 - @godmiaozi (https://gitee.com/godmiaozi)
 - @dhy308 (https://gitee.com/dhy308)
 - @pengzhuoli (https://gitee.com/zhuoli72)
+- @JerryH1011 (https://gitee.com/JerryH1011)
+- @dongduResearcher (https://gitee.com/dongduResearcher)
 
 ### 会议
  - 会议时间：双周例会，周一晚上19:00，UTC+8
