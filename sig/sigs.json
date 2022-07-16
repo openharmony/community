@@ -119,8 +119,9 @@
                 "https://gitee.com/openharmony/device_board_talkweb",
                 "https://gitee.com/openharmony/vendor_talkweb",
                 "https://gitee.com/openharmony-sig/devboard_vendor_rpi3b",
-                "https://gitee.com/openharmony-sig/device_unionpi",
-                "https://gitee.com/openharmony-sig/vendor_unionpi",
+                "https://gitee.com/openharmony/device_board_unionman",
+                "https://gitee.com/openharmony/device_soc_amlogic",
+                "https://gitee.com/openharmony/vendor_unionman",
                 "https://gitee.com/openharmony-sig/devboard_device_itcast_genkipi",
                 "https://gitee.com/openharmony-sig/devboard_vendor_itcast_genkipi",
                 "https://gitee.com/openharmony-sig/devboard_waffle_nano",
@@ -195,8 +196,9 @@
                 "device/soc/st",
                 "vendor/talkweb",
                 "vendor/rpi3",
-                "device/unionman/unionpi",
-                "vendor/unionman/unionpi",
+                "device/board/unionman",
+                "device/soc/amlogic",
+                "vendor/unionman",
                 "device/itcast/genkipi",
                 "vendor/itcast/genkipi",
                 "devboard_waffle_nano",
@@ -381,7 +383,7 @@
                 "https://gitee.com/openharmony/sensors_sensor",
                 "https://gitee.com/openharmony/sensors_medical_sensor",
                 "https://gitee.com/openharmony/sensors_start",
-                "https://gitee.com/openharmony/usb_manager",
+                "https://gitee.com/openharmony/usb_usb_manager",
                 "https://gitee.com/openharmony/powermgr_powermgr_lite",
                 "https://gitee.com/openharmony/powermgr_battery_manager",
                 "https://gitee.com/openharmony/powermgr_display_manager",
@@ -389,12 +391,12 @@
                 "https://gitee.com/openharmony/powermgr_battery_lite",
                 "https://gitee.com/openharmony/powermgr_battery_statistics",
                 "https://gitee.com/openharmony/powermgr_thermal_manager",
-                "https://gitee.com/openharmony/device_manager",
-                "https://gitee.com/openharmony/distributed_hardware_fwk",
-                "https://gitee.com/openharmony-sig/distributed_input",
-                "https://gitee.com/openharmony/distributed_camera",
-                "https://gitee.com/openharmony/distributed_screen",
-                "https://gitee.com/openharmony-sig/distributed_audio",
+                "https://gitee.com/openharmony/distributedhardware_device_manager",
+                "https://gitee.com/openharmony/distributedhardware_distributed_hardware_fwk",
+                "https://gitee.com/openharmony-sig/distributedhardware_distributed_input",
+                "https://gitee.com/openharmony/distributedhardware_distributed_camera",
+                "https://gitee.com/openharmony/distributedhardware_distributed_screen",
+                "https://gitee.com/openharmony-sig/distributedhardware_distributed_audio",
                 "https://gitee.com/openharmony-sig/msdp_start",
                 "https://gitee.com/openharmony-sig/msdp_motion",
                 "https://gitee.com/openharmony-sig/msdp_movement",
@@ -611,7 +613,8 @@
                 "https://gitee.com/openharmony/third_party_skia",
                 "https://gitee.com/openharmony/windowmanager",
                 "https://gitee.com/openharmony-sig/third_party_libexif",
-                "https://gitee.com/openharmony/third_party_opensles"
+                "https://gitee.com/openharmony/third_party_opensles",
+                "https://gitee.com/openharmony-sig/third_party_libjpeg-turbo"
             ],
             "project-path": [
                 "foundation/multimedia/media_standard",
@@ -650,7 +653,8 @@
                 "third_party/openGLES",
                 "third_party/skia",
                 "foundation/windowmanager",
-                "third_party/libexif"
+                "third_party/libexif",
+                "third_party/libjpeg-turbo"
             ]
         },
         {
@@ -726,26 +730,26 @@
         {
             "sig-name": "sig-compileruntime",
             "projects": [
-                "https://gitee.com/openharmony/js_api_module",
-                "https://gitee.com/openharmony/js_sys_module",
-                "https://gitee.com/openharmony/js_util_module",
-                "https://gitee.com/openharmony/js_worker_module",
-                "https://gitee.com/openharmony-sig/utils_memory",
+                "https://gitee.com/openharmony-sig/commonlibrary_ets_utils",
+		"https://gitee.com/openharmony-sig/utils_memory",
                 "https://gitee.com/openharmony-sig/third_party_mimalloc",
+                "https://gitee.com/openharmony/commonlibrary_c_utils",
+                "https://gitee.com/openharmony/commonlibrary_utils_lite",
                 "https://gitee.com/openharmony/arkcompiler_runtime_core",
                 "https://gitee.com/openharmony/arkcompiler_ets_runtime",
-                "https://gitee.com/openharmony/arkcompiler_ets_frontend"
+                "https://gitee.com/openharmony/arkcompiler_ets_frontend",
+                "https://gitee.com/openharmony/arkcompiler_toolchain"
             ],
             "project-path": [
-                "base/compileruntime/js_api_module",
-                "base/compileruntime/js_sys_module",
-                "base/compileruntime/js_util_module",
-                "base/compileruntime/js_worker_module",
-                "utils/memory",
+                "commonlibrary/ets_utils",
+		"utils/memory",
                 "third_party/mimalloc",
+                "commonlibrary/c_utils",
+                "commonlibrary/utils_lite",
                 "arkcompiler/runtime_core",
                 "arkcompiler/ets_runtime",
-                "arkcompiler/ets_frontend"
+                "arkcompiler/ets_frontend",
+                "arkcompiler/toolchain"
             ]
         },
         {
