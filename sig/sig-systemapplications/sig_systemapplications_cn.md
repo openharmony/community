@@ -15,7 +15,26 @@
 4. 与开发者交流、合作，持续完善系统应用的特性
 5. 组织社区相关问题的澄清并及时给予解答
 
+系统应用SIG（ sig-systemapplications ）技术栈范围全景图如下图所示：
+![OpenHarmony文档概览](figures/systemapplications-overview.png)
 ## 代码仓
+|部件名称|部件功能描述|部件仓名称|
+| ------------ | ------------ |------------ |
+|系统桌面应用|Launcher 作为系统人机交互的首要入口，提供应用图标的显示、点击启动、卸载应用，并提供桌面布局设置以及最近任务管理等功能。	|applications_launcher|
+|系统设置应用|设置应用是 OpenHarmony 系统中预置的系统应用，为用户提供设置系统属性的交互界面，例如设置系统时间，屏幕亮度等系统属性。	|applications_settings|
+|系统SystemUI应用	|SystemUI应用是OpenHarmony中预置的系统应用，为用户提供系统相关信息展示及交互界面，包括系统状态、系统提示、系统提醒等，例如系统时间、电量信息。	|applications_systemui|
+|系统联系人应用	|Contacts应用是OpenHarmony中预置的系统应用，主要的功能包含拨号盘、通话记录查看、通话记录批量删除、联系人列表、详情查看和联系人的新建等功能。	|applications_contacts|
+|系统短信应用|Mms应用是OpenHarmony中预置的系统应用，主要的功能包含信息查看、发送短信、接收短信、短信送达报告、删除短信等功能。|applications_mms|
+|系统通话应用	|基于系统平台能力，设计和开发通话应用，提供语音通话、视频通话、通话设置、移动网络设置、SIM卡管理设置、紧急拨号以及添加个人紧急信息的功能。	|applications_call|
+|系统设置数据库应用|SettingsData是 OpenHarmony 系统中预置的系统应用，为用户提供数据库的访问存取服务，例如存储/读取系统时间格式、屏幕亮度等系统属性。|applications_settings_data|
+|系统图库应用|图库是系统内置的可视资源访问应用，提供图片和视频的管理、浏览、显示、编辑操作等功能，并支持默认相册和用户相册管理。|	|applications_photos|
+|系统相机应用	|相机应用是OpenHarmony标准系统中预置的系统应用，为用户提供基础的相机拍摄功能，包括预览、拍照、摄像、缩略图显示、跳转相册、多机位协同。|applications_camera|
+|系统主题应用|主题应用是 OpenHarmony 系统中预置的系统应用，为用户提供设置系统主题、桌面壁纸的基础能力，并支持通过其他第三方应用设置用户自定义的主题与壁纸。|applications_theme|
+|系统锁屏应用|锁屏应用是OpenHarmony中预置的系统应用，为用户提供锁屏的基础能力。提供滑动解锁、密码解锁等解锁能力，以及锁屏页面的信息展示能力。|	applications_screenlock|
+|备忘录应用|备忘录应用是OpenHarmony中预置的应用，为用户提供文本编辑以及保存功能。|applications_notes|
+系统截屏应用|ScreenShot应用是OpenHarmony中预置的系统应用，为用户提供截取当前屏幕并保存图片的功能。|applications_screenshot|
+|文件选择器|FilePicker应用是OpenHarmony中预置的系统应用，为用户提供文件选择及保存功能|applications_filepicker|
+
 - 代码仓地址：
   - applications_systemui：https://gitee.com/openharmony/applications_systemui
   - applications_settings: https://gitee.com/openharmony/applications_settings
@@ -28,10 +47,8 @@
   - applications_call: https://gitee.com/openharmony/applications_call
   - applications_screenshot: https://gitee.com/openharmony-sig/applications_screenshot
   - applications_screenlock: https://gitee.com/openharmony-sig/applications_screenlock
-  - applications_admin_provisioning: https://gitee.com/openharmony-sig/applications_admin_provisioning
   - applications_theme: https://gitee.com/openharmony-sig/applications_theme
   - applications_settingsdata: https://gitee.com/openharmony-sig/applications_settings_data
-  - applications_contactsdata: https://gitee.com/openharmony-sig/applications_contactsdata
   - applications_notes: https://gitee.com/openharmony-sig/applications_notes
 
 ## SIG组成员

@@ -28,15 +28,25 @@
 | [设计介绍](https://gitee.com/openharmony/docs/tree/master/zh-cn/design) | 提供开发者希望了解的API治理章程、部件化设计和开发指南。      | design          |
 | [贡献指南](https://gitee.com/openharmony/docs/tree/master/zh-cn/contribute) | 用于指导开发者了解如何参与OpenHarmony贡献，反馈问题、贡献代码及文档。 | contribute      |
 
+OpenHarmony开发者文档概览如下图所示，包含入门学习、上手体验、开发、调试等开发者历程需要的相关文档。
+
+![OpenHarmony文档概览](figures/docs-overview.png)
+
+其他资源：
+
+Samples：https://gitee.com/openharmony/app_samples
+
+Codelabs：https://gitee.com/openharmony/codelabs
+
 ## SIG组成员
 
 ### Leader
-[@neeen](https://gitee.com/neeen)
+[@neeen](https://gitee.com/neeen)：负责OpenHarmony SIG Docs整体运作、与业务SIG协同，负责社区公共类文档交付、审查。
 
 ### Committers列表
-- [@duangavin123](https://gitee.com/duangavin123_admin)
-- [@RayShih](https://gitee.com/RayShih)
-- [@Peter_1988](https://gitee.com/Peter_1988)
+- [@duangavin123](https://gitee.com/duangavin123)：与业务SIG协同，负责OpenHarmony设备开发相关文档交付、审查。
+- [@RayShih](https://gitee.com/RayShih)：与业务SIG协同，负责OpenHarmony应用开发相关文档交付、审查，配合SIG Release完成社区版本文档交付。
+- [@Peter_1988](https://gitee.com/Peter_1988)：与业务SIG协同，负责OpenHarmony英文文档交付、审查。
 
 
 ### 会议
@@ -49,5 +59,13 @@
 ### 联系方式(可选)
 
 - 邮件列表：docs@openharmony.io
+
 - Zulip群组：documentation_sig
+
 - 微信群：暂无
+
+### 我们期待您的反馈
+我们看到400+位社区开发者参与了OpenHarmony Docs仓贡献，欢迎广大开发者在参与OpenHarmony开源项目中，持续关注SIG Docs，反馈文档建议和需求，与我们一同持续提升文档体验。
+欢迎前往Gitee Docs仓，反馈文档使用意见。
+https://gitee.com/openharmony/docs/issues
+

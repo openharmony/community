@@ -29,6 +29,7 @@ OpenHarmony Graphics and windowmanager related design and review.
   - third_party_skia:https://gitee.com/openharmony/third_party_skia
   - windowmanager:https://gitee.com/openharmony/windowmanager
   - third_party_libexif:https://gitee.com/openharmony-sig/third_party_libexif
+  - third_party_libjpeg-turbo:https://gitee.com/openharmony-sig/third_party_libjpeg-turbo
 
 
 ## SIG Members

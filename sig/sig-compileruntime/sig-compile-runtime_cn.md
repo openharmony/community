@@ -23,10 +23,7 @@
   - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
   - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
 
-  - js_api_module: https://gitee.com/openharmony/js_api_module
-  - js_sys_module: https://gitee.com/openharmony/js_sys_module
-  - js_util_module: https://gitee.com/openharmony/js_util_module
-  - js_worker_module: https://gitee.com/openharmony/js_worker_module
+  - ets_utils: https://gitee.com/openharmony-sig/commonlibrary_ets_utils
 
   - third_party_jerryscript: https://gitee.com/openharmony/third_party_jerryscript
   - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
@@ -39,8 +36,10 @@
 
   - utils: https://gitee.com/openharmony/utils
   - utils_memory: https://gitee.com/openharmony/utils_memory
-  - utils_native: https://gitee.com/openharmony/utils_native
-  - utils_native_lite: https://gitee.com/openharmony/utils_native_lite
+
+  - commonlibrary_c_utils: https://gitee.com/openharmony/commonlibrary_c_utils
+  - commonlibrary_utils_lite: https://gitee.com/openharmony/commonlibrary_utils_lite
+
   - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
 
   - build_lite: https://gitee.com/openharmony/build_lite
