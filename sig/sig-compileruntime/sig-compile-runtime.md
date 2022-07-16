@@ -22,8 +22,8 @@
 ### repositories
   - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
   - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
-  - arkcompiler_toolchain: https://gitee.com/openharmony/arkcompiler_toolchain
   - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
+  - arkcompiler_toolchain: https://gitee.com/openharmony/arkcompiler_toolchain
 
   - ets_utils: https://gitee.com/openharmony-sig/commonlibrary_ets_utils
 
@@ -36,10 +36,10 @@
   - third_party_musl: https://gitee.com/openharmony/third_party_musl
   - third_party_mimalloc: https://gitee.com/openharmony-sig/third_party_mimalloc
 
-  - utils: https://gitee.com/openharmony/utils
-  - utils_memory: https://gitee.com/openharmony/utils_memory
   - commonlibrary_c_utils: https://gitee.com/openharmony/commonlibrary_c_utils
   - commonlibrary_utils_lite: https://gitee.com/openharmony/commonlibrary_utils_lite
+
+  - utils_memory: https://gitee.com/openharmony/utils_memory
 
   - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
 
