@@ -17,13 +17,14 @@
 ![软总线SIG](figures/softbus-overview.png)
 
 ## 代码仓
-| 部件名称<img width=100/>| 部件功能描述<img width=200/>| 部件仓名称<img width=200/>  |
-| ---------------------------------------|---------- | ------------------------------------------------------------ |
-|分布式软总线| 分布式软总线实现近场（LAN、WLAN、蓝牙）设备间统一的分布式通信管理能力，提供不区分链路的设备间发现连接、组网和传输能力，主要功能如下：发现连接：提供设备发现和连接能力。设备组网：提供统一的设备组网和拓扑管理能力，为数据传输提供已组网设备信息。数据传输：提供数据传输通道，支持消息、字节、文件和流数据传输能力。 | communication_dsoftbus|
-|进程间通信|进程间通信包含IPC（Inter-Process Communication）与RPC（Remote Procedure Call），用于实现跨进程通信。IPC用于设备内的跨进程通信，而RPC可提供设备间跨进程通信。| communication_ipc/communication_ipc_lite|
-|WLAN服务| 提供WLAN基础功能，包括WLAN STA、AP、P2P等功能的管理服务。为应用和系统服务提供用可以通过WLAN和其他设备互联互通|communication_wifi/communication_wifi_lite|
+
+|部件名称<img width=100/>|部件功能描述<img width=200/>|部件仓名称<img width=100/>|
+|---|---|---|
+|分布式软总线| 分布式软总线实现近场（LAN、WLAN、蓝牙）设备间统一的分布式通信管理能力，提供不区分链路的设备间发现连接、组网和传输能力，主要功能如下：<br>发现连接：提供设备发现和连接能力。<br>设备组网：提供统一的设备组网和拓扑管理能力，为数据传输提供已组网设备信息。<br>数据传输：提供数据传输通道，支持消息、字节、文件和流数据传输能力。 | communication_dsoftbus|
+|进程间通信|进程间通信包含IPC(Inter-Process Communication)与RPC(Remote Procedure Call)，用于实现跨进程通信。<br>IPC用于设备内的跨进程通信，而RPC可提供设备间跨进程通信。| communication_ipc<br>communication_ipc_lite|
+|WLAN服务| 提供WLAN基础功能，包括WLAN STA、AP、P2P等功能的管理服务。为应用和系统服务提供用可以通过WLAN和其他设备互联互通|communication_wifi<br>communication_wifi_lite|
 |WPA服务|提供WiFi和P2P相关认证协议功能，包含WPA和HostAPD两个主要部分。|third_party_wpa_supplicant|
-|蓝牙服务|提供蓝牙profile服务、蓝牙协议栈等相关能力。为设备提供接入与使用Bluetooth的相关接口，包括BR配对连接，BLE广播、扫描，BLE设备gatt相关的操作及功能。|communication_bluetooth|
+|蓝牙服务|提供蓝牙profile服务、蓝牙协议栈等相关能力。<br>为设备提供接入与使用Bluetooth的相关接口，包括BR配对连接，BLE广播、扫描，BLE设备gatt相关的操作及功能。|communication_bluetooth|
 |NFC服务|提供有源标签读写能力，包括NFC标签读写、TAG等服务能力。|communication_nfc|
 |位置服务|提供GNSS、网络定位、地理编码转换等位置服务框架能力。|base_location|
 
