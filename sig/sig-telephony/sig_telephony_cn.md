@@ -16,20 +16,37 @@
 - 短彩信模块：主要功能是短信收发和彩信编解码。
 - 状态注册模块：主要功能是提供电话服务子系统各种消息事件的订阅以及取消订阅的API。
 
+通信框架SIG（ sig-telephony ）技术栈范围全景图如下图所示：
+![OpenHarmony文档概览](figures/telephony-overview.png)
 ## 代码仓
+|部件名称|部件功能描述|部件仓名称|
+| ------------ | ------------ |------------ |
+|通话管理|提供不同类型通话（CS/IMS/OTT）的音频通道、优先级等冲突策略管理，提供通话管理相关API供应用使用。包括：拨打电话、来电接听/挂断/拒接、三方通话控制、获取/订阅通话状态、通话静音控制、IMS通话开关控制、号码格式化、紧急呼叫号码判断。|telephony_call_manager|
+|电话状态|提供蜂窝电话相关状态订阅功能，包括：网络注册状态、信号强度、小区信息、蜂窝数据连接状态、蜂窝数据上下行状态、通话状态、卡状态。|telephony_state_registry|
+|蜂窝通话|提供运营商通话基础能力（CS&IMS通话），支持CS和IMS通话之间的域选控制和切换，支持紧急通话。其中，IMS通话仅支持框架，服务实现由芯片厂商自行实现。|telephony_cellular_call|
+|蜂窝数据|提供蜂窝数据联网能力，包括：蜂窝数据激活去激活、连接状态管理、数据自愈、APN管理、蜂窝数据开关及数据漫游开关。|telephony_cellular_data|
+|短彩信|提供短彩信、小区广播能力，包括：短信收发、短信PDU编解码、WAP PUSH、彩信通知、彩信编解码、小区广播、SIM卡短信。|telephony_sms_mms|
+|电话数据存储|提供卡账户、随卡参数、APN、短彩信数据的持久化存储功能，通过DataAbility提供增删改查接口。|telephony_data_storage|
+|联系人数据存储|提供联系人、通话记录、语音信箱数据的持久化存储功能，通过DataAbility提供增删改查接口。|applications_contacts|
+|电话核心服务|提供SIM卡、搜网基础能力，通过HDF与RIL Adapter进行通信，通过发布订阅机制实现与各功能模块的通信。|telephony_core_service|
+|RIL适配|蜂窝通信RIL接口适配层，提供统一的南向HDI接口，屏蔽不同modem厂商硬件差异，包括：SIM卡、搜网、通话、数据、短信和公共模块。|telephony_ril_adapter|
+|网络管理基础|提供网络管理基础能力，包括：多网络连接切换与并发、网络连接信息查询、网络连接状态查询订阅、网络质量检测、策略管理、流量统计。|communication_netmanager_base|
+|网络管理扩展|提供网络管理扩展能力，包括：以太网连接、网络共享、VPN、加密DNS、mDNS。|communication_netmanager_ext|
+|电话核心服务|提供基础网络协议栈JS API能力，包括：HTTP/HTTPS、TCP/UDP/TLS Socket、WebSocket、LocalSocket。|communication_netstack|
+
 - 代码仓地址：
-  - 核心服务：https://gitee.com/openharmony/telephony_core_service
-  - 蜂窝通话：https://gitee.com/openharmony/telephony_cellular_call
   - 通话管理：https://gitee.com/openharmony/telephony_call_manager
-  - 注册服务：https://gitee.com/openharmony/telephony_state_registry
+  - 电话状态：https://gitee.com/openharmony/telephony_state_registry
+  - 蜂窝通话：https://gitee.com/openharmony/telephony_cellular_call
+  - 蜂窝数据：https://gitee.com/openharmony/telephony_cellular_data
   - 短彩信：https://gitee.com/openharmony/telephony_sms_mms
-  - riladapter：https://gitee.com/openharmony/telephony_ril_adapter
-  - 数据业务：https://gitee.com/openharmony/telephony_cellular_data
-  - 数据存储：https://gitee.com/openharmony/telephony_data_storage
-  - 网络管理：https://gitee.com/openharmony/communication_netmanager_standard
-  - 网络协议栈：https://gitee.com/openharmony/communication_netstack
+  - 电话数据存储：https://gitee.com/openharmony/telephony_data_storage
+  - 联系人数据存储：https://gitee.com/openharmony/applications_contacts
+  - 电话核心服务：https://gitee.com/openharmony/telephony_core_service
+  - RIL适配：https://gitee.com/openharmony/telephony_ril_adapter
   - 网络管理基础仓：https://gitee.com/openharmony/communication_netmanager_base
   - 网络管理扩展仓：https://gitee.com/openharmony/communication_netmanager_ext
+  - 网络协议栈：https://gitee.com/openharmony/communication_netstack
 
 
 ## SIG组成员

@@ -86,6 +86,7 @@
 |资源调度子系统|[resourceschedule_device_usage_statistics](https://gitee.com/openharmony/resourceschedule_device_usage_statistics)|foundation/resourceschedule/device_usage_statistics|[tangtiantian2021](https://gitee.com/tangtiantian2021)|
 |资源调度子系统|[resourceschedule_resource_schedule_service](https://gitee.com/openharmony/resourceschedule_resource_schedule_service)|foundation/resourceschedule/resource_schedule_service|[shire-yao](https://gitee.com/shire-yao)|
 |资源调度子系统|[resourceschedule_memmgr](https://gitee.com/openharmony/resourceschedule_memmgr)|foundation/resourceschedule/plugins/memmgr|[cbraham](https://gitee.com/cbraham)|
+|资源调度子系统|[resourceschedule_frame_aware_sched](https://gitee.com/openharmony/resourceschedule_frame_aware_sched)|foundation/resourceschedule/frame_aware_sched|[liuyoufang](https://gitee.com/liuyoufang)|
 |DFX子系统|[third_party_pyyaml](https://gitee.com/openharmony/third_party_pyyaml)|third_party/pyyaml|[guochuanqi](https://gitee.com/guochuanqi)|
 |定制子系统|[customization_enterprise_device_management](https://gitee.com/openharmony-sig/customization_enterprise_device_management)|customization_enterprise_device_management|[caiminggang](https://gitee.com/caiminggang)|
 |事件通知子系统|[notification_eventhandler](https://gitee.com/openharmony/notification_eventhandler)|base/notification/eventhandler|[zero-cyc](https://gitee.com/zero-cyc)|

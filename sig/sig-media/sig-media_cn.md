@@ -13,7 +13,7 @@ OpenHarmony 媒体管理。
 
 ## 代码仓
 - 代码仓地址：
-  - multimedia_media_standard:https://gitee.com/openharmony/multimedia_media_standard
+  - multimedia_player_framework:https://gitee.com/openharmony/multimedia_player_framework
   - multimedia_audio_framework:https://gitee.com/openharmony/multimedia_audio_framework
   - multimedia_camera_standard:https://gitee.com/openharmony/multimedia_camera_standard
   - multimedia_media_library:https://gitee.com/openharmony/multimedia_media_library

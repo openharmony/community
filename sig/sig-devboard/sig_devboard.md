@@ -117,6 +117,9 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - device_board_chipsea: https://gitee.com/openharmony/device_board_chipsea
   - vendor_chipsea: https://gitee.com/openharmony/vendor_chipsea
   - device_soc_st: https://gitee.com/openharmony/device_soc_st
+  - device_board_telink: https://gitee.com/openharmony/device_board_telink
+  - vendor_telink: https://gitee.com/openharmony/vendor_telink
+  - device_soc_telink: https://gitee.com/openharmony/device_soc_telink
 
 ## SIG Members
 

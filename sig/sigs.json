@@ -136,7 +136,10 @@
                 "https://gitee.com/openharmony-sig/vendor_t-head",
                 "https://gitee.com/openharmony/device_soc_chipsea",
                 "https://gitee.com/openharmony/device_board_chipsea",
-                "https://gitee.com/openharmony/vendor_chipsea"
+                "https://gitee.com/openharmony/vendor_chipsea",
+                "https://gitee.com/openharmony/device_board_telink",
+                "https://gitee.com/openharmony/vendor_telink",
+                "https://gitee.com/openharmony/device_soc_telink"
             ],
             "project-path": [
                 "device/st",
@@ -212,7 +215,10 @@
                 "vendor/t-head",
                 "device/soc/chipsea",
                 "device/board/chipsea",
-                "vendor/chipsea"
+                "vendor/chipsea",
+                "device/board/telink",
+                "vendor/telink",
+                "device/soc/telink"
             ]
         },
         {
@@ -504,6 +510,7 @@
                 "https://gitee.com/openharmony/resourceschedule_resource_schedule_service",
                 "https://gitee.com/openharmony/third_party_pyyaml",
                 "https://gitee.com/openharmony/resourceschedule_memmgr",
+                "https://gitee.com/openharmony/resourceschedule_frame_aware_sched",
                 "https://gitee.com/openharmony-sig/customization_enterprise_device_management",
                 "https://gitee.com/openharmony/notification_eventhandler"
             ],
@@ -569,6 +576,7 @@
                 "foundation/resourceschedule/resource_schedule_service",
                 "third_party/pyyaml",
                 "foundation/resourceschedule/plugins/memmgr",
+                "foundation/resourceschedule/frame_aware_sched",
                 "base/customization/enterprise_device_management",
                 "base/notification/eventhandler"
             ]
@@ -576,7 +584,7 @@
         {
             "sig-name": "sig-graphicsandmedia",
             "projects": [
-                "https://gitee.com/openharmony/multimedia_media_standard",
+                "https://gitee.com/openharmony/multimedia_player_framework",
                 "https://gitee.com/openharmony/multimedia_audio_framework",
                 "https://gitee.com/openharmony/multimedia_camera_standard",
                 "https://gitee.com/openharmony/multimedia_media_library",
@@ -617,7 +625,7 @@
                 "https://gitee.com/openharmony-sig/third_party_libjpeg-turbo"
             ],
             "project-path": [
-                "foundation/multimedia/media_standard",
+                "foundation/multimedia/player_framework",
                 "foundation/multimedia/audio_framework",
                 "foundation/multimedia/camera_standard",
                 "foundation/multimedia/medialibrary_standard",
