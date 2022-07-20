@@ -13,7 +13,7 @@ OpenHarmony media related design and review.
 
 ## The repository
 - project name:
-  - multimedia_media_standard:https://gitee.com/openharmony/multimedia_media_standard
+  - multimedia_player_framework:https://gitee.com/openharmony/multimedia_player_framework
   - multimedia_audio_framework:https://gitee.com/openharmony/multimedia_audio_framework
   - multimedia_camera_standard:https://gitee.com/openharmony/multimedia_camera_standard
   - multimedia_media_library:https://gitee.com/openharmony/multimedia_media_library
