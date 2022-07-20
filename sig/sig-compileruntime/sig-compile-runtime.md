@@ -3,7 +3,7 @@
  
  Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
 
-## SIG group work objectives and scope
+## SIG group objectives and work scope
 
 ### objectives
 
@@ -24,7 +24,7 @@
 - Runtime
 ![figures/compileruntime-overview-runtime-en.png](figures/compileruntime-overview-runtime-en.png)
 
-### repositories
+## repositories
   - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
   - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
   - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend

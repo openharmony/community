@@ -23,7 +23,29 @@
 - Runtime
 ![figures/compileruntime-overview-runtime-cn.png](figures/compileruntime-overview-runtime-cn.png)
 
-### 代码仓
+## 代码仓
+|部件名称|部件功能描述|部件仓名称|
+| ----- | ----------- | --------- |
+|runtime_core|方舟运行时核心库|arkcompiler_runtime_core|
+|ets_runtime|方舟eTS(兼容JS/TS)运行时|arkcompiler_ets_runtime|
+|ets_frontend|方舟eTS(兼容JS/TS)前端编译器，解析eTS生成abc文件供方舟运行时执行|arkcompiler_ets_frontend|
+|toolchain|方舟运行时调试调优工具链|arkcompiler_toolchain|
+|ets_utils|eTS语言函数库；当前主要由 js_sys_module js_util_module js_worker_module js_api_module 四个部分组成|commonlibrary_ets_library|
+|c_utils|C工具函数库|commonlibrary_c_utils|
+|utils_lite|轻量级系统所使用的工具函数库|commonlibrary_utils_lite|
+|vixl|ARM汇编器，提供生成ARM汇编的C接口|third_party_vixl|
+|jerryscript|百K级别超轻量级JS引擎，低内存消耗|third_party_jerryscript|
+|quickjs|QuickJS是一个小型并且可嵌入的Javascript引擎，支持ES2020|third_party_quickjs|
+|llvm-project|C/C++编译器，包含libcxx，lldb，crt等很多组件|third_party_llvm-project|
+|lldb-mi|Lldb的machine interface，方便IDE使用lldb功能|third_party_lldb-mi|
+|mingw-w64|支持编译windows 64平台项目的运行时套件|third_party_mingw-w64|
+|musl|标准C库|third_party_musl|
+|mimalloc|性能优化的内存分配器|third_party_mimalloc|
+|elfio|Elf文件操作工具库|third_party_elfio|
+|memory|内存分析相关工具库|commonlibrary_memory|
+|miniz|一种无损高效压缩算法库，支持zlib接口|third_party_miniz|
+
+- 代码仓地址:
   - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
   - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
   - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
