@@ -4,21 +4,21 @@
 
 亲爱的OpenHarmony开发者，你们好，感谢你们前期的贡献，在大家的共同努力下，社区取得了长足的发展。
 
-本社区ToDoList将持续更新， 欢迎感兴趣的同学一起参与OpenHarmony社区贡献。
+本社区ToDoList将持续更新， 欢迎感兴趣的同学一起参与OpenHarmony社区贡献
 
 
 
 ## **如何参与**
 
-1、**认领ToDo项：**在下面表格找到感兴趣的特性并[提交PR](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E8%B4%A1%E7%8C%AE%E6%B5%81%E7%A8%8B.md)，更新本文TodoList表格中对应的认领单位/个人和计划完成时间两列；
+步骤一、**认领ToDo项**：在下面表格找到感兴趣的特性并[提交PR](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E8%B4%A1%E7%8C%AE%E6%B5%81%E7%A8%8B.md)，更新本文TodoList表格中对应的认领单位/个人和计划完成时间两列；
 
-2、**加入子系统仓团队：**社区管理员审核通过后，仓committer会邀请步骤1中认领ToDo项的账号加入对应的团队，一般是通过发私信或者向账号对应的邮箱发送邮件来完成通知，此时注意查收信息并确认,通常1个工作日内会响应；
+步骤二、**加入子系统仓团队**：社区管理员审核通过后，仓committer会邀请步骤1中认领ToDo项的账号加入对应的团队，一般是通过发私信或者向账号对应的邮箱发送邮件来完成通知，此时注意查收信息并确认,通常1个工作日内会响应；
 
-3、**成为对应需求issue的负责人：**认领账号确认接受邀请后，子系统负责人会将对应的需求发布一个issue进行跟踪，并将认领账号设置为该issue的责任人；
+步骤三、**成为对应需求issue的负责人**：认领账号确认接受邀请后，子系统负责人会将对应的需求发布一个issue进行跟踪，并将认领账号设置为该issue的责任人；
 
-4、**需求澄清&方案确认：**issue责任人对需求有任何疑问，或者需要交流方案，建议在issue下方进行评论，并@committer，仓committer收到消息后会进行回复；
+步骤四、**需求澄清&方案确认**：issue责任人对需求有任何疑问，或者需要交流方案，建议在issue下方进行评论，并@committer，仓committer收到消息后会进行回复；
 
-5、**开发与提交代码：**责任人和社区通过跟踪[issue](https://gitee.com/openharmony/community/blob/master/sig/sig-QA/issue%EF%BC%88%E9%9C%80%E6%B1%82%E7%B1%BB%EF%BC%89%E5%A4%84%E7%90%86%E6%8C%87%E5%AF%BC.md)来进行互动，开发完成后，提交PR[上传代码](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E8%B4%A1%E7%8C%AE%E6%B5%81%E7%A8%8B.md),并把PR和对应的任务issue进行关联。
+步骤五、**开发与提交代码**：责任人和社区通过跟踪[issue](https://gitee.com/openharmony/community/blob/master/sig/sig-QA/issue%EF%BC%88%E9%9C%80%E6%B1%82%E7%B1%BB%EF%BC%89%E5%A4%84%E7%90%86%E6%8C%87%E5%AF%BC.md)来进行互动，开发完成后，提交PR[上传代码](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E8%B4%A1%E7%8C%AE%E6%B5%81%E7%A8%8B.md),并把PR和对应的任务issue进行关联。
 
 
 
