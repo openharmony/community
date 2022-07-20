@@ -17,7 +17,13 @@
 - 处理开源社区上的需求、issue、邮件列表和开发问题，闭环周期满足开源社区的SLA要求；
 - 结合评审和开发活动，给予代码质量反馈与指导，促进开源社区代码质量提升。
 
-## 代码仓
+### 技术栈范围
+- Compiler
+![figures/compileruntime-overview-compiler-cn.png](figures/compileruntime-overview-compiler-cn.png)
+- Runtime
+![figures/compileruntime-overview-runtime-cn.png](figures/compileruntime-overview-runtime-cn.png)
+
+### 代码仓
   - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
   - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
   - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
