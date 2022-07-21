@@ -25,12 +25,32 @@
 ![figures/compileruntime-overview-runtime-en.png](figures/compileruntime-overview-runtime-en.png)
 
 ## repositories
+|Component|Description|Code repo|
+| ----- | ----------- | --------- |
+|ArkCompiler runtime core|Core components of ArkCompiler runtime|arkcompiler_runtime_core|
+|ArkCompiler eTS runtime|eTS language runtime of ArkCompiler|arkcompiler_ets_runtime|
+|ArkCompiler eTS frontend|eTS compiler frontend of ArkCompiler|arkcompiler_ets_frontend|
+|ArkCompiler toolchain|Debugging and profiling tools for ArkCompiler|arkcompiler_toolchain|
+|ARM assembler / code generator|ARM instruction assembler and code generator library|third_party_vixl|
+|jerryscript|Lightweight JS engine with extremely low memory footprint|third_party_jerryscript|
+|quickjs|Small JS engine with full compatibility of ES2020|third_party_quickjs|
+|LLVM|LLVM compiler and toolchain|third_party_llvm-project|
+|LLDB Machine Interface|LLDB machine interface|third_party_lldb-mi|
+|MinGW-w64|A complete runtime environment for GCC and LLVM for 32 and 64 bit Windows|third_party_mingw-w64|
+|musl|Standard C library|third_party_musl|
+|mimalloc Memory allocator|High performance memory allocator implementation|third_party_mimalloc|
+|elfio|C++ library for reading and generating ELF files|third_party_elfio|
+|miniz|Data compression library that implements most zlib interfaces|third_party_miniz|
+|eTS util library|eTS library providing basic utilities|commonlibrary_ets_library|
+|C utils library|C library providing basic utilities|commonlibrary_c_utils|
+|Utils library for lite OS|Library providing basic utilities for lite OS|commonlibrary_utils_lite|
+|Memory utils|Libraries providing common system memory related operations|commonlibrary_memory|
+
   - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
   - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
   - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
   - arkcompiler_toolchain: https://gitee.com/openharmony/arkcompiler_toolchain
-
-  - ets_utils: https://gitee.com/openharmony-sig/commonlibrary_ets_utils
+  - third_party_vixl: https://gitee.com/openharmony-sig/third-party-vixl
 
   - third_party_jerryscript: https://gitee.com/openharmony/third_party_jerryscript
   - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
@@ -40,13 +60,13 @@
   - third_party_mingw-w64: https://gitee.com/openharmony/third_party_mingw-w64
   - third_party_musl: https://gitee.com/openharmony/third_party_musl
   - third_party_mimalloc: https://gitee.com/openharmony-sig/third_party_mimalloc
+  - third_party_elfio: https://gitee.com/openharmony-sig/third_party_elfio
+  - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
 
+  - commonlibrary_ets_utils: https://gitee.com/openharmony-sig/commonlibrary_ets_utils
   - commonlibrary_c_utils: https://gitee.com/openharmony/commonlibrary_c_utils
   - commonlibrary_utils_lite: https://gitee.com/openharmony/commonlibrary_utils_lite
-
   - utils_memory: https://gitee.com/openharmony/utils_memory
-
-  - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
 
 ## SIG Members
 
