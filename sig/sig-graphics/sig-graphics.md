@@ -47,9 +47,9 @@ OpenHarmony Graphics and windowmanager related design and review.
 - @zhouyuehai(https://gitee.com/zhouyuehai)
 
 ### Meetings
- - Meeting time：Every two weeks' Friday 14:30-15:30
- - Meeting application: [OpenHarmony Sig-Graphics Meeting Proposal](https://shimo.im/sheets/DTgCtcgrHhyTq6tD/MODOC)
- - Meeting link: Welink
+ - Meeting time：Every two weeks' Friday 14:30-15:15
+ - Meeting application: [OpenHarmony Sig-Graphics Meeting Proposal](https://shimo.im/sheets/m4kMLLgagotBK9qD/MODOC)
+ - Meeting link: [Welink会议] ID:982145319
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
 
 ### Contact (optional)
