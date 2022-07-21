@@ -40,10 +40,10 @@
 |mimalloc|性能优化的内存分配器|third_party_mimalloc|
 |elfio|Elf文件操作工具库|third_party_elfio|
 |miniz|一种无损高效压缩算法库，支持zlib接口|third_party_miniz|
-|eTS工具库|eTS语言函数库；当前主要由 js_sys_module js_util_module js_worker_module js_api_module 四个部分组成|commonlibrary_ets_library|
+|eTS工具库|eTS语言函数库；当前主要由 js_sys_module js_util_module js_worker_module js_api_module 四个部分组成|commonlibrary_ets_utils|
 |C工具库|C工具函数库|commonlibrary_c_utils|
 |轻量级系统工具库|轻量级系统所使用的工具函数库|commonlibrary_utils_lite|
-|内存工具库|内存使用和分析相关工具库|commonlibrary_memory|
+|内存工具库|内存使用和分析相关工具库|utils_memory|
 
 - 代码仓地址:
   - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
