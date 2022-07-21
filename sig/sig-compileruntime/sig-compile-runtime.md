@@ -24,7 +24,7 @@
 - Runtime
 ![figures/compileruntime-overview-runtime-en.png](figures/compileruntime-overview-runtime-en.png)
 
-## repositories
+## Repositories
 |Component|Description|Code repo|
 | ----- | ----------- | --------- |
 |ArkCompiler runtime core|Core components of ArkCompiler runtime|arkcompiler_runtime_core|
@@ -41,10 +41,10 @@
 |mimalloc Memory allocator|High performance memory allocator implementation|third_party_mimalloc|
 |elfio|C++ library for reading and generating ELF files|third_party_elfio|
 |miniz|Data compression library that implements most zlib interfaces|third_party_miniz|
-|eTS util library|eTS library providing basic utilities|commonlibrary_ets_library|
+|eTS util library|eTS library providing basic utilities|commonlibrary_ets_utils|
 |C utils library|C library providing basic utilities|commonlibrary_c_utils|
 |Utils library for lite OS|Library providing basic utilities for lite OS|commonlibrary_utils_lite|
-|Memory utils|Libraries providing common system memory related operations|commonlibrary_memory|
+|Memory utils|Libraries providing common system memory related operations|utils_memory|
 
   - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
   - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
