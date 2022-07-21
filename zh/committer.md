@@ -50,7 +50,7 @@
 |48|communication_ipc_lite|foundation/communication/ipc_lite|https://gitee.com/Xuyongpan|xuyongpan@huawei.com|https://gitee.com/Xi_Yuhao <br> https://gitee.com/maerlii|xiyuhao@huawei.com <br> maerli@huawei.com|SIG_SoftBus|
 |49|communication_wifi_aware|foundation/communication/wifi_aware|https://gitee.com/Xuyongpan|xuyongpan@huawei.com|https://gitee.com/yinyouzhan|yinyouzhan@huawei.com|SIG_SoftBus|
 |50|communication_wifi_lite|foundation/communication/wifi_lite|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/zf0719|hw.zhangfeng@huawei.com|SIG_SoftBus|
-|51|ability_dmsfwk_lite|foundation/foundation/ability/dmsfwk_lite|https://gitee.com/lijiarun|lijiarun@huawei.com| | |SIG_BasicSoftwareService|
+|51|ability_dmsfwk_lite|foundation/ability/dmsfwk_lite|https://gitee.com/lijiarun|lijiarun@huawei.com| | |SIG_BasicSoftwareService|
 |52|distributedschedule_safwk_lite|foundation/distributedschedule/safwk_lite|https://gitee.com/lijiarun|lijiarun@huawei.com| | |SIG_BasicSoftwareService|
 |53|distributedschedule_samgr_lite|foundation/distributedschedule/samgr_lite|https://gitee.com/lijiarun|lijiarun@huawei.com| | |SIG_BasicSoftwareService|
 |54|graphic_surface|foundation/graphic/surface|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_Graphics|
