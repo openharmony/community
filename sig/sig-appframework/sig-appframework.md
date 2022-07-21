@@ -52,6 +52,8 @@ OpenHarmony ApplicationFramework technology stack scope is shown in the followin
   - ability_ability_lite:https://gitee.com/openharmony/ability_ability_lite
   - ability_ability_runtime:https://gitee.com/openharmony/ability_ability_runtime
   - ability_ability_base:https://gitee.com/openharmony/ability_ability_base
+  - ability_dmsfwk:https://gitee.com/openharmony/ability_dmsfwk
+  - ability_dmsfwk_lite:https://gitee.com/openharmony/ability_dmsfwk_lite
   - ability_form_fwk:https://gitee.com/openharmony/ability_form_fwk
   - ability_idl_tool:https://gitee.com/openharmony/ability_idl_tool
   - security_appverify:https://gitee.com/openharmony/security_appverify
