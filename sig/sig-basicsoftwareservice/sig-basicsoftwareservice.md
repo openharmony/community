@@ -85,6 +85,7 @@ Basic Software Services includes the following sub-systems:
 |ResourceSchedule|[resourceschedule_device_usage_statistics](https://gitee.com/openharmony/resourceschedule_device_usage_statistics)|foundation/resourceschedule/device_usage_statistics|[tangtiantian2021](https://gitee.com/tangtiantian2021)|
 |ResourceSchedule|[resourceschedule_resource_schedule_service](https://gitee.com/openharmony/resourceschedule_resource_schedule_service)|foundation/resourceschedule/resource_schedule_service|[shire-yao](https://gitee.com/shire-yao)|
 |ResourceSchedule|[resourceschedule_memmgr](https://gitee.com/openharmony/resourceschedule_memmgr)|foundation/resourceschedule/plugins/memmgr|[cbraham](https://gitee.com/cbraham)|
+|ResourceSchedule|[resourceschedule_frame_aware_sched](https://gitee.com/openharmony/resourceschedule_frame_aware_sched)|foundation/resourceschedule/frame_aware_sched|[liuyoufang](https://gitee.com/liuyoufang)|
 |HiviewDFX|[third_party_pyyaml](https://gitee.com/openharmony/third_party_pyyaml)|third_party/pyyaml|[guochuanqi](https://gitee.com/guochuanqi)|
 |Notification|[notification_eventhandler](https://gitee.com/openharmony/notification_eventhandler)|base/notification/eventhandler|[zero-cyc](https://gitee.com/zero-cyc)|
 |Notification|[notification_distributed_notification_service](https://gitee.com/openharmony/notification_distributed_notification_service)|base/notification/distributed_notification_service|[zero-cyc](https://gitee.com/zero-cyc)|
