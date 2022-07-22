@@ -1,0 +1,19 @@
+{
+    "Leader": [{
+        "gitee_id": "pengz123",
+        "gitee_email": "pengzhao.sh@chinatelecom.cn"
+    }],
+    "Committers": [{
+        "gitee_id": "zhanghaimingsh",
+        "gitee_email": "zhanghaiming.sh@chinatelecom.cn"
+    },{
+        "gitee_id": "gullong",
+        "gitee_email": "gull2@chinatelecom.cn"
+    },{
+        "gitee_id": "Shanice.Lo",
+        "gitee_email": "luoshanshan.sh@chinatelecom.cn"
+    },{
+        "gitee_id": "bin.zhang",
+        "gitee_email": "zhangb27@chinatelecom.cn"
+    }]
+}
