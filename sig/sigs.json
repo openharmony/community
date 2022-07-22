@@ -65,8 +65,8 @@
                 "https://gitee.com/openharmony-sig/device_st",
                 "https://gitee.com/openharmony-sig/vendor_st",
                 "https://gitee.com/openharmony/device_soc_allwinner",
-                "https://gitee.com/openharmony/device_board_seed",
-                "https://gitee.com/openharmony/vendor_seed",
+                "https://gitee.com/openharmony/device_board_isoftstone",
+                "https://gitee.com/openharmony/vendor_isoftstone",
                 "https://gitee.com/openharmony-sig/device_mediatek",
                 "https://gitee.com/openharmony-sig/vendor_mediatek",
                 "https://gitee.com/openharmony-sig/device_nordic",
@@ -136,10 +136,9 @@
                 "https://gitee.com/openharmony-sig/vendor_t-head",
                 "https://gitee.com/openharmony/device_soc_chipsea",
                 "https://gitee.com/openharmony/device_board_chipsea",
-                "https://gitee.com/openharmony/vendor_chipsea",
-                "https://gitee.com/openharmony/device_board_telink",
-                "https://gitee.com/openharmony/vendor_telink",
-                "https://gitee.com/openharmony/device_soc_telink"
+                "https://gitee.com/openharmony/vendor_chipsea"
+                "https://gitee.com/openharmony/device_board_isoftstone",
+                "https://gitee.com/openharmony/vendor_isoftstone"
             ],
             "project-path": [
                 "device/st",
@@ -218,7 +217,9 @@
                 "vendor/chipsea",
                 "device/board/telink",
                 "vendor/telink",
-                "device/soc/telink"
+                "device/soc/telink",
+                "device/board/isoftstone",
+                "vendor/isoftstone"
             ]
         },
         {

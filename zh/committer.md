@@ -386,8 +386,8 @@
 |384|device_board_chipsea|device/soc/chipsea|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/ihaobo | haobo@chipsea.com |SIG_Devboard|
 |385|device_soc_chipsea|device/soc/chipsea|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/ihaobo | haobo@chipsea.com |SIG_Devboard|
 |386|device_soc_allwinner|device/soc/allwinner|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/vyagoo_0 | ygopenhm@vyagoo.com |SIG_Devboard|
-|387|device_board_seed|device/board/seed|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/vyagoo_0 | ygopenhm@vyagoo.com |SIG_Devboard|
-|388|vendor_seed |vendor/seed|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/vyagoo_0 | ygopenhm@vyagoo.com |SIG_Devboard|
+|387|device_board_isoftstone|device/board/isoftstone|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/chen563705 <br> https://gitee.com/SVNMe <br>  https://gitee.com/paworcn <br> https://gitee.com/zhanglichun2020|jychenfi@isoftstone.com <br> xuanyec@isoftstone.com <br> weipanga@isoftstone.com <br>  lczhangy@isoftstone.com|SIG_Devboard|
+|388|vendor_isoftstone |vendor/isoftstone|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/chen563705 <br> https://gitee.com/SVNMe <br>  https://gitee.com/paworcn <br> https://gitee.com/zhanglichun2020|jychenfi@isoftstone.com <br> xuanyec@isoftstone.com <br> weipanga@isoftstone.com <br>  lczhangy@isoftstone.com|SIG_Devboard|
 |389|vendor_talkweb|vendor/talkweb|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/talkweb_houpengfei | houpengfei@talkweb.com.cn |SIG_Devboard|
 |390| device_board_talkweb|device/board/talkweb|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/talkweb_houpengfei | houpengfei@talkweb.com.cn |SIG_Devboard|
 |391| device_soc_rockchip|device/soc/rockchip|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/bob_qu |qu_bo@hoperun.com|SIG_Devboard|
