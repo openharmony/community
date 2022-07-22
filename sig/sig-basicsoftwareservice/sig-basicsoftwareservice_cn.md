@@ -62,7 +62,7 @@
 |启动恢复子系统|[startup_syspara_lite](https://gitee.com/openharmony/startup_syspara_lite)|base/startup/syspara_lite|[handyohos](https://gitee.com/handyohos)|
 |启动恢复子系统|[startup_appspawn](https://gitee.com/openharmony/startup_appspawn)|base/startup/appspawn_standard|[handyohos](https://gitee.com/handyohos)|
 |升级服务子系统|[update_ota_lite](https://gitee.com/openharmony/update_ota_lite)|base/update/ota_lite|[ailorna](https://gitee.com/ailorna)|
-|升级服务子系统|[update_app](https://gitee.com/openharmony/update_app)|base/update/app|[ailorna](https://gitee.com/ailorna)|
+|升级服务子系统|[update_app](https://gitee.com/openharmony/update_app)|base/update/update_app|[ailorna](https://gitee.com/ailorna)|
 |升级服务子系统|[update_packaging_tools](https://gitee.com/openharmony/update_packaging_tools)|base/update/packaging_tools|[ailorna](https://gitee.com/ailorna)|
 |升级服务子系统|[update_updater](https://gitee.com/openharmony/update_updater)|base/update/updater|[ailorna](https://gitee.com/ailorna)|
 |升级服务子系统|[update_updateservice](https://gitee.com/openharmony/update_updateservice)|base/update/updateservice|[ailorna](https://gitee.com/ailorna)|

@@ -134,7 +134,7 @@
 |132|telephony_core_service|base/telephony/core_service|https://gitee.com/ohos-lsw|lishiwei6@huawei.com| | |SIG_SoftBus|
 |133|telephony_sms_mms|base/telephony/sms_mms|https://gitee.com/xautosoft|zhuwenchao@huawei.com| | |SIG_SoftBus|
 |134|telephony_state_registry|base/telephony/state_registry|https://gitee.com/hwlitao|litao25@huawei.com| | |SIG_SoftBus|
-|135|update_app|base/update/app|https://gitee.com/ailorna|hehuan1@huawei.com| | |SIG_BasicSoftwareService|
+|135|update_app|base/update/update_app|https://gitee.com/ailorna|hehuan1@huawei.com| | |SIG_BasicSoftwareService|
 |136|update_packaging_tools|base/update/packaging_tools|https://gitee.com/ailorna|hehuan1@huawei.com| | |SIG_BasicSoftwareService|
 |137|update_updater|base/update/updater|https://gitee.com/ailorna|hehuan1@huawei.com| | |SIG_BasicSoftwareService|
 |138|update_updateservice|base/update/updateservice|https://gitee.com/ailorna|hehuan1@huawei.com| | |SIG_BasicSoftwareService|
