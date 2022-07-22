@@ -13,7 +13,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - project name:
   - distributeddatamgr: https://gitee.com/openharmony/distributeddatamgr_appdatamgr
   - distributeddatamgr: https://gitee.com/openharmony-sig/distributeddatamgr_data_share
-  - distributeddatamgr: https://gitee.com/openharmony/distributeddatamgr_objectstore
+  - distributeddatamgr: https://gitee.com/openharmony/distributeddatamgr_data_object
 
 ## SIG Members
 
