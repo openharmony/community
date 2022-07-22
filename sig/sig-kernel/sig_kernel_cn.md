@@ -12,26 +12,64 @@
 - 维护内核Linux架构，跟踪Linux LTS主线及安全补丁，提供稳定、安全的内核基线；
 - 维护多内核架构，支持轻量化设备选择LiteOS内核，维护生态发展。
 
-## 代码仓
+技术栈范围全景图如下图所示：
+![OpenHarmony文档概览](figures/kernel-overview.png)
+
+## LiteOS代码仓
+|部件名称|部件功能描述|部件仓名称|
+| ------------ | ------------ |------------ |
+|LiteOS-A内核|基于Huawei LiteOS上演进发展的新一代内核。适用于资源较丰富嵌入式设备的LiteOS内核	|kernel_liteos_a|
+|LiteOS-M内核|基于Huawei LiteOS上演进发展的新一代内核。适用于MCU等各种资源极小设备的LiteOS内核|kernel_liteos_m|
+|LiteOS-Littlefs|适用于LiteOS-M上的一个轻量级文件系统|third_party_littlefs|
+|LiteOS模拟器|用于模拟LiteOS运行，解除对物理开发板的依赖|device_qemu|
+|FatFs|适用于LiteOS上的EMMC等介质的文件系统|third_party_FatFs|
+|cmsis|LiteOS-M支持的CMSIS标准接口|third_party_cmsis|
+
 - 代码仓地址：
-  - repository1名称：https://gitee.com/openharmony/third_party_littlefs
-  - repository2名称：https://gitee.com/openharmony/third_party_e2fsprogs
-  - repository3名称：https://gitee.com/openharmony/kernel_linux_build
-  - repository4名称：https://gitee.com/openharmony/kernel_linux_4.19
-  - repository5名称：https://gitee.com/openharmony/kernel_linux_5.10
-  - repository6名称：https://gitee.com/openharmony/filemanagement_user_file_service
-  - repository7名称：https://gitee.com/openharmony/filemanagement_file_api
-  - repository8名称：https://gitee.com/openharmony/filemanagement_app_file_service
-  - repository9名称：https://gitee.com/openharmony/filemanagement_storage_service
-  - repository10名称：https://gitee.com/openharmony/filemanagement_dfs_service
-  - repository11名称：https://gitee.com/openharmony-sig/filemanagement_fs_tools
-  - repository12名称：https://gitee.com/openharmony/third_party_f2fs-tools
-  - repository13名称：https://gitee.com/openharmony/third_party_ntfs-3g
-  - repository14名称：https://gitee.com/openharmony/third_party_fsck_msdos
-  - repository15名称：https://gitee.com/openharmony/third_party_gptfdisk
-  - repository16名称：https://gitee.com/openharmony/third_party_newfs_msdos
-  - repository17名称：https://gitee.com/openharmony/third_party_exfat-utils
-  - repository18名称：https://gitee.com/openharmony/third_party_exfatprogs
+  - kernel_liteos_a名称：https://gitee.com/openharmony/kernel_liteos_a
+  - kernel_liteos_m名称：https://gitee.com/openharmony/kernel_liteos_m
+  - third_party_littlefs名称：https://gitee.com/openharmony/third_party_littlefs
+  - device_qemu名称：https://gitee.com/openharmony/device_qemu
+  - third_party_FatFs名称：https://gitee.com/openharmony/third_party_FatFs
+  - third_party_cmsis名称：https://gitee.com/openharmony/third_party_cmsis
+
+## Linux及其他代码仓
+|部件名称|部件功能描述|部件仓名称|
+| ------------ | ------------ |------------ |
+|文件访问接口|提供目录和文件的基础访问操作接口|filemanagement_file_api|
+|多窗口感知调度|通过帧感知调度机制，更新进程分组状态，调整内核调度参数，保障系统进程的调度供给|frame_aware_sched|
+|增强内存管理|基于应用生命周期状态，更新进程的回收优先级，通过Kill、回收机制来保障系统空闲内存供给|resourceschedule_memmgr|
+|分布式文件系统用户态服务|分布式文件系统的用户态守护进程，用来管理链接、挂载、用户管理相关服务状态和信息|filemanagement_dfs_service|
+|公共文件管理|提供系统基于用户的公共文件的管理能力|filemanagement_user_file_service|
+|应用文件管理|提供应用私有文件的管理能力，提供了系统框架机制，如：分享、克隆。|filemanagement_app_file_service|
+|存储管理部件|提供多用户管理、磁盘挂卸载、加解密，磁盘卷状态管理和查询，为系统提供基础的存储管理能力|filemanagement_storage_service|
+|内存基础库|提供基础内存操作的系统库|ComonLibary_memory|
+|Linux内核部件|基于LTS内核基线，合入上述调度、内存、存储相关的增强能力特性|kernel_linux_config<br>kernel_linux_build<br>kernel_linux_4.19<br>kernel_linux_5.10|
+|镜像制作工具|用于生成Host镜像拍包工具|third_party_gptfdisk<br>filemanagement_fs_tools|
+|文件系统拍包工具|用于生成指定文件系统格式的拍包工具|third_party_f2fs-tools<br>third_party_ntfs-3g<br>third_party_fsck_msdos<br>third_party_newfs_msdos<br>third_party_exfat-utils<br>third_party_exfatprogs<br>third_party_e2fsprogs|
+
+- 代码仓地址：
+  - filemanagement_file_api名称：https://gitee.com/openharmony/filemanagement_file_api
+  - frame_aware_sched名称：https://gitee.com/openharmony/frame_aware_sched
+  - resourceschedule_memmgr名称：https://gitee.com/openharmony/resourceschedule_memmgr
+  - filemanagement_dfs_service名称：https://gitee.com/openharmony/filemanagement_dfs_service
+  - filemanagement_user_file_service名称：https://gitee.com/openharmony/filemanagement_user_file_service
+  - filemanagement_app_file_service名称：https://gitee.com/openharmony/filemanagement_app_file_service
+  - filemanagement_storage_service名称：https://gitee.com/openharmony/filemanagement_storage_service
+  - ComonLibary_memory名称：https://gitee.com/openharmony/ComonLibary_memory
+  - kernel_linux_build名称：https://gitee.com/openharmony/kernel_linux_config
+  - kernel_linux_build名称：https://gitee.com/openharmony/kernel_linux_build
+  - kernel_linux_4.19名称：https://gitee.com/openharmony/kernel_linux_4.19
+  - kernel_linux_5.10名称：https://gitee.com/openharmony/kernel_linux_5.10
+  - third_party_gptfdisk名称：https://gitee.com/openharmony/third_party_gptfdisk
+  - filemanagement_fs_tools名称：https://gitee.com/openharmony-sig/filemanagement_fs_tools
+  - third_party_f2fs-tools名称：https://gitee.com/openharmony/third_party_f2fs-tools
+  - third_party_ntfs-3g名称：https://gitee.com/openharmony/third_party_ntfs-3g
+  - third_party_fsck_msdos名称：https://gitee.com/openharmony/third_party_fsck_msdos
+  - third_party_newfs_msdos名称：https://gitee.com/openharmony/third_party_newfs_msdos
+  - third_party_exfat-utils名称：https://gitee.com/openharmony/third_party_exfat-utils
+  - third_party_exfatprogs名称：https://gitee.com/openharmony/third_party_exfatprogs
+  - third_party_e2fsprogs名称：https://gitee.com/openharmony/third_party_e2fsprogs
 
 ## SIG组成员
 
@@ -40,12 +78,13 @@
 
 ### Committers列表
 - [@liuyoufang](https://gitee.com/liuyoufang)
-- [@kkup180](https://gitee.com/kkup180)
+- [@JerryH1011](https://gitee.com/JerryH1011)
 - [@zhangzhiwi](https://gitee.com/zhangzhiwi)
 - [@bubble_mao](https://gitee.com/bubble_mao)
 - [@linux_anio](https://gitee.com/linux_anio)
 - [@vincent_qianjing](https://gitee.com/vincent_qianjing)
 - [@weiyj_lk](https://gitee.com/weiyj_lk)
+- [@leonchan5](https://gitee.com/leonchan5)
 
 ### 会议
  - 会议时间：周二上午9:30
