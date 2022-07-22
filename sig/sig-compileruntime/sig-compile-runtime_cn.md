@@ -50,7 +50,6 @@
   - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
   - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
   - arkcompiler_toolchain: https://gitee.com/openharmony/arkcompiler_toolchain
-  - third_party_vixl: https://gitee.com/openharmony-sig/third-party-vixl
 
   - third_party_jerryscript: https://gitee.com/openharmony/third_party_jerryscript
   - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
@@ -59,14 +58,20 @@
   - third_party_lldb-mi: https://gitee.com/openharmony-sig/third_party_lldb-mi
   - third_party_mingw-w64: https://gitee.com/openharmony/third_party_mingw-w64
   - third_party_musl: https://gitee.com/openharmony/third_party_musl
-  - third_party_mimalloc: https://gitee.com/openharmony-sig/third_party_mimalloc
-  - third_party_elfio: https://gitee.com/openharmony-sig/third_party_elfio
   - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
 
-  - commonlibrary_ets_utils: https://gitee.com/openharmony-sig/commonlibrary_ets_utils
+  - commonlibrary_ets_utils: https://gitee.com/openharmony/commonlibrary_ets_utils
   - commonlibrary_c_utils: https://gitee.com/openharmony/commonlibrary_c_utils
   - commonlibrary_utils_lite: https://gitee.com/openharmony/commonlibrary_utils_lite
   - utils_memory: https://gitee.com/openharmony/utils_memory
+
+- 孵化仓地址:
+  - arkcompiler_runtime_core: https://gitee.com/openharmony-sig/arkcompiler_runtime_core
+  - arkcompiler_ets_runtime: https://gitee.com/openharmony-sig/arkcompiler_ets_runtime
+  - arkcompiler_ets_frontend: https://gitee.com/openharmony-sig/arkcompiler_ets_frontend
+  - third_party_vixl: https://gitee.com/openharmony-sig/third-party-vixl
+  - third_party_elfio: https://gitee.com/openharmony-sig/third_party_elfio
+  - third_party_mimalloc: https://gitee.com/openharmony-sig/third_party_mimalloc
 
 ## SIG组成员
 
@@ -89,7 +94,7 @@
 - @dongduResearcher (https://gitee.com/dongduResearcher)
 
 ### 会议
- - 会议时间：双周例会，周一晚上19:00，UTC+8
+ - 会议时间：双周例会，周五14:30，UTC+8
  - 会议申报：[SIG-COMPILERUNTIME Meeting Proposal](https://shimo.im/sheets/cHkjRvDJQtt638y3/MODOC)
  - 会议链接: Welink或其他会议
  - 会议通知: 请订阅邮件列表 dev@openharmony.io 获取会议链接
@@ -98,5 +103,5 @@
 ### 联系方式
 
 - 邮件列表：dev@openharmony.io
-- Zulip群组：https://zulip.openharmony.cn
+- Zulip群组：https://zulip.openharmony.cn (compileRuntime_sig stream)
 - 微信群：NA
