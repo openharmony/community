@@ -549,7 +549,7 @@
                 "base/startup/syspara_lite",
                 "base/startup/appspawn_standard",
                 "base/update/ota_lite",
-                "base/update/app",
+                "base/update/update_app",
                 "base/update/packaging_tools",
                 "base/update/updater",
                 "base/update/updateservice",
