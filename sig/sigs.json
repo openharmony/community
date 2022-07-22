@@ -229,8 +229,14 @@
         },
         {
             "sig-name": "sig-distributerdatamgr",
-            "projects": "https://gitee.com/openharmony/distributeddatamgr_appdatamgr",
-            "project-path": "foundation/distributeddatamgr/appdatamgr"
+            "projects": [
+                "https://gitee.com/openharmony/distributeddatamgr_appdatamgr",
+                "https://gitee.com/openharmony/distributeddatamgr_data_object"
+            ],
+            "project-path": [
+                "foundation/distributeddatamgr/appdatamgr",
+                "foundation/distributeddatamgr/data_object"
+            ]
         },
         {
             "sig-name": "sig-toolchains",
