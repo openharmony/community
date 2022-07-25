@@ -401,3 +401,4 @@
 |399|device_soc_telink|device/soc/telink|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/andy-telink <br> https://gitee.com/yinghao-ji|jie.liu@telink-semi.com <br> yinghao.ji@telink-semi.com|SIG_Devboard|
 |400|device_board_telink|device/board/telink|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/andy-telink <br> https://gitee.com/yinghao-ji|jie.liu@telink-semi.com <br> yinghao.ji@telink-semi.com|SIG_Devboard|
 |401|drivers_hdf_core|drivers/hdf_core|https://gitee.com/Kevin-Lau|liufeihu@huawei.com|https://gitee.com/yuanbogit|yuanbo@huawei.com|SIG_DriverFramework|
+|402|third_party_mimalloc|third_party/mimalloc|https://gitee.com/cbraham|suncai1@huawei.com|https://gitee.com/wang2002xu|wangxu44@huawei.com|SIG_Kernel|

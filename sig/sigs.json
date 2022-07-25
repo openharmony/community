@@ -19,7 +19,8 @@
                 "https://gitee.com/openharmony/third_party_gptfdisk",
                 "https://gitee.com/openharmony/third_party_newfs_msdos",
                 "https://gitee.com/openharmony/third_party_exfat-utils",
-                "https://gitee.com/openharmony/third_party_exfatprogs"
+                "https://gitee.com/openharmony/third_party_exfatprogs",
+                "https://gitee.com/openharmony/third_party_mimalloc"
             ],
             "project-path": [
                 "third_party/littlefs",
@@ -39,7 +40,8 @@
                 "third_party/gptfdisk",
                 "third_party/newfs_msdos",
                 "third_party/exfat-utils",
-                "third_party/exfatprogs"
+                "third_party/exfatprogs",
+                "third_party/mimalloc"
             ]
         },
         {
