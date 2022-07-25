@@ -17,7 +17,7 @@
 |15|security_appverify|base/security/appverify|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com| https://gitee.com/shuaytao | shuaiyutao1@huawei.com |SIG_Security|
 |16|security_device_auth|base/security/device_auth|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com| | |SIG_Security|
 |17|security_huks|base/security/huks|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com| | |SIG_Security|
-|18|security_permission|base/security/permission|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_Security|
+|18|security_permission_lite|base/security/permission_lite|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_Security|
 |19|sensors_miscdevice_lite|base/sensors/miscdevice_lite|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
 |20|sensors_sensor_lite|base/sensors/sensor_lite|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
 |21|startup_appspawn_lite|base/startup/appspawn_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
