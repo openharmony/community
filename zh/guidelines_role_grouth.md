@@ -68,7 +68,7 @@
 
 ### 3.2 非活跃成员退出流程 :
 
-- 3.2.1  维持健康社区的核心原则是鼓励大家积极参与。但是Committer、SIG Leader、PMC的工作或环境的调整，不可避免地不会积极地做出贡献。如果您知道您将在很长一段时间内无法参与社区贡献，您应该通知PMC，我们会将您标记为“不活跃”。不活跃的Committer、SIG Leader、PMC将从 OpenHarmonmy 的项目清单中删除，并且不再具有响应的权利；您在OpenHarmony获得的成绩永不过期，一旦您再次活跃，将被要求通过PMC申请，按照推举流程重新获得对应的资格。
+- 3.2.1  维持健康社区的核心原则是鼓励大家积极参与。但是Committer、SIG Leader、PMC的工作或环境的调整，不可避免地不会积极地做出贡献。如果您知道您将在很长一段时间内无法参与社区贡献，您应该通知PMC，我们会将您标记为“不活跃”。不活跃的Committer、SIG Leader、PMC将从 OpenHarmony 的项目清单中删除，并且不再具有响应的权利；您在OpenHarmony获得的成绩永不过期，一旦您再次活跃，将被要求通过PMC申请，按照推举流程重新获得对应的资格。
 
 - 3.2.2 由您自己发邮件申请退出OpenHarmony项目Committer、SIG Leader、PMC成员，以标题“Inactive [Committer/SIG Leader/PMC] xxx ” 发送邮件至[pmc@openharmony.io](mailto:pmc@openharmony.io)；
 
