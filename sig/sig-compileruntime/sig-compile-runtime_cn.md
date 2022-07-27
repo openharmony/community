@@ -29,7 +29,7 @@
 |方舟运行时公共库|方舟运行时公共库|arkcompiler_runtime_core|
 |方舟eTS运行时|方舟eTS(兼容JS/TS)运行时|arkcompiler_ets_runtime|
 |方舟eTS编译器|方舟eTS(兼容JS/TS)前端编译器，解析eTS生成abc文件供方舟运行时执行|arkcompiler_ets_frontend|
-|方舟工具栏|方舟运行时调试调优工具链|arkcompiler_toolchain|
+|方舟工具链|方舟运行时调试调优工具链|arkcompiler_toolchain|
 |ARM汇编器|ARM汇编器，提供生成ARM汇编的C接口|third_party_vixl|
 |jerryscript|百K级别超轻量级JS引擎，低内存消耗|third_party_jerryscript|
 |quickjs|QuickJS是一个小型并且可嵌入的Javascript引擎，支持ES2020|third_party_quickjs|
