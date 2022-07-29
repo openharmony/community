@@ -11,9 +11,13 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ### The repository 
 - project name:
-  - distributeddatamgr: https://gitee.com/openharmony/distributeddatamgr_appdatamgr
-  - distributeddatamgr: https://gitee.com/openharmony-sig/distributeddatamgr_data_share
-  - distributeddatamgr: https://gitee.com/openharmony/distributeddatamgr_data_object
+  - distributeddatamgr_preferences：https://gitee.com/openharmony/distributeddatamgr_preferences
+  - distributeddatamgr_relational_store：https://gitee.com/openharmony/distributeddatamgr_relational_store
+  - distributeddatamgr_data_share：https://gitee.com/openharmony/distributeddatamgr_data_share
+  - distributeddatamgr_kv_store：https://gitee.com/openharmony/distributeddatamgr_kv_store
+  - distributeddatamgr_datamgr_service：https://gitee.com/openharmony/distributeddatamgr_datamgr_service
+  - distributeddatamgr_data_object：https://gitee.com/openharmony/distributeddatamgr_data_object
+  - miscservices_pasteboard：https://gitee.com/openharmony/miscservices_pasteboard
 
 ## SIG Members
 
