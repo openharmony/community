@@ -3,13 +3,17 @@
         {
             "sig-name": "sig-distributerdatamgr",
             "projects": [
-                "https://gitee.com/openharmony/distributeddatamgr_appdatamgr",
-                "https://gitee.com/openharmony-sig/distributeddatamgr_data_share",
+                "https://gitee.com/openharmony/distributeddatamgr_relational_store",
+                "https://gitee.com/openharmony/distributeddatamgr_preferences",
+                "https://gitee.com/openharmony/distributeddatamgr_data_share",
+                "https://gitee.com/openharmony/distributeddatamgr_kv_store",
                 "https://gitee.com/openharmony/distributeddatamgr_data_object"
             ],
             "project-path": [
-                "foundation/distributeddatamgr/appdatamgr",
+                "foundation/distributeddatamgr/relational_store",
+                "foundation/distributeddatamgr/preferences",
                 "foundation/distributeddatamgr/data_share",
+                "foundation/distributeddatamgr/kv_store",
                 "foundation/distributeddatamgr/data_object"
             ]
         }

@@ -310,14 +310,14 @@
 |308|windowmanager|foundation/windowmanager|https://gitee.com/zhouyaoying|zhouyaoying@huawei.com|  https://gitee.com/bj1010 <br> https://gitee.com/abbuu <br> https://www.gitee.com/qianlf | dubingjian@huawei.com <br> liyu37@huawei.com <br> qianliangfang@huawei.com |SIG_Graphics|
 |309|third_party_libnl|third_party/libnl|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau|liufeihu@huawei.com|SIG_DriverFramework|
 |310|xts_hats|                   test/xts/hats                   |  https://gitee.com/teacher-dong   | dongwang.wangdong@huawei.com |               https://gitee.com/liuhonggang123               |                   honggang.liu@huawei.com                    |SIG_Test|
-|311|distributeddatamgr_appdatamgr|foundation/distributeddatamgr/appdatamgr|https://gitee.com/mangtsang|mang.tsang@huawei.com|https://gitee.com/code_for_banana|wuchunbo1@huawei.com|SIG_DataManagement|
+|311|distributeddatamgr_relational_store|foundation/distributeddatamgr/relational_store|https://gitee.com/lugitee|hanlu1@huawei.com|https://gitee.com/mangtsang|mang.tsang@huawei.com|SIG_DataManagement|
 |312|third_party_libwebsockets|third_party/libwebsockets|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |313|third_party_iptables|third_party/iptables|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |314|third_party_libmnl|third_party/libmnl|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |315|third_party_libnetfilter_conntrack|third_party/libnetfilter/conntrack|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |316|third_party_libnfnetlink|third_party/libnfnetlink|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |317|third_party_libnftnl|third_party/libnftnl|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
-|318|distributeddatamgr_data_share|foundation/distributeddatamgr/data_share|https://gitee.com/verystone|xudaqing@huawei.com| | |SIG_DataManagement|
+|318|distributeddatamgr_data_share|foundation/distributeddatamgr/data_share|https://gitee.com/lugitee|hanlu1@huawei.com|https://gitee.com/mangtsang|mang.tsang@huawei.com| | |SIG_DataManagement|
 |319|device_board_fnlink|device/board/fnlink|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/besyangjian <br> https://gitee.com/tingle1314|jianyang@bestechnic.com <br> zetingxu@bestechnic.com|SIG_Devboard|
 |320|device_soc_bestechnic|device/soc/bestechnic|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/besyangjian <br> https://gitee.com/tingle1314|jianyang@bestechnic.com <br> zetingxu@bestechnic.com|SIG_Devboard|
 |321|vendor_bestechnic|vendor/bestechnic|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/besyangjian <br> https://gitee.com/tingle1314|jianyang@bestechnic.com <br> zetingxu@bestechnic.com|SIG_Devboard|
@@ -402,3 +402,5 @@
 |400|device_board_telink|device/board/telink|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/andy-telink <br> https://gitee.com/yinghao-ji|jie.liu@telink-semi.com <br> yinghao.ji@telink-semi.com|SIG_Devboard|
 |401|drivers_hdf_core|drivers/hdf_core|https://gitee.com/Kevin-Lau|liufeihu@huawei.com|https://gitee.com/yuanbogit|yuanbo@huawei.com|SIG_DriverFramework|
 |402|third_party_mimalloc|third_party/mimalloc|https://gitee.com/cbraham|suncai1@huawei.com|https://gitee.com/wang2002xu|wangxu44@huawei.com|SIG_Kernel|
+|403|distributeddatamgr_preferences|foundation/distributeddatamgr/preferences|https://gitee.com/lugitee|hanlu1@huawei.com|https://gitee.com/mangtsang|mang.tsang@huawei.com|SIG_DataManagement|
+|404|distributeddatamgr_kv_store|foundation/distributeddatamgr/kv_store|https://gitee.com/widecode|wanghancai@huawei.com|https://gitee.com/lugitee|hanlu1@huawei.com|SIG_DataManagement|
