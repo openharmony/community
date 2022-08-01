@@ -11,6 +11,9 @@
 ### 工作范围
  _XXX_ 
 
+### 工作交付件及工作计划
+ _XXX_ 
+
 ## 代码仓
 - 代码仓地址：
   - repository1名称：https://gitee.com/openharmony/xxx
