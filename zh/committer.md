@@ -24,7 +24,7 @@
 |22|startup_bootstrap_lite|base/startup/bootstrap_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
 |23|startup_init_lite|base/startup/init_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
 |24|startup_syspara_lite|base/startup/syspara_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
-|25|update_ota_lite|base/update/ota_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com| | |SIG_BasicSoftwareService|
+|25|update_ota_lite|base/update/ota_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/hughes802|h.hu@huawei.com |SIG_BasicSoftwareService|
 |26|build_lite|build/lite|https://gitee.com/anguanglin|anguanglin@huawei.com|https://gitee.com/chenmudan|chenmudan@huawei.com|SIG_BuildSystem|
 |27|developtools_packing_tool|developtools/packing_tool|https://gitee.com/autumn330|hw.liuwei@huawei.com| | |SIG_ApplicationFramework|
 |28|device_hisilicon_build|device/hisilicon/build|https://gitee.com/yuanwhong|yuanwenhong@hisilicon.com|https://gitee.com/helsingchen|helsing.chen@hisilicon.com|SIG_DriverFramework|
@@ -134,10 +134,10 @@
 |132|telephony_core_service|base/telephony/core_service|https://gitee.com/ohos-lsw|lishiwei6@huawei.com| | |SIG_SoftBus|
 |133|telephony_sms_mms|base/telephony/sms_mms|https://gitee.com/xautosoft|zhuwenchao@huawei.com| | |SIG_SoftBus|
 |134|telephony_state_registry|base/telephony/state_registry|https://gitee.com/hwlitao|litao25@huawei.com| | |SIG_SoftBus|
-|135|update_update_app|base/update/update_app|https://gitee.com/ailorna|hehuan1@huawei.com| | |SIG_BasicSoftwareService|
-|136|update_packaging_tools|base/update/packaging_tools|https://gitee.com/ailorna|hehuan1@huawei.com| | |SIG_BasicSoftwareService|
-|137|update_updater|base/update/updater|https://gitee.com/ailorna|hehuan1@huawei.com| | |SIG_BasicSoftwareService|
-|138|update_updateservice|base/update/updateservice|https://gitee.com/ailorna|hehuan1@huawei.com| | |SIG_BasicSoftwareService|
+|135|update_update_app|base/update/update_app|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802 |h.hu@huawei.com |SIG_BasicSoftwareService|
+|136|update_packaging_tools|base/update/packaging_tools|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802 |h.hu@huawei.com |SIG_BasicSoftwareService|
+|137|update_updater|base/update/updater|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802 |h.hu@huawei.com |SIG_BasicSoftwareService|
+|138|update_updateservice|base/update/updateservice|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802 |h.hu@huawei.com |SIG_BasicSoftwareService|
 |139|build|build|https://gitee.com/anguanglin|anguanglin@huawei.com|https://gitee.com/chenmudan|chenmudan@huawei.com|SIG_BuildSystem|
 |140|developtools_bytrace|developtools/bytrace|https://gitee.com/leizhenzang|zangleizhen@huawei.com|https://gitee.com/filer000|zhangxianfeng7@huawei.com|SIG_R&DToolChain|
 |141|developtools_hdc|developtools/hdc|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/zhaifenghw|zhaifeng@huawei.com|SIG_R&DToolChain|
@@ -171,7 +171,7 @@
 |169|third_party_abseil-cpp|third_party/abseil-cpp|https://gitee.com/leizhenzang|zangleizhen@huawei.com|https://gitee.com/filer000|zhangxianfeng7@huawei.com|SIG_R&DToolChain|
 |170|third_party_boost|third_party/boost|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
 |171|third_party_boringssl|third_party/boringssl|https://gitee.com/leizhenzang|zangleizhen@huawei.com|https://gitee.com/filer000|zhangxianfeng7@huawei.com|SIG_R&DToolChain|
-|172|third_party_bzip2|third_party/bzip2|https://gitee.com/ailorna|hehuan1@huawei.com| | |SIG_BasicSoftwareService|
+|172|third_party_bzip2|third_party/bzip2|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802 |h.hu@huawei.com |SIG_BasicSoftwareService|
 |173|third_party_cares|third_party/cares|https://gitee.com/leizhenzang|zangleizhen@huawei.com|https://gitee.com/filer000|zhangxianfeng7@huawei.com|SIG_R&DToolChain|
 |174|third_party_css-what|third_party/css-what|https://gitee.com/davidwulanxi|wuyonghui9@huawei.com|https://gitee.com/shiyu_huang|huangshiyu1@huawei.com|SIG_ApplicationFramework|
 |175|third_party_eudev|third_party/eudev|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_GraphicsandMedia|
@@ -197,7 +197,7 @@
 |195|third_party_libuv|third_party/libuv|https://gitee.com/davidwulanxi|wuyonghui9@huawei.com|https://gitee.com/shiyu_huang <br> https://gitee.com/zhanghaibo0|huangshiyu1@huawei.com <br> zhanghaibo0@huawei.com|SIG_ApplicationFramework|
 |196|third_party_libxkbcommon|third_party/libxkbcommon|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_GraphicsandMedia|
 |197|third_party_libxml2|third_party/libxml2|https://gitee.com/zhuxiang6|zhuxiang6@huawei.com| | |SIG_ApplicationFramework|
-|198|third_party_lz4|third_party/lz4|https://gitee.com/ailorna|hehuan1@huawei.com| | |SIG_BasicSoftwareService|
+|198|third_party_lz4|third_party/lz4|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802 |h.hu@huawei.com |SIG_BasicSoftwareService|
 |199|third_party_markupsafe|third_party/markupsafe|https://gitee.com/anguanglin|anguanglin@huawei.com|https://gitee.com/chenmudan|chenmudan@huawei.com|SIG_BuildSystem|
 |200|third_party_mingw-w64|third_party/mingw-w64|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
 |201|third_party_mtdev|third_party/mtdev|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_GraphicsandMedia|
