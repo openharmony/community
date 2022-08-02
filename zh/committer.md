@@ -26,7 +26,7 @@
 |24|startup_syspara_lite|base/startup/syspara_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
 |25|update_ota_lite|base/update/ota_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/hughes802|h.hu@huawei.com |SIG_BasicSoftwareService|
 |26|build_lite|build/lite|https://gitee.com/anguanglin|anguanglin@huawei.com|https://gitee.com/chenmudan|chenmudan@huawei.com|SIG_BuildSystem|
-|27|developtools_packing_tool|developtools/packing_tool|https://gitee.com/autumn330|hw.liuwei@huawei.com| | |SIG_ApplicationFramework|
+|27|developtools_packing_tool|developtools/packing_tool|https://gitee.com/autumn330|hw.liuwei@huawei.com|https://gitee.com/changzheng6|hanfeng6@huawei.com|SIG_ApplicationFramework|
 |28|device_hisilicon_build|device/hisilicon/build|https://gitee.com/yuanwhong|yuanwenhong@hisilicon.com|https://gitee.com/helsingchen|helsing.chen@hisilicon.com|SIG_DriverFramework|
 |29|device_hisilicon_drivers|device/hisilicon/drivers|https://gitee.com/yuanwhong|yuanwenhong@hisilicon.com|https://gitee.com/helsingchen|helsing.chen@hisilicon.com|SIG_DriverFramework|
 |30|device_hisilicon_hardware|device/hisilicon/hardware|https://gitee.com/yuanwhong|yuanwenhong@hisilicon.com|https://gitee.com/helsingchen|helsing.chen@hisilicon.com|SIG_DriverFramework|
@@ -46,7 +46,7 @@
 |44|ability_ability_lite|foundation/ability/ability_lite|https://gitee.com/autumn330|hw.liuwei@huawei.com| | |SIG_ApplicationFramework|
 |45|arkui_ace_engine_lite|foundation/arkui/ace_engine_lite|https://gitee.com/borne|bo.lu@huawei.com|https://gitee.com/crazyracing0726|wangjiongfeng@huawei.com|SIG_ApplicationFramework|
 |46|ai_engine|foundation/ai/engine|https://gitee.com/hada__lee|lifu2@huawei.com|https://gitee.com/pamulee|lijunpeng4@huawei.com|SIG_AI|
-|47|bundlemanager_bundle_framework_lite|foundation/bundlemanager/bundle_framework_lite|https://gitee.com/autumn330|hw.liuwei@huawei.com| | |SIG_ApplicationFramework|
+|47|bundlemanager_bundle_framework_lite|foundation/bundlemanager/bundle_framework_lite|https://gitee.com/autumn330|hw.liuwei@huawei.com|https://gitee.com/changzheng6|hanfeng6@huawei.com|SIG_ApplicationFramework|
 |48|communication_ipc_lite|foundation/communication/ipc_lite|https://gitee.com/Xuyongpan|xuyongpan@huawei.com|https://gitee.com/Xi_Yuhao <br> https://gitee.com/maerlii|xiyuhao@huawei.com <br> maerli@huawei.com|SIG_SoftBus|
 |49|communication_wifi_aware|foundation/communication/wifi_aware|https://gitee.com/Xuyongpan|xuyongpan@huawei.com|https://gitee.com/yinyouzhan|yinyouzhan@huawei.com|SIG_SoftBus|
 |50|communication_wifi_lite|foundation/communication/wifi_lite|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/zf0719|hw.zhangfeng@huawei.com|SIG_SoftBus|
@@ -104,7 +104,7 @@
 |102|third_party_toybox|third_party/toybox|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/JerryH1011 <br> https://gitee.com/leonchan5|huangjieliang@huawei.com <br> chenwei26@huawei.com|SIG_Kernel|
 |103|third_party_unity|third_party/unity|https://gitee.com/buranfanchen|wangjuntao.wang@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test|
 |104|third_party_wpa_supplicant|third_party/wpa_supplicant|https://gitee.com/rain_myf|maoyufeng3@huawei.com| | |SIG_SoftBus|
-|105|third_party_zlib|third_party/zlib|https://gitee.com/autumn330|hw.liuwei@huawei.com| | |SIG_ApplicationFramework|
+|105|third_party_zlib|third_party/zlib|https://gitee.com/autumn330|hw.liuwei@huawei.com|https://gitee.com/changzheng6|hanfeng6@huawei.com|SIG_ApplicationFramework|
 |106|commonlibrary_utils_lite|commonlibrary/utils_lite|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
 |107|vendor_hisilicon|vendor/hisilicon|https://gitee.com/yuanwhong|yuanwenhong@hisilicon.com|https://gitee.com/helsingchen|helsing.chen@hisilicon.com|SIG_DriverFramework|
 |108|vendor_huawei_hdf|vendor/huawei/hdf|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau|liufeihu@huawei.com|SIG_DriverFramework|
