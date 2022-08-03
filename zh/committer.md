@@ -244,8 +244,8 @@
 |242|kernel_linux_build|kernel/linux/build|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
 |243|kernel_linux_4.19|kernel/linux/linux-4.19|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
 |244|kernel_linux_5.10|kernel/linux/linux-5.10|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
-|245|developtools_ace-js2bundle|developtools/ace-js2bundle|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework|
-|246|developtools_ace-ets2bundle|developtools/ace-ets2bundle|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework|
+|245|developtools_ace-js2bundle|developtools/ace_js2bundle|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework|
+|246|developtools_ace-ets2bundle|developtools/ace_ets2bundle|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework|
 |247|third_party_weex-loader|third_party/weex-loader|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework|
 |248|third_party_parse5|third_party/parse5|https://gitee.com/lihong67|lihong67@huawei.com|https://gitee.com/chengongpingde|chengongping@huawei.com|SIG_ApplicationFramework|
 |249|third_party_glfw|third_party/glfw|https://gitee.com/laigerendaqiu|lihao71@huawei.com|https://gitee.com/seaside_wu|wuhaibin5@huawei.com|SIG_ApplicationFramework|
