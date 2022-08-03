@@ -67,8 +67,8 @@ ApplicationFramework SIG技术栈范围全景图如下图所示：
   - developtools_packing_tool:https://gitee.com/openharmony/developtools_packing_tool
   - bundlemanager_bundle_framework:https://gitee.com/openharmony/bundlemanager_bundle_framework
   - bundlemanager_bundle_framework_lite:https://gitee.com/openharmony/bundlemanager_bundle_framework_lite
-  - developtools_ace-js2bundle:https://gitee.com/openharmony/developtools_ace-js2bundle
-  - developtools_ace-ets2bundle:https://gitee.com/openharmony/developtools_ace-ets2bundle
+  - developtools_ace_js2bundle:https://gitee.com/openharmony/developtools_ace_js2bundle
+  - developtools_ace_ets2bundle:https://gitee.com/openharmony/developtools_ace_ets2bundle
   - third_party_weex-loader:https://gitee.com/openharmony/third_party_weex-loader
   - third_party_parse5:https://gitee.com/openharmony/third_party_parse5
   - third_party_glfw:https://gitee.com/openharmony/third_party_glfw

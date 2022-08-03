@@ -797,8 +797,8 @@
         {
             "sig-name": "sig-appframework",
             "projects": [
-                "https://gitee.com/openharmony/developtools_ace-js2bundle",
-                "https://gitee.com/openharmony/developtools_ace-ets2bundle",
+                "https://gitee.com/openharmony/developtools_ace_js2bundle",
+                "https://gitee.com/openharmony/developtools_ace_ets2bundle",
                 "https://gitee.com/openharmony/third_party_weex-loader",
                 "https://gitee.com/openharmony/third_party_parse5",
                 "https://gitee.com/openharmony/third_party_glfw",
@@ -808,8 +808,8 @@
                 "https://gitee.com/openharmony/web_webview"
             ],
             "project-path": [
-                "developtools/ace-js2bundle",
-                "developtools/ace-ets2bundle",
+                "developtools/ace_js2bundle",
+                "developtools/ace_ets2bundle",
                 "third_party/weex-loader",
                 "third_party/parse5",
                 "third_party/glfw",
