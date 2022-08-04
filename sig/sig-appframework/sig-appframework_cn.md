@@ -82,6 +82,8 @@ ApplicationFramework SIG技术栈范围全景图如下图所示：
   - global_resource_management:https://gitee.com/openharmony/global_resource_management
   - global_resource_management_lite:https://gitee.com/openharmony/global_resource_management_lite
   - utils_system_resources:https://gitee.com/openharmony/utils_system_resources
+  - global_i18n:https://gitee.com/openharmony/global_i18n
+  - global_i18n_lite:https://gitee.com/openharmony/global_i18n_lite
 
 ## SIG组成员
 
