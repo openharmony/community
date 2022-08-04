@@ -20,7 +20,11 @@
 |分布式任务调度子系统|提供分布式任务调度管理能力|
 |账号子系统|提供系统的账号管理能力|
 |无障碍软件服务子系统|提供无障碍软件服务能力|
-|Misc软件服务子系统|提供杂散系统服务|
+|时间子系统|提供时间时区定时器能力|
+|输入法子系统|提供输入法框架及管理服务|
+|主题框架子系统|提供壁纸框架，锁屏管理服务|
+|打印子系统|提供打印能力|
+|上传下载子系统|提供文件上传下载能力|
 |定制子系统|提供系统定制化能力，包括基于配置层级的定制框架、企业环境下的设备管理和定制化设置等|
 
 ## 代码仓
@@ -68,14 +72,12 @@
 |升级服务子系统|[update_updateservice](https://gitee.com/openharmony/update_updateservice)|base/update/updateservice|[ailorna](https://gitee.com/ailorna)|
 |升级服务子系统|[third_party_bzip2](https://gitee.com/openharmony/third_party_bzip2)|third_party/bzip2|[ailorna](https://gitee.com/ailorna)|
 |升级服务子系统|[third_party_lz4](https://gitee.com/openharmony/third_party_lz4)|third_party/lz4|[ailorna](https://gitee.com/ailorna)|
-|Misc软件服务子系统|[miscservices_time](https://gitee.com/openharmony/miscservices_time)|base/miscservices/time|[litao33](https://gitee.com/litao33)|
-|Misc软件服务子系统|[miscservices_inputmethod](https://gitee.com/openharmony/miscservices_inputmethod)|base/miscservices/inputmethod|[demon](https://gitee.com/zhouyongfei)|
-|Misc软件服务子系统|[miscservices_wallpaper](https://gitee.com/openharmony-sig/miscservices_wallpaper)|base/miscservices/wallpaper|[litao33](https://gitee.com/litao33)|
-|Misc软件服务子系统|[miscservices_screensaver](https://gitee.com/openharmony-sig/miscservices_screensaver)|base/miscservices/screensaver|[litao33](https://gitee.com/litao33)|
-|Misc软件服务子系统|[miscservices_screenlock](https://gitee.com/openharmony-sig/miscservices_screenlock)|base/miscservices/screenlock|[litao33](https://gitee.com/litao33)|
-|Misc软件服务子系统|[miscservices_print](https://gitee.com/openharmony-sig/miscservices_print)|base/miscservices/print|[litao33](https://gitee.com/litao33)|
-|Misc软件服务子系统|[miscservices_pasteboard](https://gitee.com/openharmony-sig/miscservices_pasteboard)|base/miscservices/pasteboard|[litao33](https://gitee.com/litao33)|
-|Misc软件服务子系统|[miscservices_download](https://gitee.com/openharmony-sig/miscservices_download)|base/miscservices/download|[litao33](https://gitee.com/litao33)|
+|时间子系统|[time_time_service](https://gitee.com/openharmony/time_time_service)|base/time/time_service|[mangtsang](https://gitee.com/mangtsang)|
+|输入法子系统|[inputmethod_imf](https://gitee.com/openharmony/inputmethod_imf)|base/inputmethod/imf|[illybyy](https://gitee.com/illybyy)|
+|主题框架子系统|[theme_wallpaper_mgr](https://gitee.com/openharmony/theme_wallpaper_mgr)|base/theme/wallpaper_mgr|[illybyy](https://gitee.com/illybyy)|
+|主题框架子系统|[theme_screenlock_mgr](https://gitee.com/openharmony/theme_screenlock_mgr)|base/theme/screenlock_mgr|[illybyy](https://gitee.com/illybyy)|
+|打印子系统|[print_print_fwk](https://gitee.com/openharmony-sig/print_print_fwk)|base/print/print_fwk|[litao33](https://gitee.com/litao33)|
+|上传下载子系统|[request_request](https://gitee.com/openharmony/request_request)|base/request/request|[liuwenhui_ddmp](https://gitee.com/liuwenhui_ddmp)|
 |账号子系统|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
 |账号子系统|[account_app_account](https://gitee.com/openharmony-sig/account_app_account)|base/account/app_account|[verystone](https://gitee.com/verystone)|
 |无障碍软件服务子系统|[accessibility](https://gitee.com/openharmony/accessibility)|base/accessibility|[dubingjian](https://gitee.com/bj1010)|
@@ -110,7 +112,11 @@
 |DFX子系统|[shenchenkai](https://gitee.com/shenchenkai)|[mail](shenchenkai@huawei.com)|
 |DFX子系统|[guochuanqi](https://gitee.com/guochuanqi)|[mail](guochuanqi@huawei.com)|
 |DFX子系统|[qidechun](https://gitee.com/pcwlno1)|[mail](qidechun@huawei.com)|
-|Misc软件服务子系统|[litao33](https://gitee.com/litao33)|[mail](litao33@huawei.com)|
+|时间子系统|[mangtsang](https://gitee.com/mangtsang)|[mail](mang.tsang@huawei.com)|
+|输入法子系统|[illybyy](https://gitee.com/illybyy)|[mail](baoyayong@huawei.com)|
+|主题框架子系统|[illybyy](https://gitee.com/illybyy)|[mail](baoyayong@huawei.com)|
+|打印子系统|[litao33](https://gitee.com/litao33)|[mail](litao33@huawei.com)|
+|上传下载子系统|[liuwenhui_ddmp](https://gitee.com/liuwenhui_ddmp)|[mail](anna.liuwenhui@huawei.com)|
 |分布式任务调度子系统|[lijiarun](https://gitee.com/lijiarun)|[mail](lijiarun@huawei.com)|
 |启动恢复子系统|[handyohos](https://gitee.com/handyohos)|[mail](zhangxiaotian@huawei.com)|
 |启动恢复子系统|[derek520](https://gitee.com/derek520)|[mail](wtweitao.wei@huawei.com)|

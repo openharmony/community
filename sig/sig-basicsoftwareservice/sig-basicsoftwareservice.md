@@ -20,6 +20,11 @@ Basic Software Services includes the following sub-systems:
 |Distributed Scheduling System|Scheduling Abilities in Open Harmony distributed network|
 |Account Management System|Manage user accounts for Open Harmony|
 |Barrier Free System|Provide barrier free common capabilities for Open Harmony|
+|Time System|Provide time,timezone and timer capability|
+|Input Method System|Provide input method framework and the management service|
+|Theme System|Provide wallpaper framework and the lockscreen management service|
+|Print System|Provide printing capability|
+|Request System|Provide file upload and download capabilities|
 |Miscellaneous Software System|Provide some miscellaneous services for Open Harmony|
 
 ## The repositories
@@ -67,14 +72,12 @@ Basic Software Services includes the following sub-systems:
 |Update|[update_updateservice](https://gitee.com/openharmony/update_updateservice)|base/update/updateservice|[ailorna](https://gitee.com/ailorna)|
 |Update|[third_party_bzip2](https://gitee.com/openharmony/third_party_bzip2)|third_party/bzip2|[ailorna](https://gitee.com/ailorna)|
 |Update|[third_party_lz4](https://gitee.com/openharmony/third_party_lz4)|third_party/lz4|[ailorna](https://gitee.com/ailorna)|
-|MiscServices|[miscservices_time](https://gitee.com/openharmony/miscservices_time)|base/miscservices/time|[litao33](https://gitee.com/litao33)|
-|MiscServices|[miscservices_inputmethod](https://gitee.com/openharmony/miscservices_inputmethod)|base/miscservices/inputmethod|[demon](https://gitee.com/zhouyongfei)|
-|MiscServices|[miscservices_wallpaper](https://gitee.com/openharmony-sig/miscservices_wallpaper)|base/miscservices/wallpaper|[litao33](https://gitee.com/litao33)|
-|MiscServices|[miscservices_screensaver](https://gitee.com/openharmony-sig/miscservices_screensaver)|base/miscservices/screensaver|[litao33](https://gitee.com/litao33)|
-|MiscServices|[miscservices_screenlock](https://gitee.com/openharmony-sig/miscservices_screenlock)|base/miscservices/screenlock|[litao33](https://gitee.com/litao33)|
-|MiscServices|[miscservices_print](https://gitee.com/openharmony-sig/miscservices_print)|base/miscservices/print|[litao33](https://gitee.com/litao33)|
-|MiscServices|[miscservices_pasteboard](https://gitee.com/openharmony-sig/miscservices_pasteboard)|base/miscservices/pasteboard|[litao33](https://gitee.com/litao33)|
-|MiscServices|[miscservices_download](https://gitee.com/openharmony-sig/miscservices_download)|base/miscservices/download|[litao33](https://gitee.com/litao33)|
+|Time|[time_time_service](https://gitee.com/openharmony/time_time_service)|base/time/time_service|[mangtsang](https://gitee.com/mangtsang)|
+|InputMethod|[inputmethod_imf](https://gitee.com/openharmony/inputmethod_imf)|base/inputmethod/imf|[illybyy](https://gitee.com/illybyy)|
+|Theme|[theme_wallpaper_mgr](https://gitee.com/openharmony/theme_wallpaper_mgr)|base/theme/wallpaper_mgr|[illybyy](https://gitee.com/illybyy)|
+|Theme|[theme_screenlock_mgr](https://gitee.com/openharmony/theme_screenlock_mgr)|base/theme/screenlock_mgr|[illybyy](https://gitee.com/illybyy)|
+|Print|[print_print_fwk](https://gitee.com/openharmony-sig/print_print_fwk)|base/print/print_fwk|[litao33](https://gitee.com/litao33)|
+|Request|[request_request](https://gitee.com/openharmony/request_request)|base/request/request|[liuwenhui_ddmp](https://gitee.com/liuwenhui_ddmp)|
 |Account|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
 |Account|[account_app_account](https://gitee.com/openharmony-sig/account_app_account)|base/account/app_account|[verystone](https://gitee.com/verystone)|
 |accessibility|[accessibility](https://gitee.com/openharmony/accessibility)|base/accessibility|[dubingjian](https://gitee.com/bj1010)|
@@ -107,7 +110,11 @@ Basic Software Services includes the following sub-systems:
 |HiviewDFX|[shenchenkai](https://gitee.com/shenchenkai)|[mail](shenchenkai@huawei.com)|
 |HiviewDFX|[guochuanqi](https://gitee.com/guochuanqi)|[mail](guochuanqi@huawei.com)|
 |HiviewDFX|[qidechun](https://gitee.com/pcwlno1)|[mail](qidechun@huawei.com)|
-|MiscServices|[litao3](https://gitee.com/litao33)|[mail](litao33@huawei.com)|
+|Time|[mangtsang](https://gitee.com/mangtsang)|[mail](mang.tsang@huawei.com)|
+|InputMethod|[illybyy](https://gitee.com/illybyy)|[mail](baoyayong@huawei.com)|
+|Theme|[illybyy](https://gitee.com/illybyy)|[mail](baoyayong@huawei.com)|
+|Print|[litao33](https://gitee.com/litao33)|[mail](litao33@huawei.com)|
+|Request|[liuwenhui_ddmp](https://gitee.com/liuwenhui_ddmp)|[mail](anna.liuwenhui@huawei.com)|
 |DistributedSchedule|[lijiarun](https://gitee.com/lijiarun)|[mail](lijiarun@huawei.com)|
 |StartUp|[handyohos](https://gitee.com/handyohos)|[mail](zhangxiaotian@huawei.com)|
 |StartUp|[derek520](https://gitee.com/derek520)|[mail](wtweitao.wei@huawei.com)|

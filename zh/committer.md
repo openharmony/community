@@ -122,7 +122,7 @@
 |120|hiviewdfx_hilog|base/hiviewdfx/hilog|https://gitee.com/yaomanhai|yaomanhai@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|
 |121|hiviewdfx_hisysevent|base/hiviewdfx/hisysevent|https://gitee.com/yaomanhai|yaomanhai@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|
 |122|hiviewdfx_hiview|base/hiviewdfx/hiview|https://gitee.com/maplestorys|zengzhi5@huawei.com|https://gitee.com/guochuanqi|guochuanqi@huawei.com|SIG_BasicSoftwareService|
-|123|miscservices_time|base/miscservices/time|https://gitee.com/autumn330|hw.liuwei@huawei.com| | |SIG_BasicSoftwareService|
+|123|time_time_service|base/time/time_service|https://gitee.com/mangtsang|mang.tsang@huawei.com|https://gitee.com/illybyy|baoyayong@huawei.com|SIG_BasicSoftwareService|
 |124|notification_common_event_service|base/notification/common_event_service|https://gitee.com/autumn330|hw.liuwei@huawei.com|https://gitee.com/jayleehw|liqiang121@huawei.com|SIG_BasicSoftwareService|
 |125|powermgr_battery_manager|base/powermgr/battery_manager|https://gitee.com/aqxyjay|zhangchunxin@huawei.com|https://gitee.com/hujun211|hujun211@huawei.com|SIG_DistributedHardwareManagement|
 |126|powermgr_display_manager|base/powermgr/display_manager|https://gitee.com/aqxyjay|zhangchunxin@huawei.com|https://gitee.com/hujun211|hujun211@huawei.com|SIG_DistributedHardwareManagement|
@@ -274,7 +274,7 @@
 |272|ability_form_fwk|foundation/ability/form_fwk|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/uniquexch <br> https://gitee.com/jayleehw <br> https://gitee.com/zhongjianfei <br> https://gitee.com/ccllee|xuchenghua09@huawei.com <br> liqiang121@huawei.com <br> zhongjianfei@huawei.com <br> caochunlei1@huawei.com|SIG_ApplicationFramework|
 |273|ability_idl_tool|foundation/ability/idl_tool|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/uniquexch <br> https://gitee.com/jayleehw <br> https://gitee.com/zhongjianfei|xuchenghua09@huawei.com <br> liqiang121@huawei.com <br> zhongjianfei@huawei.com|SIG_ApplicationFramework|
 |274|communication_bluetooth|foundation/communication/bluetooth|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/xujiang181|jiang.xu@huawei.com|SIG_SoftBus|
-|275|miscservices_inputmethod|base/miscservices/inputmethod|https://gitee.com/illybyy|baoyayong@huawei.com| | |SIG_BasicSoftwareService|
+|275|inputmethod_imf|base/inputmethod/imf|https://gitee.com/illybyy|baoyayong@huawei.com|https://gitee.com/liuwenhui_ddmp|anna.liuwenhui@huawei.com|SIG_BasicSoftwareService|
 |276|notification_distributed_notification_service|base/notification/distributed_notification_service|https://gitee.com/autumn330|hw.liuwei@huawei.com|https://gitee.com/jayleehw|liqiang121@huawei.com|SIG_BasicSoftwareService|
 |277|sensors_start|base/sensors/start|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
 |278|third_party_selinux|third_party/selinux|https://gitee.com/hu-huifeng|huhuifeng@huawei.com|https://gitee.com/shell_way <br> https://gitee.com/freenull <br> https://gitee.com/jiang-xiaofeng|qinfd@superred.com.cn <br> xieb@superred.com.cn <br> jiangxiaofeng8@huawei.com|SIG_Security|
@@ -404,3 +404,8 @@
 |402|third_party_mimalloc|third_party/mimalloc|https://gitee.com/cbraham|suncai1@huawei.com|https://gitee.com/wang2002xu|wangxu44@huawei.com|SIG_Kernel|
 |403|distributeddatamgr_preferences|foundation/distributeddatamgr/preferences|https://gitee.com/lugitee|hanlu1@huawei.com|https://gitee.com/mangtsang|mang.tsang@huawei.com|SIG_DataManagement|
 |404|distributeddatamgr_kv_store|foundation/distributeddatamgr/kv_store|https://gitee.com/widecode|wanghancai@huawei.com|https://gitee.com/lugitee|hanlu1@huawei.com|SIG_DataManagement|
+|405|distributeddatamgr_pasteboard|foundation/distributeddatamgr/pasteboard|https://gitee.com/illybyy|baoyayong@huawei.com| | |SIG_DataManagement|
+|406|request_request|base/request/request|https://gitee.com/liuwenhui_ddmp|anna.liuwenhui@huawei.com|https://gitee.com/illybyy|baoyayong@huawei.com|SIG_BasicSoftwareService|
+|407|theme_screenlock_mgr|base/theme/screenlock_mgr|https://gitee.com/illybyy|baoyayong@huawei.com| | |SIG_BasicSoftwareService|
+|408|theme_wallpaper_mgr|base/theme/wallpaper_mgr|https://gitee.com/illybyy|baoyayong@huawei.com| | |SIG_BasicSoftwareService|
+
