@@ -31,7 +31,7 @@
   - distributeddatamgr_kv_store：https://gitee.com/openharmony/distributeddatamgr_kv_store
   - distributeddatamgr_datamgr_service：https://gitee.com/openharmony/distributeddatamgr_datamgr_service
   - distributeddatamgr_data_object：https://gitee.com/openharmony/distributeddatamgr_data_object
-  - miscservices_pasteboard：https://gitee.com/openharmony/miscservices_pasteboard
+  - distributeddatamgr_pasteboard：https://gitee.com/openharmony/distributeddatamgr_pasteboard
 
 ## SIG组成员
 
