@@ -115,7 +115,7 @@
 |113|applications_settings|applications/standard/settings|https://gitee.com/lv-zhongwei|lvzhongwei@huawei.com|https://gitee.com/wshj-huangjian|huangjian68@huawei.com|SIG_SystemApplication|
 |114|applications_systemui|applications/standard/systemui|https://gitee.com/lv-zhongwei|lvzhongwei@huawei.com|https://gitee.com/lin-shuai5|linshuai5@huawei.com|SIG_SystemApplication|
 |115|account_os_account|base/account/os_account|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/verystone|xudaqing@huawei.com|SIG_BasicSoftwareService|
-|116|global_i18n_standard|base/global/i18n_standard|https://gitee.com/mengjingzhimo|luoboming@huawei.com| | |SIG_ApplicationFramework|
+|116|global_i18n|base/global/i18n|https://gitee.com/mengjingzhimo|luoboming@huawei.com| | |SIG_ApplicationFramework|
 |117|global_resource_management|base/global/resource_management|https://gitee.com/zhuxiang6|zhuxiang6@huawei.com| | |SIG_ApplicationFramework|
 |118|hiviewdfx_faultloggerd|base/hiviewdfx/faultloggerd|https://gitee.com/maplestorys|zengzhi5@huawei.com|https://gitee.com/stesen|stesen.ma@huawei.com|SIG_BasicSoftwareService|
 |119|hiviewdfx_hiappevent|base/hiviewdfx/hiappevent|https://gitee.com/yaomanhai|yaomanhai@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|

@@ -903,7 +903,9 @@
                 "https://gitee.com/openharmony/bundlemanager_bundle_framework_lite",
                 "https://gitee.com/openharmony/global_resource_management",
                 "https://gitee.com/openharmony/global_resource_management_lite",
-                "https://gitee.com/openharmony/utils_system_resources"
+                "https://gitee.com/openharmony/utils_system_resources",
+                "https://gitee.com/openharmony/global_i18n",
+                "https://gitee.com/openharmony/global_i18n_lite"
             ],
             "project-path": [
                 "foundation/arkui/ace_engine",
@@ -920,7 +922,9 @@
                 "foundation/bundlemanager/bundle_framework_lite",
                 "base/global/resource_management",
                 "base/global/global_resource_management_lite",
-                "utils/system_resources"
+                "utils/system_resources",
+                "base/global/i18n",
+                "base/global/i18n_lite"
             ]
         },
         {
