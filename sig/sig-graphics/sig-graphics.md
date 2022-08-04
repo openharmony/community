@@ -49,8 +49,8 @@ OpenHarmony Graphics and windowmanager related design and review.
 ### Meetings
  - Meeting time：Every two weeks' Friday 14:30-15:15
  - Meeting application: [OpenHarmony Sig-Graphics Meeting Proposal](https://shimo.im/sheets/m4kMLLgagotBK9qD/MODOC)
- - Meeting link: [Welink会议] ID:982145319
- - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
+ - Meeting link: [Welink Cloud Meeting] ID:942966939
+ - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/graphics_dev@openharmony.io) mailing list graphics_dev@openharmony.io for the meeting link
 
 ### Contact (optional)
 
