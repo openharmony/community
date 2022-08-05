@@ -89,6 +89,7 @@ OpenHarmony ApplicationFramework technology stack scope is shown in the followin
   - utils_system_resources:https://gitee.com/openharmony/utils_system_resources
   - global_i18n:https://gitee.com/openharmony/global_i18n
   - global_i18n_lite:https://gitee.com/openharmony/global_i18n_lite
+  - developtools_global_resource_tool:https://gitee.com/openharmony/developtools_global_resource_tool
 
 ## SIG Members
 
