@@ -159,7 +159,7 @@
 |157|multimedia_audio_framework|foundation/multimedia/audio_framework|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com|https://gitee.com/anurup|anurup.m@huawei.com|SIG_Media|
 |158|multimedia_camera_standard|foundation/multimedia/camera_standard|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com|https://gitee.com/srmurali|muralidhar.s.r@huawei.com|SIG_Media|
 |159|multimedia_histreamer|foundation/multimedia/histreamer|https://gitee.com/guodongchen|chenguodong@huawei.com|https://gitee.com/yiweidengdai|wangxiaokai1@huawei.com|SIG_Media|
-|160|multimedia_player_framework|foundation/multimedia/player_framework|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com|https://gitee.com/sharpshooter_t|taojun13@huawei.com|SIG_Media|
+|160|multimedia_player_framework|foundation/multimedia/player_framework|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com|https://gitee.com/sharpshooter_t <br> https://gitee.com/xxb-wzy|taojun13@huawei.com <br> xuxiaobo5@huawei.com|SIG_Media|
 |161|multimodalinput_input|foundation/multimodalinput/input|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_GraphicsandMedia|
 |162|interface_sdk-js|interface/sdk-js|https://gitee.com/karl-z|zhangyongzhi@huawei.com|https://gitee.com/im-off-this-week <br> https://gitee.com/wanchengzhen <br> https://gitee.com/wangzaishang <br> https://gitee.com/huawei_qiangbo <br> https://gitee.com/xiadengping|rengelin@huawei.com <br> wanchengzhen@huawei.com <br> wangzaishang@huawei.com <br> qiangbo2@huawei.com <br> xiadengping@huawei.com|SIG_ApplicationFramework|
 |163|kernel_linux|kernel/linux-4.19|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/gail92|qiuge@huawei.com|SIG_Kernel|
