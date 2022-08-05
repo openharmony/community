@@ -363,7 +363,7 @@
 |361|third_party_chromium|third_party/chromium|https://gitee.com/bigpumpkin|chenzhennan@huawei.com|https://gitee.com/leezheng_hz|lizheng@huawei.com|SIG_ApplicationFramework|
 |362|third_party_cef|third_party/cef|https://gitee.com/bigpumpkin|chenzhennan@huawei.com|https://gitee.com/leezheng_hz|lizheng@huawei.com|SIG_ApplicationFramework|
 |363|web_webview|base/web/webview|https://gitee.com/bigpumpkin|chenzhennan@huawei.com|https://gitee.com/leezheng_hz|lizheng@huawei.com|SIG_ApplicationFramework|
-|364|global_resource_tool|developtools/global_resource_tool|https://gitee.com/zhuxiang6|zhuxiang6@huawei.com|https://gitee.com/zhengbin5|zhengbin5@huawei.com|SIG_ApplicationFramework|
+|364|developtools_global_resource_tool|developtools/global_resource_tool|https://gitee.com/zhuxiang6|zhuxiang6@huawei.com|https://gitee.com/zhengbin5|zhengbin5@huawei.com|SIG_ApplicationFramework|
 |365|base_location|base/location|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/liu-binjun|liubinjun@huawei.com|SIG_SoftBus|
 |366|sensors_medical_sensor|base/sensors/medical_sensor|https://gitee.com/chiptest|guocs@chipsea.com|https://gitee.com/371931794|wuhb30061@chipsea.com|SIG_DistributedHardwareManagement|
 |367|wukong|test/wukong|https://gitee.com/gaoxi785|gaoxi785@huawei.com|https://gitee.com/currydavids|daiweiqi@huawei.com|SIG_Test|
