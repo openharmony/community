@@ -16,7 +16,7 @@
 
 ### 2.1 晋升标准简介 :
 
-- 2.1.1 如何晋升Committer: 优秀的OpenHarmony 社区贡献者，经现任PMC/Committer提名和投票后，可以成为OpenHarmony 社区Committer，Committer按照权限可分为Approver审批人和Reviwer审阅人。
+- 2.1.1 如何晋升Committer: 优秀的OpenHarmony 社区贡献者，经现任PMC/Committer提名和投票后，可以成为OpenHarmony 社区Committer，Committer按照权限可分为Approver审批人和Reviewer审阅人。
     - Approver审批人 :
         - 1. OpenHarmony项目贡献至少3个月
         - 2. 至少10个PR的主要审阅人
