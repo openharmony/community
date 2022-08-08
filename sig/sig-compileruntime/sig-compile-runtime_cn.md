@@ -1,12 +1,11 @@
 # SIG_COMPILERUNTIME
-简体中文 | [English](./sig_compileruntime.md)
+简体中文 | [English](./sig-compile-runtime.md)
 
 说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
 ### 工作目标
-- 编译框架开发与维护及编译效率提升，支持多产品、多部件的编译构建。
 - 支持JS/TS语言编译及运行时，打造高性能JS/TS虚拟机。提供基础的JSAPI能力，包括多线程能力，字符串编解码能力，以及URL解析等能力。
 - 基于Clang/LLVM提供C/C++编译构建、调试能力。
 - 提供Musl等基础库支持, 及相关能力演进。
@@ -18,61 +17,84 @@
 - 处理开源社区上的需求、issue、邮件列表和开发问题，闭环周期满足开源社区的SLA要求；
 - 结合评审和开发活动，给予代码质量反馈与指导，促进开源社区代码质量提升。
 
+### 技术栈范围
+- Compiler
+![figures/compileruntime-overview-compiler-cn.png](figures/compileruntime-overview-compiler-cn.png)
+- Runtime
+![figures/compileruntime-overview-runtime-cn.png](figures/compileruntime-overview-runtime-cn.png)
+
 ## 代码仓
-- 代码仓地址：
-  - build_lite: https://gitee.com/openharmony/build_lite
-  - build: https://gitee.com/openharmony/build
-  - js_api_module: https://gitee.com/openharmony/js_api_module
-  - js_sys_module: https://gitee.com/openharmony/js_sys_module
-  - js_util_module: https://gitee.com/openharmony/js_util_module
-  - js_worker_module: https://gitee.com/openharmony/js_worker_module
-  - productdefine_common: https://gitee.com/openharmony/productdefine_common
-  - prebuilts_aosp_libs: https://gitee.com/openharmony/prebuilts_aosp_libs
-  - third_party_gn: https://gitee.com/openharmony/third_party_gn
-  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
+|部件名称|部件功能描述|部件仓名称|
+| ----- | ----------- | --------- |
+|方舟运行时公共库|方舟运行时公共库|arkcompiler_runtime_core|
+|方舟eTS运行时|方舟eTS(兼容JS/TS)运行时|arkcompiler_ets_runtime|
+|方舟eTS编译器|方舟eTS(兼容JS/TS)前端编译器，解析eTS生成abc文件供方舟运行时执行|arkcompiler_ets_frontend|
+|方舟工具链|方舟运行时调试调优工具链|arkcompiler_toolchain|
+|ARM汇编器|ARM汇编器，提供生成ARM汇编的C接口|third_party_vixl|
+|jerryscript|百K级别超轻量级JS引擎，低内存消耗|third_party_jerryscript|
+|quickjs|QuickJS是一个小型并且可嵌入的Javascript引擎，支持ES2020|third_party_quickjs|
+|LLVM|C/C++编译器，包含libcxx，lldb，crt等很多组件|third_party_llvm-project|
+|LLDB MI|Lldb的machine interface，方便IDE使用lldb功能|third_party_lldb-mi|
+|MinGW-w64|GCC，LLVM等编译器的windows 32/64平台运行环境|third_party_mingw-w64|
+|musl|标准C库|third_party_musl|
+|mimalloc|性能优化的内存分配器|third_party_mimalloc|
+|elfio|Elf文件操作工具库|third_party_elfio|
+|miniz|一种无损高效压缩算法库，支持zlib接口|third_party_miniz|
+|eTS工具库|eTS语言函数库；当前主要由 js_sys_module js_util_module js_worker_module js_api_module 四个部分组成|commonlibrary_ets_utils|
+|C工具库|C工具函数库|commonlibrary_c_utils|
+|轻量级系统工具库|轻量级系统所使用的工具函数库|commonlibrary_utils_lite|
+|内存工具库|内存使用和分析相关工具库|utils_memory|
+
+- 代码仓地址:
+  - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
+  - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
+  - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
+  - arkcompiler_toolchain: https://gitee.com/openharmony/arkcompiler_toolchain
+
   - third_party_jerryscript: https://gitee.com/openharmony/third_party_jerryscript
-  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
-  - third_party_mingw-w64: https://gitee.com/openharmony/third_party_mingw-w64
-  - third_party_musl: https://gitee.com/openharmony/third_party_musl
-  - third_party_mimalloc: https://gitee.com/openharmony-sig/third_party_mimalloc
-  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
-  - third_party_python: https://gitee.com/openharmony/third_party_python
   - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
-  - utils: https://gitee.com/openharmony/utils
-  - utils_memory: https://gitee.com/openharmony/utils_memory
-  - utils_native: https://gitee.com/openharmony/utils_native
-  - utils_native_lite: https://gitee.com/openharmony/utils_native_lite
 
   - third_party_llvm-project: https://gitee.com/openharmony-sig/third_party_llvm-project
   - third_party_lldb-mi: https://gitee.com/openharmony-sig/third_party_lldb-mi
-
-  - ark_runtime_core: https://gitee.com/openharmony/ark_runtime_core
-  - ark_js_runtime: https://gitee.com/openharmony/ark_js_runtime
-  - ark_ts2abc: https://gitee.com/openharmony/ark_ts2abc
+  - third_party_mingw-w64: https://gitee.com/openharmony/third_party_mingw-w64
+  - third_party_musl: https://gitee.com/openharmony/third_party_musl
   - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
+
+  - commonlibrary_ets_utils: https://gitee.com/openharmony/commonlibrary_ets_utils
+  - commonlibrary_c_utils: https://gitee.com/openharmony/commonlibrary_c_utils
+  - commonlibrary_utils_lite: https://gitee.com/openharmony/commonlibrary_utils_lite
+  - utils_memory: https://gitee.com/openharmony/utils_memory
+
+- 孵化仓地址:
+  - arkcompiler_runtime_core: https://gitee.com/openharmony-sig/arkcompiler_runtime_core
+  - arkcompiler_ets_runtime: https://gitee.com/openharmony-sig/arkcompiler_ets_runtime
+  - arkcompiler_ets_frontend: https://gitee.com/openharmony-sig/arkcompiler_ets_frontend
+  - third_party_vixl: https://gitee.com/openharmony-sig/third-party-vixl
+  - third_party_elfio: https://gitee.com/openharmony-sig/third_party_elfio
+  - third_party_mimalloc: https://gitee.com/openharmony-sig/third_party_mimalloc
 
 ## SIG组成员
 
 ### Leader
-- @Xingwa (https://gitee.com/wangxing-hw)
-- @huanghuijin (https://gitee.com/huanghuijin)
+- @klooer (https://gitee.com/klooer)
 
-### Committers列表
-- @weichaox (https://gitee.com/weichaox)
-- @jady3356 (https://gitee.com/taiyipei)
-- @Han00000000 (https://gitee.com/Han00000000)
+### Committers
+- @huanghuijin (https://gitee.com/huanghuijin)
 - @wuzhefengh (https://gitee.com/wuzhefengh)
 - @gongjunsong (https://gitee.com/gongjunsong)
 - @sunzhe23 (https://gitee.com/sunzhe23)
 - @weng-changcheng (https://gitee.com/weng-changcheng)
 - @yingguofeng (https://gitee.com/yingguofeng)
+- @xliu-huanwei (https://gitee.com/xliu-huanwei)
 - @flyingwolf (https://gitee.com/flyingwolf)
 - @godmiaozi (https://gitee.com/godmiaozi)
 - @dhy308 (https://gitee.com/dhy308)
 - @pengzhuoli (https://gitee.com/zhuoli72)
+- @JerryH1011 (https://gitee.com/JerryH1011)
+- @dongduResearcher (https://gitee.com/dongduResearcher)
 
 ### 会议
- - 会议时间：双周例会，周一晚上19:00，UTC+8
+ - 会议时间：双周例会，周五14:30，UTC+8
  - 会议申报：[SIG-COMPILERUNTIME Meeting Proposal](https://shimo.im/sheets/cHkjRvDJQtt638y3/MODOC)
  - 会议链接: Welink或其他会议
  - 会议通知: 请订阅邮件列表 dev@openharmony.io 获取会议链接
@@ -81,5 +103,5 @@
 ### 联系方式
 
 - 邮件列表：dev@openharmony.io
-- Zulip群组：https://zulip.openharmony.cn
+- Zulip群组：https://zulip.openharmony.cn (compileRuntime_sig stream)
 - 微信群：NA

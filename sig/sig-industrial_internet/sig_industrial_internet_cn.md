@@ -27,16 +27,23 @@
 
 ## 代码仓
 * 代码仓地址：
-  - 待定
+  - 工业物联网平台：https://gitee.com/openharmony-tpc/talkweb_iiot
+  - 边缘计算平台：https://gitee.com/openharmony-tpc/talkweb_edge
+  - MQTT：https://gitee.com/openharmony-tpc/talkweb_mqtt
+  - 鸿蒙设备开发SDK：https://gitee.com/openharmony-tpc/talkweb_link_sdk
+  - 数据中台：https://gitee.com/openharmony-tpc/shineweng-datasphere
 
 ## SIG组成员
 
 ### Leader
-- [@halhuangbin](https://gitee.com/halhuangbin)   
+- [拓维_黄斌（@halhuangbin）](https://gitee.com/halhuangbin)   
 
 ### Committers列表
-- [@xieshihe](https://gitee.com/xieshihe)  
-- [@gavinChen](https://gitee.com/gavin1234)   
+- [拓维_卢春梦（@tw-dream）](https://gitee.com/tw-dream)
+- [拓维_胡岩（@talkweb__hy）](https://gitee.com/talkweb__hy)
+- [拓维_谢石河（@xieshihe）](https://gitee.com/xieshihe)  
+- [拓维_陈建华（@gavinChen）](https://gitee.com/gavin1234)   
+- [拓维_尹金亮（@lianggitlab）](https://gitee.com/lianggitlab)
 
 
 ### 会议

@@ -29,6 +29,7 @@ File system related open source software used by OpenHarmony lite equipment, inc
   - repository16 name:https://gitee.com/openharmony/third_party_newfs_msdos
   - repository17 name:https://gitee.com/openharmony/third_party_exfat-utils
   - repository18 name:https://gitee.com/openharmony/third_party_exfatprogs
+  - repository19 name:https://gitee.com/openharmony/third_party_mimalloc
 
 ## SIG Members
 

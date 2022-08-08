@@ -83,7 +83,7 @@ vi OWNERS
 vi ../../sig/sigs.json
 ```
 
-**5、在sig文件夹的sig.json内添加新SIG的相关信息**
+**5、在sig文件夹的sigs.json内添加新SIG的相关信息**
 
 根据以上的信息，打开sig文件夹下[sigs.json](/sig/sigs.json)文件，在末尾添加新sig的相关信息并提交PR。
 

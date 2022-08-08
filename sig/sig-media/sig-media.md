@@ -13,10 +13,10 @@ OpenHarmony media related design and review.
 
 ## The repository
 - project name:
-  - multimedia_media_standard:https://gitee.com/openharmony/multimedia_media_standard
-  - multimedia_audio_standard:https://gitee.com/openharmony/multimedia_audio_standard
+  - multimedia_player_framework:https://gitee.com/openharmony/multimedia_player_framework
+  - multimedia_audio_framework:https://gitee.com/openharmony/multimedia_audio_framework
   - multimedia_camera_standard:https://gitee.com/openharmony/multimedia_camera_standard
-  - multimedia_medialibrary_standard:https://gitee.com/openharmony/multimedia_medialibrary_standard
+  - multimedia_media_library:https://gitee.com/openharmony/multimedia_media_library
   - multimedia_image_standard:https://gitee.com/openharmony/multimedia_image_standard
   - multimedia_avsession_standard:https://gitee.com/openharmony-sig/multimedia_avsession_standard
   - multimedia_histreamer:https://gitee.com/openharmony/multimedia_histreamer
@@ -34,6 +34,7 @@ OpenHarmony media related design and review.
   - third_party_libpsl:https://gitee.com/openharmony/third_party_libpsl
   - third_party_gettext:https://gitee.com/openharmony/third_party_gettext
   - third_party_openh264:https://gitee.com/openharmony/third_party_openh264
+  - third_party_opensles:https://gitee.com/openharmony/third_party_opensles
 
 
 ## SIG Members

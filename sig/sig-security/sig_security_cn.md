@@ -17,7 +17,7 @@ OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密�
   - huks：https://gitee.com/openharmony/security_huks
   - dataclassification：https://gitee.com/openharmony/security_dataclassification
   - appverify：https://gitee.com/openharmony/security_appverify
-  - app_permission:https://gitee.com/openharmony/security_permission
+  - app_permission:https://gitee.com/openharmony/security_permission_lite
   - selinux:https://gitee.com/openharmony/third_party_selinux
   - pcre2:https://gitee.com/openharmony/third_party_pcre2
   - selinux:https://gitee.com/openharmony/security_selinux
