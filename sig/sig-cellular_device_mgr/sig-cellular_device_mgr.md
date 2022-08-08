@@ -32,6 +32,11 @@ Extensive replication: benchmarking projects are first tried, and OpenHarmony ap
 - [@gullong](https://gitee.com/gullong)
 - [@Shanice.Lo](https://gitee.com/luoshanshan633)
 - [@bin.zhang](https://gitee.com/as807048861)
+- [@unionmansig](bin.wan@unionman.com.cn)
+- [@wangyoufeng](wangyoufeng8889@126.com)
+- [@ty-xzx](xiaozexuan@whty.com.cn)
+- [@niekongkong](fengbuting@szwayd.com)
+- [@liang-hengkang](hkliang@eigencomm.com)
 
 ### Meetings
  - Meeting time：time：Biweek Monday 9:00, UTC+8
