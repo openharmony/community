@@ -370,7 +370,7 @@
 |368|arkXtest|test/artXtest|https://gitee.com/inter515|ry.renyi@huawei.com|https://gitee.com/leid_1021|leidan.lei@huawei.com|SIG_Test|
 |369|hiviewdfx_hichecker|base/hiviewdfx/hichecker|https://gitee.com/zlxia|xiazhonglin@huawei.com|https://gitee.com/jeyogg|jiangweizheng@huawei.com|SIG_BasicSoftwareService|
 |370|hiviewdfx_hidumper|base/hiviewdfx/hidumper|https://gitee.com/zlxia|xiazhonglin@huawei.com|https://gitee.com/jeyogg|jiangweizheng@huawei.com|SIG_BasicSoftwareService|
-|371|napi_generator|NA/napi_generator|https://gitee.com/zhaojunxia2020|zhaojunxia@kaihongdigi.com|https://gitee.com/bayanxing|bayanxing@kaihongdigi.com|SIG_Napi_generator|
+|371|napi_generator|NA/napi_generator|https://gitee.com/zhaojunxia2020|zhaojunxia@kaihong.com|https://gitee.com/bayanxing|bayanxing@kaihong.com|SIG_Napi_generator|
 |372|vendor_goodix|base/vendor/goodix|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/sink-top|zounan@goodix.com|SIG_Devboard|
 |373|device_soc_goodix|device/soc/goodix|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/sink-top | zounan@goodix.com |SIG_Devboard|
 |374|device_board_goodix|device/board/goodix|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/sink-top | zounan@goodix.com |SIG_Devboard|
