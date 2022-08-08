@@ -1,6 +1,6 @@
 # SIG-AI-Framework
 
-English | [简体中文](./sig_ai_framework_cn.md)
+English | [简体中文](./sig-ai-framework_cn.md)
 
 Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
 
@@ -28,7 +28,12 @@ Load the model and perform inference. Inference is the process of running input 
 
 Support Special AI chip to connect to MindSpore Lite.
 
+![figures/ai-framework-overview_en.png](figures/ai-framework-overview_en.png)
+
 ### The repository
+| Component Name |       Component Functionality Description       |             Component repository name             |
+| :------------: | :---------------------------------------------: | :-----------------------------------------------: |
+| MindSpore Lite | Provide model conversion and inference function | third_party_mindspore,<br>third_party_flatbuffers|
 - project name:
   - MindSpore: https://gitee.com/openharmony/third_party_mindspore
   - DLLite-micro: https://gitee.com/openharmony-sig/dllite_micro

@@ -12,27 +12,43 @@
 
 - 1.5 PMC 成员 (PMC)  ：项目管理委员会（PMC）成员，拥有代码库写权限、OpenHarmony 新版本发布、Roadmap发布、新PMC/Committer等社区事务的投票权、以及新的 PMC 成员和 Committer 提名权。PMC负责OpenHarmony 社区的管理工作，包括开源OpenHarmony 社区版本规划、竞争力规划、特性开发代码维护、资料开发、补丁规划等；组织PMC委员的选举和退出，负责Committer的任命和退出；负责OpenHarmony 社区SIG的申请准入、SIG孵化项目指导、SIG毕业项目准入等SIG生命周期管理等。
 
-## 2. 晋升机制和流程
+## 2. 晋升标准和流程
 
-### 2.1 晋升机制简介：
+### 2.1 晋升标准简介 :
 
-- 2.1.1 如何晋升Committer：优秀的OpenHarmony 社区贡献者，经现任PMC/Committer提名和投票后，可以成为OpenHarmony 社区Committer。
+- 2.1.1 如何晋升Committer: 优秀的OpenHarmony 社区贡献者，经现任PMC/Committer提名和投票后，可以成为OpenHarmony 社区Committer，Committer按照权限可分为Approver审批人和Reviewer审阅人。
+    - Approver审批人 :
+        - 1. OpenHarmony项目贡献至少3个月
+        - 2. 至少10个PR的主要审阅人
+        - 3. 至少有30个PR的审核意见或30个实质性的代码PR提交
+        - 4. 对所申请的仓库代码非常熟悉
+        - 5. 由对应仓库的审批人或SIG Leader或PMC提名
+    - Reviewer审阅人 :
+        - 1. OpenHarmony项目贡献至少2个月
+        - 2. 至少有5个PR的主要审阅人
+        - 3. 至少有10个PR的审核意见或10个实质性的代码PR提交
+        - 4. 对所申请的仓库代码非常熟悉
+        - 5. 可以由对应仓库的审批人或审阅人提名
 
-- 2.1.2 如何成为SIG Leader  ：任何开发者可以在社区中寻找2-3个有共同兴趣及目标的开发者，确定SIG Leader候选人，通过PMC项目管理委员会发送新建SIG的PR申请，经PMC项目管理委员会批准后，可以成为此新SIG的SIG Leader。
+- 2.1.2 如何成为SIG Leader: 优秀的OpenHarmony Committer，通过PMC项目管理委员会批准后，可以成为对应的SIG的SIG Leader。
+  - 新申请SIG的SIG Leader： 任何开发者可以在社区中寻找2-3个有共同兴趣及目标的开发者，确定SIG Leader候选人，通过PMC项目管理委员会发送新建SIG的PR申请，经PMC项目管理委员会批准后，可以成为此新SIG的SIG Leader
+  - 已有SIG的SIG Leader： 已经是对应SIG所看护领域的仓库Committer，可以由对应SIG的Committer、SIG Leader或PMC成员提名
 
 - 2.1.3  如何晋升PMC：优秀的OpenHarmony 社区Committer，经现任PMC成员提议和投票后，可以成为OpenHarmony 社区PMC。
 
-### 2.2 晋升Committer投票流程：
+### 2.2 晋升Committer投票流程 :
 
-- 2.2.1  由现任PMC/Committer提名，以标题“[VOTE] New Committer xxx ”发送邮件至[pmc@openharmony.io](mailto:pmc@openharmony.io)。
+- 2.2.1  由现任PMC/Committer提名，以标题“[VOTE] New Committer [Approver/Reviewer] xxx ”发送邮件至[pmc@openharmony.io](mailto:pmc@openharmony.io)。
 
-- 2.2.2 所有PMC/Committer成员有权通过“+1”或“-1”形式表示支持或反对，PMC通过回复邮件发送投票结果，投票时间一般持续72个小时。
+- 2.2.2 所有PMC成员有权通过“+1”或“-1”形式表示支持或反对，PMC通过回复邮件发送投票结果，投票时间一般持续72个小时。
 
-- 2.2.3 提名获得三票及以上赞成票，无反对票情况下投票通过。投反对票的PMC成员必须说明反对的具体问题（无问题描述的反对票无效），投票发起人可针对具体问题进行澄清或修复。
+- 2.2.3 提名Approver权利的Committer获得四票及以上赞成票，无反对票情况下投票通过。投反对票的PMC成员必须说明反对的具体问题（无问题描述的反对票无效），投票发起人可针对具体问题进行澄清或修复。
 
-- 2.2.4 投票通过后，PMC主席在OpenHarmony社区公告新Committer。
+- 2.2.4 提名Reviewer权利的Committer获得三票及以上赞成票，无反对票情况下投票通过。投反对票的PMC成员必须说明反对的具体问题（无问题描述的反对票无效），投票发起人可针对具体问题进行澄清或修复。
 
-### 2.3  晋升PMC投票流程：
+- 2.2.5 投票通过后，PMC主席在OpenHarmony社区公告新Committer。
+
+### 2.3  晋升PMC投票流程 :
 
 - 2.3.1 由现任PMC提名，以标题“[VOTE] New PMC xxx ”发送邮件至[pmc@openharmony.io](mailto:pmc@openharmony.io)。
 
@@ -42,3 +58,18 @@
 
 - 2.2.4 投票通过后，PMC主席在OpenHarmony社区公告新PMC。
 
+## 3. 非活跃成员退出标准和流程
+
+### 3.1 非活跃成员定义 :
+
+- 3.1.1 非活跃Committer: 连续6个月以上没有在OpenHarmony 社区参与代码审核、PR提交、设计评审等
+- 3.1.2 非活跃SIG： 连续3个月以上未召开SIG小组会议，连续6个月以上没有在PMC项目管理委员会汇报SIG孵化项目及SIG运营进展
+- 3.1.3 非活跃PMC成员： 连续3个月以上未参与PMC会议，连续6个月以上没有在OpenHarmony 社区参与代码审核、PR提交、设计评审、社区活动推广等
+
+### 3.2 非活跃成员退出流程 :
+
+- 3.2.1  维持健康社区的核心原则是鼓励大家积极参与。但是Committer、SIG Leader、PMC的工作或环境的调整，不可避免地不会积极地做出贡献。如果您知道您将在很长一段时间内无法参与社区贡献，您应该通知PMC，我们会将您标记为“不活跃”。不活跃的Committer、SIG Leader、PMC将从 OpenHarmony 的项目清单中删除，并且不再具有响应的权利；您在OpenHarmony获得的成绩永不过期，一旦您再次活跃，将被要求通过PMC申请，按照推举流程重新获得对应的资格。
+
+- 3.2.2 由您自己发邮件申请退出OpenHarmony项目Committer、SIG Leader、PMC成员，以标题“Inactive [Committer/SIG Leader/PMC] xxx ” 发送邮件至[pmc@openharmony.io](mailto:pmc@openharmony.io)；
+
+- 3.2.3 按季度在PMC例会审视，对不活跃Committer、SIG Leader、PMC成员进行退出处理，并进行公示；

@@ -1,90 +1,108 @@
 # SIG_COMPILERUNTIME
- English | [简体中文](./sig_compileruntime_cn.md)
+ English | [简体中文](./sig-compile-runtime_cn.md)
  
  Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
 
-## SIG group work objectives and scope
+## SIG group objectives and work scope
 
-### work goals
+### objectives
 
-- The development and maintenance of compilation framework and its efficiency improvement. Supporting compilation of multiple products and components.
-- Support JS/TS language compilation and runtime, and create high-performance JS/TS virtual machines. Provide basic JSAPI capabilities, including multi-threading capabilities, encoding and decoding string capabilities, and URL parsing capabilities.
+- Support JS/TS language compilation and execution, and create high-performance JS/TS virtual machines.
+- Provide basic JSAPI capabilities, including concurrency, string encoding and decoding, and URL parsing capabilities, etc..
 - Support C/C++ compilation, debugging based on Clang/LLVM.
 - Provide basic library support such as musl and evolution of related abilities.
+- Provide new programming language design and implementation based on OpenHarmony's requirements.
 
 ### work scope
-- Design, review, and make decisions on the architecture of the language compilation and runtime.
-- Review and incorporate the code of the language compilation and runtime, prohibit low-quality code from being incorporated into the master branch.
-- Actively and effectively participate in code review and comment, share programming experience, communicate with developers, transfer software development skills, and effectively coach open source community developers to write good code.
-- Handle requirements, issues and mailing lists, and ensure that the closure period meets the SLA requirements of the OpenHarmony community.
-- Provide feedback and guidance on code quality based on review and development activities to improve code quality in the OpenHarmony community.
+- Programming language, compiler and runtime architecture design and review.
+- Programming language, compiler and runtime implementation and review.
+- Community requirements, issues and mailing lists processing.
 
-### The repository 
-- project name:
-  - build_lite: https://gitee.com/openharmony/build_lite
-  - build: https://gitee.com/openharmony/build
-  - js_api_module: https://gitee.com/openharmony/js_api_module
-  - js_sys_module: https://gitee.com/openharmony/js_sys_module
-  - js_util_module: https://gitee.com/openharmony/js_util_module
-  - js_worker_module: https://gitee.com/openharmony/js_worker_module
-  - productdefine_common: https://gitee.com/openharmony/productdefine_common
-  - prebuilts_aosp_libs: https://gitee.com/openharmony/prebuilts_aosp_libs
-  - third_party_gn: https://gitee.com/openharmony/third_party_gn
-  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
+### overview
+- Compiler
+![figures/compileruntime-overview-compiler-en.png](figures/compileruntime-overview-compiler-en.png)
+- Runtime
+![figures/compileruntime-overview-runtime-en.png](figures/compileruntime-overview-runtime-en.png)
+
+## Repositories
+|Component|Description|Code repo|
+| ----- | ----------- | --------- |
+|ArkCompiler runtime core|Core components of ArkCompiler runtime|arkcompiler_runtime_core|
+|ArkCompiler eTS runtime|eTS language runtime of ArkCompiler|arkcompiler_ets_runtime|
+|ArkCompiler eTS frontend|eTS compiler frontend of ArkCompiler|arkcompiler_ets_frontend|
+|ArkCompiler toolchain|Debugging and profiling tools for ArkCompiler|arkcompiler_toolchain|
+|ARM assembler / code generator|ARM instruction assembler and code generator library|third_party_vixl|
+|jerryscript|Lightweight JS engine with extremely low memory footprint|third_party_jerryscript|
+|quickjs|Small JS engine with full compatibility of ES2020|third_party_quickjs|
+|LLVM|LLVM compiler and toolchain|third_party_llvm-project|
+|LLDB Machine Interface|LLDB machine interface|third_party_lldb-mi|
+|MinGW-w64|A complete runtime environment for GCC and LLVM for 32 and 64 bit Windows|third_party_mingw-w64|
+|musl|Standard C library|third_party_musl|
+|mimalloc Memory allocator|High performance memory allocator implementation|third_party_mimalloc|
+|elfio|C++ library for reading and generating ELF files|third_party_elfio|
+|miniz|Data compression library that implements most zlib interfaces|third_party_miniz|
+|eTS util library|eTS library providing basic utilities|commonlibrary_ets_utils|
+|C utils library|C library providing basic utilities|commonlibrary_c_utils|
+|Utils library for lite OS|Library providing basic utilities for lite OS|commonlibrary_utils_lite|
+|Memory utils|Libraries providing common system memory related operations|utils_memory|
+
+- mainline repos:
+  - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
+  - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
+  - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
+  - arkcompiler_toolchain: https://gitee.com/openharmony/arkcompiler_toolchain
+
   - third_party_jerryscript: https://gitee.com/openharmony/third_party_jerryscript
-  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
-  - third_party_mingw-w64: https://gitee.com/openharmony/third_party_mingw-w64
-  - third_party_musl: https://gitee.com/openharmony/third_party_musl
-  - third_party_mimalloc: https://gitee.com/openharmony-sig/third_party_mimalloc
-  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
-  - third_party_python: https://gitee.com/openharmony/third_party_python
   - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
-  - utils: https://gitee.com/openharmony/utils
-  - utils_memory: https://gitee.com/openharmony/utils_memory
-  - utils_native: https://gitee.com/openharmony/utils_native
-  - utils_native_lite: https://gitee.com/openharmony/utils_native_lite
 
   - third_party_llvm-project: https://gitee.com/openharmony-sig/third_party_llvm-project
   - third_party_lldb-mi: https://gitee.com/openharmony-sig/third_party_lldb-mi
-
-  - ark_runtime_core: https://gitee.com/openharmony/ark_runtime_core
-  - ark_js_runtime: https://gitee.com/openharmony/ark_js_runtime
-  - ark_ts2abc: https://gitee.com/openharmony/ark_ts2abc
+  - third_party_mingw-w64: https://gitee.com/openharmony/third_party_mingw-w64
+  - third_party_musl: https://gitee.com/openharmony/third_party_musl
   - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
+
+  - commonlibrary_ets_utils: https://gitee.com/openharmony/commonlibrary_ets_utils
+  - commonlibrary_c_utils: https://gitee.com/openharmony/commonlibrary_c_utils
+  - commonlibrary_utils_lite: https://gitee.com/openharmony/commonlibrary_utils_lite
+  - utils_memory: https://gitee.com/openharmony/utils_memory
+
+- dev repos:
+  - arkcompiler_runtime_core: https://gitee.com/openharmony-sig/arkcompiler_runtime_core
+  - arkcompiler_ets_runtime: https://gitee.com/openharmony-sig/arkcompiler_ets_runtime
+  - arkcompiler_ets_frontend: https://gitee.com/openharmony-sig/arkcompiler_ets_frontend
+  - third_party_vixl: https://gitee.com/openharmony-sig/third-party-vixl
+  - third_party_elfio: https://gitee.com/openharmony-sig/third_party_elfio
+  - third_party_mimalloc: https://gitee.com/openharmony-sig/third_party_mimalloc
 
 ## SIG Members
 
 ### Leader
-- @Xingwa (https://gitee.com/wangxing-hw)
-- @huanghuijin (https://gitee.com/huanghuijin)
+- @klooer (https://gitee.com/klooer)
 
 ### Committers
-- @weichaox (https://gitee.com/weichaox)
-- @jady3356 (https://gitee.com/taiyipei)
-- @Han00000000 (https://gitee.com/Han00000000)
+- @huanghuijin (https://gitee.com/huanghuijin)
 - @wuzhefengh (https://gitee.com/wuzhefengh)
 - @gongjunsong (https://gitee.com/gongjunsong)
 - @sunzhe23 (https://gitee.com/sunzhe23)
 - @weng-changcheng (https://gitee.com/weng-changcheng)
 - @yingguofeng (https://gitee.com/yingguofeng)
+- @xliu-huanwei (https://gitee.com/xliu-huanwei)
 - @flyingwolf (https://gitee.com/flyingwolf)
 - @godmiaozi (https://gitee.com/godmiaozi)
 - @dhy308 (https://gitee.com/dhy308)
 - @pengzhuoli (https://gitee.com/zhuoli72)
-- @cbraham (https://gitee.com/cbraham)
-- @wang2002xu (https://gitee.com/wang2002xu)
-- @chen-wandun (https://gitee.com/chen-wandun)
-- @eliotc (https://gitee.com/eliotc)
+- @JerryH1011 (https://gitee.com/JerryH1011)
+- @dongduResearcher (https://gitee.com/dongduResearcher)
 
  ### Meetings
- - Meeting time: Bi-weekly meeting, Monday 19:00 pm, UTC+8
- - Meeting application: [SIG-COMPILERUNTIME Meeting Proposal](https://shimo.im/sheets/cHkjRvDJQtt638y3/MODOC)
- - Meeting link: Welink Meeting or Others
+ - Meeting time: Bi-weekly, Friday 14:30, UTC+8
+ - Meeting proposal submission: [SIG-COMPILERUNTIME Meeting Proposal](https://shimo.im/sheets/cHkjRvDJQtt638y3/MODOC)
+ - Meeting link: Welink Meeting or Others [Sent out before the meeting]
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
+ - Meeting minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
  
  ### Contact
  
  - Mailing list: dev@openharmony.io
- - Zulip group: https://zulip.openharmony.cn
+ - Zulip group: https://zulip.openharmony.cn (compileRuntime_sig stream)
  - Wechat group: NA

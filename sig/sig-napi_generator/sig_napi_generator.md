@@ -25,7 +25,7 @@ Based on the openharmony standard system, some NAPI framework code generation to
 
 ### Committers
 1. [@bayanxing](https://gitee.com/bayanxing)
-2. [@joeysun001](https://gitee.com/joeysun001) 
+2. [@zhangzhicheng007](https://gitee.com/zhangzhicheng007) 
 3. [@xudong-zhao](https://gitee.com/xudong-zhao)
 4. [@zhaojunxia2020](https://gitee.com/zhaojunxia2020)
 5. [@huo-xiaodan](https://gitee.com/huo-xiaodan)

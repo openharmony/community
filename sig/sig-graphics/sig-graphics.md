@@ -29,7 +29,7 @@ OpenHarmony Graphics and windowmanager related design and review.
   - third_party_skia:https://gitee.com/openharmony/third_party_skia
   - windowmanager:https://gitee.com/openharmony/windowmanager
   - third_party_libexif:https://gitee.com/openharmony-sig/third_party_libexif
-  - third_party_opensles:https://gitee.com/openharmony/third_party_opensles
+  - third_party_libjpeg-turbo:https://gitee.com/openharmony-sig/third_party_libjpeg-turbo
 
 
 ## SIG Members
@@ -47,10 +47,10 @@ OpenHarmony Graphics and windowmanager related design and review.
 - @zhouyuehai(https://gitee.com/zhouyuehai)
 
 ### Meetings
- - Meeting time：Every two weeks' Friday 14:30-15:30
- - Meeting application: [OpenHarmony Sig-Graphics Meeting Proposal](https://shimo.im/sheets/DTgCtcgrHhyTq6tD/MODOC)
- - Meeting link: Welink
- - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
+ - Meeting time：Every two weeks' Friday 14:30-15:15
+ - Meeting application: [OpenHarmony Sig-Graphics Meeting Proposal](https://shimo.im/sheets/m4kMLLgagotBK9qD/MODOC)
+ - Meeting link: [tencent meeting] https://meeting.tencent.com/dm/18G1h0F3uheD
+ - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/graphics_dev@openharmony.io) mailing list graphics_dev@openharmony.io for the meeting link
 
 ### Contact (optional)
 
