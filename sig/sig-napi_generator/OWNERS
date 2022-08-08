@@ -1,27 +1,27 @@
 {
     "Leader": [{
         "gitee_id": "zhaojunxia2020",
-        "gitee_email": "zhaojunxia@kaihongdigi.com"
+        "gitee_email": "zhaojunxia@kaihong.com"
     }],
     "Committers": [{
             "gitee_id": "bayanxing",
-            "gitee_email": "bayanxing@kaihongdigi.com"
+            "gitee_email": "bayanxing@kaihong.com"
         },
         {
-            "gitee_id": "joeysun001",
-            "gitee_email": "songzhongyi@kaihongdigi.com"
+            "gitee_id": "zhangzhicheng007",
+            "gitee_email": "zhangzhicheng@kaihong.com"
         },
         {
             "gitee_id": "xudong-zhao",
-            "gitee_email": "zhaoxudong@kaihongdigi.com"
+            "gitee_email": "zhaoxudong@kaihong.com"
         },
         {
             "gitee_id": "zhaojunxia2020",
-            "gitee_email": "zhaojunxia@kaihongdigi.com"
+            "gitee_email": "zhaojunxia@kaihong.com"
         },
         {
             "gitee_id": "huo-xiaodan",
-            "gitee_email": "huoxiaodan@kaihongdigi.com"
+            "gitee_email": "huoxiaodan@kaihong.com"
         }
     ]
 }
