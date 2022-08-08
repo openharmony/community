@@ -72,7 +72,7 @@ OpenHarmony 图形管理。
 ### 会议
  - 会议时间：双周周五14:30-15:15
  - 会议申报：[OpenHarmony Sig-Graphics Meeting Proposal](https://shimo.im/sheets/m4kMLLgagotBK9qD/MODOC)
- - 会议链接: [Welink云会议] ID:942966939
+ - 会议链接: [腾讯会议] https://meeting.tencent.com/dm/18G1h0F3uheD
  - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/graphics_dev@openharmony.io)邮件列表 graphics_dev@openharmony.io 获取会议链接
 
 ### 联系方式(可选)
