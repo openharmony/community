@@ -1,0 +1,46 @@
+{
+    "Leader": [{
+        "gitee_id": "jalenchen",
+        "gitee_email": "chenyaxun@huawei.com"
+    }],
+    "Committers": [{
+        "gitee_id": "king-gao",
+        "gitee_email": "king.gao@huawei.com"
+    },
+    {
+        "gitee_id": "alec-z",
+        "gitee_email": "zhengzhipeng4@huawei.com"
+    },
+    {
+        "gitee_id": "kubigao",
+        "gitee_email": "jean.gaoliang@huawei.com"
+    },
+    {
+        "gitee_id": "billwangliang",
+        "gitee_email": "bill.wangliang@huawei.com"
+    },
+    {
+        "gitee_id": "youthdragon",
+        "gitee_email": "youthdragon.wangyiming@huawei.com"
+    },
+    {
+        "gitee_id": "jungle8023",
+        "gitee_email": "forest.cong@huawei.com"
+    },
+    {
+        "gitee_id": "Rahul Mohan G",
+        "gitee_email": "rahulmohang@gmail.com"
+    },
+    {
+        "gitee_id": "yishuangli",
+        "gitee_email": "yishuang.li@huawei.com"
+    },
+    {
+        "gitee_id": "Carlo Piana",
+        "gitee_email": "piana@array.eu"
+    },
+    {
+        "gitee_id": "Alberto Pianon",
+        "gitee_email": "pianon@array.eu"
+    }]
+}
