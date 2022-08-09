@@ -17,7 +17,6 @@ Basic Software Services includes the following sub-systems:
 |DFX System|Design-for-Test, Design-for-Reliability and Design-for-Manufacturing|
 |Event Notification System|Manage system and application notifications|
 |Resource Management System|Manage system resources, including CPU, IO and memory，Background task manager，Workscheduler|
-|Distributed Scheduling System|Scheduling Abilities in Open Harmony distributed network|
 |Account Management System|Manage user accounts for Open Harmony|
 |Barrier Free System|Provide barrier free common capabilities for Open Harmony|
 |Time System|Provide time,timezone and timer capability|
@@ -57,9 +56,6 @@ Basic Software Services includes the following sub-systems:
 | HiviewDFX           | [developtools_bytrace](https://gitee.com/openharmony/developtools_bytrace) | developtools/bytrace                           | [leizhenzang](https://gitee.com/leizhenzang)         |
 | HiviewDFX           | [third_party_ejdb](https://gitee.com/openharmony/third_party_ejdb) | third_party/ejdb                                  | [ericlee](https://gitee.com/ericlee)         |
 | HiviewDFX           | [third_party_iowow](https://gitee.com/openharmony/third_party_iowow) | third_party/iowow                                 | [ericlee](https://gitee.com/ericlee)         |
-|DistributedSchedule|[distributedschedule_dms_fwk_lite](https://gitee.com/openharmony/distributedschedule_dms_fwk_lite)|foundation/distributedschedule/dmsfwk_lite|[lijiarun](https://gitee.com/lijiarun)|
-|DistributedSchedule|[distributedschedule_safwk_lite](https://gitee.com/openharmony/distributedschedule_safwk_lite)|foundation/distributedschedule/safwk_lite|[lijiarun](https://gitee.com/lijiarun)|
-|DistributedSchedule|[distributedschedule_samgr_lite](https://gitee.com/openharmony/distributedschedule_samgr_lite)|foundation/distributedschedule/samgr_lite|[lijiarun](https://gitee.com/lijiarun)|
 |StartUp|[startup_appspawn_lite](https://gitee.com/openharmony/startup_appspawn_lite)|base/startup/appspawn_lite|[handyohos](https://gitee.com/handyohos)|
 |StartUp|[startup_bootstrap_lite](https://gitee.com/openharmony/startup_bootstrap_lite)|base/startup/bootstrap_lite|[handyohos](https://gitee.com/handyohos)|
 |StartUp|[startup_init_lite](https://gitee.com/openharmony/startup_init_lite)|base/startup/init_lite|[handyohos](https://gitee.com/handyohos)|
@@ -115,7 +111,6 @@ Basic Software Services includes the following sub-systems:
 |Theme|[illybyy](https://gitee.com/illybyy)|[mail](baoyayong@huawei.com)|
 |Print|[litao33](https://gitee.com/litao33)|[mail](litao33@huawei.com)|
 |Request|[liuwenhui_ddmp](https://gitee.com/liuwenhui_ddmp)|[mail](anna.liuwenhui@huawei.com)|
-|DistributedSchedule|[lijiarun](https://gitee.com/lijiarun)|[mail](lijiarun@huawei.com)|
 |StartUp|[handyohos](https://gitee.com/handyohos)|[mail](zhangxiaotian@huawei.com)|
 |StartUp|[derek520](https://gitee.com/derek520)|[mail](wtweitao.wei@huawei.com)|
 |StartUp|[mytide](https://gitee.com/mytide)|[mail](max.liuwei@huawei.com)|

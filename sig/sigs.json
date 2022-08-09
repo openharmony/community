@@ -485,8 +485,6 @@
                 "https://gitee.com/openharmony/developtools_bytrace",
                 "https://gitee.com/openharmony/third_party_ejdb",
                 "https://gitee.com/openharmony/third_party_iowow",
-                "https://gitee.com/openharmony/distributedschedule_safwk_lite",
-                "https://gitee.com/openharmony/distributedschedule_samgr_lite",
                 "https://gitee.com/openharmony/startup_appspawn_lite",
                 "https://gitee.com/openharmony/startup_bootstrap_lite",
                 "https://gitee.com/openharmony/startup_init_lite",
@@ -555,8 +553,6 @@
                 "developtools/bytrace",
                 "third_party/ejdb",
                 "third_party/iowow",
-                "foundation/distributedschedule/safwk_lite",
-                "foundation/distributedschedule/samgr_lite",
                 "base/startup/appspawn_lite",
                 "base/startup/bootstrap_lite",
                 "base/startup/init_lite",
@@ -906,7 +902,11 @@
                 "https://gitee.com/openharmony/utils_system_resources",
                 "https://gitee.com/openharmony/global_i18n",
                 "https://gitee.com/openharmony/global_i18n_lite",
-                "https://gitee.com/openharmony/developtools_global_resource_tool"
+                "https://gitee.com/openharmony/developtools_global_resource_tool",
+                "https://gitee.com/openharmony/systemabilitymgr_safwk_lite",
+                "https://gitee.com/openharmony/systemabilitymgr_samgr_lite",
+                "https://gitee.com/openharmony/systemabilitymgr_safwk",
+                "https://gitee.com/openharmony/systemabilitymgr_samgr"
             ],
             "project-path": [
                 "foundation/arkui/ace_engine",
@@ -926,7 +926,11 @@
                 "utils/system_resources",
                 "base/global/i18n",
                 "base/global/i18n_lite",
-                "developtools/global_resource_tool"
+                "developtools/global_resource_tool",
+                "foundation/systemabilitymgr/safwk_lite",
+                "foundation/systemabilitymgr/samgr_lite",
+                "foundation/systemabilitymgr/safwk",
+                "foundation/systemabilitymgr/samgr"
             ]
         },
         {

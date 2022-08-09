@@ -50,9 +50,9 @@
 |48|communication_ipc_lite|foundation/communication/ipc_lite|https://gitee.com/fanxiaoyu321|fanxiaoyu3@huawei.com|https://gitee.com/Xi_Yuhao <br> https://gitee.com/maerlii|xiyuhao@huawei.com <br> maerli@huawei.com|SIG_SoftBus|
 |49|communication_wifi_aware|foundation/communication/wifi_aware|https://gitee.com/Xuyongpan|xuyongpan@huawei.com|https://gitee.com/yinyouzhan|yinyouzhan@huawei.com|SIG_SoftBus|
 |50|communication_wifi_lite|foundation/communication/wifi_lite|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/zf0719|hw.zhangfeng@huawei.com|SIG_SoftBus|
-|51|ability_dmsfwk_lite|foundation/ability/dmsfwk_lite|https://gitee.com/lijiarun|lijiarun@huawei.com| | |SIG_BasicSoftwareService|
-|52|distributedschedule_safwk_lite|foundation/distributedschedule/safwk_lite|https://gitee.com/lijiarun|lijiarun@huawei.com| | |SIG_BasicSoftwareService|
-|53|distributedschedule_samgr_lite|foundation/distributedschedule/samgr_lite|https://gitee.com/lijiarun|lijiarun@huawei.com| | |SIG_BasicSoftwareService|
+|51|ability_dmsfwk_lite|foundation/ability/dmsfwk_lite|https://gitee.com/lijiarun|lijiarun@huawei.com| | |SIG_ApplicationFramework|
+|52|systemabilitymgr_safwk_lite|foundation/systemabilitymgr/safwk_lite|https://gitee.com/lijiarun|lijiarun@huawei.com| | |SIG_ApplicationFramework|
+|53|systemabilitymgr_samgr_lite|foundation/systemabilitymgr/samgr_lite|https://gitee.com/lijiarun|lijiarun@huawei.com| | |SIG_ApplicationFramework|
 |54|graphic_surface|foundation/graphic/surface|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_Graphics|
 |55|graphic_ui|foundation/graphic/ui|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_Graphics|
 |56|graphic_utils|foundation/graphic/utils|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_Graphics|
@@ -152,9 +152,9 @@
 |150|communication_wifi|foundation/communication/wifi|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/fenis-two-thousand-and-one <br> https://gitee.com/zf0719|lujunxin@huawei.com <br> hw.zhangfeng@huawei.com|SIG_SoftBus|
 |151|distributeddatamgr_datamgr|foundation/distributeddatamgr/distributeddatamgr|https://gitee.com/widecode|wanghancai@huawei.com| | |SIG_DataManagement|
 |152|distributeddatamgr_file|foundation/distributeddatamgr/distributedfile|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com| | |SIG_DataManagement|
-|153|ability_dmsfwk|foundation/ability/dmsfwk|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/cangegegege|jiacan@huawei.com|SIG_DataManagement|
-|154|distributedschedule_safwk|foundation/distributedschedule/safwk|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/cangegegege|jiacan@huawei.com|SIG_DataManagement|
-|155|distributedschedule_samgr|foundation/distributedschedule/samgr|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/cangegegege|jiacan@huawei.com|SIG_DataManagement|
+|153|ability_dmsfwk|foundation/ability/dmsfwk|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/cangegegege|jiacan@huawei.com|SIG_ApplicationFramework|
+|154|systemabilitymgr_safwk|foundation/systemabilitymgr/safwk|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/cangegegege|jiacan@huawei.com|SIG_ApplicationFramework|
+|155|systemabilitymgr_samgr|foundation/systemabilitymgr/samgr|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/cangegegege|jiacan@huawei.com|SIG_ApplicationFramework|
 |156|graphic_graphic_2d|foundation/graphic/graphic_2d|https://gitee.com/abbuu|liyu37@huawei.com|  https://gitee.com/lz-230 <br> https://gitee.com/mk_gc <br> https://gitee.com/yifan-cui <br> https://gitee.com/lijj01 <br> https://gitee.com/stonesxd <br> https://gitee.com/xxfeng-hw | lizheng2@huawei.com <br> mengkun@huawei.com <br> cuikun1@huawei.com <br> lijunjie29@huawei.com <br> shixindong@huawei.com <br> yuxiaofeng8@huawei.com|SIG_Graphics|
 |157|multimedia_audio_framework|foundation/multimedia/audio_framework|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com|https://gitee.com/anurup|anurup.m@huawei.com|SIG_Media|
 |158|multimedia_camera_standard|foundation/multimedia/camera_standard|https://gitee.com/liuyuehua1|liuyuehua1@huawei.com|https://gitee.com/srmurali|muralidhar.s.r@huawei.com|SIG_Media|

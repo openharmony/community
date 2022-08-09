@@ -31,9 +31,9 @@ ApplicationFramework SIG技术栈范围全景图如下图所示：
 | 元能力测试工具   | 元能力测试工具，第三方开发者都可以基于这个测试工具测试其目标元能力，可以获取元能力的内部对象，可以控制元能力的生命周期调度，也可以模拟点击事件。 | ability_ability_runtime/tree/master/tools     |
 | 接口语言定义工具 | IDL（Interface Definition Language）则是一种定义客户端和服务器端通信接口的工具。 | ability_idl_tool                              |
 | 卡片管理框架     | 一套开发和使用OpenHarmony卡片的开发框架。                           | ability_form_fwk                              |
-| 分布式调度框架   | 提供对跨设备组件启动、调用和迁移的能力。                     | distributedschedule_dms_fwk                   |
-| 系统服务管理     | 管理系统服务的注册、本次查询和跨设备查询，系统服务的访问权限控制。 | distributedschedule_samgr                     |
-| 系统服务框架     | 系统服务框架定义。                                           | distributedschedule_safwk                     |
+| 分布式调度框架   | 提供对跨设备组件启动、调用和迁移的能力。                     | ability_dmsfwk                   |
+| 系统服务管理     | 管理系统服务的注册、本次查询和跨设备查询，系统服务的访问权限控制。 | systemabilitymgr_samgr                     |
+| 系统服务框架     | 系统服务框架定义。                                           | systemabilitymgr_safwk                     |
 | 后台任务管理     | 负责管理后台长时、短时任务，并提供对应任务的申请、取消和查询等接口。 | resourceschedule_background_task_mgr          |
 | 延迟任务调度     | 负责调度后台延迟任务，并提供对应的申请、取消、查询接口等接口给应用执行实时性不高的任务。 | resourceschedule_work_scheduler               |
 | 设备使用信息统计 | 负责设备使用信息统计与计算，包括应用使用、通知统计等信息统计、应用分组计算，并为特权应用提供对应的查询接口。 | resourceschedule_device_usage_statistics      |
@@ -56,14 +56,15 @@ ApplicationFramework SIG技术栈范围全景图如下图所示：
   - resourceschedule_resource_schedule_service:https://gitee.com/openharmony/resourceschedule_resource_schedule_service
   - frame_aware_sched:https://gitee.com/openharmony/frame_aware_sched
   - resourceschedule_memmgr:https://gitee.com/openharmony/resourceschedule_memmgr
-  - distributedschedule_samgr:https://gitee.com/openharmony/distributedschedule_samgr
+  - systemabilitymgr_samgr:https://gitee.com/openharmony/systemabilitymgr_samgr
+  - systemabilitymgr_samgr_lite:https://gitee.com/openharmony/systemabilitymgr_samgr_lite
   - resourceschedule_work_scheduler:https://gitee.com/openharmony/resourceschedule_work_scheduler
   - resourceschedule_device_usage_statistics:https://gitee.com/openharmony/resourceschedule_device_usage_statistics
   - resourceschedule_background_task_mgr:https://gitee.com/openharmony/resourceschedule_background_task_mgr
   - notification_distributed_notification_service:https://gitee.com/openharmony/notification_distributed_notification_service
   - notification_eventhandler:https://gitee.com/openharmony/notification_eventhandler
-  - distributedschedule_safwk:https://gitee.com/openharmony/distributedschedule_safwk
-  - distributedschedule_dms_fwk:https://gitee.com/openharmony/distributedschedule_dms_fwk
+  - systemabilitymgr_safwk:https://gitee.com/openharmony/systemabilitymgr_safwk
+  - systemabilitymgr_safwk_lite:https://gitee.com/openharmony/systemabilitymgr_safwk_lite
   - developtools_packing_tool:https://gitee.com/openharmony/developtools_packing_tool
   - bundlemanager_bundle_framework:https://gitee.com/openharmony/bundlemanager_bundle_framework
   - bundlemanager_bundle_framework_lite:https://gitee.com/openharmony/bundlemanager_bundle_framework_lite
