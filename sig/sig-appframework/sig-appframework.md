@@ -36,9 +36,9 @@ OpenHarmony ApplicationFramework technology stack scope is shown in the followin
 | Ability Test Tool                  | Ability testing tool, third-party developers can test their target abilities based on this testing tool, obtain the internal objects of meta-capabilities, control the life cycle scheduling of abilities, and simulate click events. | ability_ability_runtime/tree/master/tools     |
 | Interface Definition Language Tool | IDL (Interface Definition Language) is a tool for defining the communication interface between client and server. | ability_idl_tool                              |
 | Form Management Framework          | A development framework for developing and using OpenHamrony form. | ability_form_fwk                              |
-| Distributed Schedule Framework     | Provides the ability to launch, invoke and migrate components across devices. | distributedschedule_dms_fwk                   |
-| System Management Service          | Manages the registration of system services, local query and cross-device query, and control the access rights of system services. | distributedschedule_samgr                     |
-| System Framework Service           | Defines how to implement a system ability in OpenHarmony and provides APIs to start and register system abilities. | distributedschedule_safwk                     |
+| Distributed Schedule Framework     | Provides the ability to launch, invoke and migrate components across devices. | ability_dmsfwk                   |
+| System Management Service          | Manages the registration of system services, local query and cross-device query, and control the access rights of system services. | systemabilitymgr_samgr                     |
+| System Framework Service           | Defines how to implement a system ability in OpenHarmony and provides APIs to start and register system abilities. | systemabilitymgr_safwk                     |
 | Background Task Management         | To manage long-term and short-term tasks in the background, and provide interfaces such as application, cancellation and query of corresponding tasks。 | resourceschedule_background_task_mgr          |
 | Work Scheduler                     | Responsible for scheduling background delayed tasks, and providing corresponding application, cancellation, query interfaces and other interfaces for applications to perform tasks with low real-time performance. | resourceschedule_work_scheduler               |
 | Device Usage Statistics            | Responsible for statistics and calculation of device usage information, including application usage, notification statistics and other information statistics, application group calculation, and provide corresponding query interfaces for privileged applications. | resourceschedule_device_usage_statistics      |
@@ -61,14 +61,15 @@ OpenHarmony ApplicationFramework technology stack scope is shown in the followin
   - resourceschedule_resource_schedule_service:https://gitee.com/openharmony/resourceschedule_resource_schedule_service
   - frame_aware_sched:https://gitee.com/openharmony/frame_aware_sched
   - resourceschedule_memmgr:https://gitee.com/openharmony/resourceschedule_memmgr
-  - distributedschedule_samgr:https://gitee.com/openharmony/distributedschedule_samgr
+  - systemabilitymgr_samgr:https://gitee.com/openharmony/systemabilitymgr_samgr
+  - systemabilitymgr_samgr_lite:https://gitee.com/openharmony/systemabilitymgr_samgr_lite
   - resourceschedule_work_scheduler:https://gitee.com/openharmony/resourceschedule_work_scheduler
   - resourceschedule_device_usage_statistics:https://gitee.com/openharmony/resourceschedule_device_usage_statistics
   - resourceschedule_background_task_mgr:https://gitee.com/openharmony/resourceschedule_background_task_mgr
   - notification_distributed_notification_service:https://gitee.com/openharmony/notification_distributed_notification_service
   - notification_eventhandler:https://gitee.com/openharmony/notification_eventhandler
-  - distributedschedule_safwk:https://gitee.com/openharmony/distributedschedule_safwk
-  - distributedschedule_dms_fwk:https://gitee.com/openharmony/distributedschedule_dms_fwk
+  - systemabilitymgr_safwk:https://gitee.com/openharmony/systemabilitymgr_safwk
+  - systemabilitymgr_safwk_lite:https://gitee.com/openharmony/systemabilitymgr_safwk_lite
   - developtools_packing_tool:https://gitee.com/openharmony/developtools_packing_tool
   - bundlemanager_bundle_framework:https://gitee.com/openharmony/bundlemanager_bundle_framework
   - bundlemanager_bundle_framework_lite:https://gitee.com/openharmony/bundlemanager_bundle_framework_lite
