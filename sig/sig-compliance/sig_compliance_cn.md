@@ -65,16 +65,37 @@
 ### Contributor列表
 - 欢迎加入
 
-### 会议
+## 会议
  - 会议时间：公开的会议时间：北京时间，每周五 下午，14:00点~15:00点
  - 会议申报：[OpenHarmony SIG-Compliance Meeting Proposal](https://etherpad.openharmony.cn/p/compliance)
  - 会议链接：[见链接](https://etherpad.openharmony.cn/p/compliance)
  - 会议通知：请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
  - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content)
 
-### 联系方式(可选)
+## 联系方式(可选)
 
 - 邮件列表：dev@openharmony.io
 - 邮件列表tag [compliance]
 - Zulip群组：https://zulip.openharmony.cn
 - 微信群：NA
+
+## 加入我们（Join Us）
+
+合规SIG欢迎所有对开源合规有兴趣的爱好者、志愿者、学者、专家、律师、学生的加入， 加入合规SIG无需特殊的技能要求和经验要求，您可以通过以下**任意一个途径**，明示您有意愿加入合规SIG，我们接到您的明示后，会在本文件的Contributor列表中添加您的基本信息以将您确认为合规SIG的成员
+  - 邮件声明加入：通过向[dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表发送加入合规SIG申请，并同时主送SIG Leader, 请注意在邮件主题前增加[compliance]字样，以便更快的找到您的邮件，邮件内容至少明确包含您希望申请加入合规SIG组的意愿即可。 如果个人自愿，可以增加简要经验说明，后续希望重点参与的工作及可投入时间等内容，但请注意此部分内容不做强制。
+  
+  - 参加SIG会议加入：通过在例行的合规SIG例会中[自行申报议题](https://etherpad.openharmony.cn/p/compliance)，新增议题标题为**新成员加入申请** 并按时参加会议，会议中明确表示申请加入合规SIG，并记录为会议纪要. **注意，即使您不想成为合规SIG的成员，仍然可以不受任何限制的参加合规SIG的会议**
+
+
+## 开始参与贡献（Get Involved）
+
+合规SIG的可贡献内容是多方面的，我们欢迎包括但不限于以下方面的贡献：
+
+- 合规工程能力：合规工程体系涉及的需求、设计、开发、测试、bugfix、漏洞修复
+- 文档 - 指导书、FAQs、流程规范
+- 翻译： 翻译及本地化
+- 法务
+- 学术研究及实践: 欢迎高校同学将合规SIG作为实习或者研究的平台，可基于相对独立的课题在SIG进行开展
+- 社区合规问题看护
+- 与业界组织合作及成功实践引入
+- 布道、培训及MeetUp等活动
