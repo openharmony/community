@@ -34,6 +34,7 @@
 |备忘录应用|备忘录应用是OpenHarmony中预置的应用，为用户提供文本编辑以及保存功能。|applications_notes|
 系统截屏应用|ScreenShot应用是OpenHarmony中预置的系统应用，为用户提供截取当前屏幕并保存图片的功能。|applications_screenshot|
 |文件选择器|FilePicker应用是OpenHarmony中预置的系统应用，为用户提供文件选择及保存功能|applications_filepicker|
+|应用示例|为提高鸿蒙北向应用开发者开发效率，增加各个子系统特性的Sample样例，帮助开发者迅速掌握鸿蒙能力|applications_app_samples|
 
 - 代码仓地址：
   - applications_systemui：https://gitee.com/openharmony/applications_systemui
@@ -50,6 +51,7 @@
   - applications_theme: https://gitee.com/openharmony-sig/applications_theme
   - applications_settingsdata: https://gitee.com/openharmony-sig/applications_settings_data
   - applications_notes: https://gitee.com/openharmony-sig/applications_notes
+  - applications_app_samples: https://gitee.com/openharmony/applications_app_samples
 
 ## SIG组成员
 

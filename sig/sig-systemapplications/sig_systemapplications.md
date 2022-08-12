@@ -33,6 +33,7 @@ Defines and builds OpenHarmony system applications, applies for and implements i
   - applications_settingsdata: https://gitee.com/openharmony-sig/applications_settings_data
   - applications_contactsdata: https://gitee.com/openharmony-sig/applications_contactsdata
   - applications_notes: https://gitee.com/openharmony-sig/applications_notes
+  - applications_app_samples: https://gitee.com/openharmony/applications_app_samples
 
 ## SIG Members
 
