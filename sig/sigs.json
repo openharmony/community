@@ -295,7 +295,8 @@
                 "https://gitee.com/openharmony-sig/applications_theme",
                 "https://gitee.com/openharmony-sig/applications_settings_data",
                 "https://gitee.com/openharmony-sig/applications_contactsdata",
-                "https://gitee.com/openharmony-sig/applications_notes"
+                "https://gitee.com/openharmony-sig/applications_notes",
+                "https://gitee.com/openharmony/applications_app_samples"
             ],
             "project-path": [
                 "applications/standard/systemui",
@@ -308,7 +309,8 @@
                 "applications/standard/theme",
                 "applications/standard/settings_data",
                 "applications/standard/contactsdata",
-                "applications/standard/notes"
+                "applications/standard/notes",
+                "applications/standard/app_samples"
             ]
         },
         {
