@@ -8,6 +8,10 @@
 ### 工作目标
 为OpenHarmony提供简洁、高效的基础软件服务；通过部件化设计，可组合支撑L0~L5多种不同级别设备的系统软件开发。
 
+BasicSoftwareService SIG技术栈范围全景图如下图所示：
+
+![image-20220722232522588](./images/overview-zh.png)
+
 ### 工作范围
 基础软件服务主要包括以下几个子系统：
 | 名称|说明|
@@ -15,81 +19,46 @@
 |启动子系统|提供系统OS系统启动框架，包括系统引导过程，init初始进程管理以及系统参数属性机制|
 |升级服务子系统|提供系统升级能力|
 |DFX子系统|提供DFT、DFR、DFM等系统能力|
-|事件通知子系统|提供系统事件通知服务能力|
-|全局资源调度管控子系统|提供本机全局资源调度管控能力，包括CPU、IO、内存等资源管控, 还包括后台任务管理，条件触发任务管理等后台调度服务|
 |账号子系统|提供系统的账号管理能力|
 |无障碍软件服务子系统|提供无障碍软件服务能力|
-|时间子系统|提供时间时区定时器能力|
-|输入法子系统|提供输入法框架及管理服务|
-|主题框架子系统|提供壁纸框架，锁屏管理服务|
-|打印子系统|提供打印能力|
-|上传下载子系统|提供文件上传下载能力|
 |定制子系统|提供系统定制化能力，包括基于配置层级的定制框架、企业环境下的设备管理和定制化设置等|
 
 ## 代码仓
 
-| 子系统|代码仓|代码路径|维护者|
-| :----- | :----- | :----- | :----- |
-|DFX子系统|[hiviewdfx_hievent_lite](https://gitee.com/openharmony/hiviewdfx_hievent_lite)|base/hiviewdfx/hievent_lite|[stesen](https://gitee.com/stesen)|
-|DFX子系统|[hiviewdfx_hilog_lite](https://gitee.com/openharmony/hiviewdfx_hilog_lite)|base/hiviewdfx/hilog_lite|[stesen](https://gitee.com/stesen)|
-|DFX子系统|[hiviewdfx_hiview_lite](https://gitee.com/openharmony/hiviewdfx_hiview_lite)|base/hiviewdfx/hiview_lite|[stesen](https://gitee.com/stesen)|
-|DFX子系统|[third_party_curl](https://gitee.com/openharmony/third_party_curl)|third_party/curl|[stesen](https://gitee.com/stesen)|
-|DFX子系统|[third_party_nghttp2](https://gitee.com/openharmony/third_party_nghttp2)|third_party/nghttp2|[zhuwenchao](https://gitee.com/xautosoft)|
-|网络管理子系统|[third_party_libwebsockets](https://gitee.com/openharmony/third_party_libwebsockets)|third_party/libwebsockets|[zhuwenchao](https://gitee.com/xautosoft)|
-|网络管理子系统|[third_party_iptables](https://gitee.com/openharmony-sig/third_party_iptables)|third_party/iptables|[zhuwenchao](https://gitee.com/xautosoft)|
-|网络管理子系统|[third_party_libmnl](https://gitee.com/openharmony-sig/third_party_libmnl)|third_party/libmnl|[zhuwenchao](https://gitee.com/xautosoft)|
-|网络管理子系统|[third_party_libnetfilter_conntrack](https://gitee.com/openharmony-sig/third_party_libnetfilter_conntrack)|third_party/libnetfilter/conntrack|[zhuwenchao](https://gitee.com/xautosoft)|
-|网络管理子系统|[third_party_libnfnetlink](https://gitee.com/openharmony-sig/third_party_libnfnetlink)|third_party/libnfnetlink|[zhuwenchao](https://gitee.com/xautosoft)|
-|网络管理子系统|[third_party_libnftnl](https://gitee.com/openharmony-sig/third_party_libnftnl)|third_party/libnftnl|[zhuwenchao](https://gitee.com/xautosoft)|
-|DFX子系统|[hiviewdfx_faultloggerd](https://gitee.com/openharmony/hiviewdfx_faultloggerd)|base/hiviewdfx/faultloggerd|[maplestorys](https://gitee.com/maplestorys)|
-|DFX子系统|[hiviewdfx_hiappevent](https://gitee.com/openharmony/hiviewdfx_hiappevent)|base/hiviewdfx/hiappevent|[stesen](https://gitee.com/stesen)|
-|DFX子系统|[hiviewdfx_hichecker](https://gitee.com/openharmony/hiviewdfx_hichecker)|base/hiviewdfx/hichecker|[jiangweizheng](https://gitee.com/jeyogg)|
-|DFX子系统|[hiviewdfx_hidumper](https://gitee.com/openharmony-sig/hiviewdfx_hidumper)|base/hiviewdfx/hidumper|[jiangweizheng](https://gitee.com/jeyogg)|
-|DFX子系统|[hiviewdfx_hilog](https://gitee.com/openharmony/hiviewdfx_hilog)|base/hiviewdfx/hilog|[stesen](https://gitee.com/stesen)|
-|DFX子系统|[hiviewdfx_hisysevent](https://gitee.com/openharmony/hiviewdfx_hisysevent)|base/hiviewdfx/hisysevent|[yaomanhai](https://gitee.com/yaomanhai)|
-|DFX子系统|[hiviewdfx_hiview](https://gitee.com/openharmony/hiviewdfx_hiview)|base/hiviewdfx/hiview|[maplestorys](https://gitee.com/maplestorys)|
-|DFX子系统|[third_party_libunwind](https://gitee.com/openharmony/third_party_libunwind)|third_party/libunwind|[maplestorys](https://gitee.com/maplestorys)|
-| DFX子系统            | [hiviewdfx_blackbox](https://gitee.com/openharmony/hiviewdfx_blackbox) | base/hiviewdfx/blackbox                           | [stesen](https://gitee.com/stesen)           |
-| DFX子系统            | [hiviewdfx_hidumper_lite](https://gitee.com/openharmony/hiviewdfx_hidumper_lite) | base/hiviewdfx/hidumper_lite                      | [stesen](https://gitee.com/stesen)           |
-| DFX子系统            | [hiviewdfx_hitrace](https://gitee.com/openharmony/hiviewdfx_hitrace) | base/hiviewdfx/hitrace                            | [yaomanhai](https://gitee.com/yaomanhai)     |
-| DFX子系统            | [hiviewdfx_hicollie](https://gitee.com/openharmony/hiviewdfx_hicollie) | base/hiviewdfx/hicollie                           | [ericlee](https://gitee.com/ericlee)         |
-| DFX子系统            | [developtools_bytrace](https://gitee.com/openharmony/developtools_bytrace) | developtools/bytrace                           | [leizhenzang](https://gitee.com/leizhenzang)         |
-| DFX子系统            | [third_party_ejdb](https://gitee.com/openharmony/third_party_ejdb) | third_party/ejdb                                  | [ericlee](https://gitee.com/ericlee)         |
-| DFX子系统            | [third_party_iowow](https://gitee.com/openharmony/third_party_iowow) | third_party/iowow                                 |[ericlee](https://gitee.com/ericlee)|
-|启动恢复子系统|[startup_appspawn_lite](https://gitee.com/openharmony/startup_appspawn_lite)|base/startup/appspawn_lite|[handyohos](https://gitee.com/handyohos)|
-|启动恢复子系统|[startup_bootstrap_lite](https://gitee.com/openharmony/startup_bootstrap_lite)|base/startup/bootstrap_lite|[handyohos](https://gitee.com/handyohos)|
-|启动恢复子系统|[startup_init_lite](https://gitee.com/openharmony/startup_init_lite)|base/startup/init_lite|[handyohos](https://gitee.com/handyohos)|
-|启动恢复子系统|[startup_syspara_lite](https://gitee.com/openharmony/startup_syspara_lite)|base/startup/syspara_lite|[handyohos](https://gitee.com/handyohos)|
-|启动恢复子系统|[startup_appspawn](https://gitee.com/openharmony/startup_appspawn)|base/startup/appspawn_standard|[handyohos](https://gitee.com/handyohos)|
-|升级服务子系统|[update_ota_lite](https://gitee.com/openharmony/update_ota_lite)|base/update/ota_lite|[ailorna](https://gitee.com/ailorna)|
-|升级服务子系统|[update_update_app](https://gitee.com/openharmony/update_update_app)|base/update/update_app|[ailorna](https://gitee.com/ailorna)|
-|升级服务子系统|[update_packaging_tools](https://gitee.com/openharmony/update_packaging_tools)|base/update/packaging_tools|[ailorna](https://gitee.com/ailorna)|
-|升级服务子系统|[update_updater](https://gitee.com/openharmony/update_updater)|base/update/updater|[ailorna](https://gitee.com/ailorna)|
-|升级服务子系统|[update_updateservice](https://gitee.com/openharmony/update_updateservice)|base/update/updateservice|[ailorna](https://gitee.com/ailorna)|
-|升级服务子系统|[third_party_bzip2](https://gitee.com/openharmony/third_party_bzip2)|third_party/bzip2|[ailorna](https://gitee.com/ailorna)|
-|升级服务子系统|[third_party_lz4](https://gitee.com/openharmony/third_party_lz4)|third_party/lz4|[ailorna](https://gitee.com/ailorna)|
-|时间子系统|[time_time_service](https://gitee.com/openharmony/time_time_service)|base/time/time_service|[mangtsang](https://gitee.com/mangtsang)|
-|输入法子系统|[inputmethod_imf](https://gitee.com/openharmony/inputmethod_imf)|base/inputmethod/imf|[illybyy](https://gitee.com/illybyy)|
-|主题框架子系统|[theme_wallpaper_mgr](https://gitee.com/openharmony/theme_wallpaper_mgr)|base/theme/wallpaper_mgr|[illybyy](https://gitee.com/illybyy)|
-|主题框架子系统|[theme_screenlock_mgr](https://gitee.com/openharmony/theme_screenlock_mgr)|base/theme/screenlock_mgr|[illybyy](https://gitee.com/illybyy)|
-|打印子系统|[print_print_fwk](https://gitee.com/openharmony-sig/print_print_fwk)|base/print/print_fwk|[litao33](https://gitee.com/litao33)|
-|上传下载子系统|[request_request](https://gitee.com/openharmony/request_request)|base/request/request|[liuwenhui_ddmp](https://gitee.com/liuwenhui_ddmp)|
-|账号子系统|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
-|账号子系统|[account_app_account](https://gitee.com/openharmony-sig/account_app_account)|base/account/app_account|[verystone](https://gitee.com/verystone)|
-|无障碍软件服务子系统|[accessibility](https://gitee.com/openharmony/accessibility)|base/accessibility|[dubingjian](https://gitee.com/bj1010)|
-|DeviceProfile子系统|[device_profile_core](https://gitee.com/openharmony/device_profile_core)|foundation/deviceprofile/device_profile_core|[lijiarun](https://gitee.com/lijiarun)|
-|DeviceProfile子系统|[device_profile_core](https://gitee.com/openharmony/device_profile_core)|foundation/deviceprofile/device_profile_core|[jiacan](https://gitee.com/cangegegege)|
-|资源调度子系统|[resourceschedule_work_scheduler](https://gitee.com/openharmony/resourceschedule_work_scheduler)|foundation/resourceschedule/work_scheduler|[chenmingJay](https://gitee.com/chenmingJay)|
-|资源调度子系统|[resourceschedule_background_task_mgr](https://gitee.com/openharmony/resourceschedule_background_task_mgr)|foundation/resourceschedule/background_task_mgr|[wanglai-yao](https://gitee.com/wanglai-yao)|
-|资源调度子系统|[resourceschedule_device_usage_statistics](https://gitee.com/openharmony/resourceschedule_device_usage_statistics)|foundation/resourceschedule/device_usage_statistics|[tangtiantian2021](https://gitee.com/tangtiantian2021)|
-|资源调度子系统|[resourceschedule_resource_schedule_service](https://gitee.com/openharmony/resourceschedule_resource_schedule_service)|foundation/resourceschedule/resource_schedule_service|[shire-yao](https://gitee.com/shire-yao)|
-|资源调度子系统|[resourceschedule_memmgr](https://gitee.com/openharmony/resourceschedule_memmgr)|foundation/resourceschedule/plugins/memmgr|[cbraham](https://gitee.com/cbraham)|
-|资源调度子系统|[resourceschedule_frame_aware_sched](https://gitee.com/openharmony/resourceschedule_frame_aware_sched)|foundation/resourceschedule/frame_aware_sched|[liuyoufang](https://gitee.com/liuyoufang)|
-|DFX子系统|[third_party_pyyaml](https://gitee.com/openharmony/third_party_pyyaml)|third_party/pyyaml|[guochuanqi](https://gitee.com/guochuanqi)|
-|定制子系统|[customization_enterprise_device_management](https://gitee.com/openharmony-sig/customization_enterprise_device_management)|customization_enterprise_device_management|[caiminggang](https://gitee.com/caiminggang)|
-|事件通知子系统|[notification_eventhandler](https://gitee.com/openharmony/notification_eventhandler)|base/notification/eventhandler|[zero-cyc](https://gitee.com/zero-cyc)|
-|事件通知子系统|[notification_distributed_notification_service](https://gitee.com/openharmony/notification_distributed_notification_service)|base/notification/distributed_notification_service|[zero-cyc](https://gitee.com/zero-cyc)|
-|事件通知子系统|[notification_common_event_service](https://gitee.com/openharmony/notification_common_event_service)|base/notification/common_event_service|[zero-cyc](https://gitee.com/zero-cyc)|
+| 部件名称 |代码仓|部件功能描述|
+| :----- | :----- | :----- |
+| 流水日志 |[hiviewdfx_hilog](https://gitee.com/openharmony/hiviewdfx_hilog)|HiLog是OpenHarmony日志系统，提供给系统框架、服务、以及应用打印日志，记录用户操作、系统运行状态等。|
+|轻量流水日志|[hiviewdfx_hilog_lite](https://gitee.com/openharmony/hiviewdfx_hilog_lite)|提供轻量系统和小型系统的流水日志功能。|
+|分布式跟踪| [hiviewdfx_hitrace](https://gitee.com/openharmony/hiviewdfx_hitrace) | 分布式追踪能力，提供性能trace打点接口、工具，以及分布式业务追踪打点接口。 |
+|hiview服务| [hiviewdfx_hiview](https://gitee.com/openharmony/hiviewdfx_hiview) | hiview服务，包含插件平台和维测插件，供系统各服务的打点能力。 |
+|轻量hiview服务|[hiviewdfx_hiview_lite](https://gitee.com/openharmony/hiviewdfx_hiview_lite)|提供DFX子系统整体的初始化功能，控制各组件按需启动。|
+|检测模式|[hiviewdfx_hichecker](https://gitee.com/openharmony/hiviewdfx_hichecker)|提供一套检测能力给开发者，用来检测应用开发过程容易忽略的部分问题。|
+|卡死检测|[hiviewdfx_hicollie](https://gitee.com/openharmony/hiviewdfx_hicollie)|卡死检测能力，为系统开发者提供超时检测、watchdog实现框架。|
+|应用事件打点|[hiviewdfx_hiappevent](https://gitee.com/openharmony/hiviewdfx_hiappevent)|北向生态事件打点能力，用于应用自定义打点，提供应用本地落盘、查询等功能。|
+|系统事件打点|[hiviewdfx_hisysevent](https://gitee.com/openharmony/hiviewdfx_hisysevent)|系统和南向生态事件打点能力，用于系统稳定性、性能、功耗、用户行为等大数据打点。|
+|轻量事件打点|[hiviewdfx_hievent_lite](https://gitee.com/openharmony/hiviewdfx_hievent_lite)|在轻量系统中提供故障、用户行为、功耗统计三类事件打点接口，支持对事件进行序列化。|
+|故障日志生成服务|[hiviewdfx_faultloggerd](https://gitee.com/openharmony/hiviewdfx_faultloggerd)|Native Crash故障日志采集服务，用于采集Native崩溃时必要的定性信息。|
+|系统信息导出|[hiviewdfx_hidumper](https://gitee.com/openharmony-sig/hiviewdfx_hidumper)|系统信息导出，用于导出系统CPU、内存、日志、SA Dump等功能。|
+|小型系统信息导出|[hiviewdfx_hidumper_mini](https://gitee.com/openharmony/hiviewdfx_hidumper_lite)|提供小型系统故障日志、内存、CPU等信息的导出功能。|
+|轻量系统信息导出|[hiviewdfx_hidumper_lite](https://gitee.com/openharmony/hiviewdfx_hidumper_lite)|提供轻量系统故障日志、内存、CPU等信息的导出功能。|
+|黑匣子|[hiviewdfx_blackbox](https://gitee.com/openharmony/hiviewdfx_blackbox)|提供故障信息获取，故障日志保存，死机重启功能。|
+|Perf性能调优|[hiperf](https://gitee.com/openharmony/developtools_hiperf)|hiperf是OpenHarmony为开发人员提供的用于调试的命令行工具，用于抓取特定程序或者系统的性能数据。|
+|profiler调试|[hiprofiler](https://gitee.com/openharmony/hiviewdfx_blackbox)|提供端侧调试调优能力，对接IDE profiler调试，包含内存调优、CPU调优、功耗调优、网络调优等调优能力的端侧数据采集。|
+|性能打点跟踪|[developtools_bytrace](https://gitee.com/openharmony/developtools_bytrace)|Trace性能调优，提供性能trace打点接口。|
+|调试连接器|[developtools_hdc](https://gitee.com/openharmony/developtools_hdc)|设备调试连接器，支持提供标准系统中上位机和下位机的调试shell、文件传输、端口转发等功能。|
+|轻量启动引导|[startup_bootstrap_lite](https://gitee.com/openharmony/startup_bootstrap_lite)|bootstrap启动引导组件，提供了各服务和功能的启动入口标识。在SAMGR启动时，会调用boostrap标识的入口函数，并启动系统服务。|
+|init|[startup_init_lite](https://gitee.com/openharmony/startup_init_lite)|启动引导模块，init进程，内核完成初始化后加载的第一个用户态进程，启动后解析/etc/init.cfg配置文件，并根据解析结果拉起其他系统关键进程，同时分别赋予其对应权限。|
+|应用孵化器|[startup_appspawn](https://gitee.com/openharmony/startup_appspawn)|应用孵化模块，appspawn进程，配合轻量级元能力框架子系统，通过轻量级IPC机制接收来自AMS的消息，根据消息解析结果启动元能力进程AbilityMain并赋予其对应权限。|
+|轻量升级框架|[update_ota_lite](https://gitee.com/openharmony/update_ota_lite)|OTA（Over the Air）提供对轻量级设备远程升级能力，基于提供的接口进行二次开发后，可以让您的设备轻松支持OTA升级能力。升级子系统对用户屏蔽了底层芯片的差异，对外提供了统一的升级接口。|
+|升级应用|[update_app](https://gitee.com/openharmony/update_app)|升级客户端应用运行于OHOS 上，提供与用户进行交互的界面，并进行升级操作。主要功能包括：<br/>1、触发升级服务组件检查可用的升级包，显示升级包检查的结果；<br/>2、下载升级包，显示下载的进度和状态；<br/>3、触发升级；<br/>4、升级完成后，显示升级后版本信息|
+|升级工具|[update_packaging_tools](https://gitee.com/openharmony/update_packaging_tools)|升级包制作工具是用于制作升级包的工具，功能主要包括：全量升级包制作、差分升级包制作以及变分区升级包制作。|
+|升级包安装|[update_updater](https://gitee.com/openharmony/update_updater)|升级包安装组件，其功能主要包括读取misc分区信息获取升级包状态，对升级包进行校验，确保升级包合法有效；然后从升级包中解析出升级的可执行程序，创建子进程并启动升级程序。具体升级的动作由升级脚本控制。|
+|升级服务|[update_updateservice](https://gitee.com/openharmony/update_updateservice)|升级服务组件是一个SA(System Ability)，由OHOS 的init 进程负责启动。主要功能包括：<br/>1、查找可用的升级包；<br/>2、下载升级包；<br/>3、设置/获取升级策略；<br/>4、触发升级|
+|系统账号|[account_os_account](https://gitee.com/openharmony/account_os_account)|提供系统帐号生命周期管理，包括系统帐号的创建、切换、删除、查询和修改。
+提供应用帐号的管理和应用账号OAuth鉴权能力，提供分布式帐号状态管理能力。|
+|无障碍|[accessibility](https://gitee.com/openharmony/accessibility)|提供在应用程序和辅助应用之间交换信息的机制，支持辅助应用开发框架，增强无障碍功能体验。|
+|企业设备管理|[customization_enterprise_device_management](https://gitee.com/openharmony-sig/customization_enterprise_device_management)|提供企业对设备进行管理和配置的API，支持企业MDM应用对设备的管控。|
+|配置策略|[config_policy](https://gitee.com/openharmony/customization_config_policy)|为各业务模块提供获取各配置层级的配置目录或配置文件路径的接口。|
 
 ## SIG组成员
 
@@ -108,26 +77,12 @@
 |DFX子系统|[shenchenkai](https://gitee.com/shenchenkai)|[mail](shenchenkai@huawei.com)|
 |DFX子系统|[guochuanqi](https://gitee.com/guochuanqi)|[mail](guochuanqi@huawei.com)|
 |DFX子系统|[qidechun](https://gitee.com/pcwlno1)|[mail](qidechun@huawei.com)|
-|时间子系统|[mangtsang](https://gitee.com/mangtsang)|[mail](mang.tsang@huawei.com)|
-|输入法子系统|[illybyy](https://gitee.com/illybyy)|[mail](baoyayong@huawei.com)|
-|主题框架子系统|[illybyy](https://gitee.com/illybyy)|[mail](baoyayong@huawei.com)|
-|打印子系统|[litao33](https://gitee.com/litao33)|[mail](litao33@huawei.com)|
-|上传下载子系统|[liuwenhui_ddmp](https://gitee.com/liuwenhui_ddmp)|[mail](anna.liuwenhui@huawei.com)|
 |启动恢复子系统|[handyohos](https://gitee.com/handyohos)|[mail](zhangxiaotian@huawei.com)|
 |启动恢复子系统|[derek520](https://gitee.com/derek520)|[mail](wtweitao.wei@huawei.com)|
 |启动恢复子系统|[mytide](https://gitee.com/mytide)|[mail](max.liuwei@huawei.com)|
 |升级服务子系统|[ailorna](https://gitee.com/ailorna)|[mail](hehuan1@huawei.com)|
-|事件通知子系统|[autumn330](https://gitee.com/autumn330)|[mail](hw.liuwei@huawei.com)|
 |账号子系统|[verystone](https://gitee.com/verystone)|[mail](xudaqing@huawei.com)|
 |无障碍软件服务子系统|[dubingjian](https://gitee.com/bj1010)|[mail](dubingjian@huawei.com)|
-|DeviceProfile子系统|[lijiarun](https://gitee.com/lijiarun)|[mail](lijiarun@huawei.com)|
-|DeviceProfile子系统|[jiacan](https://gitee.com/cangegegege)|[mail](jiacan@huawei.com)|
-|资源调度子系统|[chenmingJay](https://gitee.com/chenmingJay)|[mail](chenming48@huawei.com)|
-|资源调度子系统|[wanglai-yao](https://gitee.com/wanglai-yao)|[mail](yaowanglai@huawei.com)|
-|资源调度子系统|[tangtiantian2021](https://gitee.com/tangtiantian2021)|[mail](tangchengkai@huawei.com)|
-|资源调度子系统|[shire-yao](https://gitee.com/shire-yao)|[mail](yaoyanxia1@huawei.com)|
-|资源调度子系统|[cbraham](https://gitee.com/cbraham)|[mail](suncai1@huawei.com)|
-|资源调度子系统|[wang2002xu](https://gitee.com/wang2002xu)|[mail](wangxu44@huawei.com)|
 |定制子系统|[jameshw](https://gitee.com/jameshw)|[mail](jameslee@huawei.com)|
 
 ### 会议
@@ -137,6 +92,6 @@
 
 ### 联系方式(可选)
 
-- 邮件列表：stesen.ma@huawei.com;liyu1@huawei.com;zengzhi5@huawei.com;yaomanhai@huawei.com;shenchenkai@huawei.com;guochuanqi@huawei.com;litao33@huawei.com;lijiarun@huawei.com;zhangxiaotian@huawei.com;wtweitao.wei@huawei.com;max.liuwei@huawei.com;hehuan1@huawei.com;hw.liuwei@huawei.com;xudaqing@huawei.com;qidechun@huawei.com
+- 邮件列表：stesen.ma@huawei.com;liyu1@huawei.com;zengzhi5@huawei.com;yaomanhai@huawei.com;shenchenkai@huawei.com;zhangxiaotian@huawei.com;wtweitao.wei@huawei.com;hehuan1@huawei.com;hw.liuwei@huawei.com;xudaqing@huawei.com;qidechun@huawei.com
 - Zulip群组：https://zulip.openharmony.cn
 - 微信群：NA

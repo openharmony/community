@@ -8,87 +8,56 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### Work Goals
 Provide simple and effective Basic Software Services for Open Harmony Operating System; By modular design, Basic Software Services can support various kinds of devices, scaling from Level 0 to Level 5.
 
+OpenHarmony Basic Software Services technology stack scope is shown in the following figure:
+
+![image-20220722232439502](./images/overview.png)
+
 ### Work Scope
 Basic Software Services includes the following sub-systems:
 | Name|Explanation|
 | :----- | :----- |
-|Startup System|Booting OpenHarmony, and provide init process manager and system parameters for the whole system|
-|Upgrade System|Provide Operating System upgrade capability|
-|DFX System|Design-for-Test, Design-for-Reliability and Design-for-Manufacturing|
-|Event Notification System|Manage system and application notifications|
-|Resource Management System|Manage system resources, including CPU, IO and memory，Background task manager，Workscheduler|
-|Account Management System|Manage user accounts for Open Harmony|
-|Barrier Free System|Provide barrier free common capabilities for Open Harmony|
-|Time System|Provide time,timezone and timer capability|
-|Input Method System|Provide input method framework and the management service|
-|Theme System|Provide wallpaper framework and the lockscreen management service|
-|Print System|Provide printing capability|
-|Request System|Provide file upload and download capabilities|
-|Miscellaneous Software System|Provide some miscellaneous services for Open Harmony|
+|Startup SubSystem|Booting OpenHarmony, and provide init process manager and system parameters for the whole system|
+|Upgrade SubSystem|Provide Operating System upgrade capability|
+|DFX SubSystem|Design-for-Test, Design-for-Reliability and Design-for-Manufacturing|
+|Account Management SubSystem|Manage user accounts for Open Harmony|
+|Barrier Free SubSystem|Provide barrier free common capabilities for Open Harmony|
+|Customization SubSystem|Provide customization framework for OpenHarmony|
 
 ## The repositories
 
-|Subsystem|Repository|Code Path|Owner|
-| :----- | :----- | :----- | :----- |
-|HiviewDFX|[hiviewdfx_hievent_lite](https://gitee.com/openharmony/hiviewdfx_hievent_lite)|base/hiviewdfx/hievent_lite|[stesen](https://gitee.com/stesen)|
-|HiviewDFX|[hiviewdfx_hilog_lite](https://gitee.com/openharmony/hiviewdfx_hilog_lite)|base/hiviewdfx/hilog_lite|[stesen](https://gitee.com/stesen)|
-|HiviewDFX|[hiviewdfx_hiview_lite](https://gitee.com/openharmony/hiviewdfx_hiview_lite)|base/hiviewdfx/hiview_lite|[stesen](https://gitee.com/stesen)|
-|HiviewDFX|[third_party_curl](https://gitee.com/openharmony/third_party_curl)|third_party/curl|[stesen](https://gitee.com/stesen)|
-|HiviewDFX|[third_party_nghttp2](https://gitee.com/openharmony/third_party_nghttp2)|third_party/nghttp2|[zhuwenchao](https://gitee.com/xautosoft)|
-|netmanager|[third_party_libwebsockets](https://gitee.com/openharmony/third_party_libwebsockets)|third_party/libwebsockets|[zhuwenchao](https://gitee.com/xautosoft)|
-|netmanager|[third_party_iptables](https://gitee.com/openharmony-sig/third_party_iptables)|third_party/iptables|[zhuwenchao](https://gitee.com/xautosoft)|
-|netmanager|[third_party_libmnl](https://gitee.com/openharmony-sig/third_party_libmnl)|third_party/libmnl|[zhuwenchao](https://gitee.com/xautosoft)|
-|netmanager|[third_party_libnetfilter_conntrack](https://gitee.com/openharmony-sig/third_party_libnetfilter_conntrack)|third_party/libnetfilter/conntrack|[zhuwenchao](https://gitee.com/xautosoft)|
-|netmanager|[third_party_libnfnetlink](https://gitee.com/openharmony-sig/third_party_libnfnetlink)|third_party/libnfnetlink|[zhuwenchao](https://gitee.com/xautosoft)|
-|netmanager|[third_party_libnftnl](https://gitee.com/openharmony-sig/third_party_libnftnl)|third_party/libnftnl|[zhuwenchao](https://gitee.com/xautosoft)|
-|HiviewDFX|[hiviewdfx_faultloggerd](https://gitee.com/openharmony/hiviewdfx_faultloggerd)|base/hiviewdfx/faultloggerd|[maplestorys](https://gitee.com/maplestorys)|
-|HiviewDFX|[hiviewdfx_hiappevent](https://gitee.com/openharmony/hiviewdfx_hiappevent)|base/hiviewdfx/hiappevent|[stesen](https://gitee.com/stesen)|
-|HiviewDFX|[hiviewdfx_hichecker](https://gitee.com/openharmony/hiviewdfx_hichecker)|base/hiviewdfx/hichecker|[jiangweizheng](https://gitee.com/jeyogg)|
-|HiviewDFX|[hiviewdfx_hidumper](https://gitee.com/openharmony-sig/hiviewdfx_hidumper)|base/hiviewdfx/hidumper|[jiangweizheng](https://gitee.com/jeyogg)|
-|HiviewDFX|[hiviewdfx_hilog](https://gitee.com/openharmony/hiviewdfx_hilog)|base/hiviewdfx/hilog|[stesen](https://gitee.com/stesen)|
-|HiviewDFX|[hiviewdfx_hisysevent](https://gitee.com/openharmony/hiviewdfx_hisysevent)|base/hiviewdfx/hisysevent|[yaomanhai](https://gitee.com/yaomanhai)|
-|HiviewDFX|[hiviewdfx_hiview](https://gitee.com/openharmony/hiviewdfx_hiview)|base/hiviewdfx/hiview|[maplestorys](https://gitee.com/maplestorys)|
-|HiviewDFX|[third_party_libunwind](https://gitee.com/openharmony/third_party_libunwind)|third_party/libunwind|[maplestorys](https://gitee.com/maplestorys)|
-| HiviewDFX           | [hiviewdfx_blackbox](https://gitee.com/openharmony/hiviewdfx_blackbox) | base/hiviewdfx/blackbox                           |[stesen](https://gitee.com/stesen)|
-| HiviewDFX           | [hiviewdfx_hidumper_lite](https://gitee.com/openharmony/hiviewdfx_hidumper_lite) | base/hiviewdfx/hidumper_lite                      | [stesen](https://gitee.com/stesen)           |
-| HiviewDFX           | [hiviewdfx_hitrace](https://gitee.com/openharmony/hiviewdfx_hitrace) | base/hiviewdfx/hitrace                            | [yaomanhai](https://gitee.com/yaomanhai)     |
-| HiviewDFX           | [hiviewdfx_hicollie](https://gitee.com/openharmony/hiviewdfx_hicollie) | base/hiviewdfx/hicollie                           | [ericlee](https://gitee.com/ericlee)         |
-| HiviewDFX           | [developtools_bytrace](https://gitee.com/openharmony/developtools_bytrace) | developtools/bytrace                           | [leizhenzang](https://gitee.com/leizhenzang)         |
-| HiviewDFX           | [third_party_ejdb](https://gitee.com/openharmony/third_party_ejdb) | third_party/ejdb                                  | [ericlee](https://gitee.com/ericlee)         |
-| HiviewDFX           | [third_party_iowow](https://gitee.com/openharmony/third_party_iowow) | third_party/iowow                                 | [ericlee](https://gitee.com/ericlee)         |
-|StartUp|[startup_appspawn_lite](https://gitee.com/openharmony/startup_appspawn_lite)|base/startup/appspawn_lite|[handyohos](https://gitee.com/handyohos)|
-|StartUp|[startup_bootstrap_lite](https://gitee.com/openharmony/startup_bootstrap_lite)|base/startup/bootstrap_lite|[handyohos](https://gitee.com/handyohos)|
-|StartUp|[startup_init_lite](https://gitee.com/openharmony/startup_init_lite)|base/startup/init_lite|[handyohos](https://gitee.com/handyohos)|
-|StartUp|[startup_syspara_lite](https://gitee.com/openharmony/startup_syspara_lite)|base/startup/syspara_lite|[handyohos](https://gitee.com/handyohos)|
-|StartUp|[startup_appspawn](https://gitee.com/openharmony/startup_appspawn)|base/startup/appspawn_standard|[handyohos](https://gitee.com/handyohos)|
-|Update|[update_ota_lite](https://gitee.com/openharmony/update_ota_lite)|base/update/ota_lite|[ailorna](https://gitee.com/ailorna)|
-|Update|[update_update_app](https://gitee.com/openharmony/update_update_app)|base/update/update_app|[ailorna](https://gitee.com/ailorna)|
-|Update|[update_packaging_tools](https://gitee.com/openharmony/update_packaging_tools)|base/update/packaging_tools|[ailorna](https://gitee.com/ailorna)|
-|Update|[update_updater](https://gitee.com/openharmony/update_updater)|base/update/updater|[ailorna](https://gitee.com/ailorna)|
-|Update|[update_updateservice](https://gitee.com/openharmony/update_updateservice)|base/update/updateservice|[ailorna](https://gitee.com/ailorna)|
-|Update|[third_party_bzip2](https://gitee.com/openharmony/third_party_bzip2)|third_party/bzip2|[ailorna](https://gitee.com/ailorna)|
-|Update|[third_party_lz4](https://gitee.com/openharmony/third_party_lz4)|third_party/lz4|[ailorna](https://gitee.com/ailorna)|
-|Time|[time_time_service](https://gitee.com/openharmony/time_time_service)|base/time/time_service|[mangtsang](https://gitee.com/mangtsang)|
-|InputMethod|[inputmethod_imf](https://gitee.com/openharmony/inputmethod_imf)|base/inputmethod/imf|[illybyy](https://gitee.com/illybyy)|
-|Theme|[theme_wallpaper_mgr](https://gitee.com/openharmony/theme_wallpaper_mgr)|base/theme/wallpaper_mgr|[illybyy](https://gitee.com/illybyy)|
-|Theme|[theme_screenlock_mgr](https://gitee.com/openharmony/theme_screenlock_mgr)|base/theme/screenlock_mgr|[illybyy](https://gitee.com/illybyy)|
-|Print|[print_print_fwk](https://gitee.com/openharmony-sig/print_print_fwk)|base/print/print_fwk|[litao33](https://gitee.com/litao33)|
-|Request|[request_request](https://gitee.com/openharmony/request_request)|base/request/request|[liuwenhui_ddmp](https://gitee.com/liuwenhui_ddmp)|
-|Account|[account_os_account](https://gitee.com/openharmony/account_os_account)|base/account/os_account|[verystone](https://gitee.com/verystone)|
-|Account|[account_app_account](https://gitee.com/openharmony-sig/account_app_account)|base/account/app_account|[verystone](https://gitee.com/verystone)|
-|accessibility|[accessibility](https://gitee.com/openharmony/accessibility)|base/accessibility|[dubingjian](https://gitee.com/bj1010)|
-|DeviceProfile|[device_profile_core](https://gitee.com/openharmony/device_profile_core)|foundation/deviceprofile/device_profile_core|[lijiarun](https://gitee.com/lijiarun)|
-|DeviceProfile|[device_profile_core](https://gitee.com/openharmony/device_profile_core)|foundation/deviceprofile/device_profile_core|[jiacan](https://gitee.com/cangegegege)|
-|ResourceSchedule|[resourceschedule_work_scheduler](https://gitee.com/openharmony/resourceschedule_work_scheduler)|foundation/resourceschedule/work_scheduler|[chenmingJay](https://gitee.com/chenmingJay)|
-|ResourceSchedule|[resourceschedule_background_task_mgr](https://gitee.com/openharmony/resourceschedule_background_task_mgr)|foundation/resourceschedule/background_task_mgr|[wanglai-yao](https://gitee.com/wanglai-yao)|
-|ResourceSchedule|[resourceschedule_device_usage_statistics](https://gitee.com/openharmony/resourceschedule_device_usage_statistics)|foundation/resourceschedule/device_usage_statistics|[tangtiantian2021](https://gitee.com/tangtiantian2021)|
-|ResourceSchedule|[resourceschedule_resource_schedule_service](https://gitee.com/openharmony/resourceschedule_resource_schedule_service)|foundation/resourceschedule/resource_schedule_service|[shire-yao](https://gitee.com/shire-yao)|
-|ResourceSchedule|[resourceschedule_memmgr](https://gitee.com/openharmony/resourceschedule_memmgr)|foundation/resourceschedule/plugins/memmgr|[cbraham](https://gitee.com/cbraham)|
-|ResourceSchedule|[resourceschedule_frame_aware_sched](https://gitee.com/openharmony/resourceschedule_frame_aware_sched)|foundation/resourceschedule/frame_aware_sched|[liuyoufang](https://gitee.com/liuyoufang)|
-|HiviewDFX|[third_party_pyyaml](https://gitee.com/openharmony/third_party_pyyaml)|third_party/pyyaml|[guochuanqi](https://gitee.com/guochuanqi)|
-|Notification|[notification_eventhandler](https://gitee.com/openharmony/notification_eventhandler)|base/notification/eventhandler|[zero-cyc](https://gitee.com/zero-cyc)|
-|Notification|[notification_distributed_notification_service](https://gitee.com/openharmony/notification_distributed_notification_service)|base/notification/distributed_notification_service|[zero-cyc](https://gitee.com/zero-cyc)|
-|Notification|[notification_common_event_service](https://gitee.com/openharmony/notification_common_event_service)|base/notification/common_event_service|[zero-cyc](https://gitee.com/zero-cyc)|
+| Component Name               | Repository                                                   | Component Description                                        |
+| :--------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
+| System Log                   | [hiviewdfx_hilog](https://gitee.com/openharmony/hiviewdfx_hilog) | HiLog provides logging utilities for system services and applications. |
+| Log for Lite                 | [hiviewdfx_hilog_lite](https://gitee.com/openharmony/hiviewdfx_hilog_lite) | Logging system for OpenHarmony mini and small system.        |
+| Calling Tracer               | [hiviewdfx_hitrace](https://gitee.com/openharmony/hiviewdfx_hitrace) | Distributed tracing utilities for performance debugging.     |
+| Log&Event Service            | [hiviewdfx_hiview](https://gitee.com/openharmony/hiviewdfx_hiview) | hiview component provides logging statistic utilities for business intelligence. It has a plugin platform for extending. |
+| Log&Event Task for Lite      | [hiviewdfx_hiview_lite](https://gitee.com/openharmony/hiviewdfx_hiview_lite) | hivew service for OpenHarmony mini and small system.         |
+| Checking Mode                | [hiviewdfx_hichecker](https://gitee.com/openharmony/hiviewdfx_hichecker) | hicheck is used to help detect faults may be encountered during application development. |
+| Process Stuck Detect         | [hiviewdfx_hicollie](https://gitee.com/openharmony/hiviewdfx_hicollie) | hicollie provides process stuck detection and watchdog framework for developers. |
+| Application Event            | [hiviewdfx_hiappevent](https://gitee.com/openharmony/hiviewdfx_hiappevent) | hiappevent provides event reporting, persisting and querying capabilities for application development. |
+| System Event                 | [hiviewdfx_hisysevent](https://gitee.com/openharmony/hiviewdfx_hisysevent) | hisysevent provides event reporting, persisting and querying capabilities for system development. |
+| System Event for Lite        | [hiviewdfx_hievent_lite](https://gitee.com/openharmony/hiviewdfx_hievent_lite) | hievent_lite provides fault logging, user activity and power comsumption statistics for mini and small system. |
+| Fault Logger                 | [hiviewdfx_faultloggerd](https://gitee.com/openharmony/hiviewdfx_faultloggerd) | faultloggerd can collect logs when native processes crash.   |
+| System Info Dump             | [hiviewdfx_hidumper](https://gitee.com/openharmony-sig/hiviewdfx_hidumper) | hidumper can export information about CPU, memory and System Abilities. |
+| System Info Dump for Mini    | [hiviewdfx_hidumper_mini](https://gitee.com/openharmony/hiviewdfx_hidumper_lite) | hidumper for OpenHarmony small system.                       |
+| System Info Dump for Lite    | [hiviewdfx_hidumper_lite](https://gitee.com/openharmony/hiviewdfx_hidumper_lite) | hidumper for OpenHarmony mini system.                        |
+| Fault log for kernel         | [hiviewdfx_blackbox](https://gitee.com/openharmony/hiviewdfx_blackbox) | blackbox can help collecting logs when system panic.         |
+| HiPerf                       | [hiperf](https://gitee.com/openharmony/developtools_hiperf)  | hiperf can help developers to collect performace logs.       |
+| Profiler                     | [hiprofiler](https://gitee.com/openharmony/hiviewdfx_blackbox) | profiler is used by IDE for performance optimization.        |
+| Trace Optimizer              | [developtools_bytrace](https://gitee.com/openharmony/developtools_bytrace) | bytrace proivdes performance tracing API for applications.   |
+| Device Debugging Collector   | [developtools_hdc](https://gitee.com/openharmony/developtools_hdc) | hdc is OpenHarmony device debugging collector.               |
+| Bootstrapping for Lite       | [startup_bootstrap_lite](https://gitee.com/openharmony/startup_bootstrap_lite) | bootstrap provides starting API to bootstrap system abilities for OpenHarmony lite system. |
+| init                         | [startup_init_lite](https://gitee.com/openharmony/startup_init_lite) | init is used to start all userspace native processes.        |
+| Application Spawn            | [startup_appspawn](https://gitee.com/openharmony/startup_appspawn) | Appspawn is used to spawn application processes.             |
+| Updating Framework for Lite  | [update_ota_lite](https://gitee.com/openharmony/update_ota_lite) | ota_lite provides OTA updating framework for OpenHarmony mini and small system. |
+| Updating App                 | [update_app](https://gitee.com/openharmony/update_app)       | update_app provides user interfaces for end users to upgrade OpenHarmony devices. |
+| Update Pakaging Tools        | [update_packaging_tools](https://gitee.com/openharmony/update_packaging_tools) | Update Packaging Tools provide tools to build full OTA packages and differential packages. |
+| Update Package Installer     | [update_updater](https://gitee.com/openharmony/update_updater) | Update Package Installer can verify OTA package, and install the package to the OpenHarmony device. |
+| Updating Service             | [update_updateservice](https://gitee.com/openharmony/update_updateservice) | Updating Service can query and download OTA packages.        |
+| Account Manager              | [account_os_account](https://gitee.com/openharmony/account_os_account) | Account Manager can create/delete, login/logout and query system accounts. It can also manage application accounts and distributed accounts. |
+| Barrier Free Service         | [accessibility](https://gitee.com/openharmony/accessibility) | Barrier Free Service can provide information exchange framework between application and accessibilities applications. |
+| Enterprise Device Management | [customization_enterprise_device_management](https://gitee.com/openharmony-sig/customization_enterprise_device_management) | Enterprise Device Management provide API for enterprise applications to manager OpenHarmony devices in scale. |
+| Customization Framework      | [config_policy](https://gitee.com/openharmony/customization_config_policy) | Customization Framework provide API for accessing configuration files with priority. |
 
 ## SIG Members
 
@@ -106,26 +75,13 @@ Basic Software Services includes the following sub-systems:
 |HiviewDFX|[shenchenkai](https://gitee.com/shenchenkai)|[mail](shenchenkai@huawei.com)|
 |HiviewDFX|[guochuanqi](https://gitee.com/guochuanqi)|[mail](guochuanqi@huawei.com)|
 |HiviewDFX|[qidechun](https://gitee.com/pcwlno1)|[mail](qidechun@huawei.com)|
-|Time|[mangtsang](https://gitee.com/mangtsang)|[mail](mang.tsang@huawei.com)|
-|InputMethod|[illybyy](https://gitee.com/illybyy)|[mail](baoyayong@huawei.com)|
-|Theme|[illybyy](https://gitee.com/illybyy)|[mail](baoyayong@huawei.com)|
-|Print|[litao33](https://gitee.com/litao33)|[mail](litao33@huawei.com)|
-|Request|[liuwenhui_ddmp](https://gitee.com/liuwenhui_ddmp)|[mail](anna.liuwenhui@huawei.com)|
 |StartUp|[handyohos](https://gitee.com/handyohos)|[mail](zhangxiaotian@huawei.com)|
 |StartUp|[derek520](https://gitee.com/derek520)|[mail](wtweitao.wei@huawei.com)|
 |StartUp|[mytide](https://gitee.com/mytide)|[mail](max.liuwei@huawei.com)|
 |Update|[ailorna](https://gitee.com/ailorna)|[mail](hehuan1@huawei.com)|
-|Notification|[autumn330](https://gitee.com/autumn330)|[mail](hw.liuwei@huawei.com)|
 |Account|[verystone](https://gitee.com/verystone)|[mail](xudaqing@huawei.com)|
-|accessibility|[dubingjian](https://gitee.com/bj1010)|[mail](dubingjian@huawei.com)|
-|DeviceProfile|[lijiarun](https://gitee.com/lijiarun)|[mail](lijiarun@huawei.com)|
-|DeviceProfile|[jiacan](https://gitee.com/cangegegege)|[mail](jiacan@huawei.com)|
-|ResourceSchedule|[chenmingJay](https://gitee.com/chenmingJay)|[mail](chenming48@huawei.com)|
-|ResourceSchedule|[wanglai-yao](https://gitee.com/wanglai-yao)|[mail](yaowanglai@huawei.com)|
-|ResourceSchedule|[tangtiantian2021](https://gitee.com/tangtiantian2021)|[mail](tangchengkai@huawei.com)|
-|ResourceSchedule|[shire-yao](https://gitee.com/shire-yao)|[mail](yaoyanxia1@huawei.com)|
-|ResourceSchedule|[cbraham](https://gitee.com/cbraham)|[mail](suncai1@huawei.com)|
-|ResourceSchedule|[wang2002xu](https://gitee.com/wang2002xu)|[mail](wangxu44@huawei.com)|
+|Barrier Free|[dubingjian](https://gitee.com/bj1010)|[mail](dubingjian@huawei.com)|
+| Customization |[jameshw](https://gitee.com/jameshw)|[mail](jameslee@huawei.com)|
 
 ### Meetings
  - Meeting time: Wednesday at 14:00 o'clock, biweekly
@@ -134,6 +90,6 @@ Basic Software Services includes the following sub-systems:
 
 ### Contact (optional)
 
-- Mailing list：stesen.ma@huawei.com;liyu1@huawei.com;zengzhi5@huawei.com;yaomanhai@huawei.com;shenchenkai@huawei.com;guochuanqi@huawei.com;litao33@huawei.com;lijiarun@huawei.com;zhangxiaotian@huawei.com;wtweitao.wei@huawei.com;max.liuwei@huawei.com;hehuan1@huawei.com;hw.liuwei@huawei.com;xudaqing@huawei.com;qidechun@huawei.com
+- Mailing list：stesen.ma@huawei.com;liyu1@huawei.com;zengzhi5@huawei.com;yaomanhai@huawei.com;shenchenkai@huawei.com;guochuanqi@huawei.com;zhangxiaotian@huawei.com;wtweitao.wei@huawei.com;hehuan1@huawei.com;hw.liuwei@huawei.com;xudaqing@huawei.com;qidechun@huawei.com
 - Zulip group: https://zulip.openharmony.cn
 - Wechat group：NA
