@@ -408,3 +408,4 @@
 |406|request_request|base/request/request|https://gitee.com/liuwenhui_ddmp|anna.liuwenhui@huawei.com|https://gitee.com/illybyy|baoyayong@huawei.com|SIG_BasicSoftwareService|
 |407|theme_screenlock_mgr|base/theme/screenlock_mgr|https://gitee.com/illybyy|baoyayong@huawei.com| | |SIG_BasicSoftwareService|
 |408|theme_wallpaper_mgr|base/theme/wallpaper_mgr|https://gitee.com/illybyy|baoyayong@huawei.com| | |SIG_BasicSoftwareService|
+|409|applications_permission_manager|applications/standard/permission_manager|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_SystemApplication|
