@@ -34,6 +34,7 @@ Defines and builds OpenHarmony system applications, applies for and implements i
   - applications_contactsdata: https://gitee.com/openharmony-sig/applications_contactsdata
   - applications_notes: https://gitee.com/openharmony-sig/applications_notes
   - applications_app_samples: https://gitee.com/openharmony/applications_app_samples
+  - applications_permission_manager: https://gitee.com/openharmony/applications_permission_manager
 
 ## SIG Members
 
@@ -56,6 +57,7 @@ Defines and builds OpenHarmony system applications, applies for and implements i
 - @zhuchengfeng1(https://gitee.com/zhuchengfeng1)
 - @yangpeng85(https://gitee.com/yangpeng85)
 - @xuchangzhou(https://gitee.com/xuchangzhou)
+- @jiang-xiaofeng(https://gitee.com/jiang-xiaofeng)
 
  ### Meetings
 - Meeting time：monthly meeting
