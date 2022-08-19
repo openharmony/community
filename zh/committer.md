@@ -87,7 +87,7 @@
 |85|third_party_icu|third_party/icu|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
 |86|third_party_iniparser|third_party/iniparser|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_Media|
 |87|third_party_jerryscript|third_party/jerryscript|https://gitee.com/godmiaozi|pengbiao1@huawei.com| | |SIG_CompileRuntime|
-|88|third_party_libjpeg|third_party/libjpeg|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_GraphicsandMedia|
+|88|third_party_libjpeg-turbo|third_party/libjpeg-turbo|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_GraphicsandMedia|
 |89|third_party_libpng|third_party/libpng|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_GraphicsandMedia|
 |90|third_party_libuuid|third_party/libuuid|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_Security|
 |91|third_party_ltp|third_party/ltp|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
