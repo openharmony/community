@@ -150,7 +150,7 @@
 |148|communication_dsoftbus|foundation/communication/dsoftbus|https://gitee.com/maerlii|maerli@huawei.com|https://gitee.com/zianed <br> https://gitee.com/waibozie <br> https://gitee.com/duxbbo|houxuanzhe@huawei.com <br> songzhengteng@huawei.com <br> duxiaobo@huawei.com|SIG_SoftBus|
 |149|communication_ipc|foundation/communication/ipc|https://gitee.com/fanxiaoyu321|fanxiaoyu3@huawei.com|https://gitee.com/Xi_Yuhao <br> https://gitee.com/maerlii|xiyuhao@huawei.com <br> maerli@huawei.com|SIG_SoftBus|
 |150|communication_wifi|foundation/communication/wifi|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/fenis-two-thousand-and-one <br> https://gitee.com/zf0719|lujunxin@huawei.com <br> hw.zhangfeng@huawei.com|SIG_SoftBus|
-|151|distributeddatamgr_datamgr|foundation/distributeddatamgr/distributeddatamgr|https://gitee.com/widecode|wanghancai@huawei.com| | |SIG_DataManagement|
+|151|distributeddatamgr_datamgr_service|foundation/distributeddatamgr/datamgr_service|https://gitee.com/widecode|wanghancai@huawei.com| | |SIG_DataManagement|
 |152|distributeddatamgr_file|foundation/distributeddatamgr/distributedfile|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com| | |SIG_DataManagement|
 |153|ability_dmsfwk|foundation/ability/dmsfwk|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/cangegegege <br> https://gitee.com/majiajun90533|jiacan@huawei.com <br> majiajun@huawei.com|SIG_ApplicationFramework|
 |154|systemabilitymgr_safwk|foundation/systemabilitymgr/safwk|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/cangegegege <br> https://gitee.com/majiajun90533|jiacan@huawei.com <br> majiajun@huawei.com|SIG_ApplicationFramework|

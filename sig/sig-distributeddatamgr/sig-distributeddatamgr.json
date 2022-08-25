@@ -8,7 +8,8 @@
                 "https://gitee.com/openharmony/distributeddatamgr_data_share",
                 "https://gitee.com/openharmony/distributeddatamgr_kv_store",
                 "https://gitee.com/openharmony/distributeddatamgr_data_object",
-                "https://gitee.com/openharmony/distributeddatamgr_pasteboard"
+                "https://gitee.com/openharmony/distributeddatamgr_pasteboard",
+                "https://gitee.com/openharmony/distributeddatamgr_datamgr_service"
             ],
             "project-path": [
                 "foundation/distributeddatamgr/relational_store",
@@ -16,7 +17,8 @@
                 "foundation/distributeddatamgr/data_share",
                 "foundation/distributeddatamgr/kv_store",
                 "foundation/distributeddatamgr/data_object",
-                "foundation/distributeddatamgr/pasteboard"
+                "foundation/distributeddatamgr/pasteboard",
+                "https://gitee.com/openharmony/distributeddatamgr_datamgr_service"
             ]
         }
     ]
