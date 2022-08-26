@@ -25,7 +25,7 @@
 |WLAN服务| 提供WLAN基础功能，包括WLAN STA、AP、P2P等功能的管理服务。为应用和系统服务提供用可以通过WLAN和其他设备互联互通|communication_wifi<br>communication_wifi_lite|
 |WPA服务|提供WiFi和P2P相关认证协议功能，包含WPA和HostAPD两个主要部分。|third_party_wpa_supplicant|
 |蓝牙服务|提供蓝牙profile服务、蓝牙协议栈等相关能力。<br>为设备提供接入与使用Bluetooth的相关接口，包括BR配对连接，BLE广播、扫描，BLE设备gatt相关的操作及功能。|communication_bluetooth|
-|NFC服务|提供有源标签读写能力，包括NFC标签读写、TAG等服务能力。|communication_nfc|
+|NFC服务|提供NFC标签的读写能力，卡模拟能力等服务能力。|communication_nfc<br>communication_connected_nfc_tag|
 |位置服务|提供GNSS、网络定位、地理编码转换等位置服务框架能力。|base_location|
 
 
