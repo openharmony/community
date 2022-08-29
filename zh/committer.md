@@ -410,3 +410,5 @@
 |408|theme_wallpaper_mgr|base/theme/wallpaper_mgr|https://gitee.com/illybyy|baoyayong@huawei.com| | |SIG_BasicSoftwareService|
 |409|applications_permission_manager|applications/standard/permission_manager|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_SystemApplication|
 |410|communication_connected_nfc_tag|foundation/communication/connected_nfc_tag|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/knpingan|zhangxiuping@huawei.com|SIG_SoftBus|
+|411|third_party_llvm-project|third_party/llvm-project|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
+|412|third_party_lldb-mi|third_party/lldb-mi||https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
