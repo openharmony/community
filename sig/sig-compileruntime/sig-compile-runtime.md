@@ -55,8 +55,8 @@
   - third_party_jerryscript: https://gitee.com/openharmony/third_party_jerryscript
   - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
 
-  - third_party_llvm-project: https://gitee.com/openharmony-sig/third_party_llvm-project
-  - third_party_lldb-mi: https://gitee.com/openharmony-sig/third_party_lldb-mi
+  - third_party_llvm-project: https://gitee.com/openharmony/third_party_llvm-project
+  - third_party_lldb-mi: https://gitee.com/openharmony/third_party_lldb-mi
   - third_party_mingw-w64: https://gitee.com/openharmony/third_party_mingw-w64
   - third_party_musl: https://gitee.com/openharmony/third_party_musl
   - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
