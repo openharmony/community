@@ -412,3 +412,4 @@
 |410|communication_connected_nfc_tag|foundation/communication/connected_nfc_tag|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/knpingan|zhangxiuping@huawei.com|SIG_SoftBus|
 |411|third_party_llvm-project|third_party/llvm-project|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
 |412|third_party_lldb-mi|third_party/lldb-mi||https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
+|413|third_party_opencl-headers|third_party/opencl|https://gitee.com/sunsuodong|sunsuodong@huawei.com|https://gitee.com/leoxc|chenxu25@huawei.com|SIG-AI-Framework|
