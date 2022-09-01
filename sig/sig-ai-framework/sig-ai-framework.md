@@ -38,7 +38,7 @@ Support Special AI chip to connect to MindSpore Lite.
   - MindSpore: https://gitee.com/openharmony/third_party_mindspore
   - DLLite-micro: https://gitee.com/openharmony-sig/dllite_micro
   - FlatBuffers: https://gitee.com/openharmony/third_party_flatbuffers
-  - OpenCL-Headers: https://gitee.com/openharmony-sig/third_party_opencl-headers
+  - OpenCL-Headers: https://gitee.com/openharmony/third_party_opencl-headers
   - OpenCL-CLHPP: https://gitee.com/openharmony-sig/third_party_opencl-clhpp
 
 ## SIG Members
