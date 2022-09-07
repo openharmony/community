@@ -717,7 +717,8 @@
                 "https://gitee.com/openharmony/security_device_security_level",
                 "https://gitee.com/openharmony/developtools_hapsigner",
                 "https://gitee.com/openharmony-sig/security_certificate_manager",
-                "https://gitee.com/openharmony-sig/security_privacy_center"
+                "https://gitee.com/openharmony-sig/security_privacy_center",
+                "https://gitee.com/openharmony-sig/security_crypto_framework"
             ],
             "project-path": [
                 "base/security/device_auth",
@@ -727,6 +728,7 @@
                 "base/security/appverify",
                 "base/security/permission_lite",
                 "base/security/access_token",
+                "base/security/crypto_framework",
                 "third_party/selinux",
                 "base/useriam/auth_executor_mgr",
                 "base/useriam/face_auth",
