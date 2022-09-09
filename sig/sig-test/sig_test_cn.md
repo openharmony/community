@@ -34,8 +34,10 @@ Test-SIG（ sig-Test ）技术栈范围全景图如下图所示：
   - https://gitee.com/openharmony/xts_tools
   - https://gitee.com/openharmony/xts_hats
   - https://gitee.com/openharmony/xts_dcts
-  - https://gitee.com/openharmony/arkXtest
-  - https://gitee.com/openharmony/wukong
+  - https://gitee.com/openharmony/ostest_wukong
+  - https://gitee.com/openharmony/testfwk_arkxtest
+  - https://gitee.com/openharmony/testfwk_xdevice
+  - https://gitee.com/openharmony/testfwk_developer_test
 ## SIG组成员
 
 ### Leader
