@@ -837,8 +837,10 @@
                 "https://gitee.com/openharmony/xts_tools",
                 "https://gitee.com/openharmony/xts_hats",
                 "https://gitee.com/openharmony/xts_dcts",
-                "https://gitee.com/openharmony/arkXtest",
-                "https://gitee.com/openharmony/wukong"
+		"https://gitee.com/openharmony/ostest_wukong",
+                "https://gitee.com/openharmony/testfwk_arkxtest",
+                "https://gitee.com/openharmony/testfwk_xdevice",
+                "https://gitee.com/openharmony/testfwk_developer_test"
             ],
             "project-path": [
                 "third_party/benchmark",
@@ -846,8 +848,10 @@
                 "test/xts/tools",
                 "test/xts/hats",
                 "test/xts/dcts",
-                "test/arkXtest",
-                "test/wukong"
+                "test/ostest/wukong",
+                "test/testfwk/arkxtest",
+                "test/testfwk/xdevice",
+                "test/testfwk/developer_test"
             ]
         },
         {

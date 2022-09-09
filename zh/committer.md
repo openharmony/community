@@ -65,8 +65,8 @@
 |63|kernel_liteos_m|kernel/liteos_m|https://gitee.com/JerryH1011|huangjieliang@huawei.com|https://gitee.com/kkup180 <br> https://gitee.com/leonchan5|likailong@huawei.com <br> chenwei26@huawei.com|SIG_Kernel|
 |64|prebuilts_lite_sysroot|prebuilts/lite/sysroot|https://gitee.com/JerryH1011|huangjieliang@huawei.com|https://gitee.com/kkup180 <br> https://gitee.com/leonchan5|likailong@huawei.com <br> chenwei26@huawei.com|SIG_Kernel|
 |65|signcenter_tool|prebuilts/signcenter|https://gitee.com/scuteehuangjun|huangjun42@huawei.com| | |SIG_Security|
-|66|test_developertest|test/developertest|https://gitee.com/buranfanchen|wangjuntao.wang@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test|
-|67|test_xdevice|test/xdevice|https://gitee.com/kuanjay|liguangjie1@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test|
+|66|testfwk_developer_test|test/testfwk/developer_test|https://gitee.com/buranfanchen|wangjuntao.wang@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test|
+|67|testfwk_xdevice|test/testfwk/xdevice|https://gitee.com/kuanjay|liguangjie1@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test|
 |68|xts_acts|test/xts/acts|https://gitee.com/ye-xiangbin|yexiangbin@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
 |69|xts_tools|test/xts/tools/lite|https://gitee.com/ye-xiangbin|yexiangbin@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
 |70|third_party_FatFs|third_party/FatFs|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/JerryH1011 <br> https://gitee.com/leonchan5|huangjieliang@huawei.com <br> chenwei26@huawei.com|SIG_Kernel|
@@ -366,8 +366,8 @@
 |364|developtools_global_resource_tool|developtools/global_resource_tool|https://gitee.com/zhuxiang6|zhuxiang6@huawei.com|https://gitee.com/zhengbin5|zhengbin5@huawei.com|SIG_ApplicationFramework|
 |365|base_location|base/location|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/liu-binjun|liubinjun@huawei.com|SIG_SoftBus|
 |366|sensors_medical_sensor|base/sensors/medical_sensor|https://gitee.com/chiptest|guocs@chipsea.com|https://gitee.com/371931794|wuhb30061@chipsea.com|SIG_DistributedHardwareManagement|
-|367|wukong|test/wukong|https://gitee.com/gaoxi785|gaoxi785@huawei.com|https://gitee.com/currydavids|daiweiqi@huawei.com|SIG_Test|
-|368|arkXtest|test/artXtest|https://gitee.com/inter515|ry.renyi@huawei.com|https://gitee.com/leid_1021|leidan.lei@huawei.com|SIG_Test|
+|367|ostest_wukong|test/ostest/wukong|https://gitee.com/gaoxi785|gaoxi785@huawei.com|https://gitee.com/currydavids|daiweiqi@huawei.com|SIG_Test|
+|368|testfwk_arkxtest|test/testfwk/artxtest|https://gitee.com/inter515|ry.renyi@huawei.com|https://gitee.com/leid_1021|leidan.lei@huawei.com|SIG_Test|
 |369|hiviewdfx_hichecker|base/hiviewdfx/hichecker|https://gitee.com/zlxia|xiazhonglin@huawei.com|https://gitee.com/jeyogg|jiangweizheng@huawei.com|SIG_BasicSoftwareService|
 |370|hiviewdfx_hidumper|base/hiviewdfx/hidumper|https://gitee.com/zlxia|xiazhonglin@huawei.com|https://gitee.com/jeyogg|jiangweizheng@huawei.com|SIG_BasicSoftwareService|
 |371|napi_generator|NA/napi_generator|https://gitee.com/zhaojunxia2020|zhaojunxia@kaihong.com|https://gitee.com/bayanxing|bayanxing@kaihong.com|SIG_Napi_generator|
@@ -413,3 +413,4 @@
 |411|third_party_llvm-project|third_party/llvm-project|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
 |412|third_party_lldb-mi|third_party/lldb-mi||https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
 |413|third_party_opencl-headers|third_party/opencl-headers|https://gitee.com/sunsuodong|sunsuodong@huawei.com|https://gitee.com/leoxc|chenxu25@huawei.com|SIG-AI-Framework|
+
