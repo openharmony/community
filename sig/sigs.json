@@ -726,7 +726,7 @@
                 "https://gitee.com/openharmony/developtools_hapsigner",
                 "https://gitee.com/openharmony-sig/security_certificate_manager",
                 "https://gitee.com/openharmony-sig/security_privacy_center",
-                "https://gitee.com/openharmony-sig/security_crypto_framework"
+                "https://gitee.com/openharmony/security_crypto_framework"
             ],
             "project-path": [
                 "base/security/device_auth",
