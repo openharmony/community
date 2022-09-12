@@ -31,7 +31,7 @@ OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密�
   - developtools_hapsigner:https://gitee.com/openharmony/developtools_hapsigner
   - security_certificate_manager:https://gitee.com/openharmony-sig/security_certificate_manager
   - security_privacy_center:https://gitee.com/openharmony-sig/security_privacy_center
-  - security_crypto_framework:https://gitee.com/openharmony-sig/security_crypto_framework
+  - security_crypto_framework:https://gitee.com/openharmony/security_crypto_framework
 
 ## SIG组成员
 
