@@ -226,7 +226,7 @@
 |224|powermgr_battery_lite|base/powermgr/battery_lite|https://gitee.com/aqxyjay|zhangchunxin@huawei.com|https://gitee.com/hujun211|hujun211@huawei.com|SIG_DistributedHardwareManagement|
 |225|release-management|NA|https://gitee.com/davidwulanxi|wuyonghui9@huawei.com|https://gitee.com/aiyongfu |aiyongfu@huawei.com |SIG_VersionRelease|
 |226|multimedia_media_library|foundation/multimedia/media_library|https://gitee.com/gudehe|gudehe@huawei.com| | |SIG_Media|
-|227|multimedia_image_framework|foundation/multimedia/image_framework|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com|https://gitee.com/zhang-xiaobo1997|tony.zhangxiaobo@huawei.com|SIG_Media|
+|227|multimedia_image_framework|foundation/multimedia/image_framework|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com|https://gitee.com/zhang-xiaobo1997 <br> https://gitee.com/chen-yuheng5|tony.zhangxiaobo@huawei.com <br> chenyuheng5@huawei.com|SIG_Media|
 |228|powermgr_battery_statistics|base/powermgr/battery_statistics|https://gitee.com/aqxyjay|zhangchunxin@huawei.com|https://gitee.com/hujun211|hujun211@huawei.com|SIG_DistributedHardwareManagement|
 |229|powermgr_thermal_manager|base/powermgr/thermal_manager|https://gitee.com/aqxyjay|zhangchunxin@huawei.com|https://gitee.com/hujun211|hujun211@huawei.com|SIG_DistributedHardwareManagement|
 |230|applications_photos|applications/standard/photos|https://gitee.com/sunjunxiong|sunjunxiong@huawei.com|https://gitee.com/hosphoto|liuxiaodong17@huawei.com|SIG_SystemApplication|
