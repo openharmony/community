@@ -507,7 +507,7 @@
                 "https://gitee.com/openharmony/update_packaging_tools",
                 "https://gitee.com/openharmony/update_updater",
                 "https://gitee.com/openharmony/update_updateservice",
-                "https://gitee.com/openharmony/update_sys_installer",
+                "https://gitee.com/openharmony-sig/update_sys_installer",
                 "https://gitee.com/openharmony/third_party_bzip2",
                 "https://gitee.com/openharmony/third_party_lz4",
                 "https://gitee.com/openharmony/time_time_service",
