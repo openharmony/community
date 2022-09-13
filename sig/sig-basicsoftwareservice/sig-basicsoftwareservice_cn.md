@@ -54,7 +54,7 @@ BasicSoftwareService SIG技术栈范围全景图如下图所示：
 |升级工具|[update_packaging_tools](https://gitee.com/openharmony/update_packaging_tools)|升级包制作工具是用于制作升级包的工具，功能主要包括：全量升级包制作、差分升级包制作以及变分区升级包制作。|
 |升级包安装|[update_updater](https://gitee.com/openharmony/update_updater)|升级包安装组件，其功能主要包括读取misc分区信息获取升级包状态，对升级包进行校验，确保升级包合法有效；然后从升级包中解析出升级的可执行程序，创建子进程并启动升级程序。具体升级的动作由升级脚本控制。|
 |升级服务|[update_updateservice](https://gitee.com/openharmony/update_updateservice)|升级服务组件是一个SA(System Ability)，由OHOS 的init 进程负责启动。主要功能包括：<br/>1、查找可用的升级包；<br/>2、下载升级包；<br/>3、设置/获取升级策略；<br/>4、触发升级|
-|升级包系统安装|[update_sys_installer](https://gitee.com/openharmony-sig/update_sys_installer)|升级包系统安装组件，其功能主要包括读取AB系统启动状态，对升级包进行校验，确保升级包合法有效；然后从升级包中解析出升级的可执行程序，创建子进程并启动升级程序，完成对AB系统主备分区的升级。具体升级的动作由升级脚本控制。|
+|系统安装|[update_sys_installer](https://gitee.com/openharmony/update_sys_installer)|系统安装组件，其功能主要包括读取AB系统启动状态，对升级包进行校验，确保升级包合法有效；然后从升级包中解析出升级的可执行程序，创建子进程并启动升级程序，完成对AB系统主备分区的升级。|
 |系统账号|[account_os_account](https://gitee.com/openharmony/account_os_account)|提供系统帐号生命周期管理，包括系统帐号的创建、切换、删除、查询和修改。
 提供应用帐号的管理和应用账号OAuth鉴权能力，提供分布式帐号状态管理能力。|
 |无障碍|[accessibility](https://gitee.com/openharmony/accessibility)|提供在应用程序和辅助应用之间交换信息的机制，支持辅助应用开发框架，增强无障碍功能体验。|
