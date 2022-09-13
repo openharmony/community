@@ -77,6 +77,7 @@
 
 ### Leader
 - [@easy-to-see](https://gitee.com/easy-to-see)
+- [@weiyj_lk](https://gitee.com/weiyj_lk)
 
 ### Committers列表
 - [@liuyoufang](https://gitee.com/liuyoufang)
@@ -84,16 +85,16 @@
 - [@zhangzhiwi](https://gitee.com/zhangzhiwi)
 - [@bubble_mao](https://gitee.com/bubble_mao)
 - [@linux_anio](https://gitee.com/linux_anio)
-- [@vincent_qianjing](https://gitee.com/vincent_qianjing)
-- [@weiyj_lk](https://gitee.com/weiyj_lk)
+- [@z-jax](https://gitee.com/z-jax)
 - [@leonchan5](https://gitee.com/leonchan5)
+- [@gatieme](https://gitee.com/gatieme)
 
 ### 会议
- - 会议时间：周二上午9:30
- - 会议申报：请填写[石墨文档](https://shimo.im/sheets/VgQV6VjCJ9cXtY8G/MODOC)，SIG相关申报人自行申请议题
- - 会议链接: Welink或其他会议
- - 会议通知: 请[订阅](https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/)邮件列表 dev@openharmony.io 获取会议链接
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content)
+ - 会议时间：按需召开 (例行召开时间：周二上午9:30，紧急请联系[@z-jax](https://gitee.com/z-jax) )
+ - 会议申报：请填写[石墨文档](https://shimo.im/sheets/8Nk6MM2zmnfj5lqL/MODOC)，SIG相关申报人自行申请议题
+ - 会议链接：Welink或其他会议
+ - 会议通知：请[订阅](https://lists.openatom.io/hyperkitty/list/kernel@openharmony.io/)邮件列表 kernel@openharmony.io 获取会议链接
+ - 会议纪要：[归档链接地址](https://gitee.com/openharmony-sig/sig-content)
 
 ### 联系方式(可选)
 
