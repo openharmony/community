@@ -415,3 +415,4 @@
 |413|third_party_opencl-headers|third_party/opencl-headers|https://gitee.com/sunsuodong|sunsuodong@huawei.com|https://gitee.com/leoxc|chenxu25@huawei.com|SIG-AI-Framework|
 |414|security_crypto_framework|base/security/crypto_framework|https://gitee.com/lvyuanmin|lvyuanmin@huawei.com|https://gitee.com/lucky-jinduo|jinmengtong@huawei.com|SIG_Security|
 |414|security_crypto_framework|base/security/crypto_framework|https://gitee.com/jinliang9|jinliang9@huawei.com| | |SIG_Security|
+|415|update_sys_installer|base/update/sys_installer|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802 |h.hu@huawei.com |SIG_BasicSoftwareService|
