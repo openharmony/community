@@ -7,7 +7,7 @@
 |5|SIG_Test|SIG_Test|[gaohanyi](https://gitee.com/gaohanyi1982) |L1S_Test|
 |6|SIG_DistributedHardwareManagement|SIG_HardwareMgr|[ligang](william.ligang@huawei.com) <br> [houpengfei](https://gitee.com/hhh2)|L1S_MSDP <br> L1S_PowerMgr <br> L1S_Sensors <br> L1S_USB <br> L1s_DistributedHardware|
 |7|SIG_BasicSoftwareService|SIG_BasicSoftwareService|[zhangxiaotian](https://gitee.com/handyohos)|L1S_DistributedSchedule <br> L1S_ResourceSchedule <br> L1S_StartUp <br> L1S_Update <br> L1S_Account <br> L1S_BarrierFree <br> L1S_Hiview <br> L1S_InputMgrFwk <br> L1S_Timezone <br> L1S_ThemeFramework <br> L1S_UploadAndDownload|
-|8|SIG_Kernel|SIG_Kernel|[esay-to-see](salient.yijian@huawei.com)|L1S_Kernel|
+|8|SIG_Kernel|SIG_Kernel|[easy-to-see](salient.yijian@huawei.com)|L1S_Kernel|
 |9|SIG_DriverFramework|SIG_DriverFramework|[chenfeng](https://gitee.com/chenfeng469)|L1S_Drivers|
 |10|SIG_DataManagement|SIG_DataManagement|[gongashi](https://gitee.com/gong-a-shi)|L1S_DistributedDataMgr_DFS|
 |11|SIG_SoftBus|SIG_SoftBus|[maerlii](maerli@huawei.com) <br> [chengguohong](https://gitee.com/cheng_guohong)|L1S_Communication <br> L1S_telepony <br> L1S_Location <br> L1S_Communication_HW <br> L1S_Communication_NetMgr|

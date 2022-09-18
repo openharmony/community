@@ -7,7 +7,7 @@ the kernel-sig to support storage-management-related features
 ## Attendees
 - [@ninalijiaxin](https://gitee.com/ninalijiaxin)
 - [@zhangzhiwi](https://gitee.com/zhangzhiwi)
-- [@esay-to-see](https://gitee.com/esay-to-see)
+- [@easy-to-see](https://gitee.com/easy-to-see)
 - [@bubble_mao](https://gitee.com/bubble_mao)
 - [@chenjinglong-hw](https://gitee.com/chenjinglong-hw)
 - [@im-off-this-week](https://gitee.com/im-off-this-week)
