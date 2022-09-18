@@ -86,6 +86,7 @@ ApplicationFramework SIG技术栈范围全景图如下图所示：
   - global_i18n:https://gitee.com/openharmony/global_i18n
   - global_i18n_lite:https://gitee.com/openharmony/global_i18n_lite
   - developtools_global_resource_tool:https://gitee.com/openharmony/developtools_global_resource_tool
+  - third_party_fastjson:https://gitee.com/openharmony-sig/third_party_fastjson
 
 ## SIG组成员
 
