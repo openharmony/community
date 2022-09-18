@@ -143,7 +143,9 @@
                 "https://gitee.com/openharmony/vendor_isoftstone",
                 "https://gitee.com/openharmony-sig/device_soc_hpmicro",
                 "https://gitee.com/openharmony-sig/device_board_hpmicro",
-                "https://gitee.com/openharmony-sig/vendor_hpmicro"
+                "https://gitee.com/openharmony-sig/vendor_hpmicro",
+                "https://gitee.com/openharmony/device_board_kaihong",
+                "https://gitee.com/openharmony/vendor_kaihong"
             ],
             "project-path": [
                 "device/st",
@@ -227,7 +229,9 @@
                 "vendor/isoftstone",
                 "device/soc/hpmicro",
                 "device/board/hpmicro",
-                "vendor/hpmicro"
+                "vendor/hpmicro",
+                "device/board/kaihong",
+                "vendor/kaihong"
             ]
         },
         {

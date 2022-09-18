@@ -415,3 +415,5 @@
 |413|third_party_opencl-headers|third_party/opencl-headers|https://gitee.com/sunsuodong|sunsuodong@huawei.com|https://gitee.com/leoxc|chenxu25@huawei.com|SIG-AI-Framework|
 |414|security_crypto_framework|base/security/crypto_framework|https://gitee.com/lvyuanmin|lvyuanmin@huawei.com|https://gitee.com/lucky-jinduo <br> https://gitee.com/jinliang9 | jinmengtong@huawei.com <br> jinliang9@huawei.com|SIG_Security|
 |415|update_sys_installer|base/update/sys_installer|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802 |h.hu@huawei.com |SIG_BasicSoftwareService|
+|416|device_board_kaihong|device/board/kaihong|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/zhangxingjun007 <br> https://gitee.com/fan-yongheng0 <br> https://gitee.com/xuandong11|zhangxingjun@kaihong.com <br> fanyongheng@kaihong.com <br> xuandong@kaihong.com|SIG_Devboard|
+|417|vendor_kaihong|vendor/kaihong|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/zhangxingjun007 <br> https://gitee.com/fan-yongheng0 <br> https://gitee.com/xuandong11|zhangxingjun@kaihong.com <br> fanyongheng@kaihong.com <br> xuandong@kaihong.com|SIG_Devboard|
