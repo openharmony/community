@@ -122,6 +122,8 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - device_board_hpmicro: https://gitee.com/openharmony-sig/device_board_hpmicro
   - vendor_hpmicro: https://gitee.com/openharmony-sig/vendor_hpmicro
   - device_soc_hpmicro: https://gitee.com/openharmony-sig/device_soc_hpmicro
+  - device_board_kaihong: https://gitee.com/openharmony/device_board_kaihong
+  - vendor_kaihong: https://gitee.com/openharmony/vendor_kaihong
 
 ## SIG Members
 
