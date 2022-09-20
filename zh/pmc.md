@@ -6,7 +6,7 @@
 2. 发布和处理社区需求，为开源社区提供技术架构指导和技术决策；
 3. 组织社区安全工作，及时进行安全漏洞扫描、响应、处理等工作；
 4. 处理社区Bug、issue、邮件列表，闭环周期满足开源社区的SLA要求；
-5. 负责PMC、Committer成员的[选举和退出](./guidelines_role_grouth.md)，制定PMC、Committer协作机制；
+5. 负责PMC、Committer成员的[选举和退出](./guidelines_role_growth.md)，制定PMC、Committer协作机制；
 
 
 ## OpenHarmony PMC成员列表
