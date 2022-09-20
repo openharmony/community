@@ -145,7 +145,10 @@
                 "https://gitee.com/openharmony-sig/device_board_hpmicro",
                 "https://gitee.com/openharmony-sig/vendor_hpmicro",
                 "https://gitee.com/openharmony/device_board_kaihong",
-                "https://gitee.com/openharmony/vendor_kaihong"
+                "https://gitee.com/openharmony/vendor_kaihong",
+                "https://gitee.com/openharmony-sig/vendor_ubtech",
+                "https://gitee.com/openharmony-sig/device_board_ubtech",
+                "https://gitee.com/openharmony-sig/device_soc_xinsheng"
             ],
             "project-path": [
                 "device/st",
@@ -231,7 +234,10 @@
                 "device/board/hpmicro",
                 "vendor/hpmicro",
                 "device/board/kaihong",
-                "vendor/kaihong"
+                "vendor/kaihong",
+                "vendor/ubtech",
+                "device/board/ubtech",
+                "device/soc/xinsheng"
             ]
         },
         {
