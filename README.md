@@ -50,4 +50,4 @@ OpenHarmony社区通过[项目管理委员会](/zh/pmc.md)（ Project Management
 
 ## 项目LOGO
 
-请从[OpenHarmony LOGO](/logo)下载并使用LOGO。
+请参考[OpenHarmony LOGO](https://www.openharmony.cn/trademark)的商标使用指南。

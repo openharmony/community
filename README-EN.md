@@ -49,4 +49,4 @@ You must sign the Developer Certificate of Origin (DCO) before you can contribut
 
 ## Project Logo
 
-Please download and use the logo from [OpenHarmony LOGO](/logo).
+Please refer to the trademark usage guidelines from [OpenHarmony LOGO](https://www.openharmony.cn/trademark).
