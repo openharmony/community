@@ -72,6 +72,8 @@
   - third_party_exfatprogs名称：https://gitee.com/openharmony/third_party_exfatprogs
   - third_party_e2fsprogs名称：https://gitee.com/openharmony/third_party_e2fsprogs
   - third_party_mimalloc名称: https://gitee.com/openharmony/third_party_mimalloc
+  - resourceschedule-ffrt-core名称:https://gitee.com/openharmony-sig/resourceschedule_ffrt_core
+  - resourceschedule-ffrt-sched名称:https://gitee.com/openharmony-sig/resourceschedule_ffrt_sched
 
 ## SIG组成员
 
