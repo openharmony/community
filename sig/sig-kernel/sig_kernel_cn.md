@@ -74,6 +74,8 @@
   - third_party_mimalloc名称: https://gitee.com/openharmony/third_party_mimalloc
   - resourceschedule-ffrt-core名称:https://gitee.com/openharmony-sig/resourceschedule_ffrt_core
   - resourceschedule-ffrt-sched名称:https://gitee.com/openharmony-sig/resourceschedule_ffrt_sched
+  - kernel_uniproton名称：https://gitee.com/openharmony/kernel_uniproton
+  - vendor_alientek名称：https://gitee.com/openharmony/vendor_alientek
 
 ## SIG组成员
 

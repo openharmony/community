@@ -22,7 +22,9 @@
                 "https://gitee.com/openharmony/third_party_exfatprogs",
                 "https://gitee.com/openharmony/third_party_mimalloc",
                 "https://gitee.com/openharmony-sig/resourceschedule_ffrt_core",
-                "https://gitee.com/openharmony-sig/resourceschedule_ffrt_sched"
+                "https://gitee.com/openharmony-sig/resourceschedule_ffrt_sched",
+                "https://gitee.com/openharmony/kernel_uniproton",
+                "https://gitee.com/openharmony/vendor_alientek"
             ],
             "project-path": [
                 "third_party/littlefs",
@@ -45,7 +47,9 @@
                 "third_party/exfatprogs",
                 "third_party/mimalloc",
                 "foundation/resourceschedule/ffrt_core",
-                "foundation/resourceschedule/ffrt_sched"
+                "foundation/resourceschedule/ffrt_sched",
+                "kernel/uniproton",
+                "vendor/alientek"
             ]
         },
         {
