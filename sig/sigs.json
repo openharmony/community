@@ -318,7 +318,9 @@
                 "https://gitee.com/openharmony-sig/applications_settings_data",
                 "https://gitee.com/openharmony-sig/applications_contactsdata",
                 "https://gitee.com/openharmony-sig/applications_notes",
-                "https://gitee.com/openharmony/applications_app_samples"
+                "https://gitee.com/openharmony/applications_app_samples",
+                "https://gitee.com/openharmony-sig/applications_filemanager",
+		"https://gitee.com/openharmony-sig/applications_inputmethod"
             ],
             "project-path": [
                 "applications/standard/systemui",
@@ -332,7 +334,9 @@
                 "applications/standard/settings_data",
                 "applications/standard/contactsdata",
                 "applications/standard/notes",
-                "applications/standard/app_samples"
+                "applications/standard/app_samples",
+		"NONE",
+		"NONE"
             ]
         },
         {
