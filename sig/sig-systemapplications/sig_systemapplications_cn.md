@@ -54,6 +54,8 @@
   - applications_notes: https://gitee.com/openharmony-sig/applications_notes
   - applications_app_samples: https://gitee.com/openharmony/applications_app_samples
   - applications_permission_manager: https://gitee.com/openharmony/applications_permission_manager
+  - applications_filemanager: https://gitee.com/openharmony-sig/applications_filemanager
+  - applications_inputmethod: https://gitee.com/openharmony-sig/applications_inputmethod
 
 ## SIG组成员
 
