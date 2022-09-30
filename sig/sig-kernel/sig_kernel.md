@@ -32,6 +32,8 @@ File system related open source software used by OpenHarmony lite equipment, inc
   - repository19 name:https://gitee.com/openharmony/third_party_mimalloc
   - repository20 name:https://gitee.com/openharmony-sig/resourceschedule_ffrt_core
   - repository21 name:https://gitee.com/openharmony-sig/resourceschedule_ffrt_sched
+  - repository22 name:https://gitee.com/openharmony/kernel_uniproton
+  - repository23 name:https://gitee.com/openharmony/vendor_alientek
 
 ## SIG Members
 
