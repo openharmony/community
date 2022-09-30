@@ -417,3 +417,5 @@
 |415|update_sys_installer|base/update/sys_installer|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802 |h.hu@huawei.com |SIG_BasicSoftwareService|
 |416|device_board_kaihong|device/board/kaihong|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/zhangxingjun007 <br> https://gitee.com/fan-yongheng0 <br> https://gitee.com/xuandong11|zhangxingjun@kaihong.com <br> fanyongheng@kaihong.com <br> xuandong@kaihong.com|SIG_Devboard|
 |417|vendor_kaihong|vendor/kaihong|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/zhangxingjun007 <br> https://gitee.com/fan-yongheng0 <br> https://gitee.com/xuandong11|zhangxingjun@kaihong.com <br> fanyongheng@kaihong.com <br> xuandong@kaihong.com|SIG_Devboard|
+|418|kernel_uniproton|kernel/uniproton|https://gitee.com/JerryH1011|huangjieliang@huawei.com|https://gitee.com/leonchan5|chenwei26@huawei.com|SIG_Kernel|
+|419|vendor_alientek|vendor/alientek|https://gitee.com/JerryH1011|huangjieliang@huawei.com|https://gitee.com/leonchan5|chenwei26@huawei.com|SIG_Devboard|
