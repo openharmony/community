@@ -987,6 +987,15 @@
                 "NONE",
                 "NONE"
             ]
-        }
+        },
+		{
+			"sig-name":"sig-Qt",
+			"projects":[
+				"https://gitee.com/openharmony-sig/qt"
+			],
+			"project-path":[
+				"NONE"
+			]
+		}
     ]
 }
