@@ -1,0 +1,23 @@
+{
+    "Leader": [{
+        "gitee_id": "cwc1987",
+        "gitee_email": "caiwc@sinux.com.cn"
+    }],
+    "Committers": [{
+            "gitee_id": "wei.zhu",
+            "gitee_email": "wei.zhu@huawei.com"
+        },
+        {
+            "gitee_id": "xiecy",
+            "gitee_email": "xiecy@sinux.com.cn"
+        },
+        {
+            "gitee_id": "wanglz",
+            "gitee_email": "wanglz@sinux.com.cn"
+        },
+        {
+            "gitee_id": "wangh",
+            "gitee_email": "wangh@sinux.com.cn"
+        }
+    ]
+}
