@@ -419,3 +419,5 @@
 |417|vendor_kaihong|vendor/kaihong|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/zhangxingjun007 <br> https://gitee.com/fan-yongheng0 <br> https://gitee.com/xuandong11|zhangxingjun@kaihong.com <br> fanyongheng@kaihong.com <br> xuandong@kaihong.com|SIG_Devboard|
 |418|kernel_uniproton|kernel/uniproton|https://gitee.com/JerryH1011|huangjieliang@huawei.com|https://gitee.com/leonchan5|chenwei26@huawei.com|SIG_Kernel|
 |419|vendor_alientek|vendor/alientek|https://gitee.com/JerryH1011|huangjieliang@huawei.com|https://gitee.com/leonchan5|chenwei26@huawei.com|SIG_Devboard|
+|420|security_certificate_manager|base/security/certificate_manager|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com|https://gitee.com/liuchibin|liuchibin@huawei.com|SIG_Security|
+|421|security_privacy_center|applications/standard/security_privacy_center|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com|https://gitee.com/liuchibin|liuchibin@huawei.com|SIG_Security|
