@@ -49,7 +49,7 @@ Basic Software Services includes the following sub-systems:
 | Bootstrapping for Lite       | [startup_bootstrap_lite](https://gitee.com/openharmony/startup_bootstrap_lite) | bootstrap provides starting API to bootstrap system abilities for OpenHarmony lite system. |
 | init                         | [startup_init_lite](https://gitee.com/openharmony/startup_init_lite) | init is used to start all userspace native processes.        |
 | Application Spawn            | [startup_appspawn](https://gitee.com/openharmony/startup_appspawn) | Appspawn is used to spawn application processes.             |
-| Updating Framework for Lite  | [update_ota_lite](https://gitee.com/openharmony/update_ota_lite) | ota_lite provides OTA updating framework for OpenHarmony mini and small system. |
+| Updating Framework for Lite  | [update_sys_installer_lite](https://gitee.com/openharmony/update_sys_installer_lite) | sys_installer_lite provides OTA updating framework for OpenHarmony mini and small system. |
 | Updating App                 | [update_app](https://gitee.com/openharmony/update_app)       | update_app provides user interfaces for end users to upgrade OpenHarmony devices. |
 | Update Pakaging Tools        | [update_packaging_tools](https://gitee.com/openharmony/update_packaging_tools) | Update Packaging Tools provide tools to build full OTA packages and differential packages. |
 | Update Package Installer     | [update_updater](https://gitee.com/openharmony/update_updater) | Update Package Installer can verify OTA package, and install the package to the OpenHarmony device. |
