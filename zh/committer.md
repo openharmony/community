@@ -24,7 +24,7 @@
 |22|startup_bootstrap_lite|base/startup/bootstrap_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
 |23|startup_init_lite|base/startup/init_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
 |24|startup_syspara_lite|base/startup/syspara_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
-|25|update_ota_lite|base/update/ota_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/hughes802|h.hu@huawei.com |SIG_BasicSoftwareService|
+|25|update_sys_installer_lite|base/update/sys_installer_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/hughes802|h.hu@huawei.com |SIG_BasicSoftwareService|
 |26|build_lite|build/lite|https://gitee.com/anguanglin|anguanglin@huawei.com|https://gitee.com/chenmudan|chenmudan@huawei.com|SIG_BuildSystem|
 |27|developtools_packing_tool|developtools/packing_tool|https://gitee.com/autumn330|hw.liuwei@huawei.com|https://gitee.com/changzheng6|hanfeng6@huawei.com|SIG_ApplicationFramework|
 |28|device_hisilicon_build|device/hisilicon/build|https://gitee.com/yuanwhong|yuanwenhong@hisilicon.com|https://gitee.com/helsingchen|helsing.chen@hisilicon.com|SIG_DriverFramework|
