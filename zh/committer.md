@@ -317,7 +317,7 @@
 |315|third_party_libnetfilter_conntrack|third_party/libnetfilter/conntrack|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |316|third_party_libnfnetlink|third_party/libnfnetlink|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |317|third_party_libnftnl|third_party/libnftnl|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
-|318|distributeddatamgr_data_share|foundation/distributeddatamgr/data_share|https://gitee.com/lugitee|hanlu1@huawei.com|https://gitee.com/mangtsang|mang.tsang@huawei.com| | |SIG_DataManagement|
+|318|distributeddatamgr_data_share|foundation/distributeddatamgr/data_share|https://gitee.com/lugitee|hanlu1@huawei.com|https://gitee.com/mangtsang|mang.tsang@huawei.com |SIG_DataManagement|
 |319|device_board_fnlink|device/board/fnlink|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/besyangjian <br> https://gitee.com/tingle1314|jianyang@bestechnic.com <br> zetingxu@bestechnic.com|SIG_Devboard|
 |320|device_soc_bestechnic|device/soc/bestechnic|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/besyangjian <br> https://gitee.com/tingle1314|jianyang@bestechnic.com <br> zetingxu@bestechnic.com|SIG_Devboard|
 |321|vendor_bestechnic|vendor/bestechnic|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/besyangjian <br> https://gitee.com/tingle1314|jianyang@bestechnic.com <br> zetingxu@bestechnic.com|SIG_Devboard|
@@ -411,7 +411,7 @@
 |409|applications_permission_manager|applications/standard/permission_manager|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_SystemApplication|
 |410|communication_connected_nfc_tag|foundation/communication/connected_nfc_tag|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/knpingan|zhangxiuping@huawei.com|SIG_SoftBus|
 |411|third_party_llvm-project|third_party/llvm-project|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
-|412|third_party_lldb-mi|third_party/lldb-mi||https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
+|412|third_party_lldb-mi|third_party/lldb-mi|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
 |413|third_party_opencl-headers|third_party/opencl-headers|https://gitee.com/sunsuodong|sunsuodong@huawei.com|https://gitee.com/leoxc|chenxu25@huawei.com|SIG-AI-Framework|
 |414|security_crypto_framework|base/security/crypto_framework|https://gitee.com/lvyuanmin|lvyuanmin@huawei.com|https://gitee.com/lucky-jinduo <br> https://gitee.com/jinliang9 | jinmengtong@huawei.com <br> jinliang9@huawei.com|SIG_Security|
 |415|update_sys_installer|base/update/sys_installer|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802 |h.hu@huawei.com |SIG_BasicSoftwareService|
