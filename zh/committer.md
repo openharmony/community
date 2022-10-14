@@ -24,7 +24,7 @@
 |22|startup_bootstrap_lite|base/startup/bootstrap_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
 |23|startup_init_lite|base/startup/init_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
 |24|startup_syspara_lite|base/startup/syspara_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/xionglei6|xionglei6@huawei.com |SIG_BasicSoftwareService|
-|25|update_ota_lite|base/update/ota_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/hughes802|h.hu@huawei.com |SIG_BasicSoftwareService|
+|25|update_sys_installer_lite|base/update/sys_installer_lite|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/hughes802|h.hu@huawei.com |SIG_BasicSoftwareService|
 |26|build_lite|build/lite|https://gitee.com/anguanglin|anguanglin@huawei.com|https://gitee.com/chenmudan|chenmudan@huawei.com|SIG_BuildSystem|
 |27|developtools_packing_tool|developtools/packing_tool|https://gitee.com/autumn330|hw.liuwei@huawei.com|https://gitee.com/changzheng6|hanfeng6@huawei.com|SIG_ApplicationFramework|
 |28|device_hisilicon_build|device/hisilicon/build|https://gitee.com/yuanwhong|yuanwenhong@hisilicon.com|https://gitee.com/helsingchen|helsing.chen@hisilicon.com|SIG_DriverFramework|
@@ -317,7 +317,7 @@
 |315|third_party_libnetfilter_conntrack|third_party/libnetfilter/conntrack|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |316|third_party_libnfnetlink|third_party/libnfnetlink|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
 |317|third_party_libnftnl|third_party/libnftnl|https://gitee.com/xautosoft|zhuwenchao@huawei.com|https://gitee.com/clevercong|lichunlin2@huawei.com|SIG_BasicSoftwareService|
-|318|distributeddatamgr_data_share|foundation/distributeddatamgr/data_share|https://gitee.com/lugitee|hanlu1@huawei.com|https://gitee.com/mangtsang|mang.tsang@huawei.com| | |SIG_DataManagement|
+|318|distributeddatamgr_data_share|foundation/distributeddatamgr/data_share|https://gitee.com/lugitee|hanlu1@huawei.com|https://gitee.com/mangtsang|mang.tsang@huawei.com |SIG_DataManagement|
 |319|device_board_fnlink|device/board/fnlink|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/besyangjian <br> https://gitee.com/tingle1314|jianyang@bestechnic.com <br> zetingxu@bestechnic.com|SIG_Devboard|
 |320|device_soc_bestechnic|device/soc/bestechnic|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/besyangjian <br> https://gitee.com/tingle1314|jianyang@bestechnic.com <br> zetingxu@bestechnic.com|SIG_Devboard|
 |321|vendor_bestechnic|vendor/bestechnic|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/besyangjian <br> https://gitee.com/tingle1314|jianyang@bestechnic.com <br> zetingxu@bestechnic.com|SIG_Devboard|
@@ -411,7 +411,7 @@
 |409|applications_permission_manager|applications/standard/permission_manager|https://gitee.com/jiang-xiaofeng|jiangxiaofeng8@huawei.com|https://gitee.com/libing23|libing23@huawei.com|SIG_SystemApplication|
 |410|communication_connected_nfc_tag|foundation/communication/connected_nfc_tag|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/knpingan|zhangxiuping@huawei.com|SIG_SoftBus|
 |411|third_party_llvm-project|third_party/llvm-project|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
-|412|third_party_lldb-mi|third_party/lldb-mi||https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
+|412|third_party_lldb-mi|third_party/lldb-mi|https://gitee.com/huanghuijin|huanghuijin@huawei.com| | |SIG_CompileRuntime|
 |413|third_party_opencl-headers|third_party/opencl-headers|https://gitee.com/sunsuodong|sunsuodong@huawei.com|https://gitee.com/leoxc|chenxu25@huawei.com|SIG-AI-Framework|
 |414|security_crypto_framework|base/security/crypto_framework|https://gitee.com/lvyuanmin|lvyuanmin@huawei.com|https://gitee.com/lucky-jinduo <br> https://gitee.com/jinliang9 | jinmengtong@huawei.com <br> jinliang9@huawei.com|SIG_Security|
 |415|update_sys_installer|base/update/sys_installer|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802 |h.hu@huawei.com |SIG_BasicSoftwareService|
@@ -421,4 +421,5 @@
 |419|vendor_alientek|vendor/alientek|https://gitee.com/JerryH1011|huangjieliang@huawei.com|https://gitee.com/leonchan5|chenwei26@huawei.com|SIG_Devboard|
 |420|security_certificate_manager|base/security/certificate_manager|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com|https://gitee.com/liuchibin|liuchibin@huawei.com|SIG_Security|
 |421|security_privacy_center|applications/standard/security_privacy_center|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com|https://gitee.com/liuchibin|liuchibin@huawei.com|SIG_Security|
-|422|communication_dhcp|foundation/communication/dhcp|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/fenis-two-thousand-and-one|lujunxin@huawei.com <br> https://gitee.com/legendtau|yanxiaotao@huawei.com <br> yanxiaotao@huawei.com|SIG_SoftBus|
+|422|multimedia_av_session|foundation/multimedia_av_session|https://gitee.com/intermilano|night.zhangbin@huawei.com|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|SIG_Media|
+|423|communication_dhcp|foundation/communication/dhcp|https://gitee.com/legendtau|yanxiaotao@huawei.com|https://gitee.com/fenis-two-thousand-and-one|lujunxin@huawei.com|SIG_SoftBus|

@@ -49,7 +49,7 @@ BasicSoftwareService SIG技术栈范围全景图如下图所示：
 |轻量启动引导|[startup_bootstrap_lite](https://gitee.com/openharmony/startup_bootstrap_lite)|bootstrap启动引导组件，提供了各服务和功能的启动入口标识。在SAMGR启动时，会调用boostrap标识的入口函数，并启动系统服务。|
 |init|[startup_init_lite](https://gitee.com/openharmony/startup_init_lite)|启动引导模块，init进程，内核完成初始化后加载的第一个用户态进程，启动后解析/etc/init.cfg配置文件，并根据解析结果拉起其他系统关键进程，同时分别赋予其对应权限。|
 |应用孵化器|[startup_appspawn](https://gitee.com/openharmony/startup_appspawn)|应用孵化模块，appspawn进程，配合轻量级元能力框架子系统，通过轻量级IPC机制接收来自AMS的消息，根据消息解析结果启动元能力进程AbilityMain并赋予其对应权限。|
-|轻量升级框架|[update_ota_lite](https://gitee.com/openharmony/update_ota_lite)|OTA（Over the Air）提供对轻量级设备远程升级能力，基于提供的接口进行二次开发后，可以让您的设备轻松支持OTA升级能力。升级子系统对用户屏蔽了底层芯片的差异，对外提供了统一的升级接口。|
+|轻量系统安装|[update_sys_installer_lite](https://gitee.com/openharmony/update_sys_installer_lite)|轻量系统安装提供对轻量级设备远程升级能力，基于提供的接口进行二次开发后，可以让您的设备轻松支持OTA升级能力。升级子系统对用户屏蔽了底层芯片的差异，对外提供了统一的升级接口。|
 |升级应用|[update_app](https://gitee.com/openharmony/update_app)|升级客户端应用运行于OHOS 上，提供与用户进行交互的界面，并进行升级操作。主要功能包括：<br/>1、触发升级服务组件检查可用的升级包，显示升级包检查的结果；<br/>2、下载升级包，显示下载的进度和状态；<br/>3、触发升级；<br/>4、升级完成后，显示升级后版本信息|
 |升级工具|[update_packaging_tools](https://gitee.com/openharmony/update_packaging_tools)|升级包制作工具是用于制作升级包的工具，功能主要包括：全量升级包制作、差分升级包制作以及变分区升级包制作。|
 |升级包安装|[update_updater](https://gitee.com/openharmony/update_updater)|升级包安装组件，其功能主要包括读取misc分区信息获取升级包状态，对升级包进行校验，确保升级包合法有效；然后从升级包中解析出升级的可执行程序，创建子进程并启动升级程序。具体升级的动作由升级脚本控制。|
