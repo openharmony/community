@@ -18,7 +18,7 @@ OpenHarmony media related design and review.
   - multimedia_camera_framework:https://gitee.com/openharmony/multimedia_camera_framework
   - multimedia_media_library:https://gitee.com/openharmony/multimedia_media_library
   - multimedia_image_framework:https://gitee.com/openharmony/multimedia_image_framework
-  - multimedia_avsession_standard:https://gitee.com/openharmony-sig/multimedia_avsession_standard
+  - multimedia_av_session:https://gitee.com/openharmony/multimedia_av_session
   - multimedia_histreamer:https://gitee.com/openharmony/multimedia_histreamer
   - multimedia_media_lite:https://gitee.com/openharmony/multimedia_media_lite
   - multimedia_audio_lite:https://gitee.com/openharmony/multimedia_audio_lite
