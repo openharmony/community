@@ -421,3 +421,4 @@
 |419|vendor_alientek|vendor/alientek|https://gitee.com/JerryH1011|huangjieliang@huawei.com|https://gitee.com/leonchan5|chenwei26@huawei.com|SIG_Devboard|
 |420|security_certificate_manager|base/security/certificate_manager|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com|https://gitee.com/liuchibin|liuchibin@huawei.com|SIG_Security|
 |421|security_privacy_center|applications/standard/security_privacy_center|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com|https://gitee.com/liuchibin|liuchibin@huawei.com|SIG_Security|
+|422|multimedia_av_session|foundation/multimedia_av_session|https://gitee.com/intermilano|night.zhangbin@huawei.com|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|SIG_Media|
