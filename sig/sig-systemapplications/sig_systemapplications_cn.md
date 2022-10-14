@@ -56,6 +56,9 @@
   - applications_permission_manager: https://gitee.com/openharmony/applications_permission_manager
   - applications_filemanager: https://gitee.com/openharmony-sig/applications_filemanager
   - applications_inputmethod: https://gitee.com/openharmony-sig/applications_inputmethod
+  - applications_clock: https://gitee.com/openharmony-sig/applications_clock
+  - applications_recorder: https://gitee.com/openharmony-sig/applications_recorder
+  - applications_compass: https://gitee.com/openharmony-sig/applications_compass
 
 ## SIG组成员
 
