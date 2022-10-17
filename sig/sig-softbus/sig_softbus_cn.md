@@ -27,6 +27,7 @@
 |蓝牙服务|提供蓝牙profile服务、蓝牙协议栈等相关能力。<br>为设备提供接入与使用Bluetooth的相关接口，包括BR配对连接，BLE广播、扫描，BLE设备gatt相关的操作及功能。|communication_bluetooth|
 |NFC服务|提供NFC标签的读写能力，卡模拟能力等服务能力。|communication_nfc<br>communication_connected_nfc_tag|
 |位置服务|提供GNSS、网络定位、地理编码转换等位置服务框架能力。|base_location|
+|DHCP服务|提供集中地管理、分配IP地址，使网络环境中的主机动态的获得IP地址、Gateway地址、DNS服务器地址等信息，同时提升地址的使用率。|communication_dhcp|
 
 
 ## SIG组成员
