@@ -8,38 +8,39 @@
 
 ### 工作目标
 
-MindSpore Lite是一个极速、极智、极简的AI引擎，使能全场景智能应用，为用户提供端到端的解决方案，帮助用户使能AI能力。更多信息，请见[MindSpore Lite官网](https://www.mindspore.cn/lite)。MindSpore SIG不仅需要为用户提供基础的训练和推理服务；更重要的是，为了拓展生态，我们需要与广大开发者合作，协助他们贡献他们的代码上库。
+AI子系统是OpenHarmony上的关键子系统，提供端侧推理框架和AI原子能力/服务接口，推理框架南向高效整合硬件计算资源，北向对AI应用开发者屏蔽底层差异，统一推理接口；AI原子能力/服务接口内置了通用AI能力，为AI应用开发者提供开盒即用的AI能力。AI子系统整合AI技术栈，有效简化了AI应用的开发和维护流程。
 
 ### 工作范围
 
-- 模型转换
+- AI原子能力/服务接口
 
-MindSpore Lite模型转换工具不仅提供了将TensorFlow、TensorFlow Lite、Caffe、ONNX等模型格式转换为MindSpore Lite模型格式，还提供了算子融合、量化等功能。
+AI原子能力/服务接口分为能力和服务接口，能力接口是对AI模型的封装，对AI应用开发者提供开盒即用的AI能力，简化AI应用开发的流程和门槛；服务接口支持用户或三方等能力提供者将自定义的AI能力服务化，以服务方式支持能力接口调用，使能AI应用开发者。
 
-- 模型训练
+- 昇思推理框架
 
-支持在端侧的小样本、迁移、增量训练，实现个性化AI体验。
+昇思推理框架（MindSpore）是一个极速、极智、极简的AI引擎，使能全场景智能应用，为用户提供端到端的解决方案，帮助用户使能AI能力。更多信息，请见[MindSpore官网](https://www.mindspore.cn/lite)。MindSpore不仅需要为用户提供基础的训练和推理服务；更重要的是，为了拓展生态，我们需要与广大开发者合作，协助他们贡献他们的代码上库。
 
-- 模型推理
+- 神经网络运行时
 
-主要完成模型推理工作，即加载模型，完成模型相关的所有计算。推理是通过模型运行输入数据，获取预测的过程。
+神经网络运行时（Neural Network Runtime）是端侧推理框架和AI芯片之间的重要的桥梁，统一了AI推理的南北向接口，北向Native API为端侧推理框架提供统一的构图、编译、推理接口，南向开放HDI接口，支持广大的硬件厂商将AI芯片通过南向接口接入OpenHarmony，共同建造丰富的OpenHarmony AI南向生态。
 
-- 专用AI芯片支持
+- AI子系统架构
 
-支持专用AI芯片接入MindSpore Lite。
 
-![figures/ai-framework-overview.png](figures/ai-framework-overview.png)
+![figures/ai-framework-arch.png](figures/ai-framework-arch.png)
 
 ## 代码仓
 |             部件名称             |       部件功能描述       |                                   部件仓名称                                   |
 | :------------------------------: | :----------------------: | :----------------------------------------------------------------------------: |
-| 昇思推理框架<br>(MindSpore Lite) | 提供模型转换和推理的功能 | third_party_mindspore,<br>third_party_flatbuffers|
+| 昇思推理框架<br>(MindSpore) | 提供模型转换和推理的功能 | third_party_mindspore,<br>third_party_flatbuffers|
+| 神经网络运行时<br>(Neural Network Runtime) | AI专用芯片推理功能 | neural_network_runtime |
 - 代码仓地址:
   - MindSpore: https://gitee.com/openharmony/third_party_mindspore
   - DLLite-micro: https://gitee.com/openharmony-sig/dllite_micro
   - FlatBuffers: https://gitee.com/openharmony/third_party_flatbuffers
   - OpenCL-Headers: https://gitee.com/openharmony/third_party_opencl-headers
   - OpenCL-CLHPP: https://gitee.com/openharmony-sig/third_party_opencl-clhpp
+  - Neural Network Runtime: https://gitee.com/openharmony-sig/neural_network_runtime
 
 ## SIG组成员
 
@@ -47,14 +48,16 @@ MindSpore Lite模型转换工具不仅提供了将TensorFlow、TensorFlow Lite�
 
 - @ivss(https://gitee.com/ivss)
 - @zhanghaibo5(https://gitee.com/zhanghaibo5)
+- @silenchen(https://gitee.com/silenchen)
 
 ### Committers列表
 
 - @zhaizhiqiang(https://gitee.com/zhaizhiqiang)
-- @sunsuodong(https://gitee.com/sunsuodong)
 - @zhang_xue_tong(https://gitee.com/zhang_xue_tong)
 - @HilbertDavid(https://gitee.com/HilbertDavid)
 - @jpc_chenjianping(https://gitee.com/jpc_chenjianping)
+- @yangyongjie-boom(https://gitee.com/yangyongjie-boom)
+- @jianghui58(https://gitee.com/jianghui58)
 
 ### 会议
  - 会议时间：双周例会，周一晚上19：00, UTC+8
