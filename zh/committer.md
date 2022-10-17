@@ -422,3 +422,4 @@
 |420|security_certificate_manager|base/security/certificate_manager|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com|https://gitee.com/liuchibin|liuchibin@huawei.com|SIG_Security|
 |421|security_privacy_center|applications/standard/security_privacy_center|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com|https://gitee.com/liuchibin|liuchibin@huawei.com|SIG_Security|
 |422|multimedia_av_session|foundation/multimedia_av_session|https://gitee.com/intermilano|night.zhangbin@huawei.com|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|SIG_Media|
+|423|communication_dhcp|foundation/communication/dhcp|https://gitee.com/legendtau|yanxiaotao@huawei.com|https://gitee.com/fenis-two-thousand-and-one|lujunxin@huawei.com|SIG_SoftBus|
