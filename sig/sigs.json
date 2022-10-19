@@ -872,7 +872,11 @@
 		"https://gitee.com/openharmony/ostest_wukong",
                 "https://gitee.com/openharmony/testfwk_arkxtest",
                 "https://gitee.com/openharmony/testfwk_xdevice",
-                "https://gitee.com/openharmony/testfwk_developer_test"
+                "https://gitee.com/openharmony/testfwk_developer_test",
+                "https://gitee.com/openharmony-sig/third_party_VK-GL-CTS",
+                "https://gitee.com/openharmony-sig/third_party_SPIRV-Tools",
+                "https://gitee.com/openharmony-sig/third_party_glslang",
+                "https://gitee.com/openharmony-sig/third_party_spirv-headers"
             ],
             "project-path": [
                 "third_party/benchmark",
@@ -883,7 +887,11 @@
                 "test/ostest/wukong",
                 "test/testfwk/arkxtest",
                 "test/testfwk/xdevice",
-                "test/testfwk/developer_test"
+                "test/testfwk/developer_test",
+                "third_party/VK-GL-CTS",
+                "third_party/SPIRV-Tools",
+                "third_party/glslang",
+                "third_party/spirv-headers"
             ]
         },
         {
