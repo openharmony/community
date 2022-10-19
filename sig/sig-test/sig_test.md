@@ -25,6 +25,10 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - https://gitee.com/openharmony/testfwk_arkxtest
   - https://gitee.com/openharmony/testfwk_xdevice
   - https://gitee.com/openharmony/testfwk_developer_test
+  - https://gitee.com/openharmony-sig/third_party_VK-GL-CTS
+  - https://gitee.com/openharmony-sig/third_party_SPIRV-Tools
+  - https://gitee.com/openharmony-sig/third_party_glslang
+  - https://gitee.com/openharmony-sig/third_party_spirv-headers
 ## SIG Members
 
 ### Leader
