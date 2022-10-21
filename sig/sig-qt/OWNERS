@@ -4,20 +4,24 @@
         "gitee_email": "caiwc@sinux.com.cn"
     }],
     "Committers": [{
-            "gitee_id": "wei.zhu",
+            "gitee_id": "zhuwei12345678",
             "gitee_email": "wei.zhu@huawei.com"
         },
         {
-            "gitee_id": "xiecy",
+            "gitee_id": "xiecyong",
             "gitee_email": "xiecy@sinux.com.cn"
         },
         {
-            "gitee_id": "wanglz",
+            "gitee_id": "wanglz1988",
             "gitee_email": "wanglz@sinux.com.cn"
         },
         {
-            "gitee_id": "wangh",
+            "gitee_id": "CplusCplus",
             "gitee_email": "wangh@sinux.com.cn"
+        },
+        {
+            "gitee_id": "honglianglin"
+            "gitee_email": "linhongliang@hisilicon.com"
         }
     ]
 }

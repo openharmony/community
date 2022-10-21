@@ -7,7 +7,7 @@
 
 ### 工作目标
 
- Qt SIG负责完成在OpenHarmony的Qt(http://qt.io)软件开发框架的移植及适配，同时提供基于Qt Creator的OpenHarmony应用程序开发模板及配套开发工具，实现基于Qt研发的应用迁移及OpenHarmony的研发生态补充。
+Qt SIG负责完成在OpenHarmony的Qt (https://qt.io) 软件开发框架的移植及适配，同时提供基于Qt Creator的OpenHarmony应用程序开发模板及配套开发工具，实现基于Qt研发的应用迁移及OpenHarmony的研发生态补充，将适配OpenHarmony平台的Qt代码提交到Qt社区。
 
 ### 工作范围
 
@@ -34,15 +34,16 @@ Qt框架移植与适配计划贡献内容如下所示：
 - @cwc1987(https://gitee.com/cwc1987)
 
 ### Committers列表
-- @zhu.wei(https://gitee.com/zhu.wei)
-- @xiecy(https://gitee.com/xiecy)
-- @wanglz(https://gitee.com/wanglz)
-- @wangh(https://gitee.com/wangh)
+- @zhu.wei(https://gitee.com/zhuwei12345678)
+- @xiecy(https://gitee.com/xiecyong)
+- @wanglz(https://gitee.com/wanglz1988)
+- @wangh(https://gitee.com/CplusCplus)
+- @honglianglin(https://gitee.com/honglianglin)
 
 
 ### 会议
- - 会议时间：双周例会，周二 10:00-11:00
+ - 会议时间：双周例会，周二 10:00-10:30
  - 会议申报：[Qt SIG议题申报](https://shimo.im/sheets/vVqRVBewOBUx7oqy/MODOC)
- - 会议链接：腾讯会议或其他会议
+ - 会议链接：[WeLink](https://bmeeting.huaweicloud.com:36443/#/j/989208653)
  - 会议通知：请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
  - 会议纪要：[归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/qt/meetings)
