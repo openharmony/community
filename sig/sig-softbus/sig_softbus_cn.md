@@ -28,7 +28,34 @@
 |NFC服务|提供NFC标签的读写能力，卡模拟能力等服务能力。|communication_nfc<br>communication_connected_nfc_tag|
 |位置服务|提供GNSS、网络定位、地理编码转换等位置服务框架能力。|base_location|
 |DHCP服务|提供集中地管理、分配IP地址，使网络环境中的主机动态的获得IP地址、Gateway地址、DNS服务器地址等信息，同时提升地址的使用率。|communication_dhcp|
+|NewIP|NewIP在现有IP能力的基础上，以灵活轻量级报头和可变长多语义地址为基础，通过二三层协议融合，对协议去冗和压缩，减少冗余字节，实现高能效比，高净吞吐，提升通信效率。打造终端之间高效的横向通信，支撑超级终端的体验，实现异构网络的端到端互联。|communication_sfc_newip|
 
+- project name:
+  - communication_dsoftbus: https://gitee.com/openharmony/communication_dsoftbus
+  - communication_ipc: https://gitee.com/openharmony/communication_ipc
+  - communication_ipc_lite: https://gitee.com/openharmony/communication_ipc_lite
+  - communication_bluetooth: https://gitee.com/openharmony/communication_bluetooth
+  - communication_nfc: https://gitee.com/openharmony/communication_nfc
+  - communication_connected_nfc_tag: https://gitee.com/openharmony/communication_connected_nfc_tag
+  - communication_wifi: https://gitee.com/openharmony/communication_wifi
+  - communication_wifi_lite: https://gitee.com/openharmony/communication_wifi_lite
+  - communication_wifi_aware: https://gitee.com/openharmony/communication_wifi_aware
+  - communication_dhcp: https://gitee.com/openharmony/communication_dhcp
+  - communication_sfc_newip: https://gitee.com/openharmony/communication_sfc_newip
+  - base_location：https://gitee.com/openharmony/base_location
+  - telephony_call_manager: https://gitee.com/openharmony/telephony_call_manager
+  - telephony_cellular_call: https://gitee.com/openharmony/telephony_cellular_call
+  - telephony_core_service: https://gitee.com/openharmony/telephony_core_service
+  - telephony_sms_mms: https://gitee.com/openharmony/telephony_sms_mms
+  - telephony_state_registry: https://gitee.com/openharmony/telephony_state_registry
+  - applications_camera_sample_communication: https://gitee.com/openharmony/applications_camera_sample_communication
+  - applications_sample_wifi_iot: https://gitee.com/openharmony/applications_sample_wifi_iot
+  - iothardware_peripheral: https://gitee.com/openharmony/iothardware_peripheral
+  - iot_link: https://gitee.com/openharmony/iot_link
+  - third_party_lwip: https://gitee.com/openharmony/third_party_lwip
+  - third_party_nfc-nci：https://gitee.com/openharmony-sig/third_party_nfc-nci
+  - third_party_wpa_supplicant: https://gitee.com/openharmony/third_party_wpa_supplicant
+  - third_party_libcoap: https://gitee.com/openharmony/third_party_libcoap
 
 ## SIG组成员
 
