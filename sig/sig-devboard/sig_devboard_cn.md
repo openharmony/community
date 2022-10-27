@@ -120,9 +120,9 @@
   - device_soc_st: https://gitee.com/openharmony/device_soc_st
   - device_board_isoftstone: https://gitee.com/openharmony/device_board_isoftstone
   - vendor_isoftstone: https://gitee.com/openharmony/vendor_isoftstone  
-  - device_board_hpmicro: https://gitee.com/openharmony-sig/device_board_hpmicro
-  - vendor_hpmicro: https://gitee.com/openharmony-sig/vendor_hpmicro
-  - device_soc_hpmicro: https://gitee.com/openharmony-sig/device_soc_hpmicro
+  - device_board_hpmicro: https://gitee.com/openharmony/device_board_hpmicro
+  - vendor_hpmicro: https://gitee.com/openharmony/vendor_hpmicro
+  - device_soc_hpmicro: https://gitee.com/openharmony/device_soc_hpmicro
   - device_board_kaihong: https://gitee.com/openharmony/device_board_kaihong
   - vendor_kaihong: https://gitee.com/openharmony/vendor_kaihong
   - vendor_ubtech: https://gitee.com/openharmony-sig/vendor_ubtech
