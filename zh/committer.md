@@ -427,3 +427,6 @@
 |425|vendor_hpmicro|vendor/hpmicro|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/jh_qian<br>https://gitee.com/huohongpeng|jianghao.qian@hpmicro.com <br> hongpeng.huo@hpmicro.com|SIG_Devboard|
 |426|device_soc_hpmicro|device/soc/hpmicro|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/jh_qian<br>https://gitee.com/huohongpeng|jianghao.qian@hpmicro.com<br> hongpeng.huo@hpmicro.com|SIG_Devboard|
 |427|device_board_hpmicro|device/board/hpmicro|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/jh_qian<br>https://gitee.com/huohongpeng|jianghao.qian@hpmicro.com <br> hongpeng.huo@hpmicro.com|SIG_Devboard|
+|428|vendor_beken|vendor/beken|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/barrytu<br>https://gitee.com/xxkit|wenxing.tu@bekencorp.com <br> wanqing.lin@bekencorp.com|SIG_Devboard|
+|429|device_soc_beken|device/soc/beken|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/barrytu<br>https://gitee.com/xxkit|wenxing.tu@bekencorp.com <br> wanqing.lin@bekencorp.com|SIG_Devboard|
+|430|device_board_beken|device/board/beken|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/barrytu<br>https://gitee.com/xxkit|wenxing.tu@bekencorp.com <br> wanqing.lin@bekencorp.com|SIG_Devboard|

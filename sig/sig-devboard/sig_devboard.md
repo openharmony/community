@@ -76,8 +76,9 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - vendor_realtek: https://gitee.com/openharmony-sig/vendor_realtek
   - device_bouffalolab: https://gitee.com/openharmony-sig/device_bouffalolab
   - vendor_bouffalolab: https://gitee.com/openharmony-sig/vendor_bouffalolab
-  - device_beken: https://gitee.com/openharmony-sig/device_beken
-  - vendor_beken: https://gitee.com/openharmony-sig/vendor_beken
+  - device_soc_beken: https://gitee.com/openharmony/device_soc_beken
+  - device_board_beken: https://gitee.com/openharmony/device_board_beken
+  - vendor_beken: https://gitee.com/openharmony/vendor_beken
   - device_board_lango: https://gitee.com/openharmony/device_board_lango
   - vendor_asrmicro: https://gitee.com/openharmony/vendor_asrmicro
   - device_soc_asrmicro: https://gitee.com/openharmony/device_soc_asrmicro
