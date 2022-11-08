@@ -59,7 +59,8 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - device_soc_bestechnic: https://gitee.com/openharmony/device_soc_bestechnic
   - vendor_bestechnic: https://gitee.com/openharmony/vendor_bestechnic
   - device_board_fnlink: https://gitee.com/openharmony/device_board_fnlink
-  - device_ingenic: https://gitee.com/openharmony-sig/device_ingenic
+  - device_board_ingenic: https://gitee.com/openharmony-sig/device_board_ingenic
+  - device_soc_ingenic: https://gitee.com/openharmony-sig/device_soc_ingenic
   - vendor_ingenic: https://gitee.com/openharmony-sig/vendor_ingenic
   - device_espressif: https://gitee.com/openharmony-sig/device_soc_espressif
   - device_espressif: https://gitee.com/openharmony-sig/device_board_espressif
