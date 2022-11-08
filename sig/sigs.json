@@ -883,8 +883,8 @@
                 "https://gitee.com/openharmony/testfwk_arkxtest",
                 "https://gitee.com/openharmony/testfwk_xdevice",
                 "https://gitee.com/openharmony/testfwk_developer_test",
-                "https://gitee.com/openharmony-sig/third_party_VK-GL-CTS",
-                "https://gitee.com/openharmony-sig/third_party_SPIRV-Tools",
+                "https://gitee.com/openharmony-sig/third_party_vk-gl-cts",
+                "https://gitee.com/openharmony-sig/third_party_spirv-tools",
                 "https://gitee.com/openharmony-sig/third_party_glslang",
                 "https://gitee.com/openharmony-sig/third_party_spirv-headers"
             ],
@@ -898,8 +898,8 @@
                 "test/testfwk/arkxtest",
                 "test/testfwk/xdevice",
                 "test/testfwk/developer_test",
-                "third_party/VK-GL-CTS",
-                "third_party/SPIRV-Tools",
+                "third_party/vk-gl-cts",
+                "third_party/spirv-tools",
                 "third_party/glslang",
                 "third_party/spirv-headers"
             ]
