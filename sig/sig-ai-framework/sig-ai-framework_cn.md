@@ -40,7 +40,7 @@ AI原子能力/服务接口分为能力和服务接口，能力接口是对AI模
   - FlatBuffers: https://gitee.com/openharmony/third_party_flatbuffers
   - OpenCL-Headers: https://gitee.com/openharmony/third_party_opencl-headers
   - OpenCL-CLHPP: https://gitee.com/openharmony-sig/third_party_opencl-clhpp
-  - Neural Network Runtime: https://gitee.com/openharmony-sig/neural_network_runtime
+  - Neural Network Runtime: https://gitee.com/openharmony/neural_network_runtime
 
 ## SIG组成员
 
