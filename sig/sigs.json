@@ -361,7 +361,7 @@
                 "https://gitee.com/openharmony/third_party_flatbuffers",
                 "https://gitee.com/openharmony/third_party_opencl-headers",
                 "https://gitee.com/openharmony-sig/third_party_opencl-clhpp",
-                "https://gitee.com/openharmony-sig/neural_network_runtime"
+                "https://gitee.com/openharmony/neural_network_runtime"
             ],
             "project-path": [
                 "third_party/mindspore",

@@ -430,3 +430,4 @@
 |428|vendor_beken|vendor/beken|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/barrytu<br>https://gitee.com/xxkit|wenxing.tu@bekencorp.com <br> wanqing.lin@bekencorp.com|SIG_Devboard|
 |429|device_soc_beken|device/soc/beken|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/barrytu<br>https://gitee.com/xxkit|wenxing.tu@bekencorp.com <br> wanqing.lin@bekencorp.com|SIG_Devboard|
 |430|device_board_beken|device/board/beken|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/barrytu<br>https://gitee.com/xxkit|wenxing.tu@bekencorp.com <br> wanqing.lin@bekencorp.com|SIG_Devboard|
+|431|neural_network_runtime|foundation/ai/neural_network_runtime|https://gitee.com/yangyongjie-boom|yangyongjie7@huawei.com|https://gitee.com/grbuzhidao|guorui48@huawei.com|SIG-AI-Framework|
