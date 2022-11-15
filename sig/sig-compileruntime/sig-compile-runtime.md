@@ -96,13 +96,13 @@
 
  ### Meetings
  - Meeting time: Bi-weekly, Friday 14:30, UTC+8
- - Meeting proposal submission: [SIG-COMPILERUNTIME Meeting Proposal](https://shimo.im/sheets/cHkjRvDJQtt638y3/MODOC)
+ - Meeting proposal submission: [Subscribe to](https://lists.openatom.io/postorius/lists/compiler.openharmony.io) the mailing list and send proposals to compiler@openharmony.io
  - Meeting link: Welink Meeting or Others [Sent out before the meeting]
- - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- - Meeting minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
+ - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/compiler.openharmony.io) mailing list compiler@openharmony.io for the meeting link
+ - Meeting minutes: [Archive link address](minutes)
  
  ### Contact
  
- - Mailing list: dev@openharmony.io
+ - Mailing list: compiler@openharmony.io
  - Zulip group: https://zulip.openharmony.cn (compileRuntime_sig stream)
  - Wechat group: NA
