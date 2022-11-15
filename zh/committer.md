@@ -48,8 +48,8 @@
 |46|ai_engine|foundation/ai/engine|https://gitee.com/hada__lee|lifu2@huawei.com|https://gitee.com/pamulee|lijunpeng4@huawei.com|SIG_AI|
 |47|bundlemanager_bundle_framework_lite|foundation/bundlemanager/bundle_framework_lite|https://gitee.com/autumn330|hw.liuwei@huawei.com|https://gitee.com/changzheng6|hanfeng6@huawei.com|SIG_ApplicationFramework|
 |48|communication_ipc_lite|foundation/communication/ipc_lite|https://gitee.com/fanxiaoyu321|fanxiaoyu3@huawei.com|https://gitee.com/Xi_Yuhao <br> https://gitee.com/maerlii|xiyuhao@huawei.com <br> maerli@huawei.com|SIG_SoftBus|
-|49|communication_wifi_aware|foundation/communication/wifi_aware|https://gitee.com/Xuyongpan|xuyongpan@huawei.com|https://gitee.com/yinyouzhan|yinyouzhan@huawei.com|SIG_SoftBus|
-|50|communication_wifi_lite|foundation/communication/wifi_lite|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/zf0719|hw.zhangfeng@huawei.com|SIG_SoftBus|
+|49|communication_wifi_aware|foundation/communication/wifi_aware|https://gitee.com/legendtau|yanxiaotao@huawei.com|https://gitee.com/yinyouzhan|yinyouzhan@huawei.com|SIG_SoftBus|
+|50|communication_wifi_lite|foundation/communication/wifi_lite|https://gitee.com/legendtau|yanxiaotao@huawei.com|https://gitee.com/cheng_guohong <br> https://gitee.com/zf0719|guohong.cheng@huawei.com <br> hw.zhangfeng@huawei.com|SIG_SoftBus|
 |51|ability_dmsfwk_lite|foundation/ability/dmsfwk_lite|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/majiajun90533|majiajun@huawei.com|SIG_ApplicationFramework|
 |52|systemabilitymgr_safwk_lite|foundation/systemabilitymgr/safwk_lite|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/majiajun90533|majiajun@huawei.com|SIG_ApplicationFramework|
 |53|systemabilitymgr_samgr_lite|foundation/systemabilitymgr/samgr_lite|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/majiajun90533|majiajun@huawei.com|SIG_ApplicationFramework|
@@ -149,7 +149,7 @@
 |147|bundlemanager_bundle_framework|foundation/bundlemanager/bundle_framework|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/shuaytao <br> https://gitee.com/zhongjianfei <br> https://gitee.com/changzheng6|shuaiyutao1@huawei.com <br> zhongjianfei@huawei.com <br> hanfeng6@huawei.com|SIG_ApplicationFramework|
 |148|communication_dsoftbus|foundation/communication/dsoftbus|https://gitee.com/maerlii|maerli@huawei.com|https://gitee.com/zianed <br> https://gitee.com/waibozie <br> https://gitee.com/duxbbo|houxuanzhe@huawei.com <br> songzhengteng@huawei.com <br> duxiaobo@huawei.com|SIG_SoftBus|
 |149|communication_ipc|foundation/communication/ipc|https://gitee.com/fanxiaoyu321|fanxiaoyu3@huawei.com|https://gitee.com/Xi_Yuhao <br> https://gitee.com/maerlii|xiyuhao@huawei.com <br> maerli@huawei.com|SIG_SoftBus|
-|150|communication_wifi|foundation/communication/wifi|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/fenis-two-thousand-and-one <br> https://gitee.com/zf0719|lujunxin@huawei.com <br> hw.zhangfeng@huawei.com|SIG_SoftBus|
+|150|communication_wifi|foundation/communication/wifi|https://gitee.com/legendtau|yanxiaotao@huawei.com|https://gitee.com/cheng_guohong <br> https://gitee.com/fenis-two-thousand-and-one <br> https://gitee.com/zf0719|guohong.cheng@huawei.com <br> lujunxin@huawei.com <br> hw.zhangfeng@huawei.com|SIG_SoftBus|
 |151|distributeddatamgr_datamgr_service|foundation/distributeddatamgr/datamgr_service|https://gitee.com/widecode|wanghancai@huawei.com| | |SIG_DataManagement|
 |152|distributeddatamgr_file|foundation/distributeddatamgr/distributedfile|https://gitee.com/zhangzhiwi|weizhi.zhang@huawei.com| | |SIG_DataManagement|
 |153|ability_dmsfwk|foundation/ability/dmsfwk|https://gitee.com/lijiarun|lijiarun@huawei.com|https://gitee.com/cangegegege <br> https://gitee.com/majiajun90533|jiacan@huawei.com <br> majiajun@huawei.com|SIG_ApplicationFramework|
