@@ -95,13 +95,13 @@
 
 ### 会议
  - 会议时间：双周例会，周五14:30，UTC+8
- - 会议申报：[SIG-COMPILERUNTIME Meeting Proposal](https://shimo.im/sheets/cHkjRvDJQtt638y3/MODOC)
+ - 会议申报：请订阅并发送申报议题到邮件列表 [compiler@openharmony.io](https://lists.openatom.io/postorius/lists/compiler.openharmony.io)
  - 会议链接: Welink或其他会议
- - 会议通知: 请订阅邮件列表 dev@openharmony.io 获取会议链接
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content)
+ - 会议通知: 请订阅邮件列表 [compiler@openharmony.io](https://lists.openatom.io/postorius/lists/compiler.openharmony.io) 获取会议链接
+ - 会议纪要: [归档链接地址](minutes)
 
 ### 联系方式
 
-- 邮件列表：dev@openharmony.io
+- 邮件列表：compiler@openharmony.io
 - Zulip群组：https://zulip.openharmony.cn (compileRuntime_sig stream)
 - 微信群：NA
