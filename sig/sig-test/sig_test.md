@@ -21,6 +21,8 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - https://gitee.com/openharmony/xts_tools
   - https://gitee.com/openharmony/xts_hats
   - https://gitee.com/openharmony/xts_dcts
+  - https://gitee.com/openharmony/xts_device_attest
+  - https://gitee.com/openharmony/xts_device_attest_lite
   - https://gitee.com/openharmony/ostest_wukong
   - https://gitee.com/openharmony/testfwk_arkxtest
   - https://gitee.com/openharmony/testfwk_xdevice
