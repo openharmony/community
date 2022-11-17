@@ -22,6 +22,11 @@ BasicSoftwareService SIG技术栈范围全景图如下图所示：
 |账号子系统|提供系统的账号管理能力|
 |无障碍软件服务子系统|提供无障碍软件服务能力|
 |定制子系统|提供系统定制化能力，包括基于配置层级的定制框架、企业环境下的设备管理和定制化设置等|
+|时间时区子系统|提供管理系统时间时区和定时的能力，支持设置获取时间、日期、时区和系统定时器功能|
+|主题框架子系统|提供壁纸管理服务能力，支持系统显示、设置、切换壁纸等功能，以及锁屏管理服务|
+|输出法框架子系统|提供输入法开发框架，供输入法应用使用，以及提供输入法管理接口|
+|上传下载子系统|向三方应用提供系统下载/上传服务能力|
+|打印子系统|支持三方应用创建打印任务，拉起后台打印任务管理，管理打印扩展和打印任务|
 
 ## 代码仓
 
@@ -55,11 +60,16 @@ BasicSoftwareService SIG技术栈范围全景图如下图所示：
 |升级包安装|[update_updater](https://gitee.com/openharmony/update_updater)|升级包安装组件，其功能主要包括读取misc分区信息获取升级包状态，对升级包进行校验，确保升级包合法有效；然后从升级包中解析出升级的可执行程序，创建子进程并启动升级程序。具体升级的动作由升级脚本控制。|
 |升级服务|[update_updateservice](https://gitee.com/openharmony/update_updateservice)|升级服务组件是一个SA(System Ability)，由OHOS 的init 进程负责启动。主要功能包括：<br/>1、查找可用的升级包；<br/>2、下载升级包；<br/>3、设置/获取升级策略；<br/>4、触发升级|
 |系统安装|[update_sys_installer](https://gitee.com/openharmony/update_sys_installer)|系统安装组件，其功能主要包括读取AB系统启动状态，对升级包进行校验，确保升级包合法有效；然后从升级包中解析出升级的可执行程序，创建子进程并启动升级程序，完成对AB系统主备分区的升级。|
-|系统账号|[account_os_account](https://gitee.com/openharmony/account_os_account)|提供系统帐号生命周期管理，包括系统帐号的创建、切换、删除、查询和修改。
-提供应用帐号的管理和应用账号OAuth鉴权能力，提供分布式帐号状态管理能力。|
+|系统账号|[account_os_account](https://gitee.com/openharmony/account_os_account)|提供系统帐号生命周期管理，包括系统帐号的创建、切换、删除、查询和修改。提供应用帐号的管理和应用账号OAuth鉴权能力，提供分布式帐号状态管理能力。|
 |无障碍|[accessibility](https://gitee.com/openharmony/accessibility)|提供在应用程序和辅助应用之间交换信息的机制，支持辅助应用开发框架，增强无障碍功能体验。|
 |企业设备管理|[customization_enterprise_device_management](https://gitee.com/openharmony-sig/customization_enterprise_device_management)|提供企业对设备进行管理和配置的API，支持企业MDM应用对设备的管控。|
 |配置策略|[config_policy](https://gitee.com/openharmony/customization_config_policy)|为各业务模块提供获取各配置层级的配置目录或配置文件路径的接口。|
+|时间时区部件|[time_time_service](https://gitee.com/openharmony/time_time_service)|提供管理系统时间时区和定时的能力，支持设置获取时间、日期、时区和系统定时器功能。|
+|壁纸管理服务|[theme_wallpaper_mgr](https://gitee.com/openharmony/theme_wallpaper_mgr)|主要为系统提供壁纸管理服务能力，支持系统显示、设置、切换壁纸等功能。|
+|锁屏管理服务|[theme_screenlock_mgr](https://gitee.com/openharmony/theme_screenlock_mgr)|为锁屏应用提供注册亮屏、灭屏、开启屏幕、结束休眠、退出动画、请求解锁结果监听，并提供回调结果给锁屏应用。锁屏管理服务向三方应用提供请求解锁、查询锁屏状态、查询是否设置锁屏密码的能力。|
+|输入法框架|[inputmethod_imf](https://gitee.com/openharmony/inputmethod_imf)|提供输入法开发框架，供输入法应用使用，以及提供输入法管理接口。|
+|Request服务|[request_request](https://gitee.com/openharmony/request_request)|向三方应用提供系统下载/上传服务能力，以支撑应用开发者方便、高效地使用以及管理下载/上传业务的功能，包含新建、移除、暂停、恢复以及查询下载/上传任务。|
+|打印框架服务|[print_print_fwk](https://gitee.com/openharmony/print_print_fwk)|支持三方应用创建打印任务，拉起后台打印任务管理，管理打印扩展和打印任务。 提供打印扩展框架，实现三方打印扩展的接入，管理打印任务与打印机之间的关系，启动、暂停/恢复、取消打印任务，查询打印进度等。|
 
 ## SIG组成员
 
@@ -85,6 +95,12 @@ BasicSoftwareService SIG技术栈范围全景图如下图所示：
 |账号子系统|[verystone](https://gitee.com/verystone)|[mail](xudaqing@huawei.com)|
 |无障碍软件服务子系统|[dubingjian](https://gitee.com/bj1010)|[mail](dubingjian@huawei.com)|
 |定制子系统|[jameshw](https://gitee.com/jameshw)|[mail](jameslee@huawei.com)|
+|时间时区部件|[time_service](https://gitee.com/openharmony/time_time_service)|[mail](baoyayong@huawei.com)|
+|壁纸管理服务|[wallpaper_mgr](https://gitee.com/openharmony/theme_wallpaper_mgr)|[mail](baoyayong@huawei.com)|
+|锁屏管理服务|[screenlock_mgr](https://gitee.com/openharmony/theme_screenlock_mgr)|[mail](baoyayong@huawei.com)|
+|输入法框架|[imf](https://gitee.com/openharmony/inputmethod_imf)|[mail](baoyayong@huawei.com)|
+|Request服务|[request](https://gitee.com/openharmony/request_request)|[mail](baoyayong@huawei.com)|
+|打印框架服务|[print_fwk](https://gitee.com/openharmony/print_print_fwk)|[mail](yuanyulu@huawei.com)|
 
 ### 会议
  - 会议时间: 双周三 14:00
