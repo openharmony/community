@@ -15,7 +15,7 @@ Defines and builds OpenHarmony system applications, applies for and implements i
 4. Communicate and cooperate with developers to continuously improve system application features.
 5. Organize the clarification of community-related questions and provide timely answers.
 
-### The repository 
+### The repository
 - project name:
   - applications_systemui：https://gitee.com/openharmony/applications_systemui
   - applications_settings: https://gitee.com/openharmony/applications_settings
@@ -40,6 +40,7 @@ Defines and builds OpenHarmony system applications, applies for and implements i
   - applications_clock: https://gitee.com/openharmony-sig/applications_clock
   - applications_recorder: https://gitee.com/openharmony-sig/applications_recorder
   - applications_compass: https://gitee.com/openharmony-sig/applications_compass
+  - applications_share_dialog: https://gitee.com/openharmony-sig/applications_share_dialog
 
 ## SIG Members
 
@@ -63,6 +64,8 @@ Defines and builds OpenHarmony system applications, applies for and implements i
 - @yangpeng85(https://gitee.com/yangpeng85)
 - @xuchangzhou(https://gitee.com/xuchangzhou)
 - @jiang-xiaofeng(https://gitee.com/jiang-xiaofeng)
+- @lushi1202(https://gitee.com/lushi1202)
+- @sunfei2021(https://gitee.com/sunfei2021)
 
  ### Meetings
 - Meeting time：monthly meeting
