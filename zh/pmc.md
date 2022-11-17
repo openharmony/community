@@ -21,7 +21,7 @@
 | 吴勇辉 | [@davidwulanxi](https://gitee.com/davidwulanxi) | PMC成员 | 版本发布SIG |
 | 强波 | [@huawei_qiangbo](https://gitee.com/huawei_qiangbo) | PMC成员 | 应用框架SIG |
 | 鲜余强 | [@klooer](https://gitee.com/klooer) | PMC成员 | 编译运行时SIG |
-| 余枝强 | [@yuzhiqiang101](https://gitee.com/yuzhiqiang101) | PMC成员 | ACE框架SIG |
+| 余枝强 | [@yuzhiqiang101](https://gitee.com/yuzhiqiang101) | PMC成员 | ArkUI框架SIG |
 | 梁克雷 | [@xzmu](https://gitee.com/xzmu) | PMC成员 | 系统架构 |
 | 黄明龙 | [@minglonghuang](https://gitee.com/minglonghuang) | PMC成员 | 社区运营经理 |
 | 李家欣 | [@ninalijiaxin](https://gitee.com/ninalijiaxin) | PMC成员 | 内核SIG |

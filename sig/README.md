@@ -67,7 +67,7 @@ SIG发起人收到PMC评审反馈、确认SIG提案通过后，执行以下操�
 3. Issue中应注明仓库路径、邮件列表名称以及新SIG的Leader和Committer，并附[前述PMC评审意见](#3.PMC评审提案)，通过在Issue中[@wanchengzhen](https://gitee.com/wanchengzhen)或[@im-off-this-week](https://gitee.com/im-off-this-week)通知Sig Architecture评审。
 4. Sig Architecture评审通过后：
 - SIG负责人联系[社区代码仓管理员](https://gitee.com/landwind)执行建仓操作；
-- SIG负责人联系[邮件列表负责人](likang@openatom.org)创建邮件列表：
+- SIG邮件列表负责人联系 **likang@openatom.org** 创建邮件列表：
 - 需详细说明邮件列表名称和管理员邮箱（一般为SIG负责人），
 - 邮件列表创建成功后，SIG负责人进入[OpenHarmony项目群邮件列表登陆页面](https://lists.openatom.io)，通过管理员邮箱登录后可管理邮件列表（批准成员加入或审核邮件等），其他人可订阅查看。
 5. SIG可根据需要自行组建微信群等其他社交群组。 
