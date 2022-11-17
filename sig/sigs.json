@@ -1,5 +1,6 @@
 {
-    "sigs-List": [{
+    "sigs-List": [
+        {
             "sig-name": "sig-kernel",
             "projects": [
                 "https://gitee.com/openharmony/third_party_littlefs",
@@ -328,10 +329,11 @@
                 "https://gitee.com/openharmony-sig/applications_notes",
                 "https://gitee.com/openharmony/applications_app_samples",
                 "https://gitee.com/openharmony-sig/applications_filemanager",
-				"https://gitee.com/openharmony-sig/applications_inputmethod",
-		        "https://gitee.com/openharmony-sig/applications_clock",
-		        "https://gitee.com/openharmony-sig/applications_recorder",
-		        "https://gitee.com/openharmony-sig/applications_compass"
+                "https://gitee.com/openharmony-sig/applications_inputmethod",
+                "https://gitee.com/openharmony-sig/applications_clock",
+                "https://gitee.com/openharmony-sig/applications_recorder",
+                "https://gitee.com/openharmony-sig/applications_compass",
+                "https://gitee.com/openharmony-sig/applications_share_dialog"
             ],
             "project-path": [
                 "applications/standard/systemui",
@@ -346,11 +348,12 @@
                 "applications/standard/contactsdata",
                 "applications/standard/notes",
                 "applications/standard/app_samples",
-		        "NONE",
-		        "NONE",
-				"applications/standard/clock",
-		        "applications/standard/recorder",
-		        "applications/standard/compass",
+                "NONE",
+                "NONE",
+                "applications/standard/clock",
+                "applications/standard/recorder",
+                "applications/standard/compass",
+                "applications/standard/share_dialog"
             ]
         },
         {
@@ -881,7 +884,7 @@
                 "https://gitee.com/openharmony/xts_dcts",
                 "https://gitee.com/openharmony/xts_device_attest",
                 "https://gitee.com/openharmony/xts_device_attest_lite",
-		"https://gitee.com/openharmony/ostest_wukong",
+                "https://gitee.com/openharmony/ostest_wukong",
                 "https://gitee.com/openharmony/testfwk_arkxtest",
                 "https://gitee.com/openharmony/testfwk_xdevice",
                 "https://gitee.com/openharmony/testfwk_developer_test",
@@ -1020,14 +1023,14 @@
                 "NONE"
             ]
         },
-		{
-			"sig-name":"sig-Qt",
-			"projects":[
-				"https://gitee.com/openharmony-sig/qt"
-			],
-			"project-path":[
-				"NONE"
-			]
-		}
+        {
+            "sig-name": "sig-Qt",
+            "projects": [
+                "https://gitee.com/openharmony-sig/qt"
+            ],
+            "project-path": [
+                "NONE"
+            ]
+        }
     ]
 }

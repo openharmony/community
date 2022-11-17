@@ -36,6 +36,7 @@
 |文件选择器|FilePicker应用是OpenHarmony中预置的系统应用，为用户提供文件选择及保存功能|applications_filepicker|
 |应用示例|为提高鸿蒙北向应用开发者开发效率，增加各个子系统特性的Sample样例，帮助开发者迅速掌握鸿蒙能力|applications_app_samples|
 |权限管理应用|权限管理应用是OpenHarmony中预置的系统应用，为用户提供运行时权限弹框和权限管理设置能力。|applications_permission_manager|
+|系统分享弹窗|系统分享弹窗是OpenHarmony中预置的系统应用，为开发者和用户提供文件分享能力。|applications_share_dialog|
 
 - 代码仓地址：
   - applications_systemui：https://gitee.com/openharmony/applications_systemui
@@ -59,6 +60,7 @@
   - applications_clock: https://gitee.com/openharmony-sig/applications_clock
   - applications_recorder: https://gitee.com/openharmony-sig/applications_recorder
   - applications_compass: https://gitee.com/openharmony-sig/applications_compass
+  - applications_share_dialog: https://gitee.com/openharmony-sig/applications_share_dialog
 
 ## SIG组成员
 
@@ -82,6 +84,8 @@
 - @yangpeng85(https://gitee.com/yangpeng85)
 - @xuchangzhou(https://gitee.com/xuchangzhou)
 - @jiang-xiaofeng(https://gitee.com/jiang-xiaofeng)
+- @lushi1202(https://gitee.com/lushi1202)
+- @sunfei2021(https://gitee.com/sunfei2021)
 
 ### 会议
  - 会议时间：月度例会
