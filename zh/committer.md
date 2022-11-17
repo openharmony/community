@@ -423,7 +423,7 @@
 |421|security_privacy_center|applications/standard/security_privacy_center|https://gitee.com/Chaos-Liang|liangguanchao1@huawei.com|https://gitee.com/liuchibin|liuchibin@huawei.com|SIG_Security|
 |422|multimedia_av_session|foundation/multimedia_av_session|https://gitee.com/intermilano|night.zhangbin@huawei.com|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|SIG_Media|
 |423|communication_dhcp|foundation/communication/dhcp|https://gitee.com/legendtau|yanxiaotao@huawei.com|https://gitee.com/fenis-two-thousand-and-one|lujunxin@huawei.com|SIG_SoftBus|
-|424|communication_sfc_newip|foundation/communication/sfc/newip|https://gitee.com/steve|fanxiaoyu3@huawei.com|https://gitee.com/maerlii<br>https://gitee.com/zianed<br>https://gitee.com/duxbbo|maerli@huawei.com<br>houxuanzhe@huawei.com<br>duxiaobo@huawei.com|SIG_SoftBus|
+|424|kernel_common_modules_newip|kernel/common_modules/newip|https://gitee.com/steve|fanxiaoyu3@huawei.com|https://gitee.com/maerlii<br>https://gitee.com/zianed<br>https://gitee.com/duxbbo|maerli@huawei.com<br>houxuanzhe@huawei.com<br>duxiaobo@huawei.com|SIG_SoftBus|
 |425|vendor_hpmicro|vendor/hpmicro|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/jh_qian<br>https://gitee.com/huohongpeng|jianghao.qian@hpmicro.com <br> hongpeng.huo@hpmicro.com|SIG_Devboard|
 |426|device_soc_hpmicro|device/soc/hpmicro|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/jh_qian<br>https://gitee.com/huohongpeng|jianghao.qian@hpmicro.com<br> hongpeng.huo@hpmicro.com|SIG_Devboard|
 |427|device_board_hpmicro|device/board/hpmicro|https://gitee.com/qtpl456|wangshaofeng5@huawei.com|https://gitee.com/jh_qian<br>https://gitee.com/huohongpeng|jianghao.qian@hpmicro.com <br> hongpeng.huo@hpmicro.com|SIG_Devboard|
