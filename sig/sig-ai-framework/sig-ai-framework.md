@@ -33,13 +33,14 @@ Neural Network Runtime is an important bridge between On-Device inference framew
 | Component Name |       Component Functionality Description       |             Component repository name             |
 | :------------: | :---------------------------------------------: | :-----------------------------------------------: |
 | MindSpore Lite | Provide model conversion and inference function | third_party_mindspore,<br>third_party_flatbuffers|
+| Neural Network Runtime | AI-accelerated inference function | ai_neural_network_runtime |
 - project name:
   - MindSpore: https://gitee.com/openharmony/third_party_mindspore
   - DLLite-micro: https://gitee.com/openharmony-sig/dllite_micro
   - FlatBuffers: https://gitee.com/openharmony/third_party_flatbuffers
   - OpenCL-Headers: https://gitee.com/openharmony/third_party_opencl-headers
   - OpenCL-CLHPP: https://gitee.com/openharmony-sig/third_party_opencl-clhpp
-  - Neural Network Runtime: https://gitee.com/openharmony/neural_network_runtime
+  - Neural Network Runtime: https://gitee.com/openharmony/ai_neural_network_runtime
 
 ## SIG Members
 
