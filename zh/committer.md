@@ -430,7 +430,7 @@
 |428|vendor_beken|vendor/beken|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/barrytu<br>https://gitee.com/xxkit|wenxing.tu@bekencorp.com <br> wanqing.lin@bekencorp.com|SIG_Devboard|
 |429|device_soc_beken|device/soc/beken|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/barrytu<br>https://gitee.com/xxkit|wenxing.tu@bekencorp.com <br> wanqing.lin@bekencorp.com|SIG_Devboard|
 |430|device_board_beken|device/board/beken|https://gitee.com/qtpl456|wangshaofeng5@huawei.com| https://gitee.com/barrytu<br>https://gitee.com/xxkit|wenxing.tu@bekencorp.com <br> wanqing.lin@bekencorp.com|SIG_Devboard|
-|431|neural_network_runtime|foundation/ai/neural_network_runtime|https://gitee.com/yangyongjie-boom|yangyongjie7@huawei.com|https://gitee.com/grbuzhidao|guorui48@huawei.com|SIG-AI-Framework|
+|431|ai_neural_network_runtime|foundation/ai/neural_network_runtime|https://gitee.com/yangyongjie-boom|yangyongjie7@huawei.com|https://gitee.com/grbuzhidao|guorui48@huawei.com|SIG-AI-Framework|
 |432|xts_device_attest|test/xts/device_attest|https://gitee.com/inter515|ry.renyi@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
 |433|xts_device_attest_lite|test/xts/device_attest_lite|https://gitee.com/inter515|ry.renyi@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
 |434|print_print_fwk|base/print/print_fwk|https://gitee.com/lei-liang-123|leiliang2@huawei.com|https://gitee.com/h00279611|huangkun3@huawei.com|SIG_BasicSoftwareService|
