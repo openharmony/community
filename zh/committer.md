@@ -434,3 +434,7 @@
 |432|xts_device_attest|test/xts/device_attest|https://gitee.com/inter515|ry.renyi@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
 |433|xts_device_attest_lite|test/xts/device_attest_lite|https://gitee.com/inter515|ry.renyi@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
 |434|print_print_fwk|base/print/print_fwk|https://gitee.com/lei-liang-123|leiliang2@huawei.com|https://gitee.com/h00279611|huangkun3@huawei.com|SIG_BasicSoftwareService|
+|435|third_party_vk-gl-cts|third_party/vk-gl-cts|https://gitee.com/jiyong_sd|jiyong@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test
+|436|third_party_spirv-tools|third_party/spirv-tools|https://gitee.com/jiyong_sd|jiyong@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test
+|437|third_party_glslang|third_party/glslang|https://gitee.com/jiyong_sd|jiyong@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test
+|438|third_party_spirv-headers|third_party/spirv-headers|https://gitee.com/jiyong_sd|jiyong@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test

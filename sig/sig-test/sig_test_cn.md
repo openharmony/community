@@ -40,10 +40,10 @@ Test-SIG（ sig-Test ）技术栈范围全景图如下图所示：
   - https://gitee.com/openharmony/testfwk_arkxtest
   - https://gitee.com/openharmony/testfwk_xdevice
   - https://gitee.com/openharmony/testfwk_developer_test
-  - https://gitee.com/openharmony-sig/third_party_vk-gl-cts
-  - https://gitee.com/openharmony-sig/third_party_spirv-tools
-  - https://gitee.com/openharmony-sig/third_party_glslang
-  - https://gitee.com/openharmony-sig/third_party_spirv-headers
+  - https://gitee.com/openharmony/third_party_vk-gl-cts
+  - https://gitee.com/openharmony/third_party_spirv-tools
+  - https://gitee.com/openharmony/third_party_glslang
+  - https://gitee.com/openharmony/third_party_spirv-headers
 ## SIG组成员
 
 ### Leader
