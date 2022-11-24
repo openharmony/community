@@ -159,7 +159,10 @@
                 "https://gitee.com/openharmony/vendor_kaihong",
                 "https://gitee.com/openharmony-sig/vendor_ubtech",
                 "https://gitee.com/openharmony-sig/device_board_ubtech",
-                "https://gitee.com/openharmony-sig/device_soc_xinsheng"
+                "https://gitee.com/openharmony-sig/device_soc_xinsheng",
+                "https://gitee.com/openharmony-sig/device_board_unionman",
+                "https://gitee.com/openharmony-sig/vendor_unionman",
+                "https://gitee.com/openharmony-sig/device_soc_eeasytech"
             ],
             "project-path": [
                 "device/st",
@@ -250,7 +253,10 @@
                 "vendor/kaihong",
                 "vendor/ubtech",
                 "device/board/ubtech",
-                "device/soc/xinsheng"
+                "device/soc/xinsheng",
+                "device/board/unionman",
+                "vendor/unionman",
+                "device/soc/eeasytech"
             ]
         },
         {
