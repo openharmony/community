@@ -130,6 +130,9 @@
   - vendor_ubtech: https://gitee.com/openharmony-sig/vendor_ubtech
   - device_board_ubtech: https://gitee.com/openharmony-sig/device_board_ubtech
   - device_soc_xinsheng: https://gitee.com/openharmony-sig/device_soc_xinsheng
+  - device_board_unionman: https://gitee.com/openharmony-sig/device_board_unionman
+  - vendor_unionman: https://gitee.com/openharmony-sig/vendor_unionman
+  - device_soc_eeasytech: https://gitee.com/openharmony-sig/device_soc_eeasytech
 
 ## SIG组成员
 
