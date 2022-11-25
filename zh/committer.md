@@ -219,7 +219,7 @@
 |217|utils_selinux_policy_standard|utils/system/selinux_policy_standard|https://gitee.com/xuwenfang|xuwenfang@huawei.com| | |SIG_Security|
 |218|applications_app_samples|NA|https://gitee.com/jiangwensai|jiangwensai@huawei.com|https://gitee.com/jiangtao92|jiangtao57@huawei.com|SIG_SystemApplication|
 |219|tools_oat|NA|https://gitee.com/jalenchen|chenyaxun@huawei.com| | |SIG_CommunityBuilding|
-|220|distributedhardware_device_manager|foundation/distributedhardware/device_manager|https://gitee.com/skypuhui|puhui1@huawei.com|https://gitee.com/pengguanqi|pengguanqi@huawei.com|SIG_DistributedHardwareManagement|
+|220|distributedhardware_device_manager|foundation/distributedhardware/device_manager|https://gitee.com/skypuhui|puhui1@huawei.com|https://gitee.com/renguang1116|renguang@huawei.com|SIG_DistributedHardwareManagement|
 |221|sensors_miscdevice|base/sensors/miscdevice|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
 |222|sensors_sensor|base/sensors/sensor|https://gitee.com/hhh2|pengfei.hou@huawei.com| | |SIG_DistributedHardwareManagement|
 |223|usb_usb_manager|base/usb/usb_manager|https://gitee.com/hhh2|pengfei.hou@huawei.com|https://gitee.com/JasonYuJia|zhaihaipeng1@huawei.com|SIG_DistributedHardwareManagement|
