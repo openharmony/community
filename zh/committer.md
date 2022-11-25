@@ -438,3 +438,4 @@
 |436|third_party_spirv-tools|third_party/spirv-tools|https://gitee.com/jiyong_sd|jiyong@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test
 |437|third_party_glslang|third_party/glslang|https://gitee.com/jiyong_sd|jiyong@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test
 |438|third_party_spirv-headers|third_party/spirv-headers|https://gitee.com/jiyong_sd|jiyong@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test
+|439|third_party_libbpf|third_party/libbpf|https://gitee.com/zlxia|xiazhonglin@huawei.com|https://gitee.com/jakemiao|zhangjian22@huawei.com|SIG_BasicSoftwareService

@@ -585,7 +585,7 @@
                 "https://gitee.com/openharmony/resourceschedule_frame_aware_sched",
                 "https://gitee.com/openharmony-sig/customization_enterprise_device_management",
                 "https://gitee.com/openharmony/notification_eventhandler",
-                "https://gitee.com/openharmony-sig/third_party_libbpf",
+                "https://gitee.com/openharmony/third_party_libbpf",
                 "https://gitee.com/openharmony-sig/third_party_bpftool"
             ],
             "project-path": [
