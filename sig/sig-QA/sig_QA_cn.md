@@ -30,6 +30,7 @@
 - [@vanessaguo](https://gitee.com/vanessaguo)
 - [@heartoflight](https://gitee.com/heartoflight)
 - [@guoguoliu](https://gitee.com/guoguoliu)
+- [@rtos_yuan](https://gitee.com/rtos_yuan)
 
 
 ### 会议
