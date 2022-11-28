@@ -11,7 +11,9 @@ Develop OpenHarmony architecture design principles, OpenHarmony architecture def
 
 ### work scope
 
-Responsible for the OpenHarmony architecture (including adding, merging, splitting, and deleting subsystems/components/code repositories) design review, \<\<Architecture Design Principles\>\> and \<\<OpenHarmony System Architecture\>\> revision.
+- Responsible for the OpenHarmony architecture (including adding, merging, splitting, and deleting subsystems/components/code repositories) design review, \<\<Architecture Design Principles\>\> and \<\<OpenHarmony System Architecture\>\> revision.
+- [OpenSource selection analysis template](meetings/OpenHarmony_thirdparty_opensource_software_selection_analysis_templateV1.0.pptx)
+
 
 ## The repository 
 

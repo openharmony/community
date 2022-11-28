@@ -12,7 +12,7 @@
 - 开发者可通过[OpenHarmony zulip相关频道](https://zulip.openharmony.cn/join/u7vafdcbyia32bsssygwbbee/)提前告知社区新建SIG的意向，寻找兴趣相投的开发者共同参与；
 - 申请新SIG需确认其技术方向的唯一性与可行性：
 - OpenHarmony社区每个SIG孵化的技术方向都不同，发起的申请如果属于OpenHarmony社区已有的技术方向，则会被建议直接参与相关SIG共建；
-- 开发者可查看OpenHarmony社区[已有SIG列表](https://gitee.com/openharmony/community/tree/master/sig)，同时查看[历史DEV邮件列表](https://lists.openatom.io/hyperkitty/list/dev@openharmony.io//)，以确认没有相同技术方向的SIG存在或处于申请中；
+- 开发者可查看OpenHarmony社区[已有SIG列表](https://gitee.com/openharmony/community/tree/master/sig)，同时查看[历史DEV邮件列表](https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/)，以确认没有相同技术方向的SIG存在或处于申请中；
 - 申请成立SIG的技术项目应能够最终转化为OpenHarmony的新增部件；
 - 如查阅相关信息后仍对技术方向问题存有疑虑，开发者可通过邮件列表dev@openharmony.io咨询PMC。
 
