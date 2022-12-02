@@ -1,6 +1,5 @@
 {
-    "sigs-List": [
-        {
+    "sigs-List": [{
             "sig-name": "sig-kernel",
             "projects": [
                 "https://gitee.com/openharmony/third_party_littlefs",
