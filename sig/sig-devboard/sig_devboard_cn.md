@@ -133,6 +133,7 @@
   - device_board_unionman: https://gitee.com/openharmony-sig/device_board_unionman
   - vendor_unionman: https://gitee.com/openharmony-sig/vendor_unionman
   - device_soc_eeasytech: https://gitee.com/openharmony-sig/device_soc_eeasytech
+  - device_soc_asrmicro: https://gitee.com/openharmony-sig/device_soc_asrmicro
 
 ## SIG组成员
 
