@@ -29,6 +29,7 @@ SIG组将不断的吸引开发者为 CICD 门禁不断完善、更新、升级�
   - website: https://gitee.com/openharmony-sig/website
   - CICD: https://gitee.com/openharmony-sig/cicd
   - Archive: https://gitee.com/openharmony-sig/archive
+  - developtools_integration_verification: https://gitee.com/openharmony/developtools_integration_verification
 
 ## SIG组成员
 
@@ -46,6 +47,8 @@ SIG组将不断的吸引开发者为 CICD 门禁不断完善、更新、升级�
 - [jony_code](https://gitee.com/jony_code)
 - [neeen](https://gitee.com/neeen)
 - [zhanglunet](https://gitee.com/zhanglunet)
+- [wuyunjie](https://gitee.com/five-yuan)
+
 
 ### 会议
  - 会议时间：双周例会，周五 17:00
