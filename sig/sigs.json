@@ -749,7 +749,15 @@
                 "https://gitee.com/openharmony-sig/website",
                 "https://gitee.com/openharmony-sig/cicd",
                 "https://gitee.com/openharmony-sig/archive",
-                "https://gitee.com/openharmony-sig/sig-content"
+                "https://gitee.com/openharmony-sig/sig-content",
+                "https://gitee.com/openharmony/developtools_integration_verification"
+            ],
+            "project-path": [
+                "NONE",
+                "NONE",
+                "NONE",
+                "NONE",
+                "developtools/integration_verification"
             ]
         },
         {

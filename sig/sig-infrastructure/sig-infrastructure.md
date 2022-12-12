@@ -28,6 +28,7 @@ Actively cooperate with developers, universities and community developers to pro
 - website: https://gitee.com/openharmony-sig/website
 - CICD: https://gitee.com/openharmony-sig/cicd
 - Archive: https://gitee.com/openharmony-sig/archive
+- developtools_integration_verification: https://gitee.com/openharmony/developtools_integration_verification
 
 ## SIG Members
 
@@ -45,6 +46,7 @@ Actively cooperate with developers, universities and community developers to pro
 - [jony_code](https://gitee.com/jony_code)
 - [neeen](https://gitee.com/neeen)
 - [zhanglunet](https://gitee.com/zhanglunet)
+- [wuyunjie](https://gitee.com/five-yuan)
 
 ### Meetings
  - Meeting time：BiWeek Friday 17:00
