@@ -23,7 +23,7 @@ SIG发起人参照[SIG章程模板]创建SIG提案初稿，以附件形式发送
 ### 3.PMC评审提案
 - SIG发起人接受PMC问询，对SIG提案进行必要的说明，并根据PMC的指导意见修改提案，通过原申请邮件与PMC进行沟通，直至PMC无疑问；
 - 初审过程中，SIG提案可能会因为不符合OpenHarmony社区整体技术规划或已有相关技术方向的SIG存在而被拒绝；
-- 收到PMC邮件回复同意后代表初审通过，SIG可发起人[申报PMC例行会议新建SIG议题](https://etherpad.openharmony.cn/p/pmc)，按时接入PMC会议，介绍待新建的SIG，并请PMC批准SIG成立以及相关SIG仓库和沟通渠道的建立；
+- 收到PMC邮件回复同意后代表初审通过，SIG可发起人[申报PMC例行会议新建SIG议题](https://docs.qingque.cn/s/home/eZQB8yRFQfEFeAxk_6JKZEE0q?identityId=1tbICPd8j3s)，按时接入PMC会议，介绍待新建的SIG，并请PMC批准SIG成立以及相关SIG仓库和沟通渠道的建立；
 - 评审会议形成会议纪要并附PMC评审意见。
 
 ### 4.提交PR 
