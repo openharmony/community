@@ -11,3 +11,4 @@
 |9|OpenHarmony|https://gitee.com/edachevanton|edachev.anton@huawei-partners.com|ARKCompiler Maintainer|
 |10|OpenHarmony|https://gitee.com/diog|zhaopeng22@huawei.com|版本发布SIG|
 |11|OpenHarmony|https://gitee.com/zhoumanyu|zhoumanyu@huawei.com|IT系统操作员|
+|12|OpenHarmony|https://gitee.com/zhangyun761|zhangyun761@huawei.com|社区安全委员会|
