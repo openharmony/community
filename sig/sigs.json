@@ -321,6 +321,15 @@
             ]
         },
         {
+            "sig-name": "sig-loongarch",
+            "projects": [
+                "https://gitee.com/openharmony-sig/device_soc_loongson"
+            ],
+            "project-path": [
+                "None"
+            ]
+        },
+        {
             "sig-name": "sig-systemapplications",
             "projects": [
                 "https://gitee.com/openharmony/applications_systemui",

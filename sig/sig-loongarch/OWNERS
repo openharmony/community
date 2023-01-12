@@ -1,0 +1,18 @@
+{
+   "Leader":[
+      {
+         "gitee_id":"lianzhian",
+         "gitee_email":"lianzhian@qq.com"
+      },
+      {
+         "gitee_id":"michael",
+         "gitee_email":"michael5hzg@gmail.com"
+      }
+   ],
+   "Committers":[
+      {
+         "gitee_id":"xusiwei",
+         "gitee_email":"xu_siwei@hoperun.com"
+      }
+   ]
+}
