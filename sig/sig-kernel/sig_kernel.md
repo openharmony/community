@@ -34,6 +34,7 @@ File system related open source software used by OpenHarmony lite equipment, inc
   - repository21 name:https://gitee.com/openharmony-sig/resourceschedule_ffrt_sched
   - repository22 name:https://gitee.com/openharmony/kernel_uniproton
   - repository23 name:https://gitee.com/openharmony/vendor_alientek
+  - repository24 name:https://gitee.com/openharmony-sig/kernel_linux_common_modules_pac
 
 ## SIG Members
 
