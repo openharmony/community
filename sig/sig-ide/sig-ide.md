@@ -27,6 +27,7 @@ IDE documents, samples, FAQs and  issues reply
 + project name:
   + <https://gitee.com/openharmony-sig/napi_plugin>
   + <https://gitee.com/openharmony-sig/hcs_config_plugin>
+  + <https://gitee.com/openharmony-sig/tools_previewer>
 
 ## SIG Members
 
@@ -51,6 +52,9 @@ IDE documents, samples, FAQs and  issues reply
 + @xiexg-dc(<https://gitee.com/xiexg-dc>)
 + @lengege(<https://gitee.com/lengege>)
 + @sz-dc(<https://gitee.com/sz-dc>)
++ @hmscoe(<https://gitee.com/hmscoe>)
++ @duanlang2020(<https://gitee.com/duanlang2020>)
++ @fupengfei001(<https://gitee.com/fupengfei001>)
 
 ### Meetings
 
