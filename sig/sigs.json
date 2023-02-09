@@ -1042,9 +1042,11 @@
             "sig-name": "sig-ide",
             "projects": [
                 "https://gitee.com/openharmony-sig/napi_plugin",
-                "https://gitee.com/openharmony-sig/hcs_config_plugin"
+                "https://gitee.com/openharmony-sig/hcs_config_plugin",
+                "https://gitee.com/openharmony-sig/tools_previewer"
             ],
             "project-path": [
+                "NONE",
                 "NONE",
                 "NONE"
             ]
