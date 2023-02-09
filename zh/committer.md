@@ -7,7 +7,7 @@
 |5|applications_camera_screensaver_app|applications/sample/camera/screensaver|https://gitee.com/borne|bo.lu@huawei.com| | |SIG_ApplicationFramework|
 |6|applications_sample_wifi_iot|applications/sample/wifi-iot|https://gitee.com/five-yuan|wuyunjie@huawei.com| | |SIG_SoftBus|
 |7|global_cust_lite|base/global/cust_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
-|8|global_i18n_lite|base/global/i18n_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
+|8|global_i18n_lite|base/global/i18n_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com|https://gitee.com/mengjingzhimo|luoboming@huawei.com|SIG_ApplicationFramework|
 |9|global_resource_management_lite|base/global/resource_management_lite|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
 |10|hiviewdfx_hievent_lite|base/hiviewdfx/hievent_lite|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|
 |11|hiviewdfx_hilog_lite|base/hiviewdfx/hilog_lite|https://gitee.com/stesen|stesen.ma@huawei.com|https://gitee.com/shenchenkai|shenchenkai@huawei.com|SIG_BasicSoftwareService|
@@ -84,7 +84,7 @@
 |82|third_party_giflib|third_party/giflib|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_Graphics|
 |83|third_party_googletest|third_party/googletest|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
 |84|third_party_harfbuzz|third_party/harfbuzz|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_GraphicsandMedia|
-|85|third_party_icu|third_party/icu|https://gitee.com/zhengbin5|zhengbin5@huawei.com| | |SIG_ApplicationFramework|
+|85|third_party_icu|third_party/icu|https://gitee.com/zhengbin5|zhengbin5@huawei.com|https://gitee.com/mengjingzhimo|luoboming@huawei.com|SIG_ApplicationFramework|
 |86|third_party_iniparser|third_party/iniparser|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_Media|
 |87|third_party_jerryscript|third_party/jerryscript|https://gitee.com/weng-changcheng|wengchangcheng@huawei.com|https://gitee.com/godmiaozi|pengbiao1@huawei.com|SIG_CompileRuntime|
 |88|third_party_libjpeg-turbo|third_party/libjpeg-turbo|https://gitee.com/pssea|lizhiqi1@huawei.com|https://gitee.com/niulihua|niulihua3@huawei.com|SIG_GraphicsandMedia|
