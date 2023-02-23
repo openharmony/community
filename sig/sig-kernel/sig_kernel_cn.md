@@ -77,6 +77,7 @@
   - kernel_uniproton名称：https://gitee.com/openharmony/kernel_uniproton
   - vendor_alientek名称：https://gitee.com/openharmony/vendor_alientek
   - kernel_linux_common_modules_pac名称：https://gitee.com/openharmony-sig/kernel_linux_common_modules_pac
+  - third_party_libfuse名称: https://gitee.com/openharmony-sig/third_party_libfuse
 
 ## SIG组成员
 
