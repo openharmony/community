@@ -46,8 +46,8 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - device_st: https://gitee.com/openharmony-sig/device_st
   - vendor_st: https://gitee.com/openharmony-sig/vendor_st
   - device_soc_allwinner: https://gitee.com/openharmony/device_soc_allwinner
-  - device_board_seed: https://gitee.com/openharmony/device_board_isoftstone
-  - vendor_seed: https://gitee.com/openharmony/vendor_isoftstone
+  - device_board_isoftstone: https://gitee.com/openharmony/device_board_isoftstone
+  - vendor_isoftstone: https://gitee.com/openharmony/vendor_isoftstone
   - device_mediatek: https://gitee.com/openharmony-sig/device_mediatek
   - vendor_mediatek: https://gitee.com/openharmony-sig/vendor_mediatek
   - device_nordic: https://gitee.com/openharmony-sig/device_nordic
