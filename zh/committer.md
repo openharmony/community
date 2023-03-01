@@ -67,7 +67,7 @@
 |65|signcenter_tool|prebuilts/signcenter|https://gitee.com/scuteehuangjun|huangjun42@huawei.com| | |SIG_Security|
 |66|testfwk_developer_test|test/testfwk/developer_test|https://gitee.com/buranfanchen|wangjuntao.wang@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test|
 |67|testfwk_xdevice|test/testfwk/xdevice|https://gitee.com/kuanjay|liguangjie1@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test|
-|68|xts_acts|test/xts/acts|https://gitee.com/ye-xiangbin|yexiangbin@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
+|68|xts_acts|test/xts/acts|https://gitee.com/ye-xiangbin|yexiangbin@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|https://gitee.com/bayanxing|bayanxing@kaihong.com|SIG_Test|
 |69|xts_tools|test/xts/tools/lite|https://gitee.com/ye-xiangbin|yexiangbin@huawei.com|https://gitee.com/jiyong_sd|jiyong@huawei.com|SIG_Test|
 |70|third_party_FatFs|third_party/FatFs|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/JerryH1011 <br> https://gitee.com/leonchan5|huangjieliang@huawei.com <br> chenwei26@huawei.com|SIG_Kernel|
 |71|third_party_FreeBSD|third_party/FreeBSD|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/JerryH1011 <br> https://gitee.com/leonchan5|huangjieliang@huawei.com <br> chenwei26@huawei.com|SIG_Kernel|
