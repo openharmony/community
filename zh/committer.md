@@ -440,3 +440,5 @@
 |438|third_party_spirv-headers|third_party/spirv-headers|https://gitee.com/jiyong_sd|jiyong@huawei.com|https://gitee.com/gaohanyi1982|gaohanyi@huawei.com|SIG_Test
 |439|third_party_libbpf|third_party/libbpf|https://gitee.com/zlxia|xiazhonglin@huawei.com|https://gitee.com/jakemiao|zhangjian22@huawei.com|SIG_BasicSoftwareService
 |440|developtools_integration_verification|developtools/integration_verification|https://gitee.com/five-yuan|wuyunjie@huawei.com|https://gitee.com/taiyipei|peitaiyi@huawei.com|SIG-Infrastructure|
+|441|third_party_libabigail|third_party/libabigail|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802|h.hu@huawei.com|SIG_BasicSoftwareService|
+|442|third_party_elfutils|third_party/elfutils|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802|h.hu@huawei.com|SIG_BasicSoftwareService|

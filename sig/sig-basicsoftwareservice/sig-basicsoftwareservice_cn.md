@@ -71,8 +71,8 @@ BasicSoftwareService SIG技术栈范围全景图如下图所示：
 |输入法框架|[inputmethod_imf](https://gitee.com/openharmony/inputmethod_imf)|提供输入法开发框架，供输入法应用使用，以及提供输入法管理接口。|
 |Request服务|[request_request](https://gitee.com/openharmony/request_request)|向三方应用提供系统下载/上传服务能力，以支撑应用开发者方便、高效地使用以及管理下载/上传业务的功能，包含新建、移除、暂停、恢复以及查询下载/上传任务。|
 |打印框架服务|[print_print_fwk](https://gitee.com/openharmony/print_print_fwk)|支持三方应用创建打印任务，拉起后台打印任务管理，管理打印扩展和打印任务。 提供打印扩展框架，实现三方打印扩展的接入，管理打印任务与打印机之间的关系，启动、暂停/恢复、取消打印任务，查询打印进度等。|
-|三方库libabigail|[third_party_libabigail](https://gitee.com/openharmony-sig/third_party_libabigail)|用于不同版本动态库的ABI检查。|
-|三方库elfutils|[third_party_elfutils](https://gitee.com/openharmony-sig/third_party_elfutils)|用于读取、创建和修改ELF二进制文件，查找和处理GNU/Linux上进程和核心文件的DWARF调试数据、符号、线程状态和堆栈跟踪的工具和库的集合。|
+|三方库libabigail|[third_party_libabigail](https://gitee.com/openharmony/third_party_libabigail)|用于不同版本动态库的ABI检查。|
+|三方库elfutils|[third_party_elfutils](https://gitee.com/openharmony/third_party_elfutils)|用于读取、创建和修改ELF二进制文件，查找和处理GNU/Linux上进程和核心文件的DWARF调试数据、符号、线程状态和堆栈跟踪的工具和库的集合。|
 
 ## SIG组成员
 
