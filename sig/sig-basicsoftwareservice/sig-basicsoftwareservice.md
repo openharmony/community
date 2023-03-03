@@ -60,8 +60,8 @@ Basic Software Services includes the following sub-systems:
 | Barrier Free Service         | [accessibility](https://gitee.com/openharmony/accessibility) | Barrier Free Service can provide information exchange framework between application and accessibilities applications. |
 | Enterprise Device Management | [customization_enterprise_device_management](https://gitee.com/openharmony-sig/customization_enterprise_device_management) | Enterprise Device Management provide API for enterprise applications to manager OpenHarmony devices in scale. |
 | Customization Framework      | [config_policy](https://gitee.com/openharmony/customization_config_policy) | Customization Framework provide API for accessing configuration files with priority. |
-| libabigail                   | [third_party_libabigail](https://gitee.com/openharmony-sig/third_party_libabigail) | ABI check for dynamic libraries of different versions. |
-| elfutils                     | [third_party_elfutils](https://gitee.com/openharmony-sig/third_party_elfutils) | A collection of tools and libraries for reading, creating and modifying ELF binaries, finding and processing DWARF debug data, symbols, thread status, and stack trace of processes and core files on GNU/Linux. |
+| libabigail                   | [third_party_libabigail](https://gitee.com/openharmony/third_party_libabigail) | ABI check for dynamic libraries of different versions. |
+| elfutils                     | [third_party_elfutils](https://gitee.com/openharmony/third_party_elfutils) | A collection of tools and libraries for reading, creating and modifying ELF binaries, finding and processing DWARF debug data, symbols, thread status, and stack trace of processes and core files on GNU/Linux. |
 
 ## SIG Members
 
