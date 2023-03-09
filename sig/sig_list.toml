@@ -331,3 +331,9 @@ name = "sig-toolchains"
 description = "为OpenHarmony开发和提供最新的社区开源工具，提升开发者开发效率"
 leader = { gitee_id = "https://gitee.com/berolinux", email = "bernhard.rosenkraenzer.ext@huawei.com" }
 sub_system = ["NONE"]
+
+[[sig_group]]
+name = "sig-temp"
+description = "为OpenHarmony CI平台临时验证在IT平台创建SIG&代码仓库"
+leader = { gitee_id = "https://gitee.com/landwind", email = "mamingshuai1@huawei.com" }
+sub_system = ["NONE"]
