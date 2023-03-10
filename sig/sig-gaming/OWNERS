@@ -1,0 +1,28 @@
+{
+    "Leader": [{
+            "gitee_id": "frank-huangran",
+            "gitee_email": "frank-huangran@huawei.com"
+        }
+    ],
+    "Committers": [{
+            "gitee_id": "honglianglin",
+            "gitee_email": "linhongliang@hisilicon.com"
+        },
+        {
+            "gitee_id": "zleoyu",
+            "gitee_email": "zhangleiyu1@huawei.com"
+        },
+        {
+            "gitee_id": "lz-230",
+            "gitee_email": "lizheng2@huawei.com"
+        },
+        {
+            "gitee_id": "He_r",
+            "gitee_email": "herui52@huawei.com"
+        },
+        {
+            "gitee_id": "niu2x",
+            "gitee_email": "niu2x@icloud.com"
+        }
+    ]
+}
