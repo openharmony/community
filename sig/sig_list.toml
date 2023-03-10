@@ -337,3 +337,9 @@ name = "sig-temp"
 description = "为OpenHarmony CI平台临时验证在IT平台创建SIG&代码仓库"
 leader = { gitee_id = "https://gitee.com/landwind", email = "mamingshuai1@huawei.com" }
 sub_system = ["NONE"]
+
+[[sig_group]]
+name = "sig-gaming"
+description = "为OpenHarmony游戏移植创建代码仓库，在it平台创建SIG&代码仓库"
+leader = { gitee_id = "https://gitee.com/frank-huangran", email = "frank-huangran@huawei.com" }
+sub_system = ["NONE"]
