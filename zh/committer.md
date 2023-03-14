@@ -443,3 +443,4 @@
 |441|third_party_libabigail|third_party/libabigail|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802|h.hu@huawei.com|SIG_BasicSoftwareService|
 |442|third_party_elfutils|third_party/elfutils|https://gitee.com/ailorna|hehuan1@huawei.com|https://gitee.com/hughes802|h.hu@huawei.com|SIG_BasicSoftwareService|
 |443|arkui_ui_appearance|foundation/arkui/ui_appearance|https://gitee.com/piggyguy|jiadexiang@huawei.com|https://gitee.com/benb365|liuyongchang1@huawei.com|SIG_ApplicationFramework|
+|444|startup_hvb|base/startup/hvb|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/bj1010|dubingjian@huawei.com|SIG_BasicSoftwareService|
