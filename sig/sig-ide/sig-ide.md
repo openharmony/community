@@ -27,7 +27,7 @@ IDE documents, samples, FAQs and  issues reply
 + project name:
   + <https://gitee.com/openharmony-sig/napi_plugin>
   + <https://gitee.com/openharmony-sig/hcs_config_plugin>
-  + <https://gitee.com/openharmony-sig/tools_previewer>
+  + <https://gitee.com/openharmony/tools_previewer>
 
 ## SIG Members
 

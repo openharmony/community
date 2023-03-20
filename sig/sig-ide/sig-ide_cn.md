@@ -24,7 +24,7 @@
 + 代码仓地址：
   + <https://gitee.com/openharmony-sig/napi_plugin>
   + <https://gitee.com/openharmony-sig/hcs_config_plugin>
-  + <https://gitee.com/openharmony-sig/tools_previewer>
+  + <https://gitee.com/openharmony/tools_previewer>
 
 ## SIG组成员
 
