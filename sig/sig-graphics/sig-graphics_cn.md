@@ -54,7 +54,6 @@ OpenHarmony 图形管理。
   - third_party_libexif:https://gitee.com/openharmony-sig/third_party_libexif
   - third_party_libjpeg-turbo:https://gitee.com/openharmony/third_party_libjpeg-turbo
 
-
 ## SIG组成员
 
 ### Leader
@@ -62,12 +61,9 @@ OpenHarmony 图形管理。
 - @yifan-cui(https://gitee.com/yifan-cui)
 
 ### Committers列表
-- @zhouyaoying(https://gitee.com/zhouyaoying)
 - @lijj01(https://gitee.com/lijj01)
-- @lz-230(https://gitee.com/lz-230)
 - @bj1010(https://gitee.com/bj1010)
 - @mk_gc(https://gitee.com/mk_gc)
-- @zhouyuehai(https://gitee.com/zhouyuehai)
 
 ### 会议
  - 会议时间：双周周五14:30-15:15

@@ -31,7 +31,6 @@ OpenHarmony Graphics and windowmanager related design and review.
   - third_party_libexif:https://gitee.com/openharmony-sig/third_party_libexif
   - third_party_libjpeg-turbo:https://gitee.com/openharmony/third_party_libjpeg-turbo
 
-
 ## SIG Members
 
 ### Leader
@@ -39,12 +38,9 @@ OpenHarmony Graphics and windowmanager related design and review.
 - @yifan-cui(https://gitee.com/yifan-cui)
 
 ### Committers
-- @zhouyaoying(https://gitee.com/zhouyaoying)
 - @lijj01(https://gitee.com/lijj01)
-- @lz-230(https://gitee.com/lz-230)
 - @bj1010(https://gitee.com/bj1010)
 - @mk_gc(https://gitee.com/mk_gc)
-- @zhouyuehai(https://gitee.com/zhouyuehai)
 
 ### Meetings
  - Meeting time：Every two weeks' Friday 14:30-15:15
