@@ -38,7 +38,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ### Committers
 - @zhang-hai-feng (https://gitee.com/zhang-hai-feng)
-- @jyh926 (https://gitee.com/jyh926)
+- @jiayanhong-hw (https://gitee.com/jiayanhong-hw)
 - @clevercong (https://gitee.com/clevercong)
 - @ohos-lsw (https://gitee.com/ohos-lsw)
 - @xautosoft (https://gitee.com/xautosoft)
