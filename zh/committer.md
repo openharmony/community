@@ -129,7 +129,7 @@
 |127|powermgr_power_manager|base/powermgr/power_manager|https://gitee.com/aqxyjay|zhangchunxin@huawei.com| | |SIG_DistributedHardwareManagement|
 |128|security_dataclassification|base/security/dataclassification|https://gitee.com/xuwenfang|xuwenfang@huawei.com| | |SIG_Security|
 |129|startup_appspawn|base/startup/appspawn_standard|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/mytide <br> https://gitee.com/xionglei6 |max.liuwei@huawei.com <br> xionglei6@huawei.com|SIG_BasicSoftwareService|
-|130|telephony_call_manager|base/telephony/call_manager|https://gitee.com/jyh926|jiayanhong@huawei.com| | |SIG_SoftBus|
+|130|telephony_call_manager|base/telephony/call_manager|https://gitee.com/jiayanhong-hw|jiayanhong@huawei.com| | |SIG_SoftBus|
 |131|telephony_cellular_call|base/telephony/cellular_call|https://gitee.com/clevercong|lichunlin2@huawei.com| | |SIG_SoftBus|
 |132|telephony_core_service|base/telephony/core_service|https://gitee.com/ohos-lsw|lishiwei6@huawei.com| | |SIG_SoftBus|
 |133|telephony_sms_mms|base/telephony/sms_mms|https://gitee.com/xautosoft|zhuwenchao@huawei.com| | |SIG_SoftBus|
@@ -237,7 +237,7 @@
 |235|third_party_pulseaudio|third_party/pulseaudio|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com|https://gitee.com/magekkkk|lixin113@huawei.com|SIG_Media|
 |236|third_party_ffmpeg|third_party/ffmpeg|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_Media|
 |237|vendor_ohemu|vendor/ohemu|https://gitee.com/kkup180|likailong@huawei.com|https://gitee.com/laokz|laokz@foxmail.com|SIG_Devboard|
-|238|applications_call|applications/standard/call|https://gitee.com/jyh926|jiayanhong@huawei.com|https://gitee.com/ohos-lsw|lishiwei6@huawei.com|SIG_SystemApplication|
+|238|applications_call|applications/standard/call|https://gitee.com/jiayanhong-hw|jiayanhong@huawei.com|https://gitee.com/ohos-lsw|lishiwei6@huawei.com|SIG_SystemApplication|
 |239|resourceschedule_work_scheduler|foundation/resourceschedule/work_scheduler|https://gitee.com/chenmingJay|chenming48@huawei.com|https://gitee.com/wanglai-yao <br> https://gitee.com/tangtiantian2021 <br> https://gitee.com/shire-yao|yaowanglai@huawei.com <br> tangchengkai@huawei.com <br> yaoyanxia1@huawei.com|SIG_BasicSoftwareService|
 |240|resourceschedule_background_task_mgr|foundation/resourceschedule/background_task_mgr|https://gitee.com/wanglai-yao|yaowanglai@huawei.com|https://gitee.com/chenmingJay <br> https://gitee.com/shire-yao <br> https://gitee.com/tangtiantian2021|chenming48@huawei.com <br> yaoyanxia1@huawei.com <br> tangchengkai@huawei.com|SIG_BasicSoftwareService|
 |241|third_party_littlefs|third_party/littlefs|https://gitee.com/JerryH1011|huangjieliang@huawei.com|https://gitee.com/kkup180 <br> https://gitee.com/leonchan5|likailong@huawei.com <br> chenwei26@huawei.com|SIG_Kernel|
@@ -263,10 +263,10 @@
 |261|third_party_libpsl|third_party/libpsl|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_Media|
 |262|third_party_gettext|third_party/gettext|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_Media|
 |263|distributeddatamgr_data_object|foundation/distributeddatamgr/data_object|https://gitee.com/widecode|wanghancai@huawei.com|https://gitee.com/lugitee|hanlu1@huawei.com|SIG_DataManagement|
-|264|telephony_ril_adapter|base/telephony/ril_adapter|https://gitee.com/jyh926|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
-|265|telephony_data_storage|base/telephony/data_storage|https://gitee.com/jyh926|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
-|266|communication_netmanager_standard|foundation/communication/netmanager_standard|https://gitee.com/jyh926|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
-|267|telephony_cellular_data|base/telephony/cellular_data|https://gitee.com/jyh926|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
+|264|telephony_ril_adapter|base/telephony/ril_adapter|https://gitee.com/jiayanhong-hw|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
+|265|telephony_data_storage|base/telephony/data_storage|https://gitee.com/jiayanhong-hw|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
+|266|communication_netmanager_standard|foundation/communication/netmanager_standard|https://gitee.com/jiayanhong-hw|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
+|267|telephony_cellular_data|base/telephony/cellular_data|https://gitee.com/jiayanhong-hw|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
 |268|communication_nfc|foundation/communication/nfc|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/knpingan|zhangxiuping@huawei.com|SIG_SoftBus|
 |269|third_party_e2fsprogs|third_party/e2fsprogs|https://gitee.com/wangxing-hw|raymond.wangxing@huawei.com|https://gitee.com/taiyipei|peitaiyi@huawei.com|SIG_CompileRuntime|
 |270|ets_utils|commonlibrary/ets_utils|https://gitee.com/wuzhefengh|wuzhefeng1@huawei.com|https://gitee.com/sunzhe23 <br> https://gitee.com/gongjunsong|sunzhe23@huawei.com <br> gongjunsong@huawei.com|SIG_CompileRuntime|

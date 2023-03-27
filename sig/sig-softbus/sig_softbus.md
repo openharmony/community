@@ -55,7 +55,7 @@ Continuously contributes to the softbus of the OpenHarmony community, implements
 - @yinyouzhan(https://gitee.com/yinyouzhan)
 - @rain_myf(https://gitee.com/rain_myf)
 - @bigpumpkin(https://gitee.com/bigpumpkin)
-- @jyh926(https://gitee.com/jyh926)
+- @jiayanhong-hw(https://gitee.com/jiayanhong-hw)
 - @life-liu(https://gitee.com/life-liu)
 - @knpingan(https://gitee.com/knpingan)
 - @hwlitao(https://gitee.com/hwlitao)
