@@ -24,7 +24,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
   - sms_mms：https://gitee.com/openharmony/telephony_sms_mms
   - ril_adapter：https://gitee.com/openharmony/telephony_ril_adapter
   - cellular_data：https://gitee.com/openharmony/telephony_cellular_data
-  - data_storage：https://gitee.com/openharmony/telephony_data_storage
+  - telephony_data://gitee.com/openharmony/telephony_telephony_data
   - netmanager_standard：https://gitee.com/openharmony/communication_netmanager_standard
   - netstack：https://gitee.com/openharmony/communication_netstack
   - netmanager_base：https://gitee.com/openharmony/communication_netmanager_base

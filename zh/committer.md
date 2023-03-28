@@ -264,7 +264,7 @@
 |262|third_party_gettext|third_party/gettext|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_Media|
 |263|distributeddatamgr_data_object|foundation/distributeddatamgr/data_object|https://gitee.com/widecode|wanghancai@huawei.com|https://gitee.com/lugitee|hanlu1@huawei.com|SIG_DataManagement|
 |264|telephony_ril_adapter|base/telephony/ril_adapter|https://gitee.com/jiayanhong-hw|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
-|265|telephony_data_storage|base/telephony/data_storage|https://gitee.com/jiayanhong-hw|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
+|265|telephony_telephony_data|base/telephony/telephony_data|https://gitee.com/jiayanhong-hw|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
 |266|communication_netmanager_standard|foundation/communication/netmanager_standard|https://gitee.com/jiayanhong-hw|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
 |267|telephony_cellular_data|base/telephony/cellular_data|https://gitee.com/jiayanhong-hw|jiayanhong@huawei.com|https://gitee.com/zhang-hai-feng|zhanghaifeng11@huawei.com|SIG_SoftBus|
 |268|communication_nfc|foundation/communication/nfc|https://gitee.com/cheng_guohong|guohong.cheng@huawei.com|https://gitee.com/knpingan|zhangxiuping@huawei.com|SIG_SoftBus|
