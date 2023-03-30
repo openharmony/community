@@ -14,7 +14,6 @@ File system related open source software used by OpenHarmony lite equipment, inc
   - repository1 name:https://gitee.com/openharmony/third_party_littlefs
   - repository2 name:https://gitee.com/openharmony/third_party_e2fsprogs
   - repository3 name:https://gitee.com/openharmony/kernel_linux_build
-  - repository4 name:https://gitee.com/openharmony/kernel_linux_4.19
   - repository5 name:https://gitee.com/openharmony/kernel_linux_5.10
   - repository6 name:https://gitee.com/openharmony/filemanagement_user_file_service
   - repository7 name:https://gitee.com/openharmony/filemanagement_file_api
