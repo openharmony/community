@@ -34,7 +34,7 @@ File system related open source software used by OpenHarmony lite equipment, inc
   - repository22 name:https://gitee.com/openharmony/kernel_uniproton
   - repository23 name:https://gitee.com/openharmony/vendor_alientek
   - repository24 name:https://gitee.com/openharmony-sig/kernel_linux_common_modules_pac
-  - repository25 name:https://gitee.com/openharmony-sig/third_party_libfuse
+  - repository25 name:https://gitee.com/openharmony/third_party_libfuse
 
 ## SIG Members
 
