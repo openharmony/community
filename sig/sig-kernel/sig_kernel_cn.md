@@ -44,7 +44,7 @@
 |应用文件管理|提供应用私有文件的管理能力，提供了系统框架机制，如：分享、克隆。|filemanagement_app_file_service|
 |存储管理部件|提供多用户管理、磁盘挂卸载、加解密，磁盘卷状态管理和查询，为系统提供基础的存储管理能力|filemanagement_storage_service|
 |内存基础库|提供基础内存操作的系统库|ComonLibary_memory|
-|Linux内核部件|基于LTS内核基线，合入上述调度、内存、存储、安全相关的增强能力特性|kernel_linux_config<br>kernel_linux_build<br>kernel_linux_4.19<br>kernel_linux_5.10<br>kernel_linux_common_modules_pac|
+|Linux内核部件|基于LTS内核基线，合入上述调度、内存、存储、安全相关的增强能力特性|kernel_linux_config<br>kernel_linux_build<br>kernel_linux_5.10<br>kernel_linux_common_modules_pac|
 |镜像制作工具|用于生成Host镜像拍包工具|third_party_gptfdisk<br>filemanagement_fs_tools|
 |文件系统拍包工具|用于生成指定文件系统格式的拍包工具|third_party_f2fs-tools<br>third_party_ntfs-3g<br>third_party_fsck_msdos<br>third_party_newfs_msdos<br>third_party_exfat-utils<br>third_party_exfatprogs<br>third_party_e2fsprogs|
 |native内存分配器|用于替换musl默认内存分配器|third_party_mimalloc|
@@ -60,7 +60,6 @@
   - ComonLibary_memory名称：https://gitee.com/openharmony/ComonLibary_memory
   - kernel_linux_build名称：https://gitee.com/openharmony/kernel_linux_config
   - kernel_linux_build名称：https://gitee.com/openharmony/kernel_linux_build
-  - kernel_linux_4.19名称：https://gitee.com/openharmony/kernel_linux_4.19
   - kernel_linux_5.10名称：https://gitee.com/openharmony/kernel_linux_5.10
   - third_party_gptfdisk名称：https://gitee.com/openharmony/third_party_gptfdisk
   - filemanagement_fs_tools名称：https://gitee.com/openharmony-sig/filemanagement_fs_tools
