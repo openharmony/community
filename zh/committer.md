@@ -445,3 +445,4 @@
 |443|arkui_ui_appearance|foundation/arkui/ui_appearance|https://gitee.com/piggyguy|jiadexiang@huawei.com|https://gitee.com/benb365|liuyongchang1@huawei.com|SIG_ApplicationFramework|
 |444|startup_hvb|base/startup/hvb|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/bj1010|dubingjian@huawei.com|SIG_BasicSoftwareService|
 |445|tools_previewer|tools_previewer|https://gitee.com/duanlang2020|duanjintao2@huawei.com|https://gitee.com/hmscoe|zhaowenguang2@huawei.com|SIG_ide|
+|446|third_party_libfuse|third_party/libfuse|https://gitee.com/bubble_mao|maojingjing1@huawei.com|https://gitee.com/panqinxu|panqinxu1@huawei.com|SIG_Kernel|
