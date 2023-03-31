@@ -50,13 +50,11 @@
 
 ### 2.3  晋升PMC投票流程 :
 
-- 2.3.1 由现任PMC提名，以标题“[VOTE] New PMC xxx ”发送邮件至[pmc@openharmony.io](mailto:pmc@openharmony.io)。
+- 2.3.1 由现任PMC提名，并在PMC会议上进行投票决策；
 
-- 2.2.2 所有PMC成员有权通过“+1”或“-1”形式表示支持或反对，PMC通过回复邮件发送投票结果。投票时间一般持续72个小时。
+- 2.2.2 被提名的PMC候选人，在获得2/3及以上的参会PMC成员赞成下投票通过。有投票权的到会PMC成员超过应到会PMC成员的一半，会议方为有效。
 
-- 2.2.3 提名获得三票及以上赞成票，无反对票情况下投票通过。投反对票的PMC成员必须说明反对的具体问题（无问题描述的反对票无效），投票发起人可针对具体问题进行澄清或修复。
-
-- 2.2.4 投票通过后，PMC主席在OpenHarmony社区公告新PMC。
+- 2.2.3 投票通过后，PMC主席在OpenHarmony社区公告新PMC。
 
 ## 3. 非活跃成员退出标准和流程
 
@@ -68,8 +66,16 @@
 
 ### 3.2 非活跃成员退出流程 :
 
-- 3.2.1  维持健康社区的核心原则是鼓励大家积极参与。但是Committer、SIG Leader、PMC的工作或环境的调整，不可避免地不会积极地做出贡献。如果您知道您将在很长一段时间内无法参与社区贡献，您应该通知PMC，我们会将您标记为“不活跃”。不活跃的Committer、SIG Leader、PMC将从 OpenHarmony 的项目清单中删除，并且不再具有响应的权利；您在OpenHarmony获得的成绩永不过期，一旦您再次活跃，将被要求通过PMC申请，按照推举流程重新获得对应的资格。
+- 3.2.1 非活跃成员退出有两种方式：
 
-- 3.2.2 由您自己发邮件申请退出OpenHarmony项目Committer、SIG Leader、PMC成员，以标题“Inactive [Committer/SIG Leader/PMC] xxx ” 发送邮件至[pmc@openharmony.io](mailto:pmc@openharmony.io)；
+    - 方式一:
+        - 1. PMC主席自己或委托PMC成员审视并收集非活跃成员名单；
+        - 2. PMC会议不定期审视非活跃成员名单，并对不活跃成员进行退出投票，在获得2/3及以上的参会PMC成员赞成下投票通过。有投票权的到会PMC成员超过应到会PMC成员的一半，会议方为有效。
+        - 3. PMC主席自己或委托PMC成员对投票通过的待退出不活跃成员进行退出处理。
 
-- 3.2.3 按季度在PMC例会审视，对不活跃Committer、SIG Leader、PMC成员进行退出处理，并进行公示；
+    - 方式二:
+        - 1. 非活跃成员自发邮件申请退出，邮件标题采用“Inactive [Committer/SIG Leader/PMC] xxx ” ，并发送邮件至[pmc@openharmony.io](mailto:pmc@openharmony.io)；
+        - 2. PMC主席自己或委托PMC成员对申请退出的非活跃成员做退出处理。
+
+
+
