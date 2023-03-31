@@ -24,8 +24,9 @@
                 "https://gitee.com/openharmony-sig/resourceschedule_ffrt_sched",
                 "https://gitee.com/openharmony/kernel_uniproton",
                 "https://gitee.com/openharmony/vendor_alientek",
-                "https://gitee.com/openharmony-sig/kernel_linux_common_modules_pac",
-                "https://gitee.com/openharmony/third_party_libfuse"
+                "https://gitee.com/openharmony/third_party_libfuse",
+                "https://gitee.com/openharmony-sig/kernel_common_modules",
+                "https://gitee.com/openharmony-sig/kernel_linux_common_modules"
             ],
             "project-path": [
                 "third_party/littlefs",
@@ -50,8 +51,9 @@
                 "foundation/resourceschedule/ffrt_sched",
                 "kernel/uniproton",
                 "vendor/alientek",
-                "kernel/linux/common_modules/pac",
-                "third_party/libfuse"
+                "third_party/libfuse",
+                "kernel/common_modules",
+                "kernel/linux/common_modules"
             ]
         },
         {
