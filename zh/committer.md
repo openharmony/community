@@ -446,3 +446,5 @@
 |444|startup_hvb|base/startup/hvb|https://gitee.com/handyohos|zhangxiaotian@huawei.com|https://gitee.com/bj1010|dubingjian@huawei.com|SIG_BasicSoftwareService|
 |445|tools_previewer|tools_previewer|https://gitee.com/duanlang2020|duanjintao2@huawei.com|https://gitee.com/hmscoe|zhaowenguang2@huawei.com|SIG_ide|
 |446|third_party_libfuse|third_party/libfuse|https://gitee.com/bubble_mao|maojingjing1@huawei.com|https://gitee.com/panqinxu|panqinxu1@huawei.com|SIG_Kernel|
+|447|kernel_common_modules|kernel/common_modules|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
+|448|kernel_linux_common_modules|kernel/linux/common_modules|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|

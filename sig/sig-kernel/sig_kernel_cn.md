@@ -44,7 +44,7 @@
 |应用文件管理|提供应用私有文件的管理能力，提供了系统框架机制，如：分享、克隆。|filemanagement_app_file_service|
 |存储管理部件|提供多用户管理、磁盘挂卸载、加解密，磁盘卷状态管理和查询，为系统提供基础的存储管理能力|filemanagement_storage_service|
 |内存基础库|提供基础内存操作的系统库|ComonLibary_memory|
-|Linux内核部件|基于LTS内核基线，合入上述调度、内存、存储、安全相关的增强能力特性|kernel_linux_config<br>kernel_linux_build<br>kernel_linux_5.10<br>kernel_linux_common_modules_pac|
+|Linux内核部件|基于LTS内核基线，合入上述调度、内存、存储、安全相关的增强能力特性|kernel_linux_config<br>kernel_linux_build<br>kernel_linux_5.10<br>kernel_common_modules<br>kernel_linux_common_modules|
 |镜像制作工具|用于生成Host镜像拍包工具|third_party_gptfdisk<br>filemanagement_fs_tools|
 |文件系统拍包工具|用于生成指定文件系统格式的拍包工具|third_party_f2fs-tools<br>third_party_ntfs-3g<br>third_party_fsck_msdos<br>third_party_newfs_msdos<br>third_party_exfat-utils<br>third_party_exfatprogs<br>third_party_e2fsprogs|
 |native内存分配器|用于替换musl默认内存分配器|third_party_mimalloc|
@@ -75,8 +75,9 @@
   - resourceschedule-ffrt-sched名称:https://gitee.com/openharmony-sig/resourceschedule_ffrt_sched
   - kernel_uniproton名称：https://gitee.com/openharmony/kernel_uniproton
   - vendor_alientek名称：https://gitee.com/openharmony/vendor_alientek
-  - kernel_linux_common_modules_pac名称：https://gitee.com/openharmony-sig/kernel_linux_common_modules_pac
   - third_party_libfuse名称: https://gitee.com/openharmony/third_party_libfuse
+  - kernel_common_modules名称：https://gitee.com/openharmony-sig/kernel_common_modules
+  - kernel_linux_common_modules名称：https://gitee.com/openharmony-sig/kernel_linux_common_modules
 
 ## SIG组成员
 
