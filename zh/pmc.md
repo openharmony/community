@@ -5,8 +5,17 @@
 1. 负责社区管理工作，包括开源社区版本规划、架构看护、特性代码开发维护、版本及补丁规划等；
 2. 发布和处理社区需求，为开源社区提供技术架构指导和技术决策；
 3. 组织社区安全工作，及时进行安全漏洞扫描、响应、处理等工作；
-4. 处理社区Bug、issue、邮件列表，闭环周期满足开源社区的SLA要求；
+4. 处理社区Bug、issue、邮件列表等渠道开发者反馈问题；
 5. 负责PMC、Committer成员的[选举和退出](./guidelines_role_growth.md)，制定PMC、Committer协作机制；
+
+###
+   OpenHarmony项目管理委员会（PMC: Project Management Committee）设主席一名，主席从PMC成员中选举产生。
+   PMC主席职责如下：
+1. 负责OpenHarmony社区整体技术治理；
+2. 主持OpenHarmony社区PMC、Committer新成员的选举和退出，以及社区协作机制；
+3. 召集和主持PMC会议，并检查PMC会议决议的落实情况；
+4. 代表PMC或委派PMC成员参与OpenHarmony项目群周边组织会议，以及技术交流活动。
+
 
 
 ## OpenHarmony PMC成员列表
