@@ -23,9 +23,9 @@ OpenHarmony ApplicationFramework technology stack scope is shown in the followin
 
 | Component Name                     | Component Description                                        | Component Repository Name                     |
 | ---------------------------------- | ------------------------------------------------------------ | --------------------------------------------- |
-| Command Line Tool                  | Provides the command line to install, update, uninstall and query information of OpenHarmony bundles. | bundlemanager_bundle_framework                |
+| Command Line Tool                  | Provides the command line to install, update, uninstall and query information of OpenHarmony bundles. | bundlemanager_bundle_tool                |
 | Bundle Management Framework        | Provides the ability to install, update, uninstall and query information of OpenHarmony bundles and service installation bundles. | bundlemanager_bundle_framework                |
-| Distributed Bundle Framework       | Provides the ability to distributed manage bundles.          | bundlemanager_bundle_framework                |
+| Distributed Bundle Framework       | Provides the ability to distributed manage bundles.          | bundlemanager_distributed_bundle_framework                |
 | SDK Tool                           | Provide hap packaging, unpacking tools, and application manifest file checking tools used by IDE. | developtools_packing_tool                     |
 | Application Verify                 | Provides integrity verification and source control capabilities for hap applications. | security_appverify                            |
 | Common Event Service               | Provides applications with the ability to subscribe, publish, and unsubscribe from public events. | notification_common_event_service             |
@@ -72,6 +72,8 @@ OpenHarmony ApplicationFramework technology stack scope is shown in the followin
   - systemabilitymgr_safwk_lite:https://gitee.com/openharmony/systemabilitymgr_safwk_lite
   - developtools_packing_tool:https://gitee.com/openharmony/developtools_packing_tool
   - bundlemanager_bundle_framework:https://gitee.com/openharmony/bundlemanager_bundle_framework
+  - bundlemanager_bundle_tool:https://gitee.com/openharmony/bundlemanager_bundle_tool
+  - bundlemanager_distributed_bundle_framework:https://gitee.com/openharmony/bundlemanager_distributed_bundle_framework
   - bundlemanager_bundle_framework_lite:https://gitee.com/openharmony/bundlemanager_bundle_framework_lite
   - developtools_ace_js2bundle:https://gitee.com/openharmony/developtools_ace_js2bundle
   - developtools_ace_ets2bundle:https://gitee.com/openharmony/developtools_ace_ets2bundle

@@ -448,3 +448,5 @@
 |446|third_party_libfuse|third_party/libfuse|https://gitee.com/bubble_mao|maojingjing1@huawei.com|https://gitee.com/panqinxu|panqinxu1@huawei.com|SIG_Kernel|
 |447|kernel_common_modules|kernel/common_modules|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
 |448|kernel_linux_common_modules|kernel/linux/common_modules|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
+|449|bundlemanager_bundle_tool|foundation/bundlemanager/bundle_tool|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/shuaytao <br> https://gitee.com/zhongjianfei|shuaiyutao1@huawei.com <br> zhongjianfei@huawei.com|SIG_ApplicationFramework|
+|450|bundlemanager_distributed_bundle_framework|foundation/bundlemanager/distributed_bundle_framework|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/shuaytao <br> https://gitee.com/zhongjianfei|shuaiyutao1@huawei.com <br> zhongjianfei@huawei.com|SIG_ApplicationFramework|
