@@ -18,9 +18,9 @@ ApplicationFramework SIG技术栈范围全景图如下图所示：
 ## 代码仓
 | 部件名称         | 部件功能描述                                                 | 部件仓名称                                    |
 | ---------------- | ------------------------------------------------------------ | --------------------------------------------- |
-| 命令行工具       | 包管理命令行工具：提供命令行中执行hap包的安装、更新、卸载及信息查询的能力。 | bundlemanager_bundle_framework                |
+| 命令行工具       | 包管理命令行工具：提供命令行中执行hap包的安装、更新、卸载及信息查询的能力。 | bundlemanager_bundle_tool                |
 | 包管理基础框架   | 提供OpenHarmony应用和服务安装包的安装、更新、卸载以及信息查询等能力，包含包管理接口和包管理服务。 | bundlemanager_bundle_framework                |
-| 分布式包管理框架 | 分布式包管理服务。                                           | bundlemanager_bundle_framework                |
+| 分布式包管理框架 | 分布式包管理服务。                                           | bundlemanager_distributed_bundle_framework                |
 | SDK工具          | 提供IDE使用的hap包打包、拆包工具、应用清单文件检查工具。     | developtools_packing_tool                     |
 | 应用签名校验     | 提供了对hap应用的完整性校验和来源管控能力，是OpenHarmony生态安全的基础。 | security_appverify                            |
 | 公共事件服务     | 为应用程序提供订阅、发布、退订公共事件的能力。               | notification_common_event_service             |
@@ -67,6 +67,8 @@ ApplicationFramework SIG技术栈范围全景图如下图所示：
   - systemabilitymgr_safwk_lite:https://gitee.com/openharmony/systemabilitymgr_safwk_lite
   - developtools_packing_tool:https://gitee.com/openharmony/developtools_packing_tool
   - bundlemanager_bundle_framework:https://gitee.com/openharmony/bundlemanager_bundle_framework
+  - bundlemanager_bundle_tool:https://gitee.com/openharmony/bundlemanager_bundle_tool
+  - bundlemanager_distributed_bundle_framework:https://gitee.com/openharmony/bundlemanager_distributed_bundle_framework
   - bundlemanager_bundle_framework_lite:https://gitee.com/openharmony/bundlemanager_bundle_framework_lite
   - developtools_ace_js2bundle:https://gitee.com/openharmony/developtools_ace_js2bundle
   - developtools_ace_ets2bundle:https://gitee.com/openharmony/developtools_ace_ets2bundle
