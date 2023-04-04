@@ -714,7 +714,8 @@
                 "https://gitee.com/openharmony/window_window_manager",
                 "https://gitee.com/openharmony-sig/third_party_libexif",
                 "https://gitee.com/openharmony/third_party_opensles",
-                "https://gitee.com/openharmony/third_party_libjpeg-turbo"
+                "https://gitee.com/openharmony/third_party_libjpeg-turbo",
+                "https://gitee.com/openharmony/third_party_vulkan-loader"
             ],
             "project-path": [
                 "foundation/multimedia/player_framework",
@@ -754,7 +755,8 @@
                 "third_party/skia",
                 "foundation/window/window_manager",
                 "third_party/libexif",
-                "third_party/libjpeg-turbo"
+                "third_party/libjpeg-turbo",
+                "third_party/third_party_vulkan-loader"
             ]
         },
         {

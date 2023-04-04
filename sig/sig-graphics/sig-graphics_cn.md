@@ -33,6 +33,7 @@ OpenHarmony 图形管理。
 |HarfBuzz|HarfBuzz是用于文字塑形的软件开发库，亦即用于转换Unicode文本到字形指标及方位的过程 |third_party_harfbuzz|
 |libpng|libpng 是官方的 PNG 参考库。它支持几乎所有的PNG功能，是可扩展的，并且已经过超过23年的广泛测试 |third_party_libpng|
 |giflib|giflib 是一个可以用来编解码 GIF 格式文件的 C 语言库 |third_party_giflib|
+|vulkan-loader|vulkan-loader是在Vulkan应用程序和Vulkan驱动程序（任意数量）之间的库，支持多个驱动程序和跨驱动程序的实例级功能。此外，Vulkan-Loader在应用程序和驱动程序之间插入Vulkan层，例如验证层。|third_party_vulkan-loader|
 
 
 - 代码仓地址：
@@ -53,6 +54,7 @@ OpenHarmony 图形管理。
   - windowmanager:https://gitee.com/openharmony/windowmanager
   - third_party_libexif:https://gitee.com/openharmony-sig/third_party_libexif
   - third_party_libjpeg-turbo:https://gitee.com/openharmony/third_party_libjpeg-turbo
+  - third_party_vulkan-loader:https://gitee.com/openharmony/third_party_vulkan-loader
 
 ## SIG组成员
 
