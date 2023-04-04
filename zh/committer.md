@@ -450,3 +450,4 @@
 |448|kernel_linux_common_modules|kernel/linux/common_modules|https://gitee.com/liuyoufang|liuyu82@huawei.com|https://gitee.com/weiyj_lk|weiyongjun1@huawei.com|SIG_Kernel|
 |449|bundlemanager_bundle_tool|foundation/bundlemanager/bundle_tool|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/shuaytao <br> https://gitee.com/zhongjianfei|shuaiyutao1@huawei.com <br> zhongjianfei@huawei.com|SIG_ApplicationFramework|
 |450|bundlemanager_distributed_bundle_framework|foundation/bundlemanager/distributed_bundle_framework|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/shuaytao <br> https://gitee.com/zhongjianfei|shuaiyutao1@huawei.com <br> zhongjianfei@huawei.com|SIG_ApplicationFramework|
+|451|third_party_vulkan-loader|third_party/vulkan-loader|https://gitee.com/xxfeng-hw|yuxiaofeng8@huawei.com|https://gitee.com/mk_gc|mengkun@huawei.com|SIG-Graphics|
