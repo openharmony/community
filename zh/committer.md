@@ -330,7 +330,7 @@
 |328|third_party_pyyaml|third_party/pyyaml|https://gitee.com/guochuanqi|guochuanqi@huawei.com| | |SIG_BasicSoftwareService|
 |329|resourceschedule_memmgr|foundation/resourceschedule/plugins/memmgr|https://gitee.com/cbraham|suncai1@huawei.com|https://gitee.com/wang2002xu|wangxu44@huawei.com|SIG_BasicSoftwareService|
 |330|distributedhardware_distributed_hardware_fwk|foundation/distributedhardware/distributed_hardware_fwk|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|https://gitee.com/intermilano|night.zhangbin@huawei.com|SIG_DistributedHardwareManagement|
-|331|distributedhardware_distributed_input|foundation/distributedhardware/distributed_input|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|https://gitee.com/skypuhui|puhui1@huawei.com|SIG_DistributedHardwareManagement|
+|331|distributedhardware_distributed_input|foundation/distributedhardware/distributed_input|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|https://gitee.com/renguang1116|renguang@huawei.com|SIG_DistributedHardwareManagement|
 |332|security_access_token|base/security/access_token|https://gitee.com/libing23|libing23@huawei.com|https://gitee.com/shuqinglin2 <br> https://gitee.com/hu-huifeng|linshuqing2@huawei.com <br> huhuifeng@huawei.com|SIG_Security|
 |333|third_party_openmax|third_party/openmax|https://gitee.com/zianed|houxuanzhe@huawei.com|https://gitee.com/Kevin-Lau <br> https://gitee.com/yuanbogit|liufeihu@huawei.com <br> yuanbo@huawei.com|SIG_DriverFramework|
 |334|third_party_opensles|third_party/openSLES|https://gitee.com/zhu-mingliang|zhumingliang@huawei.com| | |SIG_Media|
@@ -451,3 +451,4 @@
 |449|bundlemanager_bundle_tool|foundation/bundlemanager/bundle_tool|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/shuaytao <br> https://gitee.com/zhongjianfei|shuaiyutao1@huawei.com <br> zhongjianfei@huawei.com|SIG_ApplicationFramework|
 |450|bundlemanager_distributed_bundle_framework|foundation/bundlemanager/distributed_bundle_framework|https://gitee.com/gwang2008|wanggenliang@huawei.com|https://gitee.com/shuaytao <br> https://gitee.com/zhongjianfei|shuaiyutao1@huawei.com <br> zhongjianfei@huawei.com|SIG_ApplicationFramework|
 |451|third_party_vulkan-loader|third_party/vulkan-loader|https://gitee.com/xxfeng-hw|yuxiaofeng8@huawei.com|https://gitee.com/mk_gc|mengkun@huawei.com|SIG-Graphics|
+|452|distributedhardware_distributed_audio|foundation/distributedhardware/distributed_audio|https://gitee.com/hwzhangchuang|zhangchuang.zhang@huawei.com|https://gitee.com/renguang1116|renguang@huawei.com|SIG_DistributedHardwareManagement|
