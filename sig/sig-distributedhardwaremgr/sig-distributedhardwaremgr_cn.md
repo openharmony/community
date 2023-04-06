@@ -61,10 +61,10 @@
   - powermgr_thermal_manager: https://gitee.com/openharmony/powermgr_thermal_manager
   - distributedhardware_device_manager: https://gitee.com/openharmony/distributedhardware_device_manager
   - distributedhardware_distributed_hardware_fwk: https://gitee.com/openharmony/distributedhardware_distributed_hardware_fwk
-  - distributedhardware_distributed_input: https://gitee.com/openharmony-sig/distributedhardware_distributed_input
+  - distributedhardware_distributed_input: https://gitee.com/openharmony/distributedhardware_distributed_input
   - distributedhardware_distributed_camera: https://gitee.com/openharmony/distributedhardware_distributed_camera
   - distributedhardware_distributed_screen: https://gitee.com/openharmony/distributedhardware_distributed_screen
-  - distributedhardware_distributed_audio: https://gitee.com/openharmony-sig/distributedhardware_distributed_audio
+  - distributedhardware_distributed_audio: https://gitee.com/openharmony/distributedhardware_distributed_audio
   - msdp_start: https://gitee.com/openharmony-sig/msdp_start
   - msdp_motion: https://gitee.com/openharmony-sig/msdp_motion
   - msdp_movement: https://gitee.com/openharmony-sig/msdp_movement
