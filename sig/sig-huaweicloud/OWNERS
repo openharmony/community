@@ -1,0 +1,23 @@
+{
+    "Leader": [{
+        "gitee_id": "one_two_zero",
+        "gitee_email": "nieyanling@huawei.com"
+    }],
+    "Committers": [{
+        "gitee_id": "liteos2021",
+        "gitee_email": "bing.wang@huawei.com"
+		},
+		{
+            "gitee_id": "xinglichen",
+            "gitee_email": "xingli.chen@huawei.com"
+        },
+        {
+            "gitee_id": "jojo_cjw",
+            "gitee_email": "chenjiongwei@huawei.com"
+        },
+        {
+            "gitee_id": "Aiminabb",
+            "gitee_email": "aimin2@huawei.com"
+        }
+    ]
+}
