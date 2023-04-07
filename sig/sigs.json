@@ -1075,6 +1075,17 @@
             "project-path": [
                 "NONE"
             ]
+        },
+        {
+            "sig-name": "sig-huaweicloud",
+            "projects": [
+                "https://gitee.com/openharmony-sig/iot_device_sdk_c",
+                "https://gitee.com/openharmony-sig/iot_device_sdk_c_tiny"
+            ],
+            "project-path": [
+                "NONE",
+                "NONE"
+            ]
         }
     ]
 }
