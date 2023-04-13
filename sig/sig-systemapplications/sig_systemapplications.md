@@ -31,7 +31,7 @@ Defines and builds OpenHarmony system applications, applies for and implements i
   - applications_admin_provisioning: https://gitee.com/openharmony-sig/applications_admin_provisioning
   - applications_theme: https://gitee.com/openharmony-sig/applications_theme
   - applications_settingsdata: https://gitee.com/openharmony-sig/applications_settings_data
-  - applications_contactsdata: https://gitee.com/openharmony-sig/applications_contactsdata
+  - applications_contacts_data: https://gitee.com/openharmony/applications_contacts_data
   - applications_notes: https://gitee.com/openharmony-sig/applications_notes
   - applications_app_samples: https://gitee.com/openharmony/applications_app_samples
   - applications_permission_manager: https://gitee.com/openharmony/applications_permission_manager

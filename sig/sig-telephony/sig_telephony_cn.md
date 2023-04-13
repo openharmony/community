@@ -26,7 +26,7 @@
 |蜂窝通话|提供运营商通话基础能力（CS&IMS通话），支持CS和IMS通话之间的域选控制和切换，支持紧急通话。其中，IMS通话仅支持框架，服务实现由芯片厂商自行实现。|telephony_cellular_call|
 |蜂窝数据|提供蜂窝数据联网能力，包括：蜂窝数据激活去激活、连接状态管理、数据自愈、APN管理、蜂窝数据开关及数据漫游开关。|telephony_cellular_data|
 |短彩信|提供短彩信、小区广播能力，包括：短信收发、短信PDU编解码、WAP PUSH、彩信通知、彩信编解码、小区广播、SIM卡短信。|telephony_sms_mms|
-|电话数据存储|提供卡账户、随卡参数、APN、短彩信数据的持久化存储功能，通过DataAbility提供增删改查接口。|telephony_data_storage|
+|电话数据存储|提供卡账户、随卡参数、APN、短彩信数据的持久化存储功能，通过DataAbility提供增删改查接口。|telephony_telephony_data|
 |联系人数据存储|提供联系人、通话记录、语音信箱数据的持久化存储功能，通过DataAbility提供增删改查接口。|applications_contacts|
 |电话核心服务|提供SIM卡、搜网基础能力，通过HDF与RIL Adapter进行通信，通过发布订阅机制实现与各功能模块的通信。|telephony_core_service|
 |RIL适配|蜂窝通信RIL接口适配层，提供统一的南向HDI接口，屏蔽不同modem厂商硬件差异，包括：SIM卡、搜网、通话、数据、短信和公共模块。|telephony_ril_adapter|
@@ -40,7 +40,7 @@
   - 蜂窝通话：https://gitee.com/openharmony/telephony_cellular_call
   - 蜂窝数据：https://gitee.com/openharmony/telephony_cellular_data
   - 短彩信：https://gitee.com/openharmony/telephony_sms_mms
-  - 电话数据存储：https://gitee.com/openharmony/telephony_data_storage
+  - 电话数据存储：https://gitee.com/openharmony/telephony_telephony_data
   - 联系人数据存储：https://gitee.com/openharmony/applications_contacts
   - 电话核心服务：https://gitee.com/openharmony/telephony_core_service
   - RIL适配：https://gitee.com/openharmony/telephony_ril_adapter
