@@ -21,25 +21,24 @@
 ## OpenHarmony PMC成员列表
 | 姓名 | 账号   | 角色 | 领域 |
 | :----: | :----: | :----: | :----: |
-| 李毅 | [@nicholas-li](https://gitee.com/nicholas-li) | PMC主席 | 总架构 |
-| 张明修 | [@zmx1104](https://gitee.com/zmx1104) | PMC成员 | 社区经理 |
+| 任革林 | [@im-off-this-week](https://gitee.com/im-off-this-week) |PMC主席 | 总架构 |
 | 董金光 |[@dongjinguang](https://gitee.com/dongjinguang) | PMC成员 | 系统架构 |
-| 任革林 | [@im-off-this-week](https://gitee.com/im-off-this-week) | PMC成员 | 架构SIG |
 | 万承臻 | [@wanchengzhen](https://gitee.com/wanchengzhen) | PMC成员 | 架构SIG |
 | 付天福 | [@futianfu](https://gitee.com/futianfu) | PMC成员 |	安全架构 |
 | 吴勇辉 | [@davidwulanxi](https://gitee.com/davidwulanxi) | PMC成员 | 版本发布SIG |
 | 强波 | [@huawei_qiangbo](https://gitee.com/huawei_qiangbo) | PMC成员 | 应用框架SIG |
 | 鲜余强 | [@klooer](https://gitee.com/klooer) | PMC成员 | 编译运行时SIG |
 | 余枝强 | [@yuzhiqiang101](https://gitee.com/yuzhiqiang101) | PMC成员 | ArkUI框架SIG |
-| 梁克雷 | [@xzmu](https://gitee.com/xzmu) | PMC成员 | 系统架构 |
-| 黄明龙 | [@minglonghuang](https://gitee.com/minglonghuang) | PMC成员 | 社区运营经理 |
-| 李家欣 | [@ninalijiaxin](https://gitee.com/ninalijiaxin) | PMC成员 | 内核SIG |
-| 马耀辉 | [@stesen](https://gitee.com/stesen) | PMC成员 | DFX SIG |
+| 易见 | [@easy-to-see](https://gitee.com/easy-to-see) | PMC成员 | 内核SIG |
+| 马耀辉 | [@stesen](https://gitee.com/stesen) | PMC成员 | 基础软件服务SIG |
 | 赵文华 | [@shidi_snow](https://gitee.com/shidi_snow) | PMC成员 | 驱动框架SIG |
 | 丁勇 | [@ding-yong](https://gitee.com/ding-yong) | PMC成员 | 社区产品规划 |
 | 邢文华 | [@xhuazi](https://gitee.com/xhuazi) | PMC成员 | QA-SIG |
 | 高涵一 | [@gaohanyi1982](https://gitee.com/gaohanyi1982) | PMC成员 | 测试SIG |
 | 王意明 | [@youthdragon](https://gitee.com/youthdragon) | PMC成员 | 基础设施SIG |
+| 张小田 | [@handyohos](https://gitee.com/handyohos) | PMC成员 | 基础软件服务SIG |
+| 李煜 | [@abbuu](https://gitee.com/abbuu) | PMC成员 | 图形SIG |
+| 巴延兴 | [@bayanxing](https://gitee.com/bayanxing) | PMC成员 | 测试SIG |
 
 
 ## PMC会议链接
