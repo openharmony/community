@@ -1,7 +1,7 @@
 # OpenHarmony Community
 欢迎来到OpenHarmony社区！
 
-简体中文 | [English](./README-EN.md)
+简体中文 | [English](./README_EN.md)
 
 ## 介绍
 Community仓库用于管理OpenHarmony社区治理、开发者贡献指南、开发者贡献协议、社区交流等内容。
