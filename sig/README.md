@@ -18,7 +18,7 @@
 
 ### 2.提交申请
 SIG发起人参照[SIG章程模板]创建SIG提案初稿，以附件形式发送给dev@openharmony.io，邮件标题为：
-- **SIG-Charter-Proposal-SIG XXX+简要介绍**，如`SIG-Charter-Proposal-SIG Test+OpenHarmony开发自测试能力构建`。
+- **sig_Charter-Proposal-SIG XXX+简要介绍**，如`sig_Charter-Proposal-SIG Test+OpenHarmony开发自测试能力构建`。
 
 ### 3.PMC评审提案
 - SIG发起人接受PMC问询，对SIG提案进行必要的说明，并根据PMC的指导意见修改提案，通过原申请邮件与PMC进行沟通，直至PMC无疑问；
@@ -28,14 +28,14 @@ SIG发起人参照[SIG章程模板]创建SIG提案初稿，以附件形式发送
 
 ### 4.提交PR 
 SIG发起人收到PMC评审反馈、确认SIG提案通过后，执行以下操作：
-- fork OpenHarmony社区仓库到本地，在`OpenHarmony/community/sig`仓库内新建SIG文件夹，文件夹名称为“sig-XXX”；
-- 创建该SIG的`README.md`、`OWNERS.md`文档，文档格式请参考[其他SIG](https://gitee.com/openharmony/community/tree/master/sig)，如sig-driver的[README.md](https://gitee.com/openharmony/community/blob/master/sig/sig-driver/sig_driver_cn.md)及[OWNERS.md](https://gitee.com/openharmony/community/blob/master/sig/sig-driver/OWNERS)。
+- fork OpenHarmony社区仓库到本地，在`OpenHarmony/community/sig`仓库内新建SIG文件夹，文件夹名称为“sig_XXX”；
+- 创建该SIG的`README.md`、`OWNERS.md`文档，文档格式请参考[其他SIG](https://gitee.com/openharmony/community/tree/master/sig)，如sig_driver的[README.md](https://gitee.com/openharmony/community/blob/master/sig/sig_driver/sig_driver_cn.md)及[OWNERS.md](https://gitee.com/openharmony/community/blob/master/sig/sig_driver/OWNERS)。
 - 更新`sigs.json`文档，参考以下样例： 
 
 **sigs.json 文件格式**
 | 字段 | 说明 |
 |:---|:---|
-| sig-name | SIG名称 |
+| sig_name | SIG名称 |
 | projects| gitee仓名 |
 | project-path | OpenHarmony下的归档路径，若不涉及回合OpenHarmony填写NONE |
 
@@ -43,12 +43,12 @@ SIG发起人收到PMC评审反馈、确认SIG提案通过后，执行以下操�
 ```
 "sigs-List":[
 {
-"sig-name":"sig-python",
+"sig_name":"sig_python",
 "projects":"https://gitee.com/openharmony-sig/python",
 "project-path":"python/"
 },
 {
-"sig-name ":"sig-updates",
+"sig_name ":"sig_updates",
 "projects":["https://gitee.com/openharmony/startup_appspawn_lite", "https://gitee.com/openharmony/startup_bootstrap_lite"]
 "project-path":["base/startup/appspawn_lite", "base/startup/bootstrap_lite"]
 },
@@ -113,7 +113,7 @@ Committer负责代码审核、主干代码合入及特性设计方案审核和�
 #### 1.会议组织
 - SIG需定期召开例行会议，每双周至少半小时，由SIG Leader主持；
 - 会议议程提前在邮件列表及官网进行公布；
-- 会议纪要及时发布并保存在`OpenHarmony/community/sig/sig-XXX/meeting-minutes`内。
+- 会议纪要及时发布并保存在`OpenHarmony/community/sig/sig_XXX/meeting-minutes`内。
 
 #### 2.社区共建
 - SIG Leader至少两个月一次，在PMC例会汇报SIG工作进展，并基于PMC指导意见改进工作；
@@ -214,7 +214,7 @@ SIG信息记录统一归档在OpenHarmony/community仓库的sig目录内：
 ###  sigs.json 文件格式
 | 字段 | 说明 |
 |:---|:---|
-|  sig-name | SIG名称 |
+|  sig_name | SIG名称 |
 |  projects| gitee仓名 |
 |  project-path | OpenHarmony下的归档路径，若不涉及回合OpenHarmony填写NONE |
 
@@ -222,12 +222,12 @@ SIG信息记录统一归档在OpenHarmony/community仓库的sig目录内：
 ```
 "sigs-List":[
       {
-         "sig-name":"sig-python",
+         "sig_name":"sig_python",
          "projects":"https://gitee.com/openharmony-sig/python",
          "project-path":"python/"
       },
       {
-         "sig-name":"sig-updates",
+         "sig_name":"sig_updates",
          "projects":["https://gitee.com/openharmony/startup_appspawn_lite", "https://gitee.com/openharmony/startup_bootstrap_lite"],
          "project-path":["base/startup/appspawn_lite", "base/startup/bootstrap_lite"]
       },
