@@ -18,7 +18,7 @@
 
 步骤四、**需求澄清&方案确认**：issue责任人对需求有任何疑问，或者需要交流方案，建议在issue下方进行评论，并@committer，仓committer收到消息后会进行回复；
 
-步骤五、**开发与提交代码**：责任人和社区通过跟踪[issue](https://gitee.com/openharmony/community/blob/master/sig/sig-QA/issue%EF%BC%88%E9%9C%80%E6%B1%82%E7%B1%BB%EF%BC%89%E5%A4%84%E7%90%86%E6%8C%87%E5%AF%BC.md)来进行互动，开发完成后，提交PR[上传代码](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E8%B4%A1%E7%8C%AE%E6%B5%81%E7%A8%8B.md),并把PR和对应的任务issue进行关联。
+步骤五、**开发与提交代码**：责任人和社区通过跟踪[issue](https://gitee.com/openharmony/community/blob/master/sig/sig_qa/issue%EF%BC%88%E9%9C%80%E6%B1%82%E7%B1%BB%EF%BC%89%E5%A4%84%E7%90%86%E6%8C%87%E5%AF%BC.md)来进行互动，开发完成后，提交PR[上传代码](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E8%B4%A1%E7%8C%AE%E6%B5%81%E7%A8%8B.md),并把PR和对应的任务issue进行关联。
 
 
 

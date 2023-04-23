@@ -1,6 +1,6 @@
 - 创建时间: (按照创建时间填写, 日-月-年)
-- RFC（请求评论） PR: [代码仓名称/rfc#pr number](https://gitee.com/openharmony/repositroy-name/pulls/xxxx)
-- Issue: [代码仓名称/issue number](https://gitee.com/openharmony/repository-name/issues/xxxxxx)
+- RFC（请求评论） PR: 代码仓名称/rfc#pr number
+- Issue: 代码仓名称/issue number
 
 #（RFC 标题）
 
