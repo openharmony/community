@@ -31,20 +31,20 @@ git clone https://gitee.com/YOURGITEE/community
 
 cd ./community/sig
 
-cp -r sig-template sig-YOURSIGNAME
+cp -r sig_template sig_YOURSIGNAME
 
-cd sig-YOURSIGNAME
+cd sig_YOURSIGNAME
 
 ```
 
 **2、完成新SIG章程的填写**
 
-为便于更好的理解和填写[SIG申请模板](./../../../sig/sig-template/sig_template_cn.md)里的内容，建议先阅读[建议书和要求](./repository-governance.md)，完成新SIG的申请填写。
+为便于更好的理解和填写[SIG申请模板](./../../../sig/sig_template/sig_template_cn.md)里的内容，建议先阅读[建议书和要求](./sig_governance.md)，完成新SIG的申请填写。
 
 ```
-mv sig-template_cn.md sig_YOURSIGNAME_cn.md
+mv sig_template_cn.md sig_YOURSIGNAME_cn.md
 
-mv sig-template.md sig_YOURSIGNAME.md
+mv sig_template.md sig_YOURSIGNAME.md
 
 vi sig_YOURSIGNAME_cn.md
 
@@ -64,18 +64,11 @@ vi OWNERS
 **4、完成新SIG的Repository的配置**
 
 - 如果您的项目在OpenHarmony社区新增子模块，请提交PR至[manifest仓](https://gitee.com/openharmony/manifest)，在其中按照格式把你的项目添加进来，其中PR提交中必须包含如下说明信息：
-     1. 新增仓路径：xxx
-     2. 新增仓库名：https://gitee.com/openharmony/xxx
+     1. 新增仓路径：kernel_liteos_a
+     2. 新增仓库名：https://gitee.com/openharmony/kernel_liteos_a
      3. 新增仓库描述：为什么需要在OpenHarmony里创建一个这样的新仓，业务功能描述
-     4. committer：
-		      name1<email1 address> [[@gitee_id1](https://gitee.com/gitee_id1)]
-		      name1<email1 address> [[@gitee_id1](https://gitee.com/gitee_id1)]
-     5. docs: 如果涉及资料刷新，需要提供对应的描述链接
-```
- git clone https://gitee.com/openharmony/manifest
- cd ./community
- vi ./default.xml
-```
+     4. committer owner刷新：zh/committer.md
+     5. docs刷新: 如果涉及资料刷新，需要提供对应的描述链接
 
 - 如果不是以上的情况，请单击[sigs.json](/sig/sigs.json)，并按照内部的格式在文件的最后把您的SIG添加进来
 
@@ -124,11 +117,7 @@ PMC将通过合并Pull Request的方式来批准您的申请
       1. 删除仓路径：xxx
       2. 删除仓库名：https://gitee.com/openharmony/xxx
       3. 删除仓库描述：为什么需要在OpenHarmony里删除这个仓，删除后的影响是什么
- ```
-  git clone https://gitee.com/openharmony/manifest
-  cd ./community
-  vi ./default.xml
- ```
+ 
 
 **2、在sig文件夹的sig.yaml内添加新项目的repository信息或删除相关信息**
 
@@ -167,9 +156,9 @@ PMC将通过合并Pull Request的方式来批准您的申请
 请在`/community/sig`文件夹下找到您的sig文件夹，完成sig文件夹内SIG章程的修改
 
 ```
-vi sig-YOURSIGNAME_cn.md
+vi sig_YOURSIGNAME_cn.md
 
-vi sig-YOURSIGNAME.md
+vi sig_YOURSIGNAME.md
 
 ```
 

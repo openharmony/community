@@ -1,6 +1,7 @@
 - Start Date: (fill me in with today's date, DD-MM-YYYY)
-- RFC(request for comments) PR: [repository name/rfcs#pr number](https://gitee.com/openharmony/repositroy-name/pulls/xxxx)
-- Issue: [repository name/issue number](https://gitee.com/openharmony/repository-name/issues/xxxxxx)
+- RFC(request for comments) PR: repository name and pr number
+- Issue: repository name/issue number
+
 # (RFC title goes here)
 
 ## Summary
