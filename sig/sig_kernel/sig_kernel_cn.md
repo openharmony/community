@@ -77,7 +77,7 @@
   - vendor_alientek名称：https://gitee.com/openharmony/vendor_alientek
   - third_party_libfuse名称: https://gitee.com/openharmony/third_party_libfuse
   - kernel_common_modules名称：https://gitee.com/openharmony-sig/kernel_common_modules
-  - kernel_linux_common_modules名称：https://gitee.com/openharmony-sig/kernel_linux_common_modules
+  - kernel_linux_common_modules名称：https://gitee.com/openharmony/kernel_linux_common_modules
 
 ## SIG组成员
 
