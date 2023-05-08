@@ -2893,7 +2893,7 @@ gitee_email = "jianghao.qian@hpmicro.com"
 
 [[sig.projects.committer]]
 gitee_id = "https://gitee.com/huohongpeng"
-gitee_email = ""
+gitee_email = "hongpeng.huo@hpmicro.com"
 
 [[sig.projects.committer]]
 gitee_id = "https://gitee.com/libing_frank"
