@@ -69,7 +69,7 @@ gitee_email = "guorui48@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/zhanghaibo5"
-email = "zhanghaibo5@huawei.com"
+gitee_email = "zhanghaibo5@huawei.com"
 [[sig]]
 sig_name = "sig_appframework"
 description = "负责应用程序框架(元能力、ArkUI、事件通知等)相关模块的架构设计、评审、决策及开发"
@@ -895,7 +895,7 @@ gitee_email = "zhongjianfei@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/huawei_qiangbo"
-email = "qiangbo2@huawei.com"
+gitee_email = "qiangbo2@huawei.com"
 [[sig]]
 sig_name = "sig_architecture"
 description = "负责OpenHarmony架构（包括子系统/部件/代码仓的增加，合并，拆分和删除）相关的设计评审，《架构设计原则》和《OpenHarmony 系统架构》修订"
@@ -919,7 +919,7 @@ gitee_email = "13493540@qq.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/im-off-this-week"
-email = "rengelin@huawei.com"
+gitee_email = "rengelin@huawei.com"
 [[sig]]
 sig_name = "sig_basicsoftwareservice"
 description = "负责OpenHarmony基础软件服务相关模块的架构设计、评审、决策及开发"
@@ -1810,7 +1810,7 @@ gitee_email = "zhuxiang6@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/handyohos"
-email = "zhangxiaotian@huawei.com"
+gitee_email = "zhangxiaotian@huawei.com"
 [[sig]]
 sig_name = "sig_buildsystem"
 description = "负责编译构建模块架构设计、评审、决策及开发"
@@ -1914,7 +1914,7 @@ gitee_email = "liwentao20@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/chenmudan"
-email = "chenmudan@huawei.com"
+gitee_email = "chenmudan@huawei.com"
 [[sig]]
 sig_name = "sig_compileruntime"
 description = "负责语言编译和运行时相关软件模块架构设计、评审、决策及开发"
@@ -2190,7 +2190,7 @@ gitee_email = "kosov.pavel@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/klooer"
-email = "xianyuqiang@huawei.com"
+gitee_email = "xianyuqiang@huawei.com"
 [[sig]]
 sig_name = "sig_devboard"
 description = "提供OpenHarmony芯片&开发板移植规划和规范，负责芯片&开发板移植的架构设计、预审及开发工作"
@@ -2988,10 +2988,9 @@ gitee_id = "https://gitee.com/lockzhiner_wang-xiaobin"
 gitee_email = "wangxb@fzlzdz.com"
 
 
-
 [sig.leader]
 gitee_id = "https://gitee.com/liuyang198591"
-email = "liu_yang@hoperun.com"
+gitee_email = "liu_yang@hoperun.com"
 [[sig]]
 sig_name = "sig_distributeddatamgr"
 description = "负责OpenHarmony数据管理服务相关模块的架构设计、评审、决策及开发"
@@ -3179,7 +3178,7 @@ gitee_email = "anna.liuwenhui@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/gong-a-shi"
-email = "gongashi@huawei.com"
+gitee_email = "gongashi@huawei.com"
 [[sig]]
 sig_name = "sig_distributedhardwaremgr"
 description = "负责OpenHarmony MSDP、电源管理、传感器服务、分布式硬件、USB相关模块的架构设计、评审、决策及开发"
@@ -3569,7 +3568,7 @@ gitee_email = "renguang@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/hhh2"
-email = "pengfei.hou@huawei.com"
+gitee_email = "pengfei.hou@huawei.com"
 [[sig]]
 sig_name = "sig_docs"
 description = "负责OpenHarmony版本配套开发者文档的构建和发布的评审及开发"
@@ -3597,7 +3596,7 @@ gitee_email = "zhouyun2@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/neeen"
-email = "neen.yang@huawei.com"
+gitee_email = "neen.yang@huawei.com"
 [[sig]]
 sig_name = "sig_driver"
 description = "负责构建OpenHarmony的统一硬件驱动平台HDF的架构设计、评审、决策及开发"
@@ -3789,7 +3788,7 @@ gitee_email = "yanghaizhou1@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/shidi_snow"
-email = "zhaowenhua@huawei.com"
+gitee_email = "zhaowenhua@huawei.com"
 [[sig]]
 sig_name = "sig_graphics"
 description = "负责构建OpenHarmony的图形和窗口相关的架构设计、评审、决策及开发"
@@ -4082,7 +4081,7 @@ gitee_email = "mengkun@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/abbuu"
-email = "liyu37@huawei.com"
+gitee_email = "liyu37@huawei.com"
 [[sig]]
 sig_name = "sig_ide"
 description = "负责构建OpenHarmony IDE功能模块和插件相关的架构设计、评审、决策及开发"
@@ -4102,7 +4101,7 @@ gitee_email = "zhaowenguang2@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/xiaojian_ide"
-email = "xiaojian756@huawei.com"
+gitee_email = "xiaojian756@huawei.com"
 [[sig]]
 sig_name = "sig_infrastructure"
 description = "负责构建围绕OpenHarmony构建工业专属操作系统和软硬件生态相关的架构设计、评审、决策及开发"
@@ -4130,7 +4129,7 @@ gitee_email = "peitaiyi@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/xzmu"
-email = "kelei@iscas.ac.cn"
+gitee_email = "kelei@iscas.ac.cn"
 [[sig]]
 sig_name = "sig_kernel"
 description = "负责构建OpenHarmony的内核存储、内存、调度、安全等能力增强，多内核兼容架构设计、评审、决策及开发"
@@ -4694,7 +4693,7 @@ gitee_email = "zhujiaxin@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/easy-to-see"
-email = "salient.yijian@huawei.com"
+gitee_email = "salient.yijian@huawei.com"
 [[sig]]
 sig_name = "sig_media"
 description = "负责构建OpenHarmony的媒体框架&服务相关的架构设计、评审、决策及开发"
@@ -4962,7 +4961,7 @@ gitee_email = "lixin113@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/dumingliang_hw"
-email = "dumingliang@huawei.com"
+gitee_email = "dumingliang@huawei.com"
 [[sig]]
 sig_name = "sig_napi_generator"
 description = "基于OpenHarmony标准系统,推出一些提升开发效率的NAPI框架代码生成工具"
@@ -4982,7 +4981,7 @@ gitee_email = "bayanxing@kaihong.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/zhaojunxia2020"
-email = "zhaojunxia@kaihong.com"
+gitee_email = "zhaojunxia@kaihong.com"
 [[sig]]
 sig_name = "sig_release"
 description = "负责制定OpenHarmony的发布计划和协调各SIG团队完成OpenHarmony社区版本的发布工作"
@@ -5002,7 +5001,7 @@ gitee_email = "aiyongfu@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/davidwulanxi"
-email = "wuyonghui9@huawei.com"
+gitee_email = "wuyonghui9@huawei.com"
 [[sig]]
 sig_name = "sig_security"
 description = "负责构建OpenHarmony的应用权限、应用签名、设备认证和密钥管理等的架构设计、评审、决策及开发"
@@ -5423,7 +5422,7 @@ gitee_email = "wanghaixiang@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/yongjie2020"
-email = "yongjie.yan@huawei.com"
+gitee_email = "yongjie.yan@huawei.com"
 [[sig]]
 sig_name = "sig_softbus"
 description = "负责构建OpenHarmony的应用权限、应用签名、设备认证和密钥管理等的架构设计、评审、决策及开发"
@@ -5712,7 +5711,7 @@ gitee_email = "tanyanying@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/maerlii"
-email = "maerli@huawei.com"
+gitee_email = "maerli@huawei.com"
 [[sig]]
 sig_name = "sig_systemapplications"
 description = "定义并构建OpenHarmony的系统应用，负责申请、实施孵化项目，广泛收集社区开发者需求，以持续完善系统应用的特性"
@@ -5738,7 +5737,7 @@ gitee_id = "https://gitee.com/ma-renqing"
 gitee_email = "marenqing@huawei.com"
 
 [[sig.projects.committer]]
-gitee_id = "https://gitee.com/jyh926"
+gitee_id = "https://gitee.com/jiayanhong-hw"
 gitee_email = "jiayanhong@huawei.com"
 
 
@@ -5901,7 +5900,7 @@ gitee_email = "shengli9@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/nicolaswang"
-email = "icolas.wangfeng@huawei.com"
+gitee_email = "icolas.wangfeng@huawei.com"
 [[sig]]
 sig_name = "sig_telephony"
 description = "负责构建OpenHarmony的SIM卡、搜网、蜂窝数据、蜂窝通话、短彩信等蜂窝移动网络基础通信的架构设计、评审、决策及开发"
@@ -5963,7 +5962,7 @@ gitee_email = "wangziming14@huawei.com"
 https_url = "https://gitee.com/openharmony/telephony_core_service"
 repo_status = "0"
 [[sig.projects.committer]]
-gitee_id = "https://gitee.com/jyh926"
+gitee_id = "https://gitee.com/jiayanhong-hw"
 gitee_email = "jiayanhong@huawei.com"
 
 [[sig.projects.committer]]
@@ -5987,7 +5986,7 @@ gitee_email = "wangziming14@huawei.com"
 https_url = "https://gitee.com/openharmony/telephony_state_registry"
 repo_status = "0"
 [[sig.projects.committer]]
-gitee_id = "https://gitee.com/jyh926"
+gitee_id = "https://gitee.com/jiayanhong-hw"
 gitee_email = "jiayanhong@huawei.com"
 
 [[sig.projects.committer]]
@@ -6067,7 +6066,7 @@ gitee_id = "https://gitee.com/rain_myf"
 gitee_email = "maoyufeng3@huawei.com"
 
 [[sig.projects.committer]]
-gitee_id = "https://gitee.com/jyh926"
+gitee_id = "https://gitee.com/jiayanhong-hw"
 gitee_email = "jiayanhong@huawei.com"
 
 
@@ -6135,7 +6134,7 @@ gitee_email = "maosiping@huawei.com"
 https_url = "https://gitee.com/openharmony/communication_netmanager_ext"
 repo_status = "0"
 [[sig.projects.committer]]
-gitee_id = "https://gitee.com/jyh926"
+gitee_id = "https://gitee.com/jiayanhong-hw"
 gitee_email = "jiayanhong@huawei.com"
 
 [[sig.projects.committer]]
@@ -6145,7 +6144,7 @@ gitee_email = "maoyufeng3@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/zhang-hai-feng"
-email = "zhanghaifeng11@huawei.com"
+gitee_email = "zhanghaifeng11@huawei.com"
 [[sig]]
 sig_name = "sig_test"
 description = "负责构建OpenHarmony的测试系统、兼容测试框架的架构设计、评审、决策及开发"
@@ -6417,294 +6416,294 @@ gitee_email = "gaohanyi@huawei.com"
 
 [sig.leader]
 gitee_id = "https://gitee.com/gaohanyi1982"
-email = "gaohanyi@huawei.com"
+gitee_email = "gaohanyi@huawei.com"
 [[sig]]
 sig_name = "sig_ai_framework_integration"
 description = "负责在OpenHarmony平台上提供三方AI推理框架的集成和维护"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/wang-huaxin"
-email = "wanghuaxin@kaihongdigi.com"
+gitee_email = "wanghuaxin@kaihongdigi.com"
 [[sig]]
 sig_name = "sig_api"
 description = "负责制定OpenHarmony平台的API设计规范和API社区治理，对API变更进行设计与评审"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/huawei_qiangbo"
-email = "qiangbo2@huawei.com"
+gitee_email = "qiangbo2@huawei.com"
 [[sig]]
 sig_name = "sig_blockchain"
 description = "提供OpenHarmony数据上链功能，深度定制可适配OpenHarmony的数据上链组件"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/shangxuan_hz"
-email = "shangxuan@hyperchain.cn"
+gitee_email = "shangxuan@hyperchain.cn"
 [[sig]]
 sig_name = "sig_bluetooth"
 description = "提供OpenHarmony蓝牙服务以及蓝牙协议栈，提升蓝牙兼容性"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/cheng_guohong"
-email = "guohong.cheng@huawei.com"
+gitee_email = "guohong.cheng@huawei.com"
 [[sig]]
 sig_name = "sig_cellular_device_mgr"
 description = "负责基于OpenHarmony平台，进行入云组件、端管云组件、终端安全等基础能力组件和行业应用组件的架构设计、评审、决策及开发"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/pengz123"
-email = "pengzhao.sh@chinatelecom.cn"
+gitee_email = "pengzhao.sh@chinatelecom.cn"
 [[sig]]
 sig_name = "sig_compliance"
 description = "制定OpenHarmony的开源合规治理的规则、规范、流程，负责开发合规工具，并提供合规服务能力"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/jalenchen"
-email = "xianyuqiang@huawei.com"
+gitee_email = "chenyaxun@huawei.com"
 [[sig]]
 sig_name = "sig_crossplatformui"
 description = "开发和维护跨平台适配核心，包括为 OpenHarmony 拓展UI范式，让Web应用和各类小程序应用适配OpenHarmony的能力"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/o2team"
-email = "o2labs@163.com"
+gitee_email = "o2labs@163.com"
 [[sig]]
 sig_name = "sig_dengluyi"
 description = "为OpenHarmony 环境嵌入一个通用标准的多账号管理模块，与手机登录易App通信互操作，实现新用户的自动注册，老用户的自动登录，自动修改密码等功能"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/youngp7"
-email = "3119005904@mail2.gdut.edu.cn"
+gitee_email = "3119005904@mail2.gdut.edu.cn"
 [[sig]]
 sig_name = "sig_edu_data_specification"
 description = "建设基于OpenHarmony的教育专属操作系统，积极与教育南北生态合作伙伴、教育管理单位、高校、科研单位，完善OpenHarmony上的教育生态建设"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/yongjie2020"
-email = "yongjie.yan@huawei.com"
+gitee_email = "yongjie.yan@huawei.com"
 [[sig]]
 sig_name = "sig_hilog"
 description = "负责日志系统HiLog架构设计、评审、决策及开发"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/v11985"
-email = "wangfeng@iscas.ac.cn"
+gitee_email = "wangfeng@iscas.ac.cn"
 [[sig]]
 sig_name = "sig_industrial_internet"
 description = "负责构建围绕OpenHarmony构建工业专属操作系统和软硬件生态相关的架构设计、评审、决策及开发"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/halhuangbin"
-email = "huangbin@talkweb.com.cn"
+gitee_email = "huangbin@talkweb.com.cn"
 [[sig]]
 sig_name = "sig_iot_sensing_network"
 description = "负责构建围绕OpenHarmony构建在2B行业物联感知场景所必须的网络协议能力增强"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/yoursywxf"
-email = "xiaofei3@huawei.com"
+gitee_email = "xiaofei3@huawei.com"
 [[sig]]
 sig_name = "sig_knowlege"
 description = "负责构建OpenHarmony场景化Demo，撰写详细的开发指导书和课程"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/zeeman_wang"
-email = "zeeman.wang@huawei.com"
+gitee_email = "zeeman.wang@huawei.com"
 [[sig]]
 sig_name = "sig_linkboy"
 description = "负责围绕OpenHarmony系统的适配和移植linkboy图形化编程软件，推广OpenHarmony系统生态"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/linkboy_crux"
-email = "910360201@qq.com"
+gitee_email = "910360201@qq.com"
 [[sig]]
 sig_name = "sig_miniblink"
 description = "负责构建基于OpenHarmony轻量化web引擎"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/ampereufo"
-email = "ampereufo@qq.com"
+gitee_email = "ampereufo@qq.com"
 [[sig]]
 sig_name = "sig_mips"
 description = "使能OpenHarmony支撑MIPS架构与MIPS设备，提供MIPS的软件包和系统构建等指导，并维护对MIPS架构的支持"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/hongtao6573"
-email = "tao.hong@ingenic.com"
+gitee_email = "tao.hong@ingenic.com"
 [[sig]]
 sig_name = "sig_openblock"
 description = "负责围绕OpenHarmony系统的适配和移植Blockly图形化编程软件，推广OpenHarmony系统生态"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/duzc2"
-email = "duzc2@163.com"
+gitee_email = "duzc2@163.com"
 [[sig]]
 sig_name = "sig_opengfxdriver"
 description = "基于Mesa 3D以及DRM驱动，使能其在OpenHarmony平台运行开源的图形渲染"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/frank-huangran"
-email = "frank.huangran@huawei.com"
+gitee_email = "frank.huangran@huawei.com"
 [[sig]]
 sig_name = "sig_print"
 description = "使能OpenHarmony开发打印服务功能，拓展及完善OpenHarmony在行业智能终端及其他打印设备的基本能力"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/eric.li"
-email = "eric.li@urovo.com"
+gitee_email = "eric.li@urovo.com"
 [[sig]]
 sig_name = "sig_python"
 description = "使能Python在OpenHarmony上的应用开发"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/delphi-tang"
-email = "delphi_tang@dt4sw.com"
+gitee_email = "delphi_tang@dt4sw.com"
 [[sig]]
 sig_name = "sig_qa"
 description = "制定社区开发相关流程，组织sig组转正评审， 运营和审视社区开发、sig组运作，发现问题并推动相关团队优化改进"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/xhuazi"
-email = "xw.hua@huawei.com"
+gitee_email = "xw.hua@huawei.com"
 [[sig]]
 sig_name = "sig_qt"
 description = "负责完成基于OpenHarmony的QT软件开发框架的移植及适配，将适配OpenHarmony平台的代码，回馈至QT上游社区"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/cwc1987"
-email = "caiwc@sinux.com.cn"
+gitee_email = "caiwc@sinux.com.cn"
 [[sig]]
 sig_name = "sig_riscv"
 description = "负责移植和维护RISC-V设备和RISC-V TEE在OpenHarmony上能运行"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/yu_jia_geng"
-email = "jiageng08@iscas.ac.cn"
+gitee_email = "jiageng08@iscas.ac.cn"
 [[sig]]
 sig_name = "sig_robotics"
 description = "基于OpenHarmony设计可支持AGV、AMR、RGV等移动机器人的技术架构、应用层接口标准、通讯协议"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/sunmingang"
-email = "sunmingang@jd.com"
+gitee_email = "sunmingang@jd.com"
 [[sig]]
 sig_name = "sig_secure_element"
 description = "基于OpenHarmony提供统一的安全芯片管理框架，提供安全芯片相关规范，支持标准化的高安系统安全业务部署安全芯片"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/leapsecond"
-email = "ang.li@huawei.com"
+gitee_email = "ang.li@huawei.com"
 [[sig]]
 sig_name = "sig_tee"
 description = "负责构建OpenHarmony的TEE的架构设计、评审、决策及开发，制定TEE相关标准，建立统一的TEE生态"
-projects = []
 sig_status = "active"
 sub_system = ["L1S_TEE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/fugengsheng"
-email = "fugengsheng@huawei.com"
+gitee_email = "fugengsheng@huawei.com"
 [[sig]]
 sig_name = "sig_toolchains"
 description = "为OpenHarmony开发和提供最新的社区开源工具，提升开发者开发效率"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/berolinux"
-email = "bernhard.rosenkraenzer.ext@huawei.com"
+gitee_email = "bernhard.rosenkraenzer.ext@huawei.com"
 [[sig]]
 sig_name = "sig_temp"
 description = "为OpenHarmony CI平台临时验证在IT平台创建SIG&代码仓库"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/landwind"
-email = "mamingshuai1@huawei.com"
+gitee_email = "mamingshuai1@huawei.com"
 [[sig]]
 sig_name = "sig_gaming"
 description = "为OpenHarmony游戏移植创建代码仓库，在it平台创建SIG&代码仓库"
-projects = []
 sig_status = "active"
 sub_system = ["NONE"]
+projects = []
 
 [sig.leader]
 gitee_id = "https://gitee.com/frank-huangran"
-email = "frank-huangran@huawei.com"
+gitee_email = "frank.huangran@huawei.com"

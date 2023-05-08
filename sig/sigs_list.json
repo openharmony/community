@@ -4,7 +4,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/zhanghaibo5",
-            "email": "zhanghaibo5@huawei.com"
+            "gitee_email": "zhanghaibo5@huawei.com"
         },
         "sub_system": [
             "L1S_AI"
@@ -84,7 +84,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/huawei_qiangbo",
-            "email": "qiangbo2@huawei.com"
+            "gitee_email": "qiangbo2@huawei.com"
         },
         "sub_system": [
             "L1S_Global",
@@ -962,7 +962,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/im-off-this-week",
-            "email": "rengelin@huawei.com"
+            "gitee_email": "rengelin@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -991,7 +991,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/handyohos",
-            "email": "zhangxiaotian@huawei.com"
+            "gitee_email": "zhangxiaotian@huawei.com"
         },
         "sub_system": [
             "L1S_DistributedSchedule",
@@ -1949,7 +1949,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/chenmudan",
-            "email": "chenmudan@huawei.com"
+            "gitee_email": "chenmudan@huawei.com"
         },
         "sub_system": [
             "L1S_BuildSystem"
@@ -2066,7 +2066,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/klooer",
-            "email": "xianyuqiang@huawei.com"
+            "gitee_email": "xianyuqiang@huawei.com"
         },
         "sub_system": [
             "L1S_CCRuntime",
@@ -2366,7 +2366,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/liuyang198591",
-            "email": "liu_yang@hoperun.com"
+            "gitee_email": "liu_yang@hoperun.com"
         },
         "sub_system": [
             "L1S_DevBoard"
@@ -3226,7 +3226,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/gong-a-shi",
-            "email": "gongashi@huawei.com"
+            "gitee_email": "gongashi@huawei.com"
         },
         "sub_system": [
             "L1S_DistributedDataMgr_DFS"
@@ -3433,7 +3433,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/hhh2",
-            "email": "pengfei.hou@huawei.com"
+            "gitee_email": "pengfei.hou@huawei.com"
         },
         "sub_system": [
             "L1S_MSDP",
@@ -3853,7 +3853,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/neeen",
-            "email": "neen.yang@huawei.com"
+            "gitee_email": "neen.yang@huawei.com"
         },
         "sub_system": [
             "L1S_Docs"
@@ -3886,7 +3886,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/shidi_snow",
-            "email": "zhaowenhua@huawei.com"
+            "gitee_email": "zhaowenhua@huawei.com"
         },
         "sub_system": [
             "L1S_Drivers"
@@ -4093,7 +4093,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/abbuu",
-            "email": "liyu37@huawei.com"
+            "gitee_email": "liyu37@huawei.com"
         },
         "sub_system": [
             "L1S_Graphic_AGPEngine",
@@ -4407,7 +4407,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/xiaojian_ide",
-            "email": "xiaojian756@huawei.com"
+            "gitee_email": "xiaojian756@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -4432,7 +4432,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/xzmu",
-            "email": "kelei@iscas.ac.cn"
+            "gitee_email": "kelei@iscas.ac.cn"
         },
         "sub_system": [
             "NONE"
@@ -4466,7 +4466,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/easy-to-see",
-            "email": "salient.yijian@huawei.com"
+            "gitee_email": "salient.yijian@huawei.com"
         },
         "sub_system": [
             "L1S_Kernel"
@@ -5073,7 +5073,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/dumingliang_hw",
-            "email": "dumingliang@huawei.com"
+            "gitee_email": "dumingliang@huawei.com"
         },
         "sub_system": [
             "L1S_MultiMedia"
@@ -5359,7 +5359,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/zhaojunxia2020",
-            "email": "zhaojunxia@kaihong.com"
+            "gitee_email": "zhaojunxia@kaihong.com"
         },
         "sub_system": [
             "NONE"
@@ -5384,7 +5384,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/davidwulanxi",
-            "email": "wuyonghui9@huawei.com"
+            "gitee_email": "wuyonghui9@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -5409,7 +5409,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/yongjie2020",
-            "email": "yongjie.yan@huawei.com"
+            "gitee_email": "yongjie.yan@huawei.com"
         },
         "sub_system": [
             "L1S_Security",
@@ -5862,7 +5862,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/maerlii",
-            "email": "maerli@huawei.com"
+            "gitee_email": "maerli@huawei.com"
         },
         "sub_system": [
             "L1S_Communication",
@@ -6172,7 +6172,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/nicolaswang",
-            "email": "icolas.wangfeng@huawei.com"
+            "gitee_email": "icolas.wangfeng@huawei.com"
         },
         "sub_system": [
             "L1S_Applications"
@@ -6197,7 +6197,7 @@
                         "gitee_email": "marenqing@huawei.com"
                     },
                     {
-                        "gitee_id": "https://gitee.com/jyh926",
+                        "gitee_id": "https://gitee.com/jiayanhong-hw",
                         "gitee_email": "jiayanhong@huawei.com"
                     }
                 ]
@@ -6377,7 +6377,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/zhang-hai-feng",
-            "email": "zhanghaifeng11@huawei.com"
+            "gitee_email": "zhanghaifeng11@huawei.com"
         },
         "sub_system": [
             "L1S_telepony"
@@ -6442,7 +6442,7 @@
                 "https_url": "https://gitee.com/openharmony/telephony_core_service",
                 "repo_status": "0",
                 "committer": [{
-                        "gitee_id": "https://gitee.com/jyh926",
+                        "gitee_id": "https://gitee.com/jiayanhong-hw",
                         "gitee_email": "jiayanhong@huawei.com"
                     },
                     {
@@ -6468,7 +6468,7 @@
                 "https_url": "https://gitee.com/openharmony/telephony_state_registry",
                 "repo_status": "0",
                 "committer": [{
-                        "gitee_id": "https://gitee.com/jyh926",
+                        "gitee_id": "https://gitee.com/jiayanhong-hw",
                         "gitee_email": "jiayanhong@huawei.com"
                     },
                     {
@@ -6552,7 +6552,7 @@
                         "gitee_email": "maoyufeng3@huawei.com"
                     },
                     {
-                        "gitee_id": "https://gitee.com/jyh926",
+                        "gitee_id": "https://gitee.com/jiayanhong-hw",
                         "gitee_email": "jiayanhong@huawei.com"
                     }
                 ]
@@ -6622,7 +6622,7 @@
                 "https_url": "https://gitee.com/openharmony/communication_netmanager_ext",
                 "repo_status": "0",
                 "committer": [{
-                        "gitee_id": "https://gitee.com/jyh926",
+                        "gitee_id": "https://gitee.com/jiayanhong-hw",
                         "gitee_email": "jiayanhong@huawei.com"
                     },
                     {
@@ -6639,7 +6639,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/gaohanyi1982",
-            "email": "gaohanyi@huawei.com"
+            "gitee_email": "gaohanyi@huawei.com"
         },
         "sub_system": [
             "L1S_Test"
@@ -6934,7 +6934,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/wang-huaxin",
-            "email": "wanghuaxin@kaihongdigi.com"
+            "gitee_email": "wanghuaxin@kaihongdigi.com"
         },
         "sub_system": [
             "NONE"
@@ -6947,7 +6947,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/huawei_qiangbo",
-            "email": "qiangbo2@huawei.com"
+            "gitee_email": "qiangbo2@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -6960,7 +6960,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/shangxuan_hz",
-            "email": "shangxuan@hyperchain.cn"
+            "gitee_email": "shangxuan@hyperchain.cn"
         },
         "sub_system": [
             "NONE"
@@ -6973,7 +6973,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/cheng_guohong",
-            "email": "guohong.cheng@huawei.com"
+            "gitee_email": "guohong.cheng@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -6986,7 +6986,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/pengz123",
-            "email": "pengzhao.sh@chinatelecom.cn"
+            "gitee_email": "pengzhao.sh@chinatelecom.cn"
         },
         "sub_system": [
             "NONE"
@@ -6999,7 +6999,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/jalenchen",
-            "email": "xianyuqiang@huawei.com"
+            "gitee_email": "chenyaxun@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -7012,7 +7012,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/o2team",
-            "email": "o2labs@163.com"
+            "gitee_email": "o2labs@163.com"
         },
         "sub_system": [
             "NONE"
@@ -7025,7 +7025,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/youngp7",
-            "email": "3119005904@mail2.gdut.edu.cn"
+            "gitee_email": "3119005904@mail2.gdut.edu.cn"
         },
         "sub_system": [
             "NONE"
@@ -7038,7 +7038,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/yongjie2020",
-            "email": "yongjie.yan@huawei.com"
+            "gitee_email": "yongjie.yan@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -7051,7 +7051,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/v11985",
-            "email": "wangfeng@iscas.ac.cn"
+            "gitee_email": "wangfeng@iscas.ac.cn"
         },
         "sub_system": [
             "NONE"
@@ -7064,7 +7064,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/halhuangbin",
-            "email": "huangbin@talkweb.com.cn"
+            "gitee_email": "huangbin@talkweb.com.cn"
         },
         "sub_system": [
             "NONE"
@@ -7077,7 +7077,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/yoursywxf",
-            "email": "xiaofei3@huawei.com"
+            "gitee_email": "xiaofei3@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -7090,7 +7090,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/zeeman_wang",
-            "email": "zeeman.wang@huawei.com"
+            "gitee_email": "zeeman.wang@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -7103,7 +7103,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/linkboy_crux",
-            "email": "910360201@qq.com"
+            "gitee_email": "910360201@qq.com"
         },
         "sub_system": [
             "NONE"
@@ -7116,7 +7116,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/ampereufo",
-            "email": "ampereufo@qq.com"
+            "gitee_email": "ampereufo@qq.com"
         },
         "sub_system": [
             "NONE"
@@ -7129,7 +7129,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/hongtao6573",
-            "email": "tao.hong@ingenic.com"
+            "gitee_email": "tao.hong@ingenic.com"
         },
         "sub_system": [
             "NONE"
@@ -7142,7 +7142,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/duzc2",
-            "email": "duzc2@163.com"
+            "gitee_email": "duzc2@163.com"
         },
         "sub_system": [
             "NONE"
@@ -7155,7 +7155,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/frank-huangran",
-            "email": "frank.huangran@huawei.com"
+            "gitee_email": "frank.huangran@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -7168,7 +7168,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/eric.li",
-            "email": "eric.li@urovo.com"
+            "gitee_email": "eric.li@urovo.com"
         },
         "sub_system": [
             "NONE"
@@ -7181,7 +7181,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/delphi-tang",
-            "email": "delphi_tang@dt4sw.com"
+            "gitee_email": "delphi_tang@dt4sw.com"
         },
         "sub_system": [
             "NONE"
@@ -7194,7 +7194,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/xhuazi",
-            "email": "xw.hua@huawei.com"
+            "gitee_email": "xw.hua@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -7207,7 +7207,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/cwc1987",
-            "email": "caiwc@sinux.com.cn"
+            "gitee_email": "caiwc@sinux.com.cn"
         },
         "sub_system": [
             "NONE"
@@ -7220,7 +7220,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/yu_jia_geng",
-            "email": "jiageng08@iscas.ac.cn"
+            "gitee_email": "jiageng08@iscas.ac.cn"
         },
         "sub_system": [
             "NONE"
@@ -7233,7 +7233,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/sunmingang",
-            "email": "sunmingang@jd.com"
+            "gitee_email": "sunmingang@jd.com"
         },
         "sub_system": [
             "NONE"
@@ -7246,7 +7246,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/leapsecond",
-            "email": "ang.li@huawei.com"
+            "gitee_email": "ang.li@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -7259,7 +7259,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/fugengsheng",
-            "email": "fugengsheng@huawei.com"
+            "gitee_email": "fugengsheng@huawei.com"
         },
         "sub_system": [
             "L1S_TEE"
@@ -7272,7 +7272,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/berolinux",
-            "email": "bernhard.rosenkraenzer.ext@huawei.com"
+            "gitee_email": "bernhard.rosenkraenzer.ext@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -7285,7 +7285,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/landwind",
-            "email": "mamingshuai1@huawei.com"
+            "gitee_email": "mamingshuai1@huawei.com"
         },
         "sub_system": [
             "NONE"
@@ -7298,7 +7298,7 @@
         "sig_status": "active",
         "leader": {
             "gitee_id": "https://gitee.com/frank-huangran",
-            "email": "frank-huangran@huawei.com"
+            "gitee_email": "frank.huangran@huawei.com"
         },
         "sub_system": [
             "NONE"
