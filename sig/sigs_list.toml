@@ -2964,6 +2964,31 @@ gitee_id = "https://gitee.com/libing_frank"
 gitee_email = "libing3@huawei.com"
 
 
+[[sig.projects]]
+https_url = "https://gitee.com/openharmony/vendor_lockzhiner"
+repo_status = "0"
+[[sig.projects.committer]]
+gitee_id = "https://gitee.com/lockzhiner_wang-xiaobin"
+gitee_email = "wangxb@fzlzdz.com"
+
+[[sig.projects.committer]]
+gitee_id = "https://gitee.com/libing_frank"
+gitee_email = "libing3@huawei.com"
+
+
+[[sig.projects]]
+https_url = "https://gitee.com/openharmony/device_board_lockzhiner"
+repo_status = "0"
+[[sig.projects.committer]]
+gitee_id = "https://gitee.com/libing_frank"
+gitee_email = "libing3@huawei.com"
+
+[[sig.projects.committer]]
+gitee_id = "https://gitee.com/lockzhiner_wang-xiaobin"
+gitee_email = "wangxb@fzlzdz.com"
+
+
+
 [sig.leader]
 gitee_id = "https://gitee.com/liuyang198591"
 email = "liu_yang@hoperun.com"

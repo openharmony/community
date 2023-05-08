@@ -3191,6 +3191,32 @@
                         "gitee_email": "libing3@huawei.com"
                     }
                 ]
+            },
+            {
+                "https_url": "https://gitee.com/openharmony/vendor_lockzhiner",
+                "repo_status": "0",
+                "committer": [{
+                        "gitee_id": "https://gitee.com/lockzhiner_wang-xiaobin",
+                        "gitee_email": "wangxb@fzlzdz.com"
+                    },
+                    {
+                        "gitee_id": "https://gitee.com/libing_frank",
+                        "gitee_email": "libing3@huawei.com"
+                    }
+                ]
+            },
+            {
+                "https_url": "https://gitee.com/openharmony/device_board_lockzhiner",
+                "repo_status": "0",
+                "committer": [{
+                        "gitee_id": "https://gitee.com/libing_frank",
+                        "gitee_email": "libing3@huawei.com"
+                    },
+                    {
+                        "gitee_id": "https://gitee.com/lockzhiner_wang-xiaobin",
+                        "gitee_email": "wangxb@fzlzdz.com"
+                    }
+                ]
             }
         ]
     },
