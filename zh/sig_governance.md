@@ -47,20 +47,20 @@ SIG组需要定期召开例会，讨论和总结SIG组领域工作，并向OpenH
 # 2.  **仓库管理**
 ## 2.1  SIG组仓库新增、退休、更名申请：
 ### 2.1.1  申请架构SIG评审
-参考[模板1--新增、退休、更名](../sig/sig_architecture/meetings/repository_review_template.pptx)准备对应的申请材料，申请架构SIG议题评审。
+参考[模板1--新增、退休、更名](../sig/sig_architecture/meetings/repository_review_template.pptx)准备对应的申请材料，申请[架构SIG](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC)议题评审。
 
-参考[模板2--开源软件引入](../sig/sig_architecture/meetings/OpenHarmony_thirdparty_opensource_software_selection_analysis_templateV1.0.pptx)准备对应的申请材料，申请架构SIG议题评审。
+参考[模板2--开源软件引入](../sig/sig_architecture/meetings/OpenHarmony_thirdparty_opensource_software_selection_analysis_templateV1.0.pptx)准备对应的申请材料，申请[架构SIG](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC)议题评审。
 
 ###  2.1.2 新增仓电子流申请：
-[操作指导](http://ci.openharmony.cn/workbench/ciCommunity)：“操作指南” --> "SIG管理" --> “SIG仓申请”。
+架构SIG评审通过后，新增仓[操作指导](http://ci.openharmony.cn/workbench/ciCommunity)：“操作指南” --> "SIG管理" --> “SIG仓申请”。
 ###  2.1.3 仓库退休、更名电子流申请：
-[操作指导](http://ci.openharmony.cn/workbench/ciCommunity)：“操作指南” --> "SIG管理" --> “仓管理”。
+架构SIG评审通过后，仓库退休、更名[操作指导](http://ci.openharmony.cn/workbench/ciCommunity)：“操作指南” --> "SIG管理" --> “仓管理”。
 
-##  2.2 SIG孵化准出：
+##  2.2 仓库孵化准出：
 ###  2.2.1 申请架构SIG孵化预审：
 [申请议题](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC)进行孵化准出架构预审，参考[模板](../sig/sig_architecture/meetings/repository_review_template.pptx) 准备对应的申请材料。
 
 ### 2.2.2 申请质量SIG孵化准出评审：
-[申请议题](https://shimo.im/sheets/6QqqWJX99xrWWqJg/MODOC)：进行孵化准出评审，参考[准出标准](../sig/sig_qa/guidance_for_incubation_project_graduation_cn.md)准出孵化准出材料。
+[申请议题](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC)：进行孵化准出评审，参考[准出标准](../sig/sig_qa/guidance_for_incubation_project_graduation_cn.md)准出孵化准出材料。
 ###  2.2.3. 提交仓库孵化准出电子流：
 质量SIG准出评审通过后，提交[孵化准出电子流](http://ci.openharmony.cn/workbench/ciCommunity)： “操作指南” --> "SIG管理" --> “孵化报告”。
