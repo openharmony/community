@@ -1,5 +1,5 @@
 # sig_HILOG
-简体中文 | [English](./sig_template.md)
+简体中文 | [English](./sig_hilog.md)
 
 说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
 
