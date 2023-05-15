@@ -64,7 +64,7 @@ SIG发起人收到PMC评审反馈、确认SIG提案通过后，执行以下操�
 ### （一）SIG仓库及沟通渠道
 1. SIG使用社区统一基础设施开展工作和交流，包括Gitee仓库和邮件列表。 
 2. 新SIG负责人在[OpenHarmony/community仓库](https://gitee.com/openharmony/community)提交Issue，申请为该SIG新建仓库及邮件列表。 
-3. Issue中应注明仓库路径、邮件列表名称以及新SIG的Leader和Committer，并附[前述PMC评审意见](#3.PMC评审提案)，通过在Issue中[@wanchengzhen](https://gitee.com/wanchengzhen)或[@im-off-this-week](https://gitee.com/im-off-this-week)通知Sig Architecture评审。
+3. Issue中应注明仓库路径、邮件列表名称以及新SIG的Leader和Committer，并附[前述PMC评审意见](#3pmc评审提案)，通过在Issue中[@wanchengzhen](https://gitee.com/wanchengzhen)或[@im-off-this-week](https://gitee.com/im-off-this-week)通知Sig Architecture评审。
 4. Sig Architecture评审通过后：
 - SIG负责人联系[社区代码仓管理员](https://gitee.com/landwind)执行建仓操作；
 - SIG邮件列表负责人联系 **likang@openatom.org** 创建邮件列表：
@@ -133,7 +133,7 @@ Committer负责代码审核、主干代码合入及特性设计方案审核和�
 1. SIG负责人在PMC例行会议中申报议题，接受PMC问询。 
 2. PMC批准增删项目或仓库后，SIG负责人：
 - 在`OpenHarmony/community`创建Issue请求SIG Architecture支持，完成新项目仓库的配置或删除仓库，Issue中附PMC评审意见；
-- 相关操作完成、Issue关闭后，更新`sigs.json`文档（参考[上文](#4.提交PR)），刷新`README.md`；
+- 相关操作完成、Issue关闭后，更新`sigs.json`文档（参考[上文](#4提交pr)），刷新`README.md`；
 - 提交PR请求合并以上修改，PR中附PMC评审意见。 
 3. Community仓的Committer合并PR，完成项目或仓库更新。 
 
@@ -153,7 +153,7 @@ Committer负责代码审核、主干代码合入及特性设计方案审核和�
 - 提交PR，请求合入以上修改。 
 2. Community仓的Committer审核并合并PR，确认修改。 
 
-区分变更重大与否的标准可参考上文[SIG的运营部分](#二、SIG运营)。
+区分变更重大与否的标准可参考上文[SIG的运营部分](#二sig运营)。
 
 ## 四、SIG终止
 
