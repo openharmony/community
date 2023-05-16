@@ -1,5 +1,5 @@
 # SIG-Gaming
-English | [简体中文](./sig-gaming_cn.md)
+English | [简体中文](./sig_gaming_cn.md)
 
 Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
 
