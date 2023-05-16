@@ -28,7 +28,7 @@ Continuously contributes to the softbus of the OpenHarmony community, implements
   - communication_wifi_lite: https://gitee.com/openharmony/communication_wifi_lite
   - communication_wifi_aware: https://gitee.com/openharmony/communication_wifi_aware
   - communication_dhcp: https://gitee.com/openharmony/communication_dhcp
-  - kernel_common_modules_newip: https://gitee.com/openharmony/kernel_common_modules_newip
+  - kernel_linux_common_modules: https://gitee.com/openharmony/kernel_linux_common_modules/tree/master/newip
   - base_location：https://gitee.com/openharmony/base_location
   - telephony_call_manager: https://gitee.com/openharmony/telephony_call_manager
   - telephony_cellular_call: https://gitee.com/openharmony/telephony_cellular_call
