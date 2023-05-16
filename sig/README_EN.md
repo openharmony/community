@@ -1,66 +1,65 @@
-# SIG Management Regulations
+OpenHarmony Community SIG Governance
+====================================
 English | [简体中文](./README.md)
 
-## Background
-Under the guidance of the Project Management Committee (PMC), a special interest group (SIG) designs the architecture, develops open capabilities, and performs maintenance for innovative projects in a specific domain.
-This repository stores information about all the SIGs in the OpenHarmony community.
 
-## Applying for Creating an SIG
-1. Seek two or three developers in the community who have the same interest or objectives as you and elect a leader for this SIG. Create an SIG proposal based on the [SIG creation template](sig_template/sig_template.md), The proposal includes the following elements:
-     -Create background information for the SIG
-     -Create the business scope of the SIG
-     -Create business goals for the SIG
-2. The SIG leader sends the SIG proposal via an email with the title [New-sig_Proposal-XXX] to dev@openharmony.io.
-3. Wait for the PMC or the corresponding field SIG, Committer to approve the proposal, the proposer could filed agenda collection on [PMC](https://docs.qingque.cn/s/home/eZQB8yRFQfEFeAxk_6JKZEE0q?identityId=1tbICPd8j3s), PMC will periodic organization review meeting for the proposal. The proposer could go to the [Community](https://gitee.com/openharmony/community) repository to create a Pull Request to create a new SIG after passing the review and perfecting it in accordance with the review comments.
--**Important**: If you need to apply for a new warehouse in the SIG, please report the issue of new parts to the [Architecture SIG](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC).
+This document outlines the governance system for Special Interest Groups (SIGs) in the OpenHarmony community, including the application, operation, modification, and termination of SIGs.
 
+A. Applying for a New SIG
+--------------------------
 
-## Joining an SIG
-1. Find an SIG you are interested in and participate in its technical discussions, maintenance, and capability development by various means, such as subscribing to mailing lists and attending meetings of the SIG.
+### 1. Preparation for Application
 
-## Operating and Maintaining an SIG
+   *   Developers should carefully read the [SIG Governance Document](../zh/sig_governance.md) to understand the operational rules of SIGs in the OpenHarmony community. They should also prepare documents such as the SIG Charter and SIG Bylaws.
+   *   SIG applicants need to ensure the uniqueness and feasibility of their technical direction:
+   *   Each SIG in the OpenHarmony community has a different technical focus. If the proposed application falls within an existing technical area, it is recommended to participate in the relevant SIG instead.
+   *   Developers can review the [existing SIG list](https://gitee.com/openharmony/community/tree/master/sig) in the OpenHarmony community and check the [historical DEV mailing list](https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/) to confirm that there are no ongoing or planned SIGs with the same technical focus.
+   *   The technical project proposed for establishing a SIG should eventually translate into a new component of OpenHarmony.
+   *   If developers have any doubts about the technical direction after reviewing the relevant information, they can consult the PMC via the mailing list [dev@openharmony.io](mailto:dev@openharmony.io).
 
-1. The SIG leader forks the **OpenHarmony/community** release, creates a folder and names it with the SIG name in the **sig** directory, creates an SIG profile in the created folder based on the [SIG template](sig_template/), and submits pull requests (PRs) for incorporating modifications of the SIG profile into the master code of OpenHarmony.
+### 2. Submitting the Application
 
-2. SIG incubation projects are stored in the [OpenHarmony-SIG](https://gitee.com/openharmony-sig) organization. The code of incubation projects that meet graduation requirements can be incorporated into the master code of OpenHarmony.
+   *   SIG initiators need to create an initial draft of the SIG proposal following the [SIG Charter Template](../meeting-notes/docs/openharmony_sig_template.pptx) and complete the [application process](../zh/sig_governance.md).
 
-3. The SIG leader and committer operate and maintain the SIG.
+### 3. PMC Approval of the Proposal
 
-4. The SIG leader periodically reports the progresses of the SIG operations and incubation projects to the PMC which then offers suggestions.
+   *   SIG initiators can submit the new SIG proposal during a regular PMC meeting and present the details of the proposed SIG. The PMC will review and approve the establishment of the SIG, including the creation of relevant SIG repositories and communication channels.
+   *   A meeting summary will be created, including the PMC's approval comments.
 
-## Graduation of SIG Incubation Projects
-1. If your SIG incubation project meets graduation requirements, you can apply for incorporating its code into the master code of OpenHarmony.
-2. The SIG leader sends a graduation application for the incubation project to dev@openharmony.io.
-3. After the PMC approves the graduation application, you can incorporate the code of the incubation project into the master code of OpenHarmony.
+### 4. Creating the SIG Group
 
-### How SIG Data Is Stored and Managed
-SIG data is stored in the **sig** directory of the **OpenHarmony/community** repository. The **sig_***xxx***.md**/**sig_***xxx***_cn.md** file is a template that contains the objectives and work scope of this SIG, repositories managed by the SIG and their descriptions, and SIG meetings and members. A backup of the maintainer/committer information of the SIG is stored in the **OWNER** file and can be automatically obtained by a tool. The names and directory structures of the repositories managed by each SIG are stored in the **sigs.json** file.
-1. The **sigs.json** file in the **sig** directory of the **OpenHarmony/community** repository is used to manage all the SIGs visible to the PMC.
-2. The PMC modifies and maintains SIGs. Maintainers submit PRs for modifying SIGs, and the PMC reviews the PRs and incorporates the modifications into the master code of OpenHarmony.
-3. The **sig_***xxx***.md**/**sig_***xxx***_cn.md** file in the **sig** directory stores SIG data. In this file, the basic SIG information is empty and needs to be specified during SIG creation.
-4. The **OWNER** file in the **sig** directory stores information about the maintainer of the SIG.
+   *   After receiving the PMC's feedback and confirmation of the approved SIG proposal, the SIG initiator should proceed as follows:
+   *   Follow the [creation process](../zh/sig_governance.md) to create the SIG group.
 
+B. SIG Operation
+-----------------
 
-###  sigs.json File
-| Field | Description |
-|:---|:---|
-|  sig_name | SIG name |
-|  projects| Gitee repository name |
-|  project-path | Archive path of the OpenHarmony project. Enter **NONE** if the code of the SIG does not need to be incorporated into the master code of OpenHarmony. |
+### (A) SIG RepositAories and Communication Channels
 
-### sigs.json Sample
-```
-"sigs-List":[
-      {
-         "sig_name":"sig_python",
-         "projects":"https://gitee.com/openharmony-sig/python",
-         "project-path":"python/"
-      },
-      {
-         "sig_name":"sig_updates",
-         "projects":["https://gitee.com/openharmony/startup_appspawn_lite", "https://gitee.com/openharmony/startup_bootstrap_lite"],
-         "project-path":["base/startup/appspawn_lite", "base/startup/bootstrap_lite"]
-      },
-   ]
-}
-```
+1.  SIGs should utilize the unified infrastructure provided by the OpenHarmony community for work and communication, including Gitee repositories and mailing lists.
+2.  For the process of repository creation, renaming, or exiting, please refer to the [operational process](../zh/sig_governance.md).
+3.  The person responsible for the SIG mailing list can contact **[xzmu@openatom.org](mailto:xzmu@openatom.org)** to create the mailing list:
+    *   Provide detailed information on the mailing list name and the administrator's email address (usually the SIG leader).
+    *   Once the mailing list is successfully created:
+4.  The SIG leader should ensure the effective operation of SIG repositories and communication channels, promptly responding to members' questions and feedback.
+    
+
+### (B) SIG Meetings
+
+1.  SIGs should hold regular meetings to facilitate communication and collaboration among members. Meetings can be conducted online or offline, depending on the geographical locations and feasibility for participants.
+2.  The meeting convener should notify the members in advance of the meeting time, location (if offline), and agenda. Notifications can be sent through mailing lists, community forums, or other appropriate communication channels.
+3.  The meeting agenda should include progress reports, discussions on important topics, decision-making, and other relevant discussions. Meeting minutes should capture the key points, discussion outcomes, and decisions made during the meeting, and should be shared with SIG members in a timely manner.
+
+### (C) SIG Management
+
+1.  The SIG leader is responsible for ensuring the normal operation and management of the SIG, as well as maintaining communication and coordination with the PMC.
+2.  The SIG leader has the authority to determine the work direction, task assignments, and membership of the SIG.
+3.  The SIG leader should regularly report the progress and achievements of the SIG to the PMC and the community members.
+4.  The SIG leader can organize working groups or task groups as needed to coordinate the work of the members and advance the goals of the SIG.
+5.  If necessary, the SIG leader can submit requests for changes or termination of the SIG to the PMC, providing sufficient reasons and explanations.
+
+C. SIG Modification and Termination
+------------------------------------
+
+1.  SIG modification includes changes in SIG leadership, adjustments in the work direction, and reassignment of tasks. The SIG leader should promptly inform the PMC and SIG members, and the changes should be determined through consultation and discussion.
+2.  If there is a need to terminate a SIG, the SIG leader should submit a termination request to the PMC, along with sufficient reasons and explanations. The PMC will assess and decide on the termination of the SIG based on the circumstances.
