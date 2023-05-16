@@ -28,7 +28,7 @@
 |位置服务|提供GNSS、网络定位、地理编码转换等位置服务框架能力。|base_location|
 |DHCP服务|提供集中地管理、分配IP地址，使网络环境中的主机动态的获得IP地址、Gateway地址、DNS服务器地址等信息，同时提升地址的使用率。|communication_dhcp|
 |WPA|提供WiFi和P2P相关认证协议功能，包含WPA和HostAPD两个主要部分。|third_party_wpa_supplicant|
-|NewIP|NewIP在现有IP能力的基础上，以灵活轻量级报头和可变长多语义地址为基础，通过二三层协议融合，对协议去冗和压缩，减少冗余字节，实现高能效比，高净吞吐，提升通信效率。打造终端之间高效的横向通信，支撑超级终端的体验，实现异构网络的端到端互联。|kernel_common_modules_newip|
+|NewIP|NewIP在现有IP能力的基础上，以灵活轻量级报头和可变长多语义地址为基础，通过二三层协议融合，对协议去冗和压缩，减少冗余字节，实现高能效比，高净吞吐，提升通信效率。打造终端之间高效的横向通信，支撑超级终端的体验，实现异构网络的端到端互联。|kernel_common_modules_newip (按照架构SIG裁决结论已转移到下面新的代码仓)<br>kernel_linux_common_modules 代码仓内newip目录|
 
 - project name:
   - communication_dsoftbus: https://gitee.com/openharmony/communication_dsoftbus
@@ -41,7 +41,7 @@
   - communication_wifi_lite: https://gitee.com/openharmony/communication_wifi_lite
   - communication_wifi_aware: https://gitee.com/openharmony/communication_wifi_aware
   - communication_dhcp: https://gitee.com/openharmony/communication_dhcp
-  - kernel_common_modules_newip: https://gitee.com/openharmony/kernel_common_modules_newip
+  - kernel_linux_common_modules: https://gitee.com/openharmony/kernel_linux_common_modules/tree/master/newip
   - base_location：https://gitee.com/openharmony/base_location
   - telephony_call_manager: https://gitee.com/openharmony/telephony_call_manager
   - telephony_cellular_call: https://gitee.com/openharmony/telephony_cellular_call
