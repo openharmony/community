@@ -1,5 +1,5 @@
 # SIG管理章程
-简体中文 | [English](./README-EN.md)
+简体中文 | [English](./README_EN.md)
 
 # OpenHarmony社区SIG管理制度
 本文档主要介绍OpenHarmony社区SIG（Special Interest Group）的管理制度，包括申请新SIG和SIG的运营、变更及终止。
