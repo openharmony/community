@@ -4,7 +4,7 @@ English | [简体中文](./sig_openblock_cn.md)
 
  
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
  
 
@@ -54,21 +54,6 @@ Actively cooperate with schools, teachers and education providers
 
  
 
-### The repository
-
-- project name:
-
-  - openblock: https://gitee.com/openharmony-sig/openblock
-    This repository is used to store code and documentation related to the integration of the OpenBlock core library with OpenHarmony.
-
-  - openblock-blocks: https://gitee.com/openharmony-sig/openblock_blocks
-  This repository is used to store the blocks and the corresponding code that is integrated with OpenHarmony. To support more devices and OpenHarmony specific functionality.
-
- 
-
- 
-
- 
 
 ## SIG Members
 
@@ -78,9 +63,7 @@ Actively cooperate with schools, teachers and education providers
 
 - [duzc2](https://gitee.com/duzc2)
 
- 
-
-### Committers列表
+ ### Committers列表
 
 - [aaronchan_cx](https://gitee.com/aaronchan_cx)
 
@@ -91,11 +74,10 @@ Actively cooperate with schools, teachers and education providers
  - Meeting time: BiWeek Monday 10:00
  - Meeting application: [sig_OpenBloack application](https://shimo.im/sheets/vfghbtkSIvo49soA)
  - meeting link:Tencent meeting or other meeting
- - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_openblock.openharmony.io) mailing list for the 
+ - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list for the 
  - Meeting Summary:To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/openblock/meetings)
 
 ### Contact (optional)
 
-- Mailing list: [sig_openblock@openharmony.io](https://lists.openatom.io/postorius/lists/sig_openblock.openharmony.io/)
-- Zulip group: https://zulip.openharmony.cn
+- Mailing list: dev@openharmony.io
 - Wechat group: xxx

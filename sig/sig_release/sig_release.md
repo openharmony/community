@@ -16,11 +16,6 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 2. Community version release schedule.
 3. Community version release process and life cycle strategy description.
 
-
-### The repository 
-- project name:
-  -release-management: https://gitee.com/openharmony/release-management
-
 ## SIG Members
 
 ### Leader
@@ -39,5 +34,4 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### Contact (optional)
 
 - Mailing list：dev@openharmony.io
-- Zulip group: https://zulip.openharmony.cn
 - Wechat group：HRS2030

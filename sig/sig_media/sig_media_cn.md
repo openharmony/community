@@ -1,7 +1,7 @@
 # sig_Media
 简体中文 | [English](./sig_media.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -11,30 +11,6 @@ OpenHarmony 媒体管理。
 ### 工作范围
 媒体相关的设计和提交评审。
 
-## 代码仓
-- 代码仓地址：
-  - multimedia_player_framework:https://gitee.com/openharmony/multimedia_player_framework
-  - multimedia_audio_framework:https://gitee.com/openharmony/multimedia_audio_framework
-  - multimedia_camera_framework:https://gitee.com/openharmony/multimedia_camera_framework
-  - multimedia_media_library:https://gitee.com/openharmony/multimedia_media_library
-  - multimedia_image_framework:https://gitee.com/openharmony/multimedia_image_framework
-  - multimedia_av_session:https://gitee.com/openharmony/multimedia_av_session
-  - multimedia_histreamer:https://gitee.com/openharmony/multimedia_histreamer
-  - multimedia_media_lite:https://gitee.com/openharmony/multimedia_media_lite
-  - multimedia_audio_lite:https://gitee.com/openharmony/multimedia_audio_lite
-  - multimedia_camera_lite:https://gitee.com/openharmony/multimedia_camera_lite
-  - multimedia_utils_lite:https://gitee.com/openharmony/multimedia_utils_lite
-  - third_party_gstreamer:https://gitee.com/openharmony/third_party_gstreamer
-  - third_party_glib:https://gitee.com/openharmony/third_party_glib
-  - third_party_libffi:https://gitee.com/openharmony/third_party_libffi
-  - third_party_libsnd:https://gitee.com/openharmony/third_party_libsnd
-  - third_party_pulseaudio:https://gitee.com/openharmony/third_party_pulseaudio
-  - third_party_ffmpeg:https://gitee.com/openharmony/third_party_ffmpeg
-  - third_party_libsoup:https://gitee.com/openharmony/third_party_libsoup
-  - third_party_libpsl:https://gitee.com/openharmony/third_party_libpsl
-  - third_party_gettext:https://gitee.com/openharmony/third_party_gettext
-  - third_party_openh264:https://gitee.com/openharmony/third_party_openh264
-  - third_party_opensles:https://gitee.com/openharmony/third_party_opensles
 
 ## SIG组成员
 
@@ -57,5 +33,4 @@ OpenHarmony 媒体管理。
 - dumingliang@huawei.com
 
 - 邮件列表：dev@openharmony.io
-- Zulip群组：https://zulip.openharmony.cn
 - 微信群：SIG-Media

@@ -2,7 +2,7 @@
 
 English | [简体中文](./sig_iot_sensing_network_cn.md)
 
-Note: The content of this SIG follows the conventions described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the conventions described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work goals and scope
 
@@ -35,10 +35,6 @@ SIG construction focuses on the following sub-directions to build Openharmony ne
 
 * Based on the understanding of industry solutions, build the industrial influence of the IoT scene in the OH industry, and build the OH brand. Realize the mutual promotion of OH and projects.
 
-## code warehouse
-
-* Code warehouse address:
-  - to be determined
 
 ## SIG group members
 
@@ -64,5 +60,4 @@ SIG construction focuses on the following sub-directions to build Openharmony ne
   ### Contact information (optional)
 
   - Mailing list: [dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io/)
-  - Zulip group: https://zulip.openharmony.cn
   - WeChat group:  NA

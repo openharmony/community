@@ -1,7 +1,7 @@
 # SIG_SystemApplication
 English | [简体中文](./sig_systemapplications_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -15,32 +15,6 @@ Defines and builds OpenHarmony system applications, applies for and implements i
 4. Communicate and cooperate with developers to continuously improve system application features.
 5. Organize the clarification of community-related questions and provide timely answers.
 
-### The repository
-- project name:
-  - applications_systemui：https://gitee.com/openharmony/applications_systemui
-  - applications_settings: https://gitee.com/openharmony/applications_settings
-  - applications_launcher: https://gitee.com/openharmony/applications_launcher
-  - system_applications: https://gitee.com/openharmony-sig/system_applications
-  - applications_photos: https://gitee.com/openharmony/applications_photos
-  - applications_camera: https://gitee.com/openharmony/applications_camera
-  - applications_contacts: https://gitee.com/openharmony/applications_contacts
-  - applications_mms: https://gitee.com/openharmony/applications_mms
-  - applications_call: https://gitee.com/openharmony/applications_call
-  - applications_screenshot: https://gitee.com/openharmony-sig/applications_screenshot
-  - applications_screenlock: https://gitee.com/openharmony-sig/applications_screenlock
-  - applications_admin_provisioning: https://gitee.com/openharmony-sig/applications_admin_provisioning
-  - applications_theme: https://gitee.com/openharmony-sig/applications_theme
-  - applications_settingsdata: https://gitee.com/openharmony-sig/applications_settings_data
-  - applications_contacts_data: https://gitee.com/openharmony/applications_contacts_data
-  - applications_notes: https://gitee.com/openharmony-sig/applications_notes
-  - applications_app_samples: https://gitee.com/openharmony/applications_app_samples
-  - applications_permission_manager: https://gitee.com/openharmony/applications_permission_manager
-  - applications_filemanager: https://gitee.com/openharmony-sig/applications_filemanager
-  - applications_inputmethod: https://gitee.com/openharmony-sig/applications_inputmethod
-  - applications_clock: https://gitee.com/openharmony-sig/applications_clock
-  - applications_recorder: https://gitee.com/openharmony-sig/applications_recorder
-  - applications_compass: https://gitee.com/openharmony-sig/applications_compass
-  - applications_share_dialog: https://gitee.com/openharmony-sig/applications_share_dialog
 
 ## SIG Members
 
@@ -73,6 +47,5 @@ Defines and builds OpenHarmony system applications, applies for and implements i
 - Meeting link：Notify the participants of the topic in the graphite document by email (be sure to leave the email address when declaring the topic)
 
 ### Contact
-- Mailing list：sig_systemapplication.openharmony.io [Subscribe](https://lists.openatom.io/postorius/lists/sig_systemapplication.openharmony.io/)
-- Zulip channel：[Systemapplication](https://zulip.openharmony.cn/#narrow/stream/1-general/topic/Systemapplication)
-- Wechat group：Leave a message on zulip Systemapplication channel about your wechat and the reason for joining. After passing the review, we will invite you to enter oh systemapplication sig wechat group
+- Mailing list：dev@openharmony.io
+- Wechat group：OH-SystemApplication-SIG

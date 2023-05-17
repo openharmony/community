@@ -16,10 +16,6 @@ Based on the OpenHarmony, to port OpenCV and adapt modules that are not applicab
 Architecture：
 ![figures/sig_opencv_arch_en.png](figures/sig_opencv_arch_en.png)
 
-### The Repository 
-- repository :
-    - openCV: https://gitee.com/openharmony-sig/third_party_opencv
-
 ## SIG Members
 
 ### Leader
@@ -36,7 +32,6 @@ Architecture：
  - Meeting Minutes:https: //gitee.com/openharmony-sig/sig-content/tree/master/opencv
 
 ### Contact (optional)
-- Mailing list: xxx
-- Zulip group: https://zulip.openharmony.cn
-- Wechat group: xxx
+- Mailing list: dev@openharmony.io
+- Wechat group: 
 

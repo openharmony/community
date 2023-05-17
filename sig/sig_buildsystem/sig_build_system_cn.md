@@ -15,17 +15,6 @@
 - 积极有效参与开源社区代码检视与点评、共享编程经验、与开源社区开发者交流、传递编译构建相关技能、有效辅导开源社区开发者更方便使用编译构建系统
 - 结合评审和开发活动、给与代码质量反馈与指导、促进开源社区代码质量提升
 
-## 代码仓
-- 代码仓地址：
-  - build: https://gitee.com/openharmony/build
-  - build_lite: https://gitee.com/openharmony/build_lite
-  - productdefine_common: https://gitee.com/openharmony/productdefine_common
-  - third_party_gn: https://gitee.com/openharmony/third_party_gn
-  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
-  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
-  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
-  - third_party_python: https://gitee.com/openharmony/third_party_python
-
 ## SIG组成员
 
 ### Leader
@@ -51,5 +40,4 @@
 ### 联系方式
 
 - 邮件列表：dev@openharmony.io
-- Zulip群组：https://zulip.openharmony.cn
 - 微信群：NA

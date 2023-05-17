@@ -1,7 +1,7 @@
 # SIG_SoftBus
 简体中文 | [English](./sig_bluetooth.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -47,6 +47,5 @@
 
 ### 联系方式(可选)
 
-- 邮件列表：
-- Zulip群组：https://zulip.openharmony.cn
+- 邮件列表：dev@openharmony.io
 - 微信群：

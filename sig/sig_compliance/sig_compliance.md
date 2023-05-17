@@ -1,7 +1,7 @@
 # sig_compliance
 English | [简体中文](./sig_compliance_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 ## Overview
 With the rapid development of the OpenHarmony community, more and more patches are submitted by developers, more and more third-party open source software is introduced into the community, Meanwhile, OpenHarmony Compliance risks are increasing. As we all know, The community has introduced and developed [Open Source Compliance Audit Tool OAT](https://gitee.com/openharmony-sig/tools_oat), sensitive word scanning tools, open source code fragment scanning, and 7-cai tools to solve the basic compliance problems. However, there is still a lot of work to be confirmed by the team. As the size of the community increases, this will pose a huge challenge to the compliance of the community. Therefore, we hope to setup the sig_Compliance . With the SIG, we will strengthen multi-party connectionst, embrace the best practices in open source, and establish a mechanism and engineering system for open source compliance governance, including standards/norms, processes , tools, organization. The SIG will provide open source compliance governance solutions or services to organizations and individuals participating in the community.
 ## SIG group work objectives and scope
@@ -36,11 +36,6 @@ This group **does not** includes
 - Final interpretation of community open source compliance and legal issues
 - Final desicion of community open source compliance governance standards and process
 
-### The repository 
-- project name:
-  - OAT ：https://gitee.com/openharmony-sig/tools_oat
-
-
 ## SIG Members
 
 ### Leader
@@ -68,6 +63,4 @@ This group **does not** includes
 ### Contact (optional)
 
 - Mailing list：dev@openharmony.io
-- Zulip group：https://zulip.openharmony.cn
-- Wechat group：NA
-- Mailing list tag:[compliance]
+- Wechat group：NA- Mailing list tag:[compliance]

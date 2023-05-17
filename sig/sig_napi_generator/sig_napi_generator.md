@@ -1,7 +1,7 @@
 # SIG_Napi_Generator
 English | [简体中文](./sig_napi_generator_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -12,11 +12,6 @@ Based on the openharmony standard system, some NAPI framework code generation to
 1. Provide NAPI framework code generation tools for developers and IDE platforms of mainstream operating systems
 2. Provide usage examples
 3. Provide continuous improvement and optimization
-
-### The repository 
-- repository :
-
-    - napi_generator: https://gitee.com/openharmony/napi_generator
 
 ## SIG Members
 
@@ -40,5 +35,4 @@ Based on the openharmony standard system, some NAPI framework code generation to
 ### Contact (optional)
 
 - Mailing list：dev@openharmony.io
-- Zulip group：https://zulip.openharmony.cn subscript to sig_napi_generator stream
 

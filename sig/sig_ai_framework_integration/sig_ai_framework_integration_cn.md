@@ -14,11 +14,6 @@
 3. 提供持续的速度和内存优化方案
 4. 提供持续的模型转换的支持
 
-## 代码仓
-- 代码仓地址：
-
-    - ai_framework_integration: https://gitee.com/openharmony-sig/ai_framework_integration
-
 ## SIG组成员
 
 ### Leader
@@ -38,6 +33,4 @@
 
 ### 联系方式(可选)
 
-- 邮件列表：[sig-ai_framework_integration@openharmony.io]()
-- Zulip群组：https://zulip.openharmony.cn 订阅 sig_ai_framework_integration 频道
-
+- 邮件列表：sig-ai_framework_integration@openharmony.io

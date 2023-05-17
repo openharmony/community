@@ -1,7 +1,7 @@
 # sig_SoftBus
 简体中文 | [English](./sig_softbus.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -30,33 +30,6 @@
 |WPA|提供WiFi和P2P相关认证协议功能，包含WPA和HostAPD两个主要部分。|third_party_wpa_supplicant|
 |NewIP|NewIP在现有IP能力的基础上，以灵活轻量级报头和可变长多语义地址为基础，通过二三层协议融合，对协议去冗和压缩，减少冗余字节，实现高能效比，高净吞吐，提升通信效率。打造终端之间高效的横向通信，支撑超级终端的体验，实现异构网络的端到端互联。|kernel_common_modules_newip (按照架构SIG裁决结论已转移到下面新的代码仓)<br>kernel_linux_common_modules 代码仓内newip目录|
 
-- project name:
-  - communication_dsoftbus: https://gitee.com/openharmony/communication_dsoftbus
-  - communication_ipc: https://gitee.com/openharmony/communication_ipc
-  - communication_ipc_lite: https://gitee.com/openharmony/communication_ipc_lite
-  - communication_bluetooth: https://gitee.com/openharmony/communication_bluetooth
-  - communication_nfc: https://gitee.com/openharmony/communication_nfc
-  - communication_connected_nfc_tag: https://gitee.com/openharmony/communication_connected_nfc_tag
-  - communication_wifi: https://gitee.com/openharmony/communication_wifi
-  - communication_wifi_lite: https://gitee.com/openharmony/communication_wifi_lite
-  - communication_wifi_aware: https://gitee.com/openharmony/communication_wifi_aware
-  - communication_dhcp: https://gitee.com/openharmony/communication_dhcp
-  - kernel_linux_common_modules: https://gitee.com/openharmony/kernel_linux_common_modules/tree/master/newip
-  - base_location：https://gitee.com/openharmony/base_location
-  - telephony_call_manager: https://gitee.com/openharmony/telephony_call_manager
-  - telephony_cellular_call: https://gitee.com/openharmony/telephony_cellular_call
-  - telephony_core_service: https://gitee.com/openharmony/telephony_core_service
-  - telephony_sms_mms: https://gitee.com/openharmony/telephony_sms_mms
-  - telephony_state_registry: https://gitee.com/openharmony/telephony_state_registry
-  - applications_camera_sample_communication: https://gitee.com/openharmony/applications_camera_sample_communication
-  - applications_sample_wifi_iot: https://gitee.com/openharmony/applications_sample_wifi_iot
-  - iothardware_peripheral: https://gitee.com/openharmony/iothardware_peripheral
-  - iot_link: https://gitee.com/openharmony/iot_link
-  - third_party_lwip: https://gitee.com/openharmony/third_party_lwip
-  - third_party_nfc-nci：https://gitee.com/openharmony-sig/third_party_nfc-nci
-  - third_party_wpa_supplicant: https://gitee.com/openharmony/third_party_wpa_supplicant
-  - third_party_libcoap: https://gitee.com/openharmony/third_party_libcoap
-
 ## SIG组成员
 
 ### Leader
@@ -82,8 +55,8 @@
  - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_dsoftbus.openharmony.io) 邮件列表 sig_dsoftbus@openharmony.io 获取会议链接
  - 会议纪要：查看往期会议纪要，请点此[会议纪要](https://gitee.com/openharmony-sig/sig-content/blob/master/softbus/meetings)
 
+
 ### 联系方式(可选)
-| 地址                                 | 简介        | 用途说明                                                         |
-| ---------------------------------------|---------- | ------------------------------------------------------------ |
-| dev@openharmony.io  <img width=120/>| 开发邮件列表 <img width=100/> | OpenHarmony社区开发讨论邮件列表，任何社区开发相关话题都可以在邮件列表讨论。任何开发者可[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)。<img width=200/>|
-| sig_dsoftbus@openharmony.io  <img width=120/>| sig_Softbus邮件列表 <img width=100/> | OpenHarmony社区sig_Softbus开发讨论邮件列表，任何软总线开发相关话题都可以在邮件列表讨论。任何开发者可[订阅](https://lists.openatom.io/postorius/lists/sig_dsoftbus.openharmony.io/)。<img width=200/>|
+
+- 邮件列表：sig_dsoftbus@openharmony.io
+- 微信：

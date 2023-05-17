@@ -4,7 +4,7 @@
 
 > **NOTE**
 >
-> The content of this special interest group (SIG) follows the conventions described in OpenHarmony's [PMC Management Charter](/zh/pmc.md).
+> The content of this special interest group (SIG) follows the conventions described in OpenHarmony's [PMC Management Charter](../../zh/pmc.md).
 
 ## Objectives and Scope
 
@@ -85,12 +85,6 @@ Device driver technology stack
 | Pin_auth HDI (**drivers_interface_pin_auth**)            | Provides capabilities for Personal Identification Number (PIN) enrolling and deletion, as well as anti-brute force cracking, functioning as an executor to connect to the unified authentication framework based on the mode defined in the resource pool.                                    | drivers/interface/pin_auth           |
 | Fingerprint_auth HDI (**drivers_interface_fingerprint_auth**)   | Provides capabilities for fingerprint enrolling, deletion, and identification or recognition.                                                               | drivers/interface/fingerprint_auth   |
 
-- **Code repository addresses**:
-  - drivers_hdf_core: https://gitee.com/openharmony/drivers_hdf_core
-  - drivers_peripheral: https://gitee.com/openharmony/drivers_peripheral
-  - drivers_interface: https://gitee.com/openharmony/drivers_interface
-  - third_party_libnl: https://gitee.com/openharmony/third_party_libnl
-  - third_party_openmax: https://gitee.com/openharmony/third_party_openmax
 
 ## SIG Members
 
@@ -113,11 +107,10 @@ Device driver technology stack
   - Meeting time: bi-weekly meeting, at 16:00 Wednesday
   - Meeting application: [sig_Driver meetings](https://shimo.im/sheets/36GKhpvrXd8TcQHY)
   - Meeting link: Tencent or other meetings
-  - Meeting notice: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_driver.openharmony.io/) the email address to obtain the meeting link.
+  - Meeting notice: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_driver@openharmony.io/) the email address to obtain the meeting link.
   - Meeting minutes: Click [here](https://gitee.com/openharmony-sig/sig-content/tree/master/driver/meetings) to view previous meeting minutes.
 
 ### (Optional) Contact
 
-- Email list: [sig_driver@openharmony.io](https://lists.openatom.io/postorius/lists/sig_driver.openharmony.io/)
-- Zulip group: https://zulip.openharmony.cn
+- Email list: [sig_driver@openharmony.io](https://lists.openatom.io/postorius/lists/sig_driver@openharmony.io/)
 - WeChat group: xxx

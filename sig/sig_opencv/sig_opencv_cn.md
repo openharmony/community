@@ -1,7 +1,7 @@
 # sig_opencv
 简体中文 | [English](./sig_opencv.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -15,10 +15,6 @@
 
 工作范围全景图如下所示：
 ![figures/sig_opencv_arch.png](figures/sig_opencv_arch.png)
-
-## 代码仓
-- 代码仓地址：
-    - openCV: https://gitee.com/openharmony-sig/third_party_opencv
 
 ## SIG组成员
 
@@ -36,7 +32,6 @@
  - 会议纪要：https://gitee.com/openharmony-sig/sig-content/tree/master/opencv
 
 ### 联系方式(可选)
-- 邮件列表：xxx
-- Zulip群组：https://zulip.openharmony.cn
+- 邮件列表：dev@openharmony.io
 - 微信群：xxx
 

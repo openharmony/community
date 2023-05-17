@@ -1,7 +1,7 @@
 ﻿# sig_linkboy
 简体中文 | [English](./sig_linkboy.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -23,12 +23,6 @@
 
 linkboy软件下载: www.linkboy.cc
 
-linkboy-SIG仓库(gitee):
-
-|No|                类别                 |                                    路径                                          |
-|--|-------------------------------------|----------------------------------------------------------------------------------|
-|1 |linkboy-SIG代码仓                    |[https://gitee.com/openharmony-sig/linkboy](https://gitee.com/openharmony-sig/linkboy)|
-|2 |linkboy SIG 历次会议纪要             |[https://gitee.com/openharmony-sig/sig-content/tree/master/linkboy/meetings](https://gitee.com/openharmony-sig/sig-content/tree/master/linkboy/meetings)|
 
 #### 视频案例(b站):
 
@@ -108,17 +102,9 @@ lite_component("app") {
  - 会议时间：双周例会，周五 20:00
  - 会议申报：[sig_linkboy会议申报](https://shimo.im/sheets/sX5pBO7PwFkEsR1D)
  - 会议链接：腾讯会议或其他会议
- - 会议通知：请[订阅](https://lists.openatom.io/postorius/lists/sig_linkboy.openharmony.io)邮件列表获取会议链接
+ - 会议通知：请[订阅](https://lists.openatom.io/postorius/lists/dev@openharmony.io)邮件列表获取会议链接
  - 会议纪要：查看往期会议纪要，请点此[链接](https://gitee.com/openharmony-sig/sig-content/tree/master/linkboy/meetings)
 
 ### 联系方式
-- 邮件列表：[sig_linkboy@openharmony.io](https://lists.openatom.io/postorius/lists/sig_linkboy.openharmony.io/)
-- Zulip群组：https://zulip.openharmony.cn
+- 邮件列表：[dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev@openharmony.io/)
 - 微信群：请添加linkboy SIG负责人微信拉入群 (13693200752)
-- linkboy公众号: 
-
-
-![](comm/gzh.jpg)
-
-
-

@@ -1,7 +1,7 @@
 # SIG_MiniBlink
 简体中文 | [English](./sig_miniblink.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -22,9 +22,6 @@
 6. 编辑相关书籍，目前市面上一本关于blink的书都没有，计划写两本，一本完全针对内核，一本针对如何优化js写给前端开发者
 
 
-## 代码仓
-- 代码仓地址：
-
 ## SIG组成员
 
 ### Leader
@@ -42,11 +39,10 @@
  - 会议时间：双周例会，周一晚上19:15，UTC+8
  - 会议申报：
  - 会议链接: Welink或其他会议
- - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/)邮件列表 [sig_miniblink@openharmony.io](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/) 获取会议链接
+ - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/)邮件列表 [dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io/) 获取会议链接
  - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/miniblink/meetings)
 
 ### 联系方式(可选)
 
-- 邮件列表：[sig_miniblink@openharmony.io](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/)
-- Zulip群组：https://zulip.openharmony.cn
+- 邮件列表：[dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev@openharmony.io/)
 - 微信群：

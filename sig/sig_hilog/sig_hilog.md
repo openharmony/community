@@ -1,7 +1,7 @@
 # sig_HILOG
 English | [简体中文](./sig_hilog_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 - To solve the problems such as lack of functionality, low performance and high resource consumption existing in the current log system, we establish this sig to design a new log system HiLog for OpenHarmony. HiLog stores and manages various types of logs, including kernel logs, system logs and third-party logs. It provides rich and convenient log access functions for system developers and application developers. At the same time, HiLog has good performance in log reliability, interface delay and resource overhead. This SIG is a sub SIG of [SIG_BasicSoftwareService](https://gitee.com/openharmony/community/tree/master/sig/sig_basicsoftwareservice).
@@ -27,11 +27,6 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - Output technical documents.
 
 ### work scope
-
-### The repository 
-- project name:
-  - hiviewdfx_hilog：https://gitee.com/openharmony/hiviewdfx_hilog
-  - hilogtest：https://gitee.com/openharmony/xts_acts/tree/master/hiviewdfx/hilogtest/libhilogtest
 
 
 ## SIG Members
@@ -61,5 +56,4 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### Contact (optional)
 
 - Mailing list：dev@openharmony.io
-- Zulip group：https://zulip.openharmony.cn/#narrow/stream/47-hilog_sig
 - Wechat group：xxx

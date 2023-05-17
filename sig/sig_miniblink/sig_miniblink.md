@@ -1,7 +1,7 @@
 # SIG_MiniBlink
 English | [简体中文](./sig_miniblink_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -27,10 +27,6 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 6. Edit relevant books. At present, there is no book about blink on the market. It is planned to write two books, one for the kernel and one for front-end developers on how to optimize JS
 
-### The repository
-- project name:
-  - 
-
 
 ## SIG Members
 
@@ -46,12 +42,11 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - Meeting time：Bi-weekly meeting, Monday 19:15 pm, UTC+8
 - Meeting application: 
 - Meeting link: Welink Meeting or Others
-- Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/) mailing list [dev@openharmony.io](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/) for the meeting link
+- Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/) mailing list [dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io/) for the meeting link
 - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content/tree/master/miniblink/meetings)
 
 ### Contact (optional)
 
-- Mailing list：[sig_miniblink@openharmony.io](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/)
-- Zulip group: https://zulip.openharmony.cn
+- Mailing list：[dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io/)
 - Wechat group：
 

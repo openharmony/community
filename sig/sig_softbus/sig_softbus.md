@@ -1,7 +1,7 @@
 # sig_SoftBus
 English | [简体中文](./sig_softbus_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -74,8 +74,7 @@ Continuously contributes to the softbus of the OpenHarmony community, implements
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_dsoftbus.openharmony.io) mailing list sig_dsoftbus@openharmony.io for the meeting link
  - Meeting Summary:To view the minutes of past meetings, please click this [Meeting minutes](https://gitee.com/openharmony-sig/sig-content/blob/master/softbus/meetings)
 
-### Contact
-| Address                                 | Introduction | Usage Description                                                  |
-| ---------------------------------------|---------- | ------------------------------------------------------------ |
-| dev@openharmony.io  <img width=120/>| Mailing list <img width=100/> | OpenHarmony community development discussion mailing list, any community development related topics can be discussed in the mailing list. Any developer can [subscribe](https://lists.openatom.io/postorius/lists/dev.openharmony.io)。<img width=200/>|
-| sig_dsoftbus@openharmony.io  <img width=120/>| sig_Softbus Mailing list <img width=100/> | OpenHarmony community sig_Softbus development discussion mailing list, any Softbus related topics can be discussed in the mailing list. Any developer can [subscribe](https://lists.openatom.io/postorius/lists/sig_dsoftbus.openharmony.io/)。<img width=200/>|
+
+### Contact (optional)
+- Mailing list：sig_dsoftbus@openharmony.io
+- Wechat group：NA

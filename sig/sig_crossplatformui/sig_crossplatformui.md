@@ -5,7 +5,7 @@ sig_crossplatformui
 English | [简体中文](./sig_crossplatformui_cn.md)
 
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -30,11 +30,6 @@ Develop and encapsulate cross-platform component libraries and API libraries.
 Including the development of OpenHarmony compatible UI library and various ecological tools library, etc.
 
 Actively cooperate with communities, universities and relevant customers.
-
-### The repository 
-- project name:
-  - [https://gitee.com/o2team/Taro](https://gitee.com/o2team/Taro)
-
 
 ## SIG Members
 

@@ -1,7 +1,7 @@
 # sig_Industrial_Internet
 简体中文 | [English](./sig_industrial_internet.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -25,13 +25,6 @@
 
 * 协同生态伙伴共同捐助带**工业属性的专属操作系统、工业物联网使能云平台、定义南北向设备接入标准和开发标准**。
 
-## 代码仓
-* 代码仓地址：
-  - 工业物联网平台：https://gitee.com/openharmony-tpc/talkweb_iiot
-  - 边缘计算平台：https://gitee.com/openharmony-tpc/talkweb_edge
-  - MQTT：https://gitee.com/openharmony-tpc/talkweb_mqtt
-  - 鸿蒙设备开发SDK：https://gitee.com/openharmony-tpc/talkweb_link_sdk
-  - 数据中台：https://gitee.com/openharmony-tpc/shineweng-datasphere
 
 ## SIG组成员
 
@@ -55,6 +48,5 @@
 
 ### 联系方式(可选)
 
-- 邮件列表：[sig_industry_network@openharmony.io](https://lists.openatom.io/postorius/lists/sig_industry_network.openharmony.io/)
-- Zulip群组：https://zulip.openharmony.cn
+- 邮件列表：dev@openharmony.io
 - 微信群：xxx

@@ -1,7 +1,7 @@
 # SIG_SoftBus 
 English | [简体中文](./sig_bluetooth_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -30,9 +30,6 @@ Create sample projects of equipment manufacturers or chip manufacturers for refe
 
 Actively negotiate and cooperate with equipment manufacturers and chip manufacturers
 
-### The repository 
-- project name:
-  - bluetooth_lite：https://gitee.com/openharmony/communication_bluetooth
 
 ## SIG Members
 
@@ -50,6 +47,5 @@ Actively negotiate and cooperate with equipment manufacturers and chip manufactu
 
 ### Contact (optional)
 
-- Mailing list：
-- Zulip group: https://zulip.openharmony.cn
+- Mailing list：dev@openharmony.io
 - Wechat group：

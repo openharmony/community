@@ -52,11 +52,10 @@ Actively cooperate with developers, universities and community developers to pro
  - Meeting time：BiWeek Friday 17:00
  - Meeting application: None
  - Meeting link：Tencent meeting or other meeting
- - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_infrastructure.openharmony.io) mailing list for the meeting link
+ - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev@openharmony.io) mailing list for the meeting link
  - Meeting Summary: To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/infrastructure/meetings)
 
 ### Contact (optional)
 
-- Mailing list：[sig_infrastructure@openharmony.io](https://lists.openatom.io/postorius/lists/sig_infrastructure.openharmony.io/)
-- Zulip group: https://zulip.openharmony.cn
+- Mailing list：dev@openharmony.io
 - Wechat group：xxx

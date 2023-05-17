@@ -1,7 +1,7 @@
 # SIG组
 简体中文 | [English](./sig_distributedhardwaremgr.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -43,35 +43,6 @@
 |地理围栏|提供地理围栏能力，暂未实现。|msdp_geofence|
 |时间线|提供时间线能力，暂未实现。|msdp_timeline|
 
-## 代码仓
-- 代码仓地址：
-  - sensors_miscdevice_lite: https://gitee.com/openharmony/sensors_miscdevice_lite
-  - sensors_sensor_lite: https://gitee.com/openharmony/sensors_sensor_lite
-  - sensors_miscdevice: https://gitee.com/openharmony/sensors_miscdevice
-  - sensors_sensor: https://gitee.com/openharmony/sensors_sensor
-  - sensors_medical_sensor: https://gitee.com/openharmony/sensors_medical_sensor
-  - sensors_start: https://gitee.com/openharmony/sensors_start
-  - usb_usb_manager: https://gitee.com/openharmony/usb_usb_manager
-  - powermgr_powermgr_lite: https://gitee.com/openharmony/powermgr_powermgr_lite
-  - powermgr_battery_manager: https://gitee.com/openharmony/powermgr_battery_manager
-  - powermgr_display_manager: https://gitee.com/openharmony/powermgr_display_manager
-  - powermgr_power_manager: https://gitee.com/openharmony/powermgr_power_manager
-  - powermgr_battery_lite: https://gitee.com/openharmony/powermgr_battery_lite
-  - powermgr_battery_statistics: https://gitee.com/openharmony/powermgr_battery_statistics
-  - powermgr_thermal_manager: https://gitee.com/openharmony/powermgr_thermal_manager
-  - distributedhardware_device_manager: https://gitee.com/openharmony/distributedhardware_device_manager
-  - distributedhardware_distributed_hardware_fwk: https://gitee.com/openharmony/distributedhardware_distributed_hardware_fwk
-  - distributedhardware_distributed_input: https://gitee.com/openharmony/distributedhardware_distributed_input
-  - distributedhardware_distributed_camera: https://gitee.com/openharmony/distributedhardware_distributed_camera
-  - distributedhardware_distributed_screen: https://gitee.com/openharmony/distributedhardware_distributed_screen
-  - distributedhardware_distributed_audio: https://gitee.com/openharmony/distributedhardware_distributed_audio
-  - msdp_start: https://gitee.com/openharmony-sig/msdp_start
-  - msdp_motion: https://gitee.com/openharmony-sig/msdp_motion
-  - msdp_movement: https://gitee.com/openharmony-sig/msdp_movement
-  - msdp_device_status: https://gitee.com/openharmony-sig/msdp_device_status
-  - msdp_spatial_awareness: https://gitee.com/openharmony-sig/msdp_spatial_awareness
-  - msdp_geofence: https://gitee.com/openharmony-sig/msdp_geofence
-  - msdp_timeline: https://gitee.com/openharmony-sig/msdp_timeline
 
 ## SIG组成员
 
@@ -91,5 +62,4 @@
 
 ### 联系方式(可选)
 - 邮件列表：dev@openharmony.io;
-- Zulip群组：https://zulip.openharmony.cn
 - 微信群：NA

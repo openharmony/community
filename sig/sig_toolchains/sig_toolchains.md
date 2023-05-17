@@ -1,6 +1,6 @@
 # sig_ToolChains
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -33,13 +33,6 @@ The Tools and Toolchain SIG looks into the following questions (more will be add
 Once decisions are made, the SIG builds and maintains the tools and toolchains used in OpenHarmony and the SDK (tools, library headers, etc. and optional IDE(s) as separate modules).
 
 The toolchain is provided in binary form and in source form with a simple build script that includes all configurations etc. used for the official build.
-
-### The repository 
-- project name:
-  - Tools & Toolchains: https://gitee.com/openharmony-sig/sig_tools-toolchains
-  - developtools_hdc: https://gitee.com/openharmony/developtools_hdc
-  - developtools_hiperf: https://gitee.com/openharmony/developtools_hiperf
-  - developtools_syscap_codec: https://gitee.com/openharmony/developtools_syscap_codec
 
 ## SIG Members
 

@@ -1,7 +1,7 @@
 # SIG_COMPILERUNTIME
 简体中文 | [English](./sig_compile-runtime.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -45,34 +45,6 @@
 |轻量级系统工具库|轻量级系统所使用的工具函数库|commonlibrary_utils_lite|
 |内存工具库|内存使用和分析相关工具库|utils_memory|
 
-- 代码仓地址:
-  - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
-  - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
-  - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
-  - arkcompiler_toolchain: https://gitee.com/openharmony/arkcompiler_toolchain
-
-  - third_party_jerryscript: https://gitee.com/openharmony/third_party_jerryscript
-  - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
-
-  - third_party_llvm-project: https://gitee.com/openharmony/third_party_llvm-project
-  - third_party_lldb-mi: https://gitee.com/openharmony/third_party_lldb-mi
-  - third_party_mingw-w64: https://gitee.com/openharmony/third_party_mingw-w64
-  - third_party_musl: https://gitee.com/openharmony/third_party_musl
-  - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
-
-  - commonlibrary_ets_utils: https://gitee.com/openharmony/commonlibrary_ets_utils
-  - commonlibrary_c_utils: https://gitee.com/openharmony/commonlibrary_c_utils
-  - commonlibrary_utils_lite: https://gitee.com/openharmony/commonlibrary_utils_lite
-  - utils_memory: https://gitee.com/openharmony/utils_memory
-
-- 孵化仓地址:
-  - arkcompiler_runtime_core: https://gitee.com/openharmony-sig/arkcompiler_runtime_core
-  - arkcompiler_ets_runtime: https://gitee.com/openharmony-sig/arkcompiler_ets_runtime
-  - arkcompiler_ets_frontend: https://gitee.com/openharmony-sig/arkcompiler_ets_frontend
-  - third_party_vixl: https://gitee.com/openharmony-sig/third-party-vixl
-  - third_party_elfio: https://gitee.com/openharmony-sig/third_party_elfio
-  - third_party_mimalloc: https://gitee.com/openharmony-sig/third_party_mimalloc
-
 ## SIG组成员
 
 ### Leader
@@ -103,5 +75,4 @@
 ### 联系方式
 
 - 邮件列表：compiler@openharmony.io
-- Zulip群组：https://zulip.openharmony.cn (compileRuntime_sig stream)
 - 微信群：NA

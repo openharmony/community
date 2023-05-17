@@ -13,11 +13,6 @@ Opengfxdriver SIG aims to support open source graphics driver on OpenHarmony. We
 2) Achieve good performance and conformance compared to closed driver
 3) Achieve commerical level gfx driver for product to replace closed driver
 
-### The repository 
-- project name:
-  - Opengfxdriver-sig：https://gitee.com/openharmony-sig/opengfxdriver
-  - Opengfxdriver：https://gitee.com/openharmony/opengfxdriver
-
 ## SIG Members
 
 ### Leader
@@ -52,5 +47,4 @@ Opengfxdriver SIG aims to support open source graphics driver on OpenHarmony. We
  - leo@hiharmonica.com
 
 - Mailing list：dev@openharmony.io
-- Zulip group：https://zulip.openharmony.cn
 - Wechat group：SIG-OpenGfxDrv

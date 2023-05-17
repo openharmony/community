@@ -29,19 +29,6 @@ AI原子能力/服务接口分为能力和服务接口，能力接口是对AI模
 
 ![figures/ai_framework_arch.png](figures/ai_framework_arch.png)
 
-## 代码仓
-|             部件名称             |       部件功能描述       |                                   部件仓名称                                   |
-| :------------------------------: | :----------------------: | :----------------------------------------------------------------------------: |
-| 昇思推理框架<br>(MindSpore) | 提供模型转换和推理的功能 | third_party_mindspore,<br>third_party_flatbuffers|
-| 神经网络运行时<br>(Neural Network Runtime) | AI专用芯片推理功能 | ai_neural_network_runtime |
-- 代码仓地址:
-  - MindSpore: https://gitee.com/openharmony/third_party_mindspore
-  - DLLite-micro: https://gitee.com/openharmony-sig/dllite_micro
-  - FlatBuffers: https://gitee.com/openharmony/third_party_flatbuffers
-  - OpenCL-Headers: https://gitee.com/openharmony/third_party_opencl-headers
-  - OpenCL-CLHPP: https://gitee.com/openharmony-sig/third_party_opencl-clhpp
-  - Neural Network Runtime: https://gitee.com/openharmony/ai_neural_network_runtime
-
 ## SIG组成员
 
 ### Leader
@@ -66,5 +53,4 @@ AI原子能力/服务接口分为能力和服务接口，能力接口是对AI模
 ### 联系方式(可选)
 
 - 邮件列表：xxx
-- Zulip群组：https://zulip.openharmony.cn
 - 微信群：xxx

@@ -1,7 +1,7 @@
 # sig_Graphics
 English | [简体中文](./sig_graphics_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -10,27 +10,6 @@ Manage OpenHarmony Graphics
 
 ### work scope
 OpenHarmony Graphics and windowmanager related design and review.
-
-## The repository 
-- project name:
-  - graphic_graphic_2d:https://gitee.com/openharmony/graphic_graphic_2d
-  - graphic_surface:https://gitee.com/openharmony/graphic_surface
-  - graphic_ui:https://gitee.com/openharmony/graphic_ui
-  - graphic_utils:https://gitee.com/openharmony/graphic_utils
-  - graphic_wms:https://gitee.com/openharmony/graphic_wms
-  - third_party_weston:https://gitee.com/openharmony/third_party_weston
-  - third_party_wayland-ivi-extension:https://gitee.com/openharmony/third_party_wayland-ivi-extension
-  - third_party_wayland-protocols_standard:https://gitee.com/openharmony/third_party_wayland-protocols_standard
-  - third_party_wayland_standard:https://gitee.com/openharmony/third_party_wayland_standard
-  - third_party_libdrm:https://gitee.com/openharmony/third_party_libdrm
-  - third_party_pixman:https://gitee.com/openharmony/third_party_pixman
-  - third_party_egl:https://gitee.com/openharmony/third_party_egl
-  - third_party_opengles:https://gitee.com/openharmony/third_party_opengles
-  - third_party_skia:https://gitee.com/openharmony/third_party_skia
-  - windowmanager:https://gitee.com/openharmony/windowmanager
-  - third_party_libexif:https://gitee.com/openharmony-sig/third_party_libexif
-  - third_party_libjpeg-turbo:https://gitee.com/openharmony/third_party_libjpeg-turbo
-  - third_party_vulkan-loader:https://gitee.com/openharmony/third_party_vulkan-loader
 
 ## SIG Members
 
@@ -55,5 +34,4 @@ OpenHarmony Graphics and windowmanager related design and review.
 - cuikun1@huawei.com
 
 - Mailing list：dev@openharmony.io
-- Zulip group: https://zulip.openharmony.cn
 - Wechat group：SIG-Graphics

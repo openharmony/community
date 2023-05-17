@@ -15,10 +15,6 @@ Develop OpenHarmony architecture design principles, OpenHarmony architecture def
 - [OpenSource selection analysis template](meetings/OpenHarmony_thirdparty_opensource_software_selection_analysis_templateV1.0.pptx)
 
 
-## The repository 
-
-- NONE
-
 ## SIG Members
 
 ### Leader
@@ -39,5 +35,4 @@ Develop OpenHarmony architecture design principles, OpenHarmony architecture def
 ### Contact (optional)
 
 - Mailing list：dev@openharmony.io
-- Zulip group: https://zulip.openharmony.cn
 - Wechat group：NA

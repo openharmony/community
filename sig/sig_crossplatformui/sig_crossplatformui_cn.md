@@ -4,7 +4,7 @@
 
 简体中文 | [English](./sig_crossplatformui.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md) 中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md) 中描述的约定。
 
 
 ## SIG组工作目标和范围
@@ -28,10 +28,6 @@ CrossPlatformUI SIG 致力于降低 OpenHarmony UI 层的上手成本和开发�
 包括开发适配 OpenHarmony 的 UI 库和各类生态工具库等。
 
 积极与社区、高校和相关客户展开合作。
-
-## 代码仓
-- 代码仓地址：
-  - [https://gitee.com/o2team/Taro](https://gitee.com/o2team/Taro)
 
 ## SIG组成员
 

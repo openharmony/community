@@ -2,7 +2,7 @@
 
 简体中文 | [English](./sig_ide.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -18,13 +18,6 @@
   + 1) 特性共建：社区开发者贡献插件方案讨论、集成；IDE的功能模块共建；IDE的底座共建
   + 2) 资源共建：工程垂类模板、开发样例集成等
 + 运营运维阶段：IDE的指导文档、样例、FAQs以及issues答复
-
-## 代码仓
-
-+ 代码仓地址：
-  + <https://gitee.com/openharmony-sig/napi_plugin>
-  + <https://gitee.com/openharmony-sig/hcs_config_plugin>
-  + <https://gitee.com/openharmony/tools_previewer>
 
 ## SIG组成员
 
@@ -63,6 +56,5 @@
 
 ### 联系方式(可选)
 
-+ 邮件列表：sig_ide@openharmony.io
-+ Zulip群组：待定
++ 邮件列表：dev.openharmony.io
 + 微信群：待定

@@ -22,12 +22,6 @@ Collecting, prioritizing and reviewing the feature requirements
 + O&M phase:
 IDE documents, samples, FAQs and  issues reply
 
-## The repository
-
-+ project name:
-  + <https://gitee.com/openharmony-sig/napi_plugin>
-  + <https://gitee.com/openharmony-sig/hcs_config_plugin>
-  + <https://gitee.com/openharmony/tools_previewer>
 
 ## SIG Members
 
@@ -67,5 +61,4 @@ IDE documents, samples, FAQs and  issues reply
 ### Contact(optional)
 
 + Mailing list: sig_ide@openharmony.io
-+ Zulip group: <https://zulip.openharmony.cn>
 + WeChat group: NA

@@ -1,7 +1,7 @@
 # sig_qa
 English | [简体中文](./sig_qa_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -10,9 +10,6 @@ Support the trustworthiness of OpenHarmony community development through related
 ### work scope
 Organize the stipulation of community development processes and the review on approving community incubation projects.
 Review the operation of each sig in community development and operations, identify problems, and drive relevant teams to make improvements.
-### The repository 
-- 
-
 
 ## SIG Members
 
@@ -38,6 +35,5 @@ Review the operation of each sig in community development and operations, identi
 
 ### Contact (optional)
 
-- Mailing list：xw.hua@huawei.com
-- Zulip group: https://zulip.openharmony.cn
+- Mailing list：dev@openharmony.io
 - Wechat group：NA

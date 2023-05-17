@@ -1,7 +1,7 @@
 # sig_SecureElement
 English | [简体中文](./sig_secure_element_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -12,11 +12,6 @@ Secure Element (SE) is a secure chip that is by design protected from unauthoriz
 - Provide standard advanced security services deployed in secure chips, such as password authentication, key management, secure storage, and anti-rollback services.
 - Build the OpenHarmony secure chip ecosystem alliance, support technical communication among secure chip vendors, and jointly develop secure chip specifications.
 - Provide a unified secure chip management framework and is responsible for secure chip architecture maintenance, technical solution review, and ecosystem cooperation.
-
-### The repository(To be applied)
-- project name:
-  - se_base_services: https://gitee.com/openharmony/tee_se_base_services
-  - se_transport_manager: https://gitee.com/openharmony-sig/tee_se_transport_manager
 
 
 ## SIG Members
@@ -59,10 +54,3 @@ Secure Element (SE) is a secure chip that is by design protected from unauthoriz
  - Meeting notification: [Subscribe to] (https://lists.openatom.io/postorius/lists/sig-secure_element.openharmony.io) mailing list sig-secure_element@openharmony.io for the meeting link
  - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
 
-### Contact (optional)
-
-| Address                                 | Introduction | Usage Description                                                  |
-| ---------------------------------------|---------- | ------------------------------------------------------------ |
-| dev@openharmony.io  <img width=120/>| Mailing list <img width=100/> | OpenHarmony community development discussion mailing list, any community development related topics can be discussed in the mailing list. Any developer can [subscribe](https://lists.openatom.io/postorius/lists/dev.openharmony.io)。<img width=200/>|
-| sig-secure_element@openharmony.io  <img width=120/>| Sig-SecureElement Mailing list <img width=100/> | OpenHarmony community SIG-SecureElement discussion mailing list, any technical topics and implementation related to the secure chip management framework can be discussed in the mailing list. Any developer can [subscribe](https://lists.openatom.io/postorius/lists/sig-secure_element.openharmony.io/)。<img width=200/>|
-| zulip platform  <img width=120/>| Sig-SecureElement zulip platform <img width=100/> | OpenHarmony community SIG-SecureElement discussion platform, any technical topics and implementation related to the secure chip management framework can be discussed in the platform. Any developer can [follow](https://zulip.openharmony.cn/#narrow/stream/60-secure_element_sig/)。<img width=200/>|

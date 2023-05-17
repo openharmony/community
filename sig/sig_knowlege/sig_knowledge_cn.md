@@ -2,7 +2,7 @@
 
 简体中文 | [English](./sig_knowledge.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -17,12 +17,6 @@
 
 - 场景化Demo拓展，针对现有的场景化Demo，提出相关的演进课题，让开发者参与其中打造自己的OpenHarmony 设备与应用
 
-## 代码仓
-- 代码仓地址：
-  - https://gitee.com/openharmony-sig/knowledge
-  - https://gitee.com/openharmony-sig/knowledge_demo_smart_home
-  - https://gitee.com/openharmony-sig/knowledge_demo_temp
-  - https://gitee.com/openharmony-sig/online_event
 
 ## SIG组成员
 
@@ -49,6 +43,5 @@
 ### 联系方式(可选)
 
 - 邮件列表：sig-knowledge@openharmony.io
-- Zulip群组：https://zulip.openharmony.cn   订阅 sig-knowledge频道
 - 微信群：
 

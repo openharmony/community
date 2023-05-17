@@ -1,7 +1,7 @@
 # SIG_EduDataSpecification
 English | [简体中文](./sig_edu_data_specification_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -25,10 +25,7 @@ Innovate Oh education application scenarios and build demonstration benchmark pr
 
 **Donate abilities**
 
-Work with ecological partners to donate Oh education application ecological components.
-
-### The repository
-- none
+Work with ecological partners to donate OpenHarmony education application ecological components.
 
 
 ## SIG Members

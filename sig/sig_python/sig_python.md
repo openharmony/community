@@ -4,7 +4,7 @@ English | [简体中文](./sig_python_cn.md)
 
  
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
  
 
@@ -51,11 +51,10 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
  - Meeting time：BiWeek Friday 14:00
  - Meeting application: [sig_python Meeting application](https://shimo.im/sheets/WlArz7M5a1Cr1KA2/)
  - Meeting link：Tencent meeting or other meeting
- - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_python.openharmony.io) mailing list for the meeting link
+ - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list for the meeting link
  - Meeting Summary: To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/python/meetings)
 
 ### Contact (optional)
 
-- Mailing list：[sig_python@openharmony.io](https://lists.openatom.io/postorius/lists/sig_python.openharmony.io/)
-- Zulip group：https://zulip.openharmony.cn
+- Mailing list：dev@openharmony.io
 - Wechat group：xxx

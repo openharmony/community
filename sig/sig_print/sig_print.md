@@ -1,7 +1,7 @@
 # sig_Print
 English | [简体中文](./sig_print_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -14,10 +14,6 @@ Print SIG aims to develop print function for OpenHarmony, expand and improve the
 3) Providing a printable application demo
 4) Negotiate and cooperate with printer manufacturers, promoting the process of OpenHarmony's southbound interface standardization 
 
-### The repository 
-- project name:
-  - print-sig：https://gitee.com/openharmony-sig/print
-  - print：https://gitee.com/openharmony/print
 
 ## SIG Members
 
@@ -34,7 +30,7 @@ Print SIG aims to develop print function for OpenHarmony, expand and improve the
  - Meeting time：BiWeek Friday 9:30-10:30
  - Meeting application: https://etherpad.openharmony.cn/p/sig_print
  - Meeting link: Welink Meeting or Others
- - Meeting notification: [Subscribe to] (https://lists.openatom.io/hyperkitty/list/sig-print@openharmony.io/) mailing list dev@openharmony.io for the meeting link
+ - Meeting notification: [Subscribe to] (https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/) mailing list dev@openharmony.io for the meeting link
  - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content/tree/master/print/meetings)
 
 ### Contact (optional)
@@ -42,5 +38,4 @@ Print SIG aims to develop print function for OpenHarmony, expand and improve the
  - stur.guan@urovo.com
 
 - Mailing list：dev@openharmony.io
-- Zulip group：https://zulip.openharmony.cn
 - Wechat group：SIG-Print

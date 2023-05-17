@@ -1,7 +1,7 @@
  # SIG_Kernel
  简体中文 | [English](./sig_kernel.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -25,13 +25,6 @@
 |FatFs|适用于LiteOS上的EMMC等介质的文件系统|third_party_FatFs|
 |cmsis|LiteOS-M支持的CMSIS标准接口|third_party_cmsis|
 
-- 代码仓地址：
-  - kernel_liteos_a名称：https://gitee.com/openharmony/kernel_liteos_a
-  - kernel_liteos_m名称：https://gitee.com/openharmony/kernel_liteos_m
-  - third_party_littlefs名称：https://gitee.com/openharmony/third_party_littlefs
-  - device_qemu名称：https://gitee.com/openharmony/device_qemu
-  - third_party_FatFs名称：https://gitee.com/openharmony/third_party_FatFs
-  - third_party_cmsis名称：https://gitee.com/openharmony/third_party_cmsis
 
 ## Linux及其他代码仓
 |部件名称|部件功能描述|部件仓名称|
@@ -49,35 +42,6 @@
 |文件系统拍包工具|用于生成指定文件系统格式的拍包工具|third_party_f2fs-tools<br>third_party_ntfs-3g<br>third_party_fsck_msdos<br>third_party_newfs_msdos<br>third_party_exfat-utils<br>third_party_exfatprogs<br>third_party_e2fsprogs|
 |native内存分配器|用于替换musl默认内存分配器|third_party_mimalloc|
 
-- 代码仓地址：
-  - filemanagement_file_api名称：https://gitee.com/openharmony/filemanagement_file_api
-  - frame_aware_sched名称：https://gitee.com/openharmony/frame_aware_sched
-  - resourceschedule_memmgr名称：https://gitee.com/openharmony/resourceschedule_memmgr
-  - filemanagement_dfs_service名称：https://gitee.com/openharmony/filemanagement_dfs_service
-  - filemanagement_user_file_service名称：https://gitee.com/openharmony/filemanagement_user_file_service
-  - filemanagement_app_file_service名称：https://gitee.com/openharmony/filemanagement_app_file_service
-  - filemanagement_storage_service名称：https://gitee.com/openharmony/filemanagement_storage_service
-  - ComonLibary_memory名称：https://gitee.com/openharmony/ComonLibary_memory
-  - kernel_linux_build名称：https://gitee.com/openharmony/kernel_linux_config
-  - kernel_linux_build名称：https://gitee.com/openharmony/kernel_linux_build
-  - kernel_linux_5.10名称：https://gitee.com/openharmony/kernel_linux_5.10
-  - third_party_gptfdisk名称：https://gitee.com/openharmony/third_party_gptfdisk
-  - filemanagement_fs_tools名称：https://gitee.com/openharmony-sig/filemanagement_fs_tools
-  - third_party_f2fs-tools名称：https://gitee.com/openharmony/third_party_f2fs-tools
-  - third_party_ntfs-3g名称：https://gitee.com/openharmony/third_party_ntfs-3g
-  - third_party_fsck_msdos名称：https://gitee.com/openharmony/third_party_fsck_msdos
-  - third_party_newfs_msdos名称：https://gitee.com/openharmony/third_party_newfs_msdos
-  - third_party_exfat-utils名称：https://gitee.com/openharmony/third_party_exfat-utils
-  - third_party_exfatprogs名称：https://gitee.com/openharmony/third_party_exfatprogs
-  - third_party_e2fsprogs名称：https://gitee.com/openharmony/third_party_e2fsprogs
-  - third_party_mimalloc名称: https://gitee.com/openharmony/third_party_mimalloc
-  - resourceschedule-ffrt-core名称:https://gitee.com/openharmony-sig/resourceschedule_ffrt_core
-  - resourceschedule-ffrt-sched名称:https://gitee.com/openharmony-sig/resourceschedule_ffrt_sched
-  - kernel_uniproton名称：https://gitee.com/openharmony/kernel_uniproton
-  - vendor_alientek名称：https://gitee.com/openharmony/vendor_alientek
-  - third_party_libfuse名称: https://gitee.com/openharmony/third_party_libfuse
-  - kernel_common_modules名称：https://gitee.com/openharmony-sig/kernel_common_modules
-  - kernel_linux_common_modules名称：https://gitee.com/openharmony/kernel_linux_common_modules
 
 ## SIG组成员
 
@@ -105,4 +69,3 @@
 ### 联系方式(可选)
 
 - 邮件列表：kernel@openharmony.io
-- Zulip群组：https://zulip.openharmony.cn

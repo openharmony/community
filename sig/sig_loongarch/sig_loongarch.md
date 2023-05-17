@@ -2,7 +2,7 @@
 
 English | [简体中文](./sig_loongarch_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md)
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md)
 
 ## SIG group work objectives and scope
 
@@ -26,9 +26,6 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - Realize the support of LongArch architecture for Arkruntime and other services, and open up the north-oriented application framework.
 - Support Arkruntime's adaptation to Godson command set.
 
-## The repository
-- project name：
-  - LoongArch：https://gitee.com/openharmony-sig/device_soc_loongson
 
 ## SIG Members
 
@@ -49,5 +46,4 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### Contact (optional)
 
 - Mailing list：[dev.openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io)
-- Zulip group：NA
 - Wechat group：NA

@@ -39,12 +39,6 @@
 - 社区合规及法务问题的最终解释权
 - 社区合规治理标准规范的最终审核权
 
-
-## 代码仓
-- 代码仓地址：
-  - SIG-Compliance ：https://gitee.com/openharmony/compliance
-  - OAT开源审查工具 ：https://gitee.com/openharmony-sig/tools_oat
-
 ## SIG组成员
 
 ### Leader
@@ -75,8 +69,6 @@
 ## 联系方式(可选)
 
 - 邮件列表：dev@openharmony.io
-- 邮件列表tag [compliance]
-- Zulip群组：https://zulip.openharmony.cn
 - 微信群：NA
 
 ## 加入我们（Join Us）

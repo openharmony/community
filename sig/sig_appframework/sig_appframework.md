@@ -47,54 +47,6 @@ OpenHarmony ApplicationFramework technology stack scope is shown in the followin
 | Framework Aware Scheduler          | In order to ensure the cpu scheduling supply, it updates the process scheduling groups and adjust the kernel schedule parameters to influence the kernel scheduling behavior according to the information of the application frame drawing and the application life cycle status. | frame_aware_sched                             |
 
 
-
-- project name:
-  - ability_ability_lite:https://gitee.com/openharmony/ability_ability_lite
-  - ability_ability_runtime:https://gitee.com/openharmony/ability_ability_runtime
-  - ability_ability_base:https://gitee.com/openharmony/ability_ability_base
-  - ability_dmsfwk:https://gitee.com/openharmony/ability_dmsfwk
-  - ability_dmsfwk_lite:https://gitee.com/openharmony/ability_dmsfwk_lite
-  - ability_form_fwk:https://gitee.com/openharmony/ability_form_fwk
-  - ability_idl_tool:https://gitee.com/openharmony/ability_idl_tool
-  - security_appverify:https://gitee.com/openharmony/security_appverify
-  - notification_common_event_service:https://gitee.com/openharmony/notification_common_event_service
-  - resourceschedule_resource_schedule_service:https://gitee.com/openharmony/resourceschedule_resource_schedule_service
-  - frame_aware_sched:https://gitee.com/openharmony/frame_aware_sched
-  - resourceschedule_memmgr:https://gitee.com/openharmony/resourceschedule_memmgr
-  - systemabilitymgr_samgr:https://gitee.com/openharmony/systemabilitymgr_samgr
-  - systemabilitymgr_samgr_lite:https://gitee.com/openharmony/systemabilitymgr_samgr_lite
-  - resourceschedule_work_scheduler:https://gitee.com/openharmony/resourceschedule_work_scheduler
-  - resourceschedule_device_usage_statistics:https://gitee.com/openharmony/resourceschedule_device_usage_statistics
-  - resourceschedule_background_task_mgr:https://gitee.com/openharmony/resourceschedule_background_task_mgr
-  - notification_distributed_notification_service:https://gitee.com/openharmony/notification_distributed_notification_service
-  - notification_eventhandler:https://gitee.com/openharmony/notification_eventhandler
-  - systemabilitymgr_safwk:https://gitee.com/openharmony/systemabilitymgr_safwk
-  - systemabilitymgr_safwk_lite:https://gitee.com/openharmony/systemabilitymgr_safwk_lite
-  - developtools_packing_tool:https://gitee.com/openharmony/developtools_packing_tool
-  - bundlemanager_bundle_framework:https://gitee.com/openharmony/bundlemanager_bundle_framework
-  - bundlemanager_bundle_tool:https://gitee.com/openharmony/bundlemanager_bundle_tool
-  - bundlemanager_distributed_bundle_framework:https://gitee.com/openharmony/bundlemanager_distributed_bundle_framework
-  - bundlemanager_bundle_framework_lite:https://gitee.com/openharmony/bundlemanager_bundle_framework_lite
-  - developtools_ace_js2bundle:https://gitee.com/openharmony/developtools_ace_js2bundle
-  - developtools_ace_ets2bundle:https://gitee.com/openharmony/developtools_ace_ets2bundle
-  - third_party_weex-loader:https://gitee.com/openharmony/third_party_weex-loader
-  - third_party_parse5:https://gitee.com/openharmony/third_party_parse5
-  - third_party_glfw:https://gitee.com/openharmony/third_party_glfw
-  - global_resource_tool:"https://gitee.com/openharmony/global_resource_tool"
-  - third_party_chromium:https://gitee.com/openharmony/third_party_chromium
-  - third_party_cef:https://gitee.com/openharmony/third_party_cef
-  - web_webview:https://gitee.com/openharmony/web_webview
-  - arkui_ace_engine_lite:https://gitee.com/openharmony/arkui_ace_engine_lite
-  - arkui_napi:https://gitee.com/openharmony/arkui_napi
-  - arkui_ace_engine:https://gitee.com/openharmony/arkui_ace_engine
-  - global_resource_management:https://gitee.com/openharmony/global_resource_management
-  - global_resource_management_lite:https://gitee.com/openharmony/global_resource_management_lite
-  - utils_system_resources:https://gitee.com/openharmony/utils_system_resources
-  - global_i18n:https://gitee.com/openharmony/global_i18n
-  - global_i18n_lite:https://gitee.com/openharmony/global_i18n_lite
-  - developtools_global_resource_tool:https://gitee.com/openharmony/developtools_global_resource_tool
-  - third_party_fastjson:https://gitee.com/openharmony-sig/third_party_fastjson
-
 ## SIG Members
 
 ### Leader
@@ -118,5 +70,4 @@ OpenHarmony ApplicationFramework technology stack scope is shown in the followin
 ### Contact (optional)
 
 - Mailing list: dev@openharmony.io
-- Zulip group: https://zulip.openharmony.cn
 - Wechat group：NA

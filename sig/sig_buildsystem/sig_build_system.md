@@ -15,16 +15,6 @@
 - Handle requirements, issues and mailing lists, and ensure that the closure period meets the SLA requirements of the OpenHarmony community.
 - Provide feedback and guidance on code quality based on review and development activities to improve code quality in the OpenHarmony community.
 
-### The repository
-- project name:
-  - build: https://gitee.com/openharmony/build
-  - build_lite: https://gitee.com/openharmony/build_lite
-  - productdefine_common: https://gitee.com/openharmony/productdefine_common
-  - third_party_gn: https://gitee.com/openharmony/third_party_gn
-  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
-  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
-  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
-  - third_party_python: https://gitee.com/openharmony/third_party_python
 
 ## SIG Members
 
@@ -51,5 +41,4 @@
  ### Contact
 
  - Mailing list: dev@openharmony.io
- - Zulip group: https://zulip.openharmony.cn
  - Wechat group: NA

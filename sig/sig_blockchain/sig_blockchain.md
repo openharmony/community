@@ -1,7 +1,7 @@
 # SIG_BlockChain
 English | [简体中文](./sig_blockchain_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](https://gitee.com/openharmony/community/blob/master/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -29,17 +29,6 @@ The group would actively seek cooperation with IoT device manufactures to promot
 ### Leader
 - [shangxuan_hz](https://gitee.com/shangxuan_hz)
 
-### Committers
-- [haisong2](https://gitee.com/haisong2)
-- [Lee](https://gitee.com/www.lee.com)
-- [platformdepartment](https://gitee.com/platformdepartment)
-- [lingfengbao](https://gitee.com/lingfengbao)
-- [max_mars](https://gitee.com/max_mars)
-- [jiafeicheng](https://gitee.com/15335180944)
-- [xkwang1228](https://gitee.com/xkwang1228)
-- [jerryma0912](https://gitee.com/jerryma0912)
-- [painterq](https://gitee.com/painterq)
-
 
 ### Meetings
  - Meeting time：BiWeek Tuesday 16:00
@@ -47,6 +36,5 @@ The group would actively seek cooperation with IoT device manufactures to promot
 
 ### Contact (optional)
 
-- Mailing list：
-- zulip group：https://zulip.openharmony.cn
+- Mailing list：dev@openharmony.io
 - Wechat group：

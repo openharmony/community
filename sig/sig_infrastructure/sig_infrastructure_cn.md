@@ -23,13 +23,6 @@ SIG组将不断的吸引开发者为 CICD 门禁不断完善、更新、升级�
 * 生态扩展
 积极与开发者、高校和社区开发者协作，推动OpenHarmony基础设施建设的进程
 
-## 代码仓
-
-- 代码仓地址：
-  - website: https://gitee.com/openharmony-sig/website
-  - CICD: https://gitee.com/openharmony-sig/cicd
-  - Archive: https://gitee.com/openharmony-sig/archive
-  - developtools_integration_verification: https://gitee.com/openharmony/developtools_integration_verification
 
 ## SIG组成员
 
@@ -54,11 +47,9 @@ SIG组将不断的吸引开发者为 CICD 门禁不断完善、更新、升级�
  - 会议时间：双周例会，周五 17:00
  - 会议申报：无
  - 会议链接：腾讯会议或其他会议
- - 会议通知：请[订阅](https://lists.openatom.io/postorius/lists/sig_infrastructure.openharmony.io)邮件列表获取会议链接
+ - 会议通知：请[订阅](https://lists.openatom.io/postorius/lists/dev@openharmony.io)邮件列表获取会议链接
  - 会议纪要：查看往期会议纪要，请点此[链接](https://gitee.com/openharmony-sig/sig-content/tree/master/Infrastructure/meetings)
 
 ### 联系方式(可选)
 
-- 邮件列表：[sig_infrastructure@openharmony.io](https://lists.openatom.io/postorius/lists/sig_infrastructure.openharmony.io/)
-- Zulip群组：https://zulip.openharmony.cn
-- 微信群：xxx
+- 邮件列表：dev@openharmony.io
