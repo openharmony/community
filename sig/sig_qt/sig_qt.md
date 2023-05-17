@@ -1,7 +1,7 @@
 # sig_Qt
 English | [简体中文](./sig_qt_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG Group Work Objectives And Scope
 
@@ -25,9 +25,6 @@ The contributions of the Qt Framework Porting and Adaptation Plan are as follows
 - March 2023~June 2023: Qt examples and Demos porting adaptation verification; Qt unit test porting adaptation verification; Qt Creator Hongmeng application template development
 - From June 2023 to December 2023: Based on the Qt API to package the OpenHarmony system feature library, and introduce system features such as the OpenHarmony soft bus; Qt Creator OpenHarmony application deployment and development; Qt Creator Hongmeng simulator development
 
-### The Repository 
-- project name:
-  - Qt Source Code: https://gitee.com/openharmony-sig/qt
 
 
 ## SIG Members

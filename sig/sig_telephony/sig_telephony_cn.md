@@ -1,7 +1,7 @@
 # sig_Telephony
 简体中文 | [English](./sig_telephony.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -34,20 +34,6 @@
 |网络管理扩展|提供网络管理扩展能力，包括：以太网连接、网络共享、VPN、加密DNS、mDNS。|communication_netmanager_ext|
 |电话核心服务|提供基础网络协议栈JS API能力，包括：HTTP/HTTPS、TCP/UDP/TLS Socket、WebSocket、LocalSocket。|communication_netstack|
 
-- 代码仓地址：
-  - 通话管理：https://gitee.com/openharmony/telephony_call_manager
-  - 电话状态：https://gitee.com/openharmony/telephony_state_registry
-  - 蜂窝通话：https://gitee.com/openharmony/telephony_cellular_call
-  - 蜂窝数据：https://gitee.com/openharmony/telephony_cellular_data
-  - 短彩信：https://gitee.com/openharmony/telephony_sms_mms
-  - 电话数据存储：https://gitee.com/openharmony/telephony_telephony_data
-  - 联系人数据存储：https://gitee.com/openharmony/applications_contacts
-  - 电话核心服务：https://gitee.com/openharmony/telephony_core_service
-  - RIL适配：https://gitee.com/openharmony/telephony_ril_adapter
-  - 网络管理基础仓：https://gitee.com/openharmony/communication_netmanager_base
-  - 网络管理扩展仓：https://gitee.com/openharmony/communication_netmanager_ext
-  - 网络协议栈：https://gitee.com/openharmony/communication_netstack
-
 
 ## SIG组成员
 
@@ -72,5 +58,4 @@
 ### 联系方式(可选)
 
 - 邮件列表：dev@openharmony.io
-- Slack群组：https://zulip.openharmony.cn/
 - 微信群：NA

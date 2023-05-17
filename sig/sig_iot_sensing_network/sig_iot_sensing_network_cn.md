@@ -1,7 +1,7 @@
 # sig_IOT_Sensing_Network
 简体中文 | [English](./sig_iot_sensing_network.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -32,9 +32,6 @@ SIG建设围绕以下子方向，建设Openharmony网络栈能力：
 
 * 基于行业解决方案理解，构筑OH行业物联场景的产业影响力，打造OH品牌。实现OH和项目的互相推进。
 
-## 代码仓
-* 代码仓地址：
-  - 待定
 
 ## SIG组成员
 
@@ -57,6 +54,5 @@ SIG建设围绕以下子方向，建设Openharmony网络栈能力：
 ### 联系方式(可选)
 
 - 邮件列表：[dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io/)
-- Zulip群组：https://zulip.openharmony.cn
 - 微信群：暂无
 

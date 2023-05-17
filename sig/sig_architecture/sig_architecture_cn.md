@@ -12,8 +12,6 @@
 - 负责OpenHarmony架构（包括子系统/部件/代码仓的增加，合并，拆分和删除）相关的设计评审，《架构设计原则》和《OpenHarmony 系统架构》修订。
 - [新增三方开源软件选项评估模板](meetings/OpenHarmony_thirdparty_opensource_software_selection_analysis_templateV1.0.pptx)
 
-## 代码仓
-- 无
 
 ## SIG组成员
 
@@ -35,5 +33,4 @@
 ### 联系方式(可选)
 
 - 邮件列表：dev@openharmony.io
-- Zulip群组：https://zulip.openharmony.cn
 - 微信群：NA

@@ -1,7 +1,7 @@
 # sig_HILOG
 简体中文 | [English](./sig_hilog.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -26,11 +26,6 @@
 - 实现兼容性：日志系统对轻量系统、小型系统和标准系统同构
 - 实现高性能/精简/可靠：接口时延、资源占用以及日志丢失率低于同类系统
 - 输出相应的技术文档
-
-## 代码仓
-- 代码仓地址：
-  - hiviewdfx_hilog：https://gitee.com/openharmony/hiviewdfx_hilog
-  - hilogtest：https://gitee.com/openharmony/xts_acts/tree/master/hiviewdfx/hilogtest/libhilogtest
 
 ## SIG组成员
 
@@ -59,5 +54,4 @@
 ### 联系方式(可选)
 
 - 邮件列表：dev@openharmony.io
-- Zulip群组：https://zulip.openharmony.cn/#narrow/stream/47-hilog_sig
 - 微信群：xxx

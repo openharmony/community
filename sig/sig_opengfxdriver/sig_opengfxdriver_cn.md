@@ -13,11 +13,6 @@ Opengfxdriver SIG旨在支持开源图形驱动在OpenHarmony上的发展，我�
 2）得到良好的性能和兼容性，持平或优于闭源驱动
 3）达到商用水平，集成到产品中使用
 
-## 代码仓
-- 代码仓地址：
-  - Opengfxdriver-sig：https://gitee.com/openharmony-sig/opengfxdriver
-  - Opengfxdriver://gitee.com/openharmony/opengfxdriver
-
 ## SIG组成员
 
 ### Leader
@@ -53,5 +48,4 @@ Opengfxdriver SIG旨在支持开源图形驱动在OpenHarmony上的发展，我�
 
 
 - 邮件列表：dev@openharmony.io
-- Zulip群组：https://opengfxdriver.zulipchat.com
 - 微信群：SIG-OpenGfxDrv

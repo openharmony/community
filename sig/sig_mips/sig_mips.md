@@ -2,7 +2,7 @@
 
 English | [简体中文](./sig_mips_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md)
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md)
 
 ## SIG group work objectives and scope
 
@@ -18,9 +18,6 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - Adapts the MIPS instruction set, Clang, Musl, media, graphics, and driver subsystems to enable the OpenHarmony to support the MIPS architecture.
 - During the adaptation, the basic capability requirements for OpenHarmony are identified and incorporated into the OS version planning.
 
-## The repository
-- project name：
-  - mips：https://gitee.com/openharmony-sig/mips
 
 ## SIG Members
 
@@ -48,6 +45,5 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ### Contact (optional)
 
-- Mailing list：[dev.openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io)
-- Zulip group：NA
+- Mailing list：dev.openharmony.io
 - Wechat group：NA

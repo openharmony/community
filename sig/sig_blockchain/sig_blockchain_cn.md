@@ -2,7 +2,7 @@
 
 简体中文 | [English](./sig_blockchain.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](https://gitee.com/openharmony/community/blob/master/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -25,28 +25,12 @@
 积极与物联网设备厂商进行洽谈合作，推动物链网应用场景落地，推广物链网操作系统生态。探索OpenHarmony + Blockchain在碳中和、车生态场景下的应用。
 
 
-## SIG相关代码仓及描述
-
-交付件形式：源码、文档等
-
-- block_chain:https://gitee.com/openharmony-sig/security_block_chain
-
 
 ## SIG组成员
 
 ### Leader
 - [shangxuan_hz](https://gitee.com/shangxuan_hz)
 
-### Committers列表
-- [haisong2](https://gitee.com/haisong2)
-- [Lee](https://gitee.com/www.lee.com)
-- [platformdepartment](https://gitee.com/platformdepartment)
-- [lingfengbao](https://gitee.com/lingfengbao)
-- [max_mars](https://gitee.com/max_mars)
-- [jiafeicheng](https://gitee.com/15335180944)
-- [xkwang1228](https://gitee.com/xkwang1228)
-- [jerryma0912](https://gitee.com/jerryma0912)
-- [painterq](https://gitee.com/painterq)
 
 ### 会议
  - 会议时间：双周例会，周二下午16:00（暂定）
@@ -54,8 +38,7 @@
 
 ### 联系方式(可选)
 
-- 邮件列表：
-- zulip群组：https://zulip.openharmony.cn
+- 邮件列表：dev@openharmony.io
 - 微信群：
 
 

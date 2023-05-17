@@ -13,11 +13,6 @@ Build game application migration and development capabilities based on OHOS. Con
 
 ![OpenHarmony文档概览](figures/gaming_overview.png)
 
-## The repository 
-- project name:
-  - https://gitee.com/openharmony-sig/cocos2dx
-  - https://gitee.com/openharmony-sig/third_party_cocos2d
-
 ## SIG Members
 
 ### Leader

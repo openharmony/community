@@ -2,7 +2,7 @@
 
 简体中文 | [English](./sig_test.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -28,22 +28,6 @@ Test-SIG（ sig_Test ）技术栈范围全景图如下图所示：
 | 测试调度框架test_xdevice  | xdevice是OpenHarmony中为测试框架的核心组件，提供用例执行所依赖的相关服务 | test_xdevice                                |
 | 性能调优工具profiler      | OpenHarmony性能调优分析工具，支持CPU调度、频点、进程线程时间片、堆内存、FPS数据采集和展示。支持在泳道图中展示非实时的采集数据，支持GUI操作数据分析 | developtools_profiler/host/smartperf        |
 
-- 代码仓地址：
-  - https://gitee.com/openharmony/third_party_benchmark
-  - https://gitee.com/openharmony/xts_acts
-  - https://gitee.com/openharmony/xts_tools
-  - https://gitee.com/openharmony/xts_hats
-  - https://gitee.com/openharmony/xts_dcts
-  - https://gitee.com/openharmony/xts_device_attest
-  - https://gitee.com/openharmony/xts_device_attest_lite
-  - https://gitee.com/openharmony/ostest_wukong
-  - https://gitee.com/openharmony/testfwk_arkxtest
-  - https://gitee.com/openharmony/testfwk_xdevice
-  - https://gitee.com/openharmony/testfwk_developer_test
-  - https://gitee.com/openharmony/third_party_vk-gl-cts
-  - https://gitee.com/openharmony/third_party_spirv-tools
-  - https://gitee.com/openharmony/third_party_glslang
-  - https://gitee.com/openharmony/third_party_spirv-headers
 ## SIG组成员
 
 ### Leader
@@ -55,7 +39,6 @@ Test-SIG（ sig_Test ）技术栈范围全景图如下图所示：
 
 ### 会议
  - 会议时间：双周例会，待定
- - 会议申报：[OpenHarmony sig_Test Meeting Proposal](https://etherpad.openharmony.cn/p/sig_test)
  - 会议链接: Welink或其他会议
  - 会议通知: 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
  - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content)
@@ -63,5 +46,4 @@ Test-SIG（ sig_Test ）技术栈范围全景图如下图所示：
 ### 联系方式(可选)
 
 - 邮件列表：dev@openharmony.io
-- Zulip群组：https://zulip.openharmony.cn
 

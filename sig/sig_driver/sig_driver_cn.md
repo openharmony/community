@@ -2,7 +2,7 @@
 
 简体中文 | [English](./sig_driver.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -81,12 +81,6 @@ Driver sig负责构建OpenHarmony的统一硬件驱动平台HDF（Hardware Drive
 | 口令认证设备HDI接口【drivers_interface_pin_auth】             | 提供用户口令的录入/删除/防暴力破解等能力，按资源池定义方式，作为执行器对接到统一认证框架。                                     | drivers/interface/pin_auth           |
 | 指纹认证设备HDI接口 【drivers_interface_fingerprint_auth】    | 提供指纹的录入，删除和认证/识别功能。                                                                | drivers/interface/fingerprint_auth   |
 
-- **代码仓地址：**
-  - drivers_hdf_core：https://gitee.com/openharmony/drivers_hdf_core
-  - drivers_peripheral：https://gitee.com/openharmony/drivers_peripheral
-  - drivers_interface：https://gitee.com/openharmony/drivers_interface
-  - third_party_libnl：https://gitee.com/openharmony/third_party_libnl
-  - third_party_openmax：https://gitee.com/openharmony/third_party_openmax
 
 ## SIG组成员
 
@@ -107,13 +101,12 @@ Driver sig负责构建OpenHarmony的统一硬件驱动平台HDF（Hardware Drive
   ### 会议
   
   - 会议时间：双周例会，周三下午16:00
-  - 会议申报：[sig_Driver会议议题收集](https://shimo.im/sheets/36GKhpvrXd8TcQHY)
+  - 会议申报：[sig_driver会议议题收集](https://shimo.im/sheets/36GKhpvrXd8TcQHY)
   - 会议链接：腾讯会议或其他会议
   - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_driver.openharmony.io/)邮件列表获取会议链接
   - 会议纪要：查看往期会议纪要，请点此[链接](https://gitee.com/openharmony-sig/sig-content/tree/master/driver/meetings)
 
 ### 联系方式(可选)
 
-- 邮件列表：[sig_driver@openharmony.io](https://lists.openatom.io/postorius/lists/sig_driver.openharmony.io/)
-- Zulip群组：https://zulip.openharmony.cn
+- 邮件列表：sig_driver@openharmony.io
 - 微信群：xxx

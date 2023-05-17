@@ -1,7 +1,7 @@
 # SIG_EduDataSpecification
 简体中文 | [English](./sig_edu_data_specification.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -18,15 +18,11 @@
 * SIG将协同伙伴共同建立和完善相应数据采集、数据共享规范和标准，促进教育行业应用规范发展，形成教育数据采集标准。
 
 **树标杆**
-* 创新OH教育应用场景,基于OH根技术共建示范性标杆工程；以示范效应带动产业鸿蒙化发展。
+* 创新OpenHarmony教育应用场景,基于OpenHarmony根技术共建示范性标杆工程；以示范效应带动产业鸿蒙化发展。
 
 **捐能力**
 * 协同生态伙伴共同捐助OH教育应用生态组件。
 
-
-## 代码仓
-* 代码仓地址：
-  - 待定
 
 ## SIG组成员
 
@@ -49,4 +45,3 @@
 ### 联系方式(可选)
 
 - 邮件列表：[sig_edu_data@openharmony.io]()
-- Zulip群组：https://zulip.openharmony.cn  subscript to sig-knowledge stream

@@ -1,7 +1,7 @@
 # sig_Qt
 简体中文 | [English](./sig_qt.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -23,10 +23,6 @@ Qt框架移植与适配计划贡献内容如下所示：
 - 2022年12月~2023年3月：移植Qt相关的工具，匹配Qt相关的项目工程;完成Qt附加模块移植
 - 2023年3月~2023年6月：Qt示例及Demo移植适配验证;Qt单元测试移植适配验证;Qt Creator鸿蒙应用程序模板开发
 - 2023年6月~2023年12月：基于Qt API封装鸿蒙系统特性库，引入鸿蒙软总线等系统特性;Qt Creator 鸿蒙应用部署开发;Qt Creator 鸿蒙模拟器开发
-
-## 代码仓
-- 代码仓地址：
-  - Qt代码仓地址：https://gitee.com/openharmony-sig/qt
 
 ## SIG组成员
 

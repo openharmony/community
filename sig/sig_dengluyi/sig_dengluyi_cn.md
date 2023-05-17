@@ -1,7 +1,7 @@
 # sig_dengluyi
 简体中文 | [English](./sig_dengluyi.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -33,10 +33,6 @@
 
 日常生活中我们常常会涉及设备的权限问题，如每个人进入家门时都需要有对门锁的权限。这时候如果户主想要给保姆门锁的临时权限（按一段时间内有效或者按次数），便可以让保姆限时限次使用该基于登录易的OpenHarmony用户账号管理系统。保姆进门前需要通过载有OpenHarmony系统的门锁向户主发送请求来申请授权。户主收到请求后，可以同意/拒绝请求。此外，户主可以管理家中其他智能家居的权限，发放部分智能家居的权限给保姆等。
 
-## 代码仓库地址
-
-- openharmony-denlgu1-sig：https://gitee.com/youngp7/openharmony-competition
-
 ## SIG组成员
 
 ### Leader
@@ -59,5 +55,4 @@
 ### 联系方式
 
 - 邮件列表：liuwy@gdut.edu.cn; dengluyi@openharmony.io
-- Zulip群组：https://zulip.openharmony.cn/#narrow/stream/18-dengluyi
 - 微信群：sig-dengluyi(登录易)

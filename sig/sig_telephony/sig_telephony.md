@@ -1,7 +1,7 @@
 # sig_Telephony
 English | [简体中文](./sig_telephony_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -14,21 +14,6 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - Cellular call module: implements basic calls over carrier networks.
 - SMS & MMS module: provides the capabilities of sending and receiving short message service (SMS) messages and encoding and decoding multimedia messaging service (MMS) messages.
 - State registry module: provides APIs to register and deregister an observer that listens for various callback events of the telephony subsystem.
-
-### The repository 
-- project name:
-  - core_service：https://gitee.com/openharmony/telephony_core_service
-  - cellular_call：https://gitee.com/openharmony/telephony_cellular_call
-  - call_manage：https://gitee.com/openharmony/telephony_call_manager
-  - state_registry：https://gitee.com/openharmony/telephony_state_registry
-  - sms_mms：https://gitee.com/openharmony/telephony_sms_mms
-  - ril_adapter：https://gitee.com/openharmony/telephony_ril_adapter
-  - cellular_data：https://gitee.com/openharmony/telephony_cellular_data
-  - telephony_data: https://gitee.com/openharmony/telephony_telephony_data
-  - netmanager_standard：https://gitee.com/openharmony/communication_netmanager_standard
-  - netstack：https://gitee.com/openharmony/communication_netstack
-  - netmanager_base：https://gitee.com/openharmony/communication_netmanager_base
-  - netmanager_ext：https://gitee.com/openharmony/communication_netmanager_ext
 
 
 ## SIG Members
@@ -54,5 +39,4 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### Contact (optional)
 
 - Mailing list：dev@openharmony.io
-- Slack group：https://zulip.openharmony.cn/
 - Wechat group：NA

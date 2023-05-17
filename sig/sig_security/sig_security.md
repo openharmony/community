@@ -1,7 +1,7 @@
 # SIG_Security
 English | [简体中文](./sig_security_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -11,27 +11,6 @@ OpenHarmony security subsystem development plan
 ### work scope
 OpenHarmony security sbusystem, including application permissions, application signature, device authentication, and key store management etc.
 
-### The repository
-- project name:
-  - device_auth：https://gitee.com/openharmony/security_device_auth
-  - huks：https://gitee.com/openharmony/security_huks
-  - dataclassification：https://gitee.com/openharmony/security_dataclassification
-  - appverify：https://gitee.com/openharmony/security_appverify
-  - app_permission:https://gitee.com/openharmony/security_permission_lite
-  - selinux:https://gitee.com/openharmony/third_party_selinux
-  - pcre2:https://gitee.com/openharmony/third_party_pcre2
-  - selinux:https://gitee.com/openharmony/security_selinux
-  - access_token:https://gitee.com/openharmony/security_access_token
-  - useriam_auth_executor_mgr:https://gitee.com/openharmony/useriam_auth_executor_mgr
-  - useriam_face_auth:https://gitee.com/openharmony/useriam_face_auth
-  - useriam_pin_auth:https://gitee.com/openharmony/useriam_pin_auth
-  - useriam_user_auth_framework:https://gitee.com/openharmony/useriam_user_auth_framework
-  - useriam_user_idm:https://gitee.com/openharmony/useriam_user_idm
-  - security_device_security_level:https://gitee.com/openharmony/security_device_security_level
-  - developtools_hapsigner:https://gitee.com/openharmony/developtools_hapsigner
-  - security_certificate_manager:https://gitee.com/openharmony/security_certificate_manager
-  - security_privacy_center:https://gitee.com/openharmony/security_privacy_center
-  - security_crypto_framework:https://gitee.com/openharmony/security_crypto_framework
 
 ## SIG Members
 
@@ -55,5 +34,4 @@ OpenHarmony security sbusystem, including application permissions, application s
 ### Contact (optional)
 
 - Mailing list：dev@openharmony.io
-- Zulip group: https://zulip.openharmony.cn
 - Wechat group：xxx

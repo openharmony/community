@@ -1,7 +1,7 @@
 # SIG_COMPILERUNTIME
  English | [简体中文](./sig_compile-runtime_cn.md)
  
- Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+ Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group objectives and work scope
 
@@ -46,33 +46,6 @@
 |Utils library for lite OS|Library providing basic utilities for lite OS|commonlibrary_utils_lite|
 |Memory utils|Libraries providing common system memory related operations|utils_memory|
 
-- mainline repos:
-  - arkcompiler_runtime_core: https://gitee.com/openharmony/arkcompiler_runtime_core
-  - arkcompiler_ets_runtime: https://gitee.com/openharmony/arkcompiler_ets_runtime
-  - arkcompiler_ets_frontend: https://gitee.com/openharmony/arkcompiler_ets_frontend
-  - arkcompiler_toolchain: https://gitee.com/openharmony/arkcompiler_toolchain
-
-  - third_party_jerryscript: https://gitee.com/openharmony/third_party_jerryscript
-  - third_party_quickjs: https://gitee.com/openharmony/third_party_quickjs
-
-  - third_party_llvm-project: https://gitee.com/openharmony/third_party_llvm-project
-  - third_party_lldb-mi: https://gitee.com/openharmony/third_party_lldb-mi
-  - third_party_mingw-w64: https://gitee.com/openharmony/third_party_mingw-w64
-  - third_party_musl: https://gitee.com/openharmony/third_party_musl
-  - third_party_miniz: https://gitee.com/openharmony/third_party_miniz
-
-  - commonlibrary_ets_utils: https://gitee.com/openharmony/commonlibrary_ets_utils
-  - commonlibrary_c_utils: https://gitee.com/openharmony/commonlibrary_c_utils
-  - commonlibrary_utils_lite: https://gitee.com/openharmony/commonlibrary_utils_lite
-  - utils_memory: https://gitee.com/openharmony/utils_memory
-
-- dev repos:
-  - arkcompiler_runtime_core: https://gitee.com/openharmony-sig/arkcompiler_runtime_core
-  - arkcompiler_ets_runtime: https://gitee.com/openharmony-sig/arkcompiler_ets_runtime
-  - arkcompiler_ets_frontend: https://gitee.com/openharmony-sig/arkcompiler_ets_frontend
-  - third_party_vixl: https://gitee.com/openharmony-sig/third-party-vixl
-  - third_party_elfio: https://gitee.com/openharmony-sig/third_party_elfio
-  - third_party_mimalloc: https://gitee.com/openharmony-sig/third_party_mimalloc
 
 ## SIG Members
 
@@ -104,5 +77,4 @@
  ### Contact
  
  - Mailing list: compiler@openharmony.io
- - Zulip group: https://zulip.openharmony.cn (compileRuntime_sig stream)
  - Wechat group: NA

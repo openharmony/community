@@ -1,7 +1,7 @@
 # sig_dengluyi
 English |[简体中文 ](./sig_dengluyi_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ##  SIG Group Work Objectives and Scope
 

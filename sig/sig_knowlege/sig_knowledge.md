@@ -2,7 +2,7 @@
 
 English | [简体中文](./sig_knowledge_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md)
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md)
 
 ## SIG group work objectives and scope
 
@@ -16,13 +16,6 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - Output detailed development instructions and courses for the developed scenario demo
 
 - Based on scenario demos, put forward relevant evolution topics to allow developers to participate in building their own OpenHarmony devices and applications
-
-## The repository
-- project name：
-  - https://gitee.com/openharmony-sig/knowledge
-  - https://gitee.com/openharmony-sig/knowledge_demo_smart_home
-  - https://gitee.com/openharmony-sig/knowledge_demo_temp
-  - https://gitee.com/openharmony-sig/online_event
 
 ## SIG Members
 
@@ -50,6 +43,5 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### Contact (optional)
 
 - Mailing list：sig-knowledge@openharmony.io
-- Zulip group：https://zulip.openharmony.cn   subscript to sig-knowledge stream
 - Wechat group：
 

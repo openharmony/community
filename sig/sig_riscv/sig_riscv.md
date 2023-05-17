@@ -1,7 +1,7 @@
 # sig_RISCV
 English | [简体中文](./sig_riscv_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -26,11 +26,6 @@ The SIG will enable TEE capability for OpenHarmony on RISC-V based on Penglai En
 The SIG will actively cooperate with schools and end-users to promote the usage of OpenHarmony on RISC-V devices.
 
 
-### The repository
-
-- iscas : https://gitee.com/openharmony-sig/riscv
-- allwinner: https://gitee.com/openharmony-sig/riscv_device_sunxi
-
 ## SIG Members
 
 ### Leader
@@ -40,10 +35,7 @@ The SIG will actively cooperate with schools and end-users to promote the usage 
 ### Committers
 
 - [Dong Du](https://gitee.com/dongduResearcher)
-- [Denny](https://gitee.com/DennyShen)
-- [Huaqi Fang](https://gitee.com/fanghuaqi)
-- [engine_li](https://gitee.com/kkup180)
-- [iscas-taiyang](https://gitee.com/iscas-taiyang)
+- [Denny](https://gitee.com/DennyShen)- Zulip group: https://zulip.openharmony.cn
 - [hplinux](https://gitee.com/hplinux)
 - [xzmu](https://gitee.com/xzmu)
 - [clmngu](https://gitee.com/clmngu)
@@ -56,6 +48,5 @@ The SIG will actively cooperate with schools and end-users to promote the usage 
 
 ### Contact (optional)
 
-- Mailing list：jiageng08@iscas.ac.cn;dd_nirvana@sjtu.edu.cn;denny.shenwei@huawei.com;578567190@qq.com;likailong@huawei.com
-- Zulip group: https://zulip.openharmony.cn
+- Mailing list：dev@openharmony.io
 - Wechat group：NA

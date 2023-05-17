@@ -1,7 +1,7 @@
 # sig_Gaming
 简体中文 | [English](./sig_gaming.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -19,10 +19,6 @@
 | ------------ | ------------ |------------ |
 |cocos2dx|开源、轻量的跨平台游戏引擎|cocos2dx|
 |third_party_cocos2d|开源、轻量的跨平台游戏引擎|third_party_cocos2d|
-
-- 代码仓地址：
-  - https://gitee.com/openharmony-sig/cocos2dx
-  - https://gitee.com/openharmony-sig/third_party_cocos2d
 
 ## SIG组成员
 

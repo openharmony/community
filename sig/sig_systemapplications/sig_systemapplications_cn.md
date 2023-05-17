@@ -1,7 +1,7 @@
 # SIG_SystemApplication
 简体中文 | [English](./sig_systemapplications.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -38,30 +38,6 @@
 |权限管理应用|权限管理应用是OpenHarmony中预置的系统应用，为用户提供运行时权限弹框和权限管理设置能力。|applications_permission_manager|
 |系统分享弹窗|系统分享弹窗是OpenHarmony中预置的系统应用，为开发者和用户提供文件分享能力。|applications_share_dialog|
 
-- 代码仓地址：
-  - applications_systemui：https://gitee.com/openharmony/applications_systemui
-  - applications_settings: https://gitee.com/openharmony/applications_settings
-  - applications_launcher: https://gitee.com/openharmony/applications_launcher
-  - system_applications: https://gitee.com/openharmony-sig/system_applications
-  - applications_photos: https://gitee.com/openharmony/applications_photos
-  - applications_camera: https://gitee.com/openharmony/applications_camera
-  - applications_contacts: https://gitee.com/openharmony/applications_contacts
-  - applications_mms: https://gitee.com/openharmony/applications_mms
-  - applications_call: https://gitee.com/openharmony/applications_call
-  - applications_screenshot: https://gitee.com/openharmony-sig/applications_screenshot
-  - applications_screenlock: https://gitee.com/openharmony-sig/applications_screenlock
-  - applications_theme: https://gitee.com/openharmony-sig/applications_theme
-  - applications_settingsdata: https://gitee.com/openharmony-sig/applications_settings_data
-  - applications_notes: https://gitee.com/openharmony-sig/applications_notes
-  - applications_app_samples: https://gitee.com/openharmony/applications_app_samples
-  - applications_permission_manager: https://gitee.com/openharmony/applications_permission_manager
-  - applications_filemanager: https://gitee.com/openharmony-sig/applications_filemanager
-  - applications_inputmethod: https://gitee.com/openharmony-sig/applications_inputmethod
-  - applications_clock: https://gitee.com/openharmony-sig/applications_clock
-  - applications_recorder: https://gitee.com/openharmony-sig/applications_recorder
-  - applications_compass: https://gitee.com/openharmony-sig/applications_compass
-  - applications_share_dialog: https://gitee.com/openharmony-sig/applications_share_dialog
-
 ## SIG组成员
 
 ### Leader
@@ -93,6 +69,5 @@
  - 会议链接：邮件通知石墨文档中的议题参与人（申报议题时务必留下邮箱地址）
 
 ### 联系方式
-- 邮件列表：sig_systemapplication.openharmony.io [点击订阅](https://lists.openatom.io/postorius/lists/sig_systemapplication.openharmony.io/)
-- Zulip频道：[Systemapplication](https://zulip.openharmony.cn/#narrow/stream/1-general/topic/Systemapplication)
-- 微信群：在Zulip Systemapplication频道留言您的微信号以及加入的原因，我们在审核通过后会邀请你进入OH-SystemApplication-SIG微信群
+- 邮件列表：dev@openharmony.io
+- 微信群：OH-SystemApplication-SIG

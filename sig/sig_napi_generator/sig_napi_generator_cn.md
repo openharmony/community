@@ -1,7 +1,7 @@
 # SIG_Napi_Generator
 简体中文 | [English](./sig_napi_generator.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -12,11 +12,6 @@
 1. 针对开发人员、主流操作系统的IDE平台，提供NAPI框架代码生成工具
 2. 提供使用范例
 3. 提供持续的改进优化
-
-## 代码仓
-- 代码仓地址：
-
-    - napi_generator: https://gitee.com/openharmony/napi_generator
 
 ## SIG组成员
 
@@ -42,5 +37,4 @@
 ### 联系方式(可选)
 
 - 邮件列表：[dev@openharmony.io]
-- Zulip群组：https://zulip.openharmony.cn 订阅sig_napi_generator 频道
 

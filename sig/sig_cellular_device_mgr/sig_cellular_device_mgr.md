@@ -17,10 +17,6 @@ Establish standards: formulate the application specifications and industrial app
 
 Extensive replication: benchmarking projects are first tried, and OpenHarmony application scenarios are jointly innovated with ecological partners to drive the development of OpenHarmony industry with demonstration effect.
 
-### The repository 
-- repository :
-
-    - https://gitee.com/openharmony-sig/cellular_device_mgr
 
 ## SIG Members
 
@@ -48,7 +44,6 @@ Extensive replication: benchmarking projects are first tried, and OpenHarmony ap
 ### Contact (optional)
 
 - Mailing list：dev@openharmony.io
-- Zulip group：NA
 - Wechat group：NA
 
 

@@ -31,13 +31,11 @@ Robotic sub-systems based on OpenHarmony that support technical architectures, a
 
 ### Meetings
  - Meeting time: BiWeek Wednesday 20:00
- - Meeting application: [sig_robotics application](https://etherpad.openharmony.cn/p/sig_robotics)
  - meeting link:Tencent meeting or other meeting
- - Meeting notification: [Subscribe to](dev@openharmony.io) mailing list for the 
+ - Meeting notification: [Subscribe to]([dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io)) mailing list for the 
  - Meeting Summary:To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/robotics/meetings)
 
 ### Contact (optional)
 
-- Mailing list：sig_robotics@openharmony.io
-- Zulip group：https://zulip.openharmony.cn/#narrow/stream/57-robotics_sig/topic/stream.20events/near/10338
+- Mailing list：dev@openharmony.io
 - Wechat group：xxx

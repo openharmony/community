@@ -18,11 +18,6 @@
 广复制：标杆项目先行先试，与生态合作伙伴共同创新OpenHarmony应用场景，以示范效应带动产业鸿蒙化发展。
 
 
-## 代码仓
-- 代码仓地址：
-
-    - https://gitee.com/openharmony-sig/cellular_device_mgr
-
 ## SIG组成员
 
 ### Leader
@@ -42,7 +37,6 @@
 
 ### 会议
  - 会议时间：双周例会，周一早上9:00, UTC+8
-
  - 会议申报：[智慧城市蜂窝终端管理 Meeting Proposal](https://shimo.im/sheets/1lq7MDJ5JBHvP7Ae/MODOC)
  - 会议方式:   腾讯会议
  - 会议通知:   请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表dev@openharmony.io 获取会议链接
@@ -50,7 +44,6 @@
 
 ### 联系方式(可选)
 
-- 邮件列表：[dev@openharmony.io]()
-- Zulip群组：待定
+- 邮件列表：dev@openharmony.io
 - 微信群：待定
 

@@ -11,10 +11,6 @@ OpenHarmony API治理，制定相应的API设计规范、评审流程要求等�
 ### 工作范围
 API相关的设计评审、API提交评审、《OpenHarmony API治理章程》修订。
 
-## 代码仓
-- 代码仓地址：
-  - interface_sdk-js:https://gitee.com/openharmony/interface_sdk-js
-
 ## SIG组成员
 
 ### Leader
@@ -33,5 +29,4 @@ API相关的设计评审、API提交评审、《OpenHarmony API治理章程》�
 ### 联系方式(可选)
 
 - 邮件列表： dev@openharmony.io
-- Zulip群组： https://zulip.openharmony.cn
 - 微信群：NA

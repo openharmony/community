@@ -2,7 +2,7 @@
 
 简体中文 | [English](./sig_mips.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -18,9 +18,6 @@
 - 对MIPS指令集、Clang、Musl、媒体、图形、驱动等子系统的适配，使能OpenHarmony支持MIPS架构。
 - 适配过程中识别出对OpenHarmony最基础的能力需求，落入到OS需求版本里 。
 
-## 代码仓
-- 代码仓地址：
-  - mips：https://gitee.com/openharmony-sig/mips
 
 ## SIG组成员
 
@@ -47,6 +44,5 @@
 
 ### 联系方式(可选)
 
-- 邮件列表：[dev-openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io)
-- Zulip群组：NA
+- 邮件列表：dev@openharmony.io
 - 微信群：NA

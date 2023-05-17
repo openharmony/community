@@ -2,7 +2,7 @@
 
 简体中文 | [English](./sig_loongarch.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../..//zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -26,10 +26,6 @@
 - 支撑Arkruntime对龙芯指令集的适配工作。
 
 
-## 代码仓
-- 代码仓地址：
-  - LoongArch：https://gitee.com/openharmony-sig/device_soc_loongson
-
 ## SIG组成员
 
 ### Leader
@@ -48,5 +44,4 @@
 ### 联系方式(可选)
 
 - 邮件列表：[dev-openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io)
-- Zulip群组：NA
 - 微信群：NA

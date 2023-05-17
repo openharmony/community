@@ -4,7 +4,7 @@
 
  
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
  
 
@@ -58,17 +58,6 @@ OpenBlock SIG同时将协助第三方设备厂商和教育服务商构建自有�
 
  
 
-## 代码仓
-
-- 代码仓地址：
-
-  - openblock: https://gitee.com/openharmony-sig/openblock
-    这个仓库用来存放OpenBlock核心库与OpenHarmony集成的相关代码和文档。
-
-  - openblock-blocks: https://gitee.com/openharmony-sig/openblock_blocks
-    这个仓库用于存储可用的块和相应的与OpenHarmony集成的代码。用来支持更多的设备和OpenHarmony特定的功能。
- 
-
 ## SIG组成员
 
  
@@ -89,12 +78,11 @@ OpenBlock SIG同时将协助第三方设备厂商和教育服务商构建自有�
  - 会议时间：双周例会，周一晚上20:00
  - 会议申报：[sig_OpenBloack会议申报](https://shimo.im/sheets/vfghbtkSIvo49soA)
  - 会议链接：腾讯会议或其他会议
- - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_openblock.openharmony.io/)邮件列表获取会议链接
+ - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io/)邮件列表获取会议链接
  - 会议纪要：查看往期会议纪要，请点此[链接](https://gitee.com/openharmony-sig/sig-content/tree/master/openblock/meetings)
 
 ### 联系方式(可选)
 
-- 邮件列表：[sig_openblock@openharmony.io](https://lists.openatom.io/postorius/lists/sig_openblock.openharmony.io/)
-- Zulip群组：https://zulip.openharmony.cn
+- 邮件列表：dev@openharmony.io
 - 微信群：xxx
 

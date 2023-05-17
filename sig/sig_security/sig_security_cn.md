@@ -1,7 +1,7 @@
 # SIG_Security
 简体中文 | [English](./sig_security.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -10,28 +10,6 @@ OpenHarmony安全业务的开发规划
 
 ### 工作范围
 OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密钥管理等
-
-## 代码仓
-- 代码仓地址：
-  - device_auth：https://gitee.com/openharmony/security_device_auth
-  - huks：https://gitee.com/openharmony/security_huks
-  - dataclassification：https://gitee.com/openharmony/security_dataclassification
-  - appverify：https://gitee.com/openharmony/security_appverify
-  - app_permission:https://gitee.com/openharmony/security_permission_lite
-  - selinux:https://gitee.com/openharmony/third_party_selinux
-  - pcre2:https://gitee.com/openharmony/third_party_pcre2
-  - selinux:https://gitee.com/openharmony/security_selinux
-  - access_token:https://gitee.com/openharmony/security_access_token
-  - useriam_auth_executor_mgr:https://gitee.com/openharmony/useriam_auth_executor_mgr
-  - useriam_face_auth:https://gitee.com/openharmony/useriam_face_auth
-  - useriam_pin_auth:https://gitee.com/openharmony/useriam_pin_auth
-  - useriam_user_auth_framework:https://gitee.com/openharmony/useriam_user_auth_framework
-  - useriam_user_idm:https://gitee.com/openharmony/useriam_user_idm
-  - security_device_security_level:https://gitee.com/openharmony/security_device_security_level
-  - developtools_hapsigner:https://gitee.com/openharmony/developtools_hapsigner
-  - security_certificate_manager:https://gitee.com/openharmony-sig/security_certificate_manager
-  - security_privacy_center:https://gitee.com/openharmony-sig/security_privacy_center
-  - security_crypto_framework:https://gitee.com/openharmony/security_crypto_framework
 
 ## SIG组成员
 
@@ -55,5 +33,4 @@ OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密�
 ### 联系方式(可选)
 
 - 邮件列表：dev@openharmony.io
-- Zulip群组：https://zulip.openharmony.cn
 - 微信群：xxx
