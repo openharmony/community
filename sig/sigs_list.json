@@ -595,7 +595,7 @@
                         "gitee_email": "lihong67@huawei.com"
                     },
                     {
-                        "gitee_id": "https://gitee.com/chengongpingde",
+                        "gitee_id": "https://gitee.com/gongpingde",
                         "gitee_email": "chengongping@huawei.com"
                     }
                 ]
@@ -608,7 +608,7 @@
                         "gitee_email": "lihong67@huawei.com"
                     },
                     {
-                        "gitee_id": "https://gitee.com/chengongpingde",
+                        "gitee_id": "https://gitee.com/gongpingde",
                         "gitee_email": "chengongping@huawei.com"
                     },
                     {
@@ -625,7 +625,7 @@
                         "gitee_email": "lihong67@huawei.com"
                     },
                     {
-                        "gitee_id": "https://gitee.com/chengongpingde",
+                        "gitee_id": "https://gitee.com/gongpingde",
                         "gitee_email": "chengongping@huawei.com"
                     }
                 ]
@@ -638,7 +638,7 @@
                         "gitee_email": "lihong67@huawei.com"
                     },
                     {
-                        "gitee_id": "https://gitee.com/chengongpingde",
+                        "gitee_id": "https://gitee.com/gongpingde",
                         "gitee_email": "chengongping@huawei.com"
                     }
                 ]
@@ -7232,7 +7232,7 @@
         "description": "基于OpenHarmony设计可支持AGV、AMR、RGV等移动机器人的技术架构、应用层接口标准、通讯协议",
         "sig_status": "active",
         "leader": {
-            "gitee_id": "https://gitee.com/sunmingang",
+            "gitee_id": "https://gitee.com/open_link_association_admin",
             "gitee_email": "sunmingang@jd.com"
         },
         "sub_system": [
