@@ -40,7 +40,7 @@ Provide cloud collaboration components for OpenHarmony, hoping that HUAWEI CLOUD
  - Meeting Proposal: [OpenHarmony sig_HuaweiCloud Meeting Proposal](https://shimo.im/sheets/zdkyBwNxgzCP8nA6/MODOC)
  - Meeting link: Welink or others
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- - Meeting Summary:To view the minutes of past meetings, please click this [Meeting minutes](https://gitee.com/openharmony-sig/sig-content/tree/master/huaweicloud/meetings)
+ - Meeting Summary:
 
 ### Contact
 | Address                                 | Introduction | Usage Description                                                  |

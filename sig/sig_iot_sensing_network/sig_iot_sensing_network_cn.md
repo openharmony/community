@@ -49,7 +49,7 @@ SIG建设围绕以下子方向，建设Openharmony网络栈能力：
  - 会议申报：请访问石墨共享文档连接https://shimo.im/tables/e1Az4ar2e8FxMoqW    
  - 会议链接:   Welink
  - 会议通知:   请订阅邮件列表[dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io/)获取会议链接
- - 会议纪要:   [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/iot_sensing_network/meetings)
+ - 会议纪要: 
 
 ### 联系方式(可选)
 

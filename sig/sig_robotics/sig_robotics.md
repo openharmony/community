@@ -17,7 +17,7 @@ Robotic sub-systems based on OpenHarmony that support technical architectures, a
 ## SIG Members
 
 ### Leader
-- @[sunmingang](https://gitee.com/sunmingang)
+- @[sunmingang](https://gitee.com/open_link_association_admin)
 - @[ricther](https://gitee.com/ricther)
 - @[shangchunpeng](https://gitee.com/shangchunpeng)
 

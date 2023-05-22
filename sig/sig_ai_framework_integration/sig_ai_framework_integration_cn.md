@@ -28,9 +28,9 @@
 
  - 会议申报：[AI 推理框架集成 Meeting Proposal]()
  - 会议方式:   腾讯会议
- - 会议通知:   请[订阅](https://lists.openatom.io/postorius/lists/sig_ai_framework_integration.openharmony.io/)邮件列表 sig_ai_framework_integration@openharmony.io 获取会议链接
- - 会议纪要:   [归档链接地址](https://gitee.com/openharmony-sig/sig_content/tree/master/ai_framework_integration/meetings)
+ - 会议通知:   请[订阅](https://lists.openatom.io/postorius/lists/dev@openharmony.io/)邮件列表 dev@openharmony.io 获取会议链接
+ - 会议纪要:
 
 ### 联系方式(可选)
 
-- 邮件列表：sig-ai_framework_integration@openharmony.io
+- 邮件列表：dev@openharmony.io
