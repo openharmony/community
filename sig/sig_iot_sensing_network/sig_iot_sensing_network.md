@@ -55,7 +55,7 @@ SIG construction focuses on the following sub-directions to build Openharmony ne
    - Meeting declaration: Please refer to shared document link https://shimo.im/tables/e1Az4ar2e8FxMoqW
    - Conference link: Welink
    - Meeting notices: Please subscribe mailing list [dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io/) for conference link
-   - Meeting minutes: [archive link address](https://gitee.com/openharmony-sig/sig-content/tree/master/iot_sensing_network/meetings)
+   - Meeting minutes: 
 
   ### Contact information (optional)
 

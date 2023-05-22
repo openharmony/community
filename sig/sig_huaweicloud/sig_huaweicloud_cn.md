@@ -40,7 +40,7 @@
  - 议题申报: [OpenHarmony sig_HuaweiCloud Meeting Proposal](https://shimo.im/sheets/zdkyBwNxgzCP8nA6/MODOC)
  - 会议链接：Welink或其他会议
  - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io) 邮件列表 dev@openharmony.io 获取会议链接
- - 会议纪要：查看往期会议纪要，请点此[会议纪要](https://gitee.com/openharmony-sig/sig-content/tree/master/huaweicloud/meetings)
+ - 会议纪要：
 
 ### 联系方式(可选)
 | 地址                                 | 简介        | 用途说明                                                         |

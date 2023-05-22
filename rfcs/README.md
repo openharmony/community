@@ -25,17 +25,17 @@
 3. 编写 RFC 草稿后，请先征求项目仓Committer和贡献者的反馈，然后再提交。 不要求编写并实现代码，如果有代码实现将有利于研讨。
 
 4.  招募发起人。
-- 发起人必须是项目仓库的[Committer](https://gitee.com/openharmony/community/blob/master/zh/committer.md)或对应领域的[SIG Leader](https://gitee.com/openharmony/community/blob/master/sig/sigs_subsystem_list.md)。
+- 发起人必须是项目仓库的Committer或对应领域的SIG Leader，[沟通地图信息](../sig/sigs_list.toml)。
 - 请先在 RFC 中注明发起人，然后再发布 PR。
 -  您 _可以_ 在没有发起人的情况下发布 RFC请求，但是如果在发布 PR 请求的一个月内仍然没有发起人，则该 PR 将被关闭。
 
-5. 将您的 RFC 作为 PR 提交到  [openharmony/community/rfcs](https://gitee.com/openharmony/community/tree/master/rfcs)。
+1. 将您的 RFC 作为 PR 提交到  [openharmony/community/rfcs](https://gitee.com/openharmony/community/tree/master/rfcs)。
 
-6. 通过开发者邮件列表向开发者发送简要说明、PR 链接和审查请求，邮件标题加前缀[RFC]。
+2. 通过开发者邮件列表向开发者发送简要说明、PR 链接和审查请求，邮件标题加前缀[RFC]。
 
-7. 发起人将在 RFC PR 发布后的两周内请求召开SIG技术评审会议。评审会议的目的是解决小的争议，大争议应提前达成共识。如果评审过程中提出了问题，请等到问题解决后再重新发起进行评审。
+3. 发起人将在 RFC PR 发布后的两周内请求召开SIG技术评审会议。评审会议的目的是解决小的争议，大争议应提前达成共识。如果评审过程中提出了问题，请等到问题解决后再重新发起进行评审。
 
-8. 会议可以接受或拒绝 RFC，也可以待更改后重新评审。评审通过的 RFC 将合并到  [community/rfcs](https://gitee.com/openharmony/community/tree/master/rfcs  中， 而 被拒绝的RFC 的 PR 则会被关闭。
+4. 会议可以接受或拒绝 RFC，也可以待更改后重新评审。评审通过的 RFC 将合并到  [community/rfcs](https://gitee.com/openharmony/community/tree/master/rfcs  中， 而 被拒绝的RFC 的 PR 则会被关闭。
 
 
 ## RFC 参与者

@@ -23,7 +23,6 @@ Print SIG aims to develop print function for OpenHarmony, expand and improve the
 ### Committers
 - @eric072(https://gitee.com/eric072)
 - @Sturmegezhutz(https://gitee.com/Sturmegezhutz)
-- @jorway_ou(https://gitee.com/jorway_ou)
 - @litao33(https://gitee.com/litao33)
 
 ### Meetings

@@ -22,7 +22,6 @@ Print SIG旨在为OpenHarmony开发打印服务功能，进一步拓展及完善
 ### Committers列表
 - @eric072(https://gitee.com/eric072)
 - @Sturmegezhutz(https://gitee.com/Sturmegezhutz)
-- @jorway_ou(https://gitee.com/jorway_ou)
 - @litao33(https://gitee.com/litao33)
 
 ### 会议

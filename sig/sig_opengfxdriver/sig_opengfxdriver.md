@@ -22,21 +22,19 @@ Opengfxdriver SIG aims to support open source graphics driver on OpenHarmony. We
 - @xfan1024(https://gitee.com/xfan1024)
 - @biannm(https://gitee.com/biannm)
 - @xzmu(https://gitee.com/xzmu)
-- @zhouwjfi(https://gitee.com/zhouwifi)
 - @robinXiao777(https://gitee.com/robinXiao777)
 - @cosmoslhf(https://gitee.com/cosmoslhf)
 - @algoideas(https://gitee.com/algoideas)
 - @zxg-gitee(https://gitee.com/zxg-gitee)
-- @zhaeoyu(https://gitee.com/zhaeoyu)
 - @hiharmonica_leo(https://gitee.com/hiharmonica_leo)
 - @alata(https://gitee.com/alata)
 
 ### Meetings
  - Meeting time：BiWeek Friday or Saturday 16:00-18:00
- - Meeting application: https://etherpad.openharmony.cn/p/sig_opengfxdriver
+ - Meeting application: 
  - Meeting link: Welink Meeting or Others
- - Meeting notification: [Subscribe to] (https://lists.openatom.io/hyperkitty/list/sig-opengfxdriver@openharmony.io/) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content/tree/master/opengfxdriver/meetings)
+ - Meeting notification: [Subscribe to] (https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/) mailing list dev@openharmony.io for the meeting link
+ - Meeting-Minutes:
 
 ### Contact (optional)
  - frank.huangran@huawei.com

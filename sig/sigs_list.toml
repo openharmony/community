@@ -557,7 +557,7 @@ gitee_id = "https://gitee.com/lihong67"
 gitee_email = "lihong67@huawei.com"
 
 [[sig.projects.committer]]
-gitee_id = "https://gitee.com/chengongpingde"
+gitee_id = "https://gitee.com/gongpingde"
 gitee_email = "chengongping@huawei.com"
 
 
@@ -569,7 +569,7 @@ gitee_id = "https://gitee.com/lihong67"
 gitee_email = "lihong67@huawei.com"
 
 [[sig.projects.committer]]
-gitee_id = "https://gitee.com/chengongpingde"
+gitee_id = "https://gitee.com/gongpingde"
 gitee_email = "chengongping@huawei.com"
 
 [[sig.projects.committer]]
@@ -585,7 +585,7 @@ gitee_id = "https://gitee.com/lihong67"
 gitee_email = "lihong67@huawei.com"
 
 [[sig.projects.committer]]
-gitee_id = "https://gitee.com/chengongpingde"
+gitee_id = "https://gitee.com/gongpingde"
 gitee_email = "chengongping@huawei.com"
 
 
@@ -597,7 +597,7 @@ gitee_id = "https://gitee.com/lihong67"
 gitee_email = "lihong67@huawei.com"
 
 [[sig.projects.committer]]
-gitee_id = "https://gitee.com/chengongpingde"
+gitee_id = "https://gitee.com/gongpingde"
 gitee_email = "chengongping@huawei.com"
 
 
@@ -6655,7 +6655,7 @@ sub_system = ["NONE"]
 projects = []
 
 [sig.leader]
-gitee_id = "https://gitee.com/sunmingang"
+gitee_id = "https://gitee.com/open_link_association_admin"
 gitee_email = "sunmingang@jd.com"
 [[sig]]
 sig_name = "sig_secure_element"

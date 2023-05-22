@@ -22,21 +22,19 @@ Opengfxdriver SIG旨在支持开源图形驱动在OpenHarmony上的发展，我�
 - @xfan1024(https://gitee.com/xfan1024)
 - @biannm(https://gitee.com/biannm)
 - @xzmu(https://gitee.com/xzmu)
-- @zhouwjfi(https://gitee.com/zhouwifi)
 - @robinXiao777(https://gitee.com/robinXiao777)
 - @cosmoslhf(https://gitee.com/cosmoslhf)
 - @algoideas(https://gitee.com/algoideas)
 - @zxg-gitee(https://gitee.com/zxg-gitee)
-- @zhaeoyu(https://gitee.com/zhaeoyu)
 - @hiharmonica_leo(https://gitee.com/hiharmonica_leo)
 - @alata(https://gitee.com/alata)
 
 ### 会议
  - 会议时间：双周例会，周五 or 周六下午16:00-18:00
- - 会议申报：https://etherpad.openharmony.cn/p/sig_opengfxdriver
+ - 会议申报：
  - 会议链接: Welink或其他会议
- - 会议通知: 请[订阅](https://lists.openatom.io/hyperkitty/list/sig-opengfxdriver@openharmony.io/)邮件列表 dev@openharmony.io 获取会议链接
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/opengfxdriver/meetings)
+ - 会议通知: 请[订阅](https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/)邮件列表 dev@openharmony.io 获取会议链接
+ - 会议纪要: 
 
 ### 联系方式(可选)
  - frank.huangran@huawei.com

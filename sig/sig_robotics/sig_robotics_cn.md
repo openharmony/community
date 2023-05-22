@@ -12,7 +12,7 @@
 ## SIG组成员
 
 ### Leader
-- @[sunmingang](https://gitee.com/sunmingang)
+- @[sunmingang](https://gitee.com/open_link_association_admin)
 - @[ricther](https://gitee.com/ricther)
 - @[shangchunpeng](https://gitee.com/shangchunpeng)
 

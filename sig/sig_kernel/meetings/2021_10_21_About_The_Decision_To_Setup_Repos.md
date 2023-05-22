@@ -9,7 +9,6 @@ the kernel-sig to support storage-management-related features
 - [@zhangzhiwi](https://gitee.com/zhangzhiwi)
 - [@easy-to-see](https://gitee.com/easy-to-see)
 - [@bubble_mao](https://gitee.com/bubble_mao)
-- [@chenjinglong-hw](https://gitee.com/chenjinglong-hw)
 - [@im-off-this-week](https://gitee.com/im-off-this-week)
 - [@karl-z](https://gitee.com/karl-z)
 
