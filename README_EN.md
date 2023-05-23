@@ -12,7 +12,7 @@ The **community** repository stores the following content:
 - [Contributor Agreement for Contributing to the Community](https://dco.openharmony.io/sign/Z2l0ZWUlMkZPcGVuQXRvbQ==)
 - [Communications in the Community](https://gitee.com/openharmony/docs/blob/master/en/contribute/communication-in-community.md)
 - [Responses to Security Issues](https://gitee.com/openharmony/security)
-- [Project Logo](/logo)
+- [Project Logo](https://gitee.com/openharmony/community/blob/master/README_EN.md#project-logo)
 
 ## Community Governance Organizational Structure
 
@@ -39,12 +39,6 @@ You must sign the Developer Certificate of Origin (DCO) before you can contribut
 | pmc@openharmony.io  <img width=150/>| PMC mailing list <img width=100/> | Mailing list for PMC discussion. PMC members can [subscribe to](https://lists.openatom.io/postorius/lists/pmc.openharmony.io/) this mailing list. <img width=200/> |
 | scy@openharmony.io <img width=150/> | Mailing list for security issues <img width=100/> | Mailing list for reporting OpenHarmony security issues. <img width=200/> |
 | scy-priv@openharmony.io  <img width=150/>| Security group mailing list <img width=100/> | Mailing list for discussing how to handle security issues. Security group members can [subscribe to](https://lists.openatom.io/postorius/lists/scy-priv.openharmony.io/) this mailing list. <img width=200/> |
-
-
-### OpenHarmony zulip
-| Name                              | Introduction | Description                                               |
-| ---------------------------------------|---------- | ------------------------------------------------------------ |
-| [zulip](https://zulip.openharmony.cn/join/u7vafdcbyia32bsssygwbbee/) <img width=150/>  | OpenHarmony technology discussion platform <img width=100/> | A platform where you can discuss devboard, CompileRuntime technologies of OpenHarmony with others <img width=200/> |
 
 
 ## Project Logo
