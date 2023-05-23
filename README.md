@@ -12,7 +12,7 @@ Community仓库用于管理OpenHarmony社区治理、开发者贡献指南、开
 - [开发者社区贡献协议](https://dco.openharmony.io/sign/Z2l0ZWUlMkZPcGVuQXRvbQ==)
 - [社区交流](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E7%A4%BE%E5%8C%BA%E6%B2%9F%E9%80%9A%E4%B8%8E%E4%BA%A4%E6%B5%81.md)
 - [安全问题响应](https://gitee.com/openharmony/security)
-- [项目LOGO](https://gitee.com/dongjinguang/community#%E9%A1%B9%E7%9B%AElogo)
+- [项目LOGO](https://gitee.com/openharmony/community#%E9%A1%B9%E7%9B%AElogo)
 
 ## 社区治理组织架构
 
