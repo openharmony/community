@@ -32,7 +32,6 @@
 |方舟工具链|方舟运行时调试调优工具链|arkcompiler_toolchain|
 |ARM汇编器|ARM汇编器，提供生成ARM汇编的C接口|third_party_vixl|
 |jerryscript|百K级别超轻量级JS引擎，低内存消耗|third_party_jerryscript|
-|quickjs|QuickJS是一个小型并且可嵌入的Javascript引擎，支持ES2020|third_party_quickjs|
 |LLVM|C/C++编译器，包含libcxx，lldb，crt等很多组件|third_party_llvm-project|
 |LLDB MI|Lldb的machine interface，方便IDE使用lldb功能|third_party_lldb-mi|
 |MinGW-w64|GCC，LLVM等编译器的windows 32/64平台运行环境|third_party_mingw-w64|

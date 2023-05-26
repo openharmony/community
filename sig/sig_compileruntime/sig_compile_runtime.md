@@ -33,7 +33,6 @@
 |ArkCompiler toolchain|Debugging and profiling tools for ArkCompiler|arkcompiler_toolchain|
 |ARM assembler / code generator|ARM instruction assembler and code generator library|third_party_vixl|
 |jerryscript|Lightweight JS engine with extremely low memory footprint|third_party_jerryscript|
-|quickjs|Small JS engine with full compatibility of ES2020|third_party_quickjs|
 |LLVM|LLVM compiler and toolchain|third_party_llvm-project|
 |LLDB Machine Interface|LLDB machine interface|third_party_lldb-mi|
 |MinGW-w64|A complete runtime environment for GCC and LLVM for 32 and 64 bit Windows|third_party_mingw-w64|
