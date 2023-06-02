@@ -1,5 +1,6 @@
 {
-    "Leader": [{
+    "Leader": [
+        {
             "gitee_id": "abbuu",
             "gitee_email": "liyu37@huawei.com"
         },
@@ -8,7 +9,8 @@
             "gitee_email": "cuikun1@huawei.com"
         }
     ],
-    "Committers": [{
+    "Committers": [
+        {
             "gitee_id": "zhouyaoying",
             "gitee_email": "zhouyaoying@huawei.com"
         },
@@ -33,7 +35,7 @@
             "gitee_email": "zhouyuehai@huawei.com"
         },
         {
-            "gitee_id": "liuchao92"
+            "gitee_id": "liuchao92",
             "gitee_email": "liuchao92@huawei.com"
         }
     ]
