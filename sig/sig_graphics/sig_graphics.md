@@ -11,6 +11,9 @@ Manage OpenHarmony Graphics
 ### work scope
 OpenHarmony Graphics and windowmanager related design and review.
 
+the Graphics Review Rulers：
+https://gitee.com/openharmony-sig/sig-content/tree/master/graphics/docs
+
 ## SIG Members
 
 ### Leader
@@ -24,13 +27,14 @@ OpenHarmony Graphics and windowmanager related design and review.
 - @xuyuqiong(https://gitee.com/xuyuqiong)
 - @liuchao92(https://gitee.com/liuchao92)
 - @xxfeng-hw(https://gitee.com/xxfeng-hw)
-- @@stonesxd(https://gitee.com/stonesxd)
+- @stonesxd(https://gitee.com/stonesxd)
 
 ### Meetings
  - Meeting time：Every two weeks' Friday 17:00-18:00
  - Meeting application: [OpenHarmony sig_Graphics Meeting Proposal](https://shimo.im/sheets/m4kMLLgagotBK9qD/MODOC)
  - Meeting link: [tencent meeting] Reference the notification mail from graphics_dev@openharmony.io
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/graphics_dev@openharmony.io) mailing list graphics_dev@openharmony.io for the meeting link
+ - Meeting notes: link（https://gitee.com/openharmony-sig/sig-content/tree/master/graphics/meetings）
 
 ### Contact (optional)
 

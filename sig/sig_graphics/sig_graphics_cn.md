@@ -35,6 +35,8 @@ OpenHarmony 图形管理。
 |giflib|giflib 是一个可以用来编解码 GIF 格式文件的 C 语言库 |third_party_giflib|
 |vulkan-loader|vulkan-loader是在Vulkan应用程序和Vulkan驱动程序（任意数量）之间的库，支持多个驱动程序和跨驱动程序的实例级功能。此外，Vulkan-Loader在应用程序和驱动程序之间插入Vulkan层，例如验证层。|third_party_vulkan-loader|
 
+图形Review规则：
+https://gitee.com/openharmony-sig/sig-content/tree/master/graphics/docs
 
 ## SIG组成员
 
@@ -49,13 +51,14 @@ OpenHarmony 图形管理。
 - @xuyuqiong(https://gitee.com/xuyuqiong)
 - @liuchao92(https://gitee.com/liuchao92)
 - @xxfeng-hw(https://gitee.com/xxfeng-hw)
-- @@stonesxd(https://gitee.com/stonesxd)
+- @stonesxd(https://gitee.com/stonesxd)
 
 ### 会议
  - 会议时间：双周周五17:00-18:00
  - 会议申报：[OpenHarmony sig_Graphics Meeting Proposal](https://shimo.im/sheets/m4kMLLgagotBK9qD/MODOC)
  - 会议链接: [腾讯会议] 会议链接参考邮件列表通知（graphics_dev@openharmony.io）
  - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/graphics_dev@openharmony.io)邮件列表 graphics_dev@openharmony.io 获取会议链接
+ - 会议纪要：查看往期会议纪要，请点此链接（https://gitee.com/openharmony-sig/sig-content/tree/master/graphics/meetings）
 
 ### 联系方式(可选)
 
