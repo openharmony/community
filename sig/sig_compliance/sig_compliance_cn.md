@@ -39,6 +39,12 @@
 - 社区合规及法务问题的最终解释权
 - 社区合规治理标准规范的最终审核权
 
+
+## 代码仓
+- 代码仓地址：
+  - SIG-Compliance ：https://gitee.com/openharmony/community/tree/master/sig/sig_compliance
+  - OAT开源审查工具 ：https://gitee.com/openharmony-sig/tools_oat
+
 ## SIG组成员
 
 ### Leader
@@ -58,25 +64,37 @@
 - 欢迎加入
 ### Contributor列表
 - 欢迎加入
+- @lainslin(https://gitee.com/lainslin)
+- @bayanxing(https://gitee.com/bayanxing)
+- @pengzhaon(https://gitee.com/pengzhaon)
+- @chaowang96(https://gitee.com/chaowang96)
+- @hawiii(https://gitee.com/hawiii)
+- @shihuanan(https://gitee.com/shihuanan)
+- @fang-xiao-100(https://gitee.com/fang-xiao-100)
+- @zw0601(https://gitee.com/zw0601)
+- @pratinaGAO(https://gitee.com/pratinaGAO)
+- @YixiongChen(https://gitee.com/YixiongChen)
 
 ## 会议
- - 会议时间：公开的会议时间：北京时间，每周五 下午，14:00点~15:00点
- - 会议申报：[OpenHarmony sig_compliance Meeting Proposal](https://etherpad.openharmony.cn/p/compliance)
- - 会议链接：[见链接](https://etherpad.openharmony.cn/p/compliance)
+ - 会议时间：公开的会议时间：北京时间，每周五 上午，10:45~11:45
+ - 会议申报：[OpenHarmony SIG-Compliance Meeting Proposal](https://shimo.im/sheets/B1Aw1d18GeFygLqm/MODOC)
+ - 会议链接：[见链接](https://shimo.im/sheets/B1Aw1d18GeFygLqm/MODOC)
  - 会议通知：请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content)
-
+ - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/compliance)
+ - 协作文档：[重点工作及核心组成员](https://shimo.im/sheets/B1Aw1d18GeFygLqm/gofnm)
 ## 联系方式(可选)
 
 - 邮件列表：dev@openharmony.io
-- 微信群：NA
+- 邮件列表tag [compliance-sig]
+- Zulip群组：已停止
+- 微信群：Openharmony合规SIG ，可加微信：gaoliang021
 
 ## 加入我们（Join Us）
 
 合规SIG欢迎所有对开源合规有兴趣的爱好者、志愿者、学者、专家、律师、学生的加入， 加入合规SIG无需特殊的技能要求和经验要求，您可以通过以下**任意一个途径**，明示您有意愿加入合规SIG，我们接到您的明示后，会在本文件的Contributor列表中添加您的基本信息以将您确认为合规SIG的成员
   - 邮件声明加入：通过向[dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表发送加入合规SIG申请，并同时主送SIG Leader, 请注意在邮件主题前增加[compliance]字样，以便更快的找到您的邮件，邮件内容至少明确包含您希望申请加入合规SIG组的意愿即可。 如果个人自愿，可以增加简要经验说明，后续希望重点参与的工作及可投入时间等内容，但请注意此部分内容不做强制。
   
-  - 参加SIG会议加入：通过在例行的合规SIG例会中[自行申报议题](https://etherpad.openharmony.cn/p/compliance)，新增议题标题为**新成员加入申请** 并按时参加会议，会议中明确表示申请加入合规SIG，并记录为会议纪要. **注意，即使您不想成为合规SIG的成员，仍然可以不受任何限制的参加合规SIG的会议**
+  - 参加SIG会议加入：通过在例行的合规SIG例会中[自行申报议题](https://shimo.im/sheets/B1Aw1d18GeFygLqm/MODOC)，新增议题标题为**新成员加入申请** 并按时参加会议，会议中明确表示申请加入合规SIG，并记录为会议纪要. **注意，即使您不想成为合规SIG的成员，仍然可以不受任何限制的参加合规SIG的会议**
 
 
 ## 开始参与贡献（Get Involved）
