@@ -34,7 +34,7 @@ OpenHarmony开发者文档概览如下图所示，包含入门学习、上手体
 
 其他资源：
 
-Samples：https://gitee.com/openharmony/app_samples
+Samples：https://gitee.com/openharmony/applications_app_samples
 
 Codelabs：https://gitee.com/openharmony/codelabs
 
