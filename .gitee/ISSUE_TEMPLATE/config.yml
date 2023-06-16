@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+    - name: 维护代码仓Committer信息
+      url: http://ci.openharmony.cn/workbench/sig/repositoryManagement
+      about: 如果您需要维护代码仓Committer信息，请访问CI Portal门户站点仓库管理页面。
