@@ -6707,3 +6707,14 @@ projects = []
 [sig.leader]
 gitee_id = "https://gitee.com/frank-huangran"
 gitee_email = "frank.huangran@huawei.com"
+
+[[sig]]
+sig_name = "sig_castengine"
+description = "提供自适应Cast+ Stream，Wi-Fi Display，DLNA多种协议的音视频投播能力，为南北向开发者提供统一的接口及归一化的体验"
+sig_status = "active"
+sub_system = ["L1S_CastEngine"]
+projects = []
+
+[sig.leader]
+gitee_id = "https://gitee.com/wanghao8866"
+gitee_email = "zidane.wanghao@huawei.com"

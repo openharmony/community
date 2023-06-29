@@ -1,0 +1,47 @@
+{
+    "Leader": [{
+        "gitee_id": "wanghao_8866",
+        "gitee_email": "zidane.wanghao@huawei.com"
+    }],
+    "Committers": [{
+            "gitee_id": "wanghao_8866",
+            "gitee_email": "zidane.wanghao@huawei.com"
+        },
+        {
+            "gitee_id": "JasonLi111",
+            "gitee_email": "lijianzhao111@huawei.com"
+        },
+        {
+            "gitee_id": "dyl-dev",
+            "gitee_email": "diaoyuelei@huawei.com"
+        },
+        {
+            "gitee_id": "dk_dingkang",
+            "gitee_email": "dingkang@huawei.com"
+        },
+        {
+            "gitee_id": "zg2wvj",
+            "gitee_email": "zhangge2@huawei.com"
+        },
+        {
+            "gitee_id": "solomongao",
+            "gitee_email": "will.gaowei@huawei.com"
+        },
+        {
+            "gitee_id": "ibanezsc",
+            "gitee_email": "shichong@kaihong.com"
+        },
+        {
+            "gitee_id": "bayanxing",
+            "gitee_email": "bayanxing@kaihong.com"
+        },
+        {
+            "gitee_id": "algoideas",
+            "gitee_email": "minjie.yu@unionman.com.cn"
+        },
+        {
+            "gitee_id": "daziran96",
+            "gitee_email": "liziran2@huawei.com"
+        }
+    ]
+}
