@@ -74,6 +74,7 @@
 - @zw0601(https://gitee.com/zw0601)
 - @pratinaGAO(https://gitee.com/pratinaGAO)
 - @YixiongChen(https://gitee.com/YixiongChen)
+- @tina79(https://gitee.com/tina79)
 
 ## 会议
  - 会议时间：公开的会议时间：北京时间，每周五 上午，10:45~11:45
@@ -96,6 +97,9 @@
   
   - 参加SIG会议加入：通过在例行的合规SIG例会中[自行申报议题](https://shimo.im/sheets/B1Aw1d18GeFygLqm/MODOC)，新增议题标题为**新成员加入申请** 并按时参加会议，会议中明确表示申请加入合规SIG，并记录为会议纪要. **注意，即使您不想成为合规SIG的成员，仍然可以不受任何限制的参加合规SIG的会议**
 
+## 合规SIG运作共识
+
+[合规SIG运作治理章程](docs/合规SIG运作治理章程.md)
 
 ## 开始参与贡献（Get Involved）
 
