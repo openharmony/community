@@ -45,22 +45,38 @@ vim sig/sigs\_list.toml
 SIG组需要定期召开例会，讨论和总结SIG组领域工作，并向OpenHarmony PMC组织进行定期汇报。如果SIG组中的Leader角色有变动，需要及时知会OpenHarmony社区PMC成员，并对组织信息和仓库权限进行相应的调整。
 
 # 2.  **仓库管理**
-## 2.1  SIG组仓库新增、退休、更名申请：
-### 2.1.1  申请架构SIG评审
+
+## 2.1  OpenHarmony 项目仓库管理流程
+
+OpenHarmony 项目从开源建仓到孵化准出进入主线，需要经历以下几个步骤：
+
+1. **[申报架构 SIG](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC) 新建仓库申请的议题**：提交新建仓库的申请。
+2. **[申报架构 SIG](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC) 孵化准出预审的议题**：进行孵化准出的预审。
+3. **[申报 QA SIG](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC) 孵化准出终审的议题**：完成孵化准出的终审，并解决所有遗留问题。
+
+### 注意事项
+
+在整个过程中，需要注意以下几点：
+
+1. **孵化准出条件**：除了满足基本的合规要求外，还必须完成孵化仓目标准出的 **关联仓的联合构建** 。
+2. **代码交叉检视**：为了实现提交代码的充分检视，要求新建仓库必须 **配置至少 2 名及以上的 Committer 以支持代码交叉检视功能** 。
+
+## 2.2  SIG组仓库新增、退休、更名申请：
+### 2.2.1  申请架构SIG评审
 参考[模板1--新增、退休、更名](../sig/sig_architecture/meetings/repository_review_template.pptx)准备对应的申请材料，申请[架构SIG](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC)议题评审。
 
 参考[模板2--开源软件引入](../sig/sig_architecture/meetings/OpenHarmony_thirdparty_opensource_software_selection_analysis_templateV1.0.pptx)准备对应的申请材料，申请[架构SIG](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC)议题评审。
 
-###  2.1.2 新增仓电子流申请：
+###  2.2.2 新增仓电子流申请：
 架构SIG评审通过后，新增仓[操作指导](http://ci.openharmony.cn/workbench/ciCommunity)：“操作指南” --> "SIG管理" --> “SIG仓申请”。
-###  2.1.3 仓库退休、更名电子流申请：
+###  2.2.3 仓库退休、更名电子流申请：
 架构SIG评审通过后，仓库退休、更名[操作指导](http://ci.openharmony.cn/workbench/ciCommunity)：“操作指南” --> "SIG管理" --> “仓管理”。
 
-##  2.2 仓库孵化准出：
-###  2.2.1 申请架构SIG孵化预审：
+##  2.3 仓库孵化准出：
+###  2.3.1 申请架构SIG孵化预审：
 [申请议题](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC)进行孵化准出架构预审，参考[模板](../sig/sig_architecture/meetings/repository_review_template.pptx) 准备对应的申请材料。
 
-### 2.2.2 申请质量SIG孵化准出评审：
+### 2.3.2 申请质量SIG孵化准出评审：
 [申请议题](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC)：进行孵化准出评审，参考[准出标准](../sig/sig_qa/guidance_for_incubation_project_graduation_cn.md)准出孵化准出材料。
-###  2.2.3. 提交仓库孵化准出电子流：
+###  2.3.3. 提交仓库孵化准出电子流：
 质量SIG准出评审通过后，提交[孵化准出电子流](http://ci.openharmony.cn/workbench/ciCommunity)： “操作指南” --> "SIG管理" --> “孵化报告”。
