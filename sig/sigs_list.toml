@@ -6718,3 +6718,13 @@ projects = []
 [sig.leader]
 gitee_id = "https://gitee.com/wanghao8866"
 gitee_email = "zidane.wanghao@huawei.com"
+
+[[sig]]
+sig_name = "sig_tpc"
+description = "快速扩展OpenHarmony系统上的软件三方库，帮助开发者快速开发OpenHarmony应用，提升开发效率"
+sig_status = "active"
+sub_system = ["NONE"]
+projects = []
+[sig.leader]
+gitee_id = "https://gitee.com/andyhm10000"
+gitee_email = "liubaoyu1@huawei.com"
