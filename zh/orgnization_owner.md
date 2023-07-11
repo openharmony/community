@@ -15,3 +15,5 @@
 |13|OpenHarmony|https://gitee.com/ren_ze_hua|renzehua3@huawei.com|安全问题管理员|
 |14|OpenHarmony|https://gitee.com/xia-bubai|xiacong4@huawei.com|安全问题管理员|
 |15|OpenHarmony|https://gitee.com/w253227059|wangchen240@huawei.com|安全问题管理员|
+|16|OpenHarmony|https://gitee.com/wenxin-liu_admin|liuwenxin11@huawei.com|安全问题管理员|
+|17|OpenHarmony|https://gitee.com/fundavid|fangjiawei8@huawei.com|安全问题管理员|
