@@ -17,3 +17,4 @@
 |15|OpenHarmony|https://gitee.com/w253227059|wangchen240@huawei.com|安全问题管理员|
 |16|OpenHarmony|https://gitee.com/wenxin-liu_admin|liuwenxin11@huawei.com|安全问题管理员|
 |17|OpenHarmony|https://gitee.com/fundavid|fangjiawei8@huawei.com|安全问题管理员|
+|18|OpenHarmony|https://gitee.com/honghao534|honghao534@huawei.com|版本发布SIG|
