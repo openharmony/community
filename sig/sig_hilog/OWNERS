@@ -1,15 +1,11 @@
 {
     "Leader": [{
-        "gitee_id": "v11985",
-        "gitee_email": "wangfeng@iscas.ac.cn"
+        "gitee_id": "stesen",
+        "gitee_email": "stesen.ma@huawei.com"
     }],
     "Committers": [{
             "gitee_id": "yaomanhai",
             "gitee_email": "yaomanhai@huawei.com"
-        },
-        {
-            "gitee_id": "stesen",
-            "gitee_email": "stesen.ma@huawei.com"
         },
         {
             "gitee_id": "shenchenkai",
