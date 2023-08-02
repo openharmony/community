@@ -4128,8 +4128,8 @@ gitee_email = "peitaiyi@huawei.com"
 
 
 [sig.leader]
-gitee_id = "https://gitee.com/xzmu"
-gitee_email = "kelei@iscas.ac.cn"
+gitee_id = "https://gitee.com/youthdragon"
+gitee_email = "youthdragon.wangyiming@huawei.com"
 [[sig]]
 sig_name = "sig_kernel"
 description = "负责构建OpenHarmony的内核存储、内存、调度、安全等能力增强，多内核兼容架构设计、评审、决策及开发"
@@ -6515,8 +6515,8 @@ sub_system = ["NONE"]
 projects = []
 
 [sig.leader]
-gitee_id = "https://gitee.com/v11985"
-gitee_email = "wangfeng@iscas.ac.cn"
+gitee_id = "https://gitee.com/stesen"
+gitee_email = "stesen.ma@huawei.com"
 [[sig]]
 sig_name = "sig_industrial_internet"
 description = "负责构建围绕OpenHarmony构建工业专属操作系统和软硬件生态相关的架构设计、评审、决策及开发"
