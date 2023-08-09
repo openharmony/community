@@ -15,21 +15,34 @@
 - Handle requirements, issues and mailing lists, and ensure that the closure period meets the SLA requirements of the OpenHarmony community.
 - Provide feedback and guidance on code quality based on review and development activities to improve code quality in the OpenHarmony community.
 
++The overview of buildsystem
++![OpenHarmony buildsystem overview](figures/buildsystem-overview.png)
+
+### The repository
+- project name:
+  - build: https://gitee.com/openharmony/build
+  - third_party_gn: https://gitee.com/openharmony/third_party_gn
+  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
+  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
+  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
+  - third_party_python: https://gitee.com/openharmony/third_party_python
 
 ## SIG Members
 
 ### Leader
-- @anguanglin (https://gitee.com/anguanglin)
+- @liwentao (https://gitee.com/liwentao)
 
 ### Committers
 - @chenmudan (https://gitee.com/chenmudan)
-- @xiaolielie (https://gitee.com/xiaolielie)
+- @belanLu (https://gitee.com/belanLu)
 - @ychuawei (https://gitee.com/ychuawei)
-- @weifulun (https://gitee.com/weifulun)
-- @Xingwa (https://gitee.com/wangxing-hw)
-- @weichaox (https://gitee.com/weichaox)
-- @jady3356 (https://gitee.com/taiyipei)
-- @wangshaofeng (https://gitee.com/wangshaofeng)
+- @shawshank506 (https://gitee.com/shawshank506)
+- @xxlight (https://gitee.com/xxlight)
+- @Ascnbio (https://gitee.com/Ascnbio)
+- @fangting10 (https://gitee.com/fangting10)
+- @ya-ning-liu (https://gitee.com/ya-ning-liu)
+- @huanghuijin (https://gitee.com/huanghuijin)
+- @guzhihao4 (https://gitee.com/guzhihao4)
 
  ### Meetings
  - Meeting time: Bi-weekly meeting, Monday 19:00 pm, UTC+8
