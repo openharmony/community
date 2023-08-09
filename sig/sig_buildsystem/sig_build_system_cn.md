@@ -15,20 +15,34 @@
 - 积极有效参与开源社区代码检视与点评、共享编程经验、与开源社区开发者交流、传递编译构建相关技能、有效辅导开源社区开发者更方便使用编译构建系统
 - 结合评审和开发活动、给与代码质量反馈与指导、促进开源社区代码质量提升
 
+编译构建全景图
+![OpenHarmony编译构建全景图](figures/buildsystem-overview.png)
+
+## 代码仓
+- 代码仓地址：
+  - build: https://gitee.com/openharmony/build
+  - third_party_gn: https://gitee.com/openharmony/third_party_gn
+  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
+  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
+  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
+  - third_party_python: https://gitee.com/openharmony/third_party_python
+
 ## SIG组成员
 
 ### Leader
-- @anguanglin (https://gitee.com/anguanglin)
+- @liwentao (https://gitee.com/liwentao)
 
 ### Committers列表
 - @chenmudan (https://gitee.com/chenmudan)
-- @xiaolielie (https://gitee.com/xiaolielie)
+- @belanLu (https://gitee.com/belanLu)
 - @ychuawei (https://gitee.com/ychuawei)
-- @weifulun (https://gitee.com/weifulun)
-- @Xingwa (https://gitee.com/wangxing-hw)
-- @weichaox (https://gitee.com/weichaox)
-- @jady3356 (https://gitee.com/taiyipei)
-- @wangshaofeng (https://gitee.com/wangshaofeng)
+- @shawshank506 (https://gitee.com/shawshank506)
+- @xxlight (https://gitee.com/xxlight)
+- @Ascnbio (https://gitee.com/Ascnbio)
+- @fangting10 (https://gitee.com/fangting10)
+- @ya-ning-liu (https://gitee.com/ya-ning-liu)
+- @huanghuijin (https://gitee.com/huanghuijin)
+- @guzhihao4 (https://gitee.com/guzhihao4)
 
 ### 会议
  - 会议时间：双周例会，周一晚上19:00，UTC+8

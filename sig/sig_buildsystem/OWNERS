@@ -1,31 +1,37 @@
 {
     "Leader": [{
-        "gitee_id": "anguanglin",
-        "gitee_email": "anguanglin@huawei.com"
+        "gitee_id": "liwentao",
+        "gitee_email": "liwentao20@huawei.com"
     }],
     "Committers": [{
         "gitee_id": "chenmudan",
         "gitee_email": "chenmudan@huawei.com"
     }, {
-        "gitee_id": "xiaolielie",
-        "gitee_email": "yihonglie1@huawei.com"
+        "gitee_id": "belanLu",
+        "gitee_email": "lubinglun@huawei.com"
     }, {
         "gitee_id": "ychuawei",
         "gitee_email": "yinchuang@huawei.com"
     }, {
-        "gitee_id": "weifulun",
-        "gitee_email": "weifulun@huawei.com"
+        "gitee_id": "shawshank506",
+        "gitee_email": "haotuo@huawei.com"
     }, {
-        "gitee_id": "wangshaofeng",
-        "gitee_email": "wangweichao2@huawei.com"
+        "gitee_id": "xxlight",
+        "gitee_email": "xiaoxiaoliang2@huawei.com"
     }, {
-        "gitee_id": "Xingwa",
-        "gitee_email": "raymond.wangxing@huawei.com"
+        "gitee_id": "Ascnbio",
+        "gitee_email": "lijunru6@huawei.com"
     }, {
-        "gitee_id": "weichaox",
-        "gitee_email": "wangweichao2@huawei.com"
+        "gitee_id": "fangting10",
+        "gitee_email": "fangting10@huawei.com"
     }, {
-        "gitee_id": "jady3356",
-        "gitee_email": "peitaiyi@huawei.com"
+        "gitee_id": "ya-ning-liu",
+        "gitee_email": "liuyaning6@huawei.com"
+    }, {
+        "gitee_id": "huanghuijin",
+        "gitee_email": "huanghuijin@huawei.com"
+    }, {
+        "gitee_id": "guzhihao4",
+        "gitee_email": "guzhihao4@huawei.com"
     }]
 }
