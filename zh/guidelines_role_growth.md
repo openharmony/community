@@ -19,14 +19,14 @@
 - 2.1.1 如何晋升Committer: 优秀的OpenHarmony 社区贡献者，经现任PMC/Committer提名和投票后，可以成为OpenHarmony 社区Committer，Committer按照权限可分为Approver审批人和Reviewer审阅人。
     - Approver审批人 :
         - 1. OpenHarmony项目贡献至少3个月
-        - 2. 至少10个PR的主要审阅人
-        - 3. 至少有30个PR的审核意见或30个实质性的代码PR提交
+        - 2. 至少5个PR的审核意见
+        - 3. 20个实质性的代码PR提交
         - 4. 对所申请的仓库代码非常熟悉
         - 5. 由对应仓库的审批人或SIG Leader或PMC提名
     - Reviewer审阅人 :
         - 1. OpenHarmony项目贡献至少2个月
-        - 2. 至少有5个PR的主要审阅人
-        - 3. 至少有10个PR的审核意见或10个实质性的代码PR提交
+        - 2. 至少有5个PR的审核意见
+        - 3. 10个实质性的代码PR提交
         - 4. 对所申请的仓库代码非常熟悉
         - 5. 可以由对应仓库的审批人或审阅人提名
 
