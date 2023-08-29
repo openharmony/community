@@ -6728,3 +6728,13 @@ projects = []
 [sig.leader]
 gitee_id = "https://gitee.com/andyhm10000"
 gitee_email = "liubaoyu1@huawei.com"
+
+[[sig]]
+sig_name = "sig_ads"
+description = "在OpenHarmony社区统一广告标准，构建广告技术能力，以广告繁荣应用生态"
+sig_status = "active"
+sub_system = ["L1S_CloudService"]
+projects = []
+[sig.leader]
+gitee_id = "https://gitee.com/njujimmy"
+gitee_email = "jiangming5@huawei.com"

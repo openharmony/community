@@ -1,0 +1,24 @@
+{
+    "Leader": [{
+        "gitee_id": "njujimmy",
+        "gitee_email": "jiangming5@huawei.com"
+    }],
+    "Committers": [
+        {
+            "gitee_id": "jinyouqi",
+            "gitee_email": "jinyouqi@huawei.com"
+        },
+        {
+            "gitee_id": "starkingwx",
+            "gitee_email": "wangxing44@huawei.com"
+        },
+        {
+            "gitee_id": "zhong-liyu0313",
+            "gitee_email": "zhongliyu@huawei.com"
+        },
+        {
+            "gitee_id": "charley_guo",
+            "gitee_email": "guochao19@huawei.com"
+        }
+    ]
+}
