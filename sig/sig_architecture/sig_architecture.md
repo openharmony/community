@@ -1,5 +1,5 @@
 # SIG-Architecture
-English | [简体中文](./sig-architecture_cn.md)
+English | [简体中文](./sig_architecture_cn.md)
 
 Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
 
