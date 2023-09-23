@@ -6738,3 +6738,14 @@ projects = []
 [sig.leader]
 gitee_id = "https://gitee.com/njujimmy"
 gitee_email = "jiangming5@huawei.com"
+
+[[sig]]
+sig_name = "sig_car"
+description = "OpenHarmony For Car系统能力构建，支撑Car生态应用和智能座舱"
+sig_status = "active"
+sub_system = ["NONE"]
+projects = []
+[sig.leader]
+gitee_id = "https://gitee.com/diao-meng"
+gitee_email = "diaomeng@huawei.com"
+
