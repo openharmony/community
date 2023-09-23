@@ -9,7 +9,7 @@
 |7|OpenHarmony|https://gitee.com/ragnvald|dmitry.kovalenko@huawei.com|ARKCompiler Maintainer|
 |8|OpenHarmony|https://gitee.com/diog|zhaopeng22@huawei.com|版本发布SIG|
 |9|OpenHarmony|https://gitee.com/zhangyun761|zhangyun761@huawei.com|社区安全委员会|
-|10|OpenHarmony|https://gitee.com/ren_ze_hua|renzehua3@huawei.com|安全问题管理员|
+|10|OpenHarmony|https://gitee.com/hs_xia|hexia20@h-partners.com|安全问题管理员|
 |11|OpenHarmony|https://gitee.com/xia-bubai|xiacong4@huawei.com|安全问题管理员|
 |12|OpenHarmony|https://gitee.com/w253227059|wangchen240@huawei.com|安全问题管理员|
 |13|OpenHarmony|https://gitee.com/wenxin-liu_admin|liuwenxin11@huawei.com|安全问题管理员|
