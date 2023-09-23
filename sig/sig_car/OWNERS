@@ -1,0 +1,35 @@
+{
+    "Leader": [{
+        "gitee_id": "diao-meng",
+        "gitee_email": "diaomeng@huawei.com"
+    }],
+    "Committers": [{
+            "gitee_id": "zwqianyu",
+            "gitee_email": "ychao.yang@huawei.com"
+        },
+        {
+            "gitee_id": "Yongyan_Yu",
+            "gitee_email": "yuyongyan@dfmc.com.cn"
+        },
+        {
+            "gitee_id": "leonard_shi",
+            "gitee_email": "shi_lei1@hoperun.com"
+        },
+        {
+            "gitee_id": "timeshi",
+            "gitee_email": "time.shi@qq.com"
+        },
+        {
+            "gitee_id": "shao_min",
+            "gitee_email": "min.shao@archermind.com"
+        },
+        {
+            "gitee_id": "algoideas",
+            "gitee_email": "minjie.yu@unionman.com.cn"
+        },
+        {
+            "gitee_id": "ts_hulei",
+            "gitee_email": "hulei0901@thundersoft.com"
+        }
+    ]
+}
