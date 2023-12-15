@@ -47,7 +47,9 @@
 | 张小田 | [@handyohos](https://gitee.com/handyohos) | PMC成员 | 基础软件服务SIG |
 | 李煜 | [@abbuu](https://gitee.com/abbuu) | PMC成员 | 图形SIG |
 | 巴延兴 | [@bayanxing](https://gitee.com/bayanxing) | PMC成员 | 测试SIG |
-
+| 候鹏飞 | [@talkweb_houpengfei](https://gitee.com/talkweb_houpengfei) | PMC成员 | 驱动框架SIG |
+| 庞伟 | [@paworcn](https://gitee.com/paworcn) | PMC成员 | 多媒体SIG |
+| 王石 | [@wshikh](https://gitee.com/wshikh) | PMC成员 | 软总线（蓝牙/WIFI）SIG |
 
 ## PMC会议链接
 - 会议时间: 每双周周四 9:30-11:00
