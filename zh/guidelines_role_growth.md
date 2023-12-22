@@ -36,7 +36,7 @@
 
 - 2.1.3  如何晋升PMC：优秀的OpenHarmony 社区Committer，经现任PMC成员提议和投票后，可以成为OpenHarmony 社区PMC。
 
-### 2.2 晋升Committer投票流程 :
+### 2.2 晋升Committer投票流程:
 
 - 2.2.1  由现任PMC/Committer提名，以标题“[VOTE] New Committer [Approver/Reviewer] xxx ”发送邮件至[pmc@openharmony.io](mailto:pmc@openharmony.io)。
 
@@ -47,10 +47,11 @@
 - 2.2.4 提名Reviewer权利的Committer获得三票及以上赞成票，无反对票情况下投票通过。投反对票的PMC成员必须说明反对的具体问题（无问题描述的反对票无效），投票发起人可针对具体问题进行澄清或修复。
 
 - 2.2.5 投票通过后，PMC主席在OpenHarmony社区公告新Committer。
+- 2.2.6 实际操作流程[参考](./update_committer_workflow.md)
 
 ### 2.3  晋升PMC投票流程 :
 
-- 2.3.1 由现任PMC提名，并在PMC会议上进行投票决策；
+- 2.3.1 由现任PMC提名，候选人在PMC会议上进行进行陈述，由PMC成员投票决策；
 
 - 2.2.2 被提名的PMC候选人，在获得2/3及以上的参会PMC成员赞成下投票通过。有投票权的到会PMC成员超过应到会PMC成员的一半，会议方为有效。
 
