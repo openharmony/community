@@ -1604,7 +1604,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/utils_system_resources",
+                "https_url": "https://gitee.com/openharmony/global_system_resources",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhuxiang6",
