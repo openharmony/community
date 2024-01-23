@@ -13,28 +13,44 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 CrossPlatformUI SIG aims to reduce the cost and difficulty of OpenHarmony UI layer development, so that OpenHarmony can reuse the massive development ecology and application ecology of Web side and small program side, and improve the efficiency of cross-platform development.
 
-On the one hand, the CrossPlatformUI SIG extends various UI development paradigms for OpenHarmony, allowing developers to use technology stacks familiar with the front end (including programming frameworks such as React and Vue; Build tools such as Webpack, Vite) to develop OpenHarmony applications. The CrossPlatformUI SIG, on the other hand, enables applets and H5 applications to run directly on OpenHarmony, as well as a vast library of front-end ecosystem tools.
+CrossPlatformUI SIG allows applications developed based on frameworks such as Taro, React Native, Flutter, uni-app, CEF (Electron), WEEX, Cordova, etc. to run directly on the OpenHarmony platform.
+
+
 
 ### work scope
 
-- Cross-platform core adaptation
+1. **Cross-platform framework adaptation scope**
 
-Develop and maintain a cross-platform adaptation core, including the ability to expand the UI paradigm for OpenHarmony and adapt Web applications and various applets to OpenHarmony.
+   - Taro
+   - React Native
+   - Flutter
+   - uni-app
+   - CEF (Electron)
+   - WEEX
+   - Cordova
 
-- Component library, API library
+Develop and maintain cross platform adaptation cores, enabling developers to reuse cross platform UI framework code assets and achieve the ability to quickly adapt to OpenHarmony.   ![image-20231007155438055](D:\06.Flutter\02.Code\community\sig\sig_crossplatformui\figures\crossplatformui_overview.png)
 
-Develop and encapsulate cross-platform component libraries and API libraries.
+2. **Component,  API library**
 
-- Ecological expansion
+Develop and encapsulate cross platform component libraries and API libraries.
+
+3. **Ecological expansion**
 
 Including the development of OpenHarmony compatible UI library and various ecological tools library, etc.
 
 Actively cooperate with communities, universities and relevant customers.
 
+
+
 ## SIG Members
 
 ### Leader
-- [Taro](https://gitee.com/o2team/Taro)
+- [chenjj68](https://gitee.com/chenjj68)
+- [peiyunhua](https://gitee.com/peiyunhua)
+- [czg2022](https://gitee.com/czg2022)
+- [szzwk875](https://gitee.com/szzwk875)
+- [bocmbci-test](https://gitee.com/bocmbci-test)
 
 ### Committers
 - [baosiqing](https://gitee.com/baosiqing)
@@ -50,6 +66,13 @@ Actively cooperate with communities, universities and relevant customers.
 - [tangjiao11](https://gitee.com/tangjiao11)
 - [xuanzebin](https://gitee.com/xuanzebin)
 - [shuairuofukua](https://gitee.com/shuairuofukua)
+- [lihui868](https://gitee.com/lihui868)
+- [binai](https://gitee.com/binai)
+- [appproject](https://gitee.com/appproject)
+- [espaceHW](https://gitee.com/espaceHW)
+- [yangxi23](https://gitee.com/yangxi23)
+- [bocmbci-test](https://gitee.com/bocmbci-test)
+- [bocmbci_001](https://gitee.com/bocmbci_001)
 
 ### Meetings
  - Meeting time：Every fortnight Thursday 17:00-18:00
@@ -60,6 +83,6 @@ Actively cooperate with communities, universities and relevant customers.
 
 ### Contact (optional)
 
-- Mailing list：taro@jd.com
+- Mailing list：[dev@openharmony.io](mailto:dev@openharmony.io)
 - Wechat group：
 ![](https://img13.360buyimg.com/ling/jfs/t1/199829/17/18179/761565/619df07aE2f32e9ba/2b328bf44471a1ab.png)
