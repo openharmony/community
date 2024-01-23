@@ -1,7 +1,23 @@
 {
     "Leader": [{
-        "gitee_id": "o2team",
-        "gitee_email": "o2labs@163.com"
+        "gitee_id": "chenjj68",
+        "gitee_email": "chenjiajian@jd.com"
+    },
+	{
+        "gitee_id": "peiyunhua",
+        "gitee_email": "peiyunhua@huawei.com"
+    },
+	{
+        "gitee_id": "czg2022",
+        "gitee_email": "caizhigang@talkweb.com.cn"
+    },
+	{
+        "gitee_id": "szzwk875",
+        "gitee_email": "zhanghuan69@huawei.com"
+    },
+	{
+        "gitee_id": "bocmbci-test",
+        "gitee_email": "lzc4524@bank-of-china.com"
     }],
     "Committers": [{
             "gitee_id": "baosiqing",
@@ -54,6 +70,34 @@
         {
             "gitee_id": "shuairuofukua",
             "gitee_email": "xueshuai@jd.com"
+        },
+        {
+            "gitee_id": "lihui868",
+            "gitee_email": "george.lihui@huawei.com"
+        },
+        {
+            "gitee_id": "binai",
+            "gitee_email": "aibin@talkweb.com.cn"
+        },
+        {
+            "gitee_id": "appproject",
+            "gitee_email": "zhuzhengjun@talkweb.com.cn"
+        },
+        {
+            "gitee_id": "espaceHW",
+            "gitee_email": "liguokun@huawei.com"
+        },
+        {
+            "gitee_id": "yangxi23",
+            "gitee_email": "yangxi49@huawei.com"
+        },
+    	{
+            "gitee_id": "bocmbci-test",
+            "gitee_email": "lzc4524@bank-of-china.com"
+        },
+    	{
+            "gitee_id": "bocmbci_001",
+            "gitee_email": "033614625035.good@163.com"
         }
     ]
 }
