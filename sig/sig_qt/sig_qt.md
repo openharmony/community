@@ -7,11 +7,12 @@ Note: The content of this SIG follows the conventions described in the OpenHarmo
 
 ### Work Goals
 
-The Qt SIG is responsible for porting and adapting the [Qt](https://qt.io) software development framework to OpenHarmony. It aims to facilitate the migration of applications developed based on Qt and supplement the development ecosystem of OpenHarmony. The adapted Qt code for the OpenHarmony platform will be submitted to the Qt community.
+Qt is a cross-platform C++ application framework used for developing graphical user interface applications, supporting mainstream operating systems such as Windows, Linux, MacOS, etc. The Qt SIG has extended the Qt framework to support OpenHarmony, assisting applications developed with Qt in quickly migrating and supplementing the software ecosystem for OpenHarmony.
+
 
 ### Work Scope
 
-The Qt framework porting and adaptation plan contributes to versions Qt5.12.12 and Qt5.15.11.
+The Qt framework porting and adaptation plan contributes to versions Qt5.12.12 and Qt5.15.12.
 
 The adaptation contribution plan for version Qt5.12.12 is as follows:
 | Module                   | Description                                                  | Supported |
@@ -77,7 +78,7 @@ The adaptation contribution plan for version Qt5.12.12 is as follows:
 | Qt Virtual Keyboard      | A framework for implementing different input methods as well as a QML virtual keyboard. Supports localized keyboard layouts and custom visual themes. | No        |
 | Qt Quick WebGL           | Provides a platform plugin that allows streaming Qt Quick user interfaces over the network using WebGL™. | No        |
 
-The adaptation contribution plan for version Qt5.15.11 is as follows（The module with bold font indicates differences from the 5.12.12 version）:
+The adaptation contribution plan for version Qt5.15.12 is as follows（The module with bold font indicates differences from the 5.12.12 version）:
 | Module                   | Description                                                  | Supported |
 | ------------------------ | ------------------------------------------------------------ | --------- |
 | Qt Core                  | Core non-graphical classes used by other modules.            | Yes       |
@@ -148,8 +149,8 @@ The adaptation contribution plan for version Qt5.15.11 is as follows（The modul
 - December 2022 to March 2023: Port tools related to Qt, match Qt-related project engineering; complete the porting of additional Qt modules.
 - March 2023 to June 2023: Validate the porting and adaptation of Qt samples and demos.
 - July 2023 to September 2023: Complete the adaptation of modules planned for Qt5.12.12 version and release the binary SDK package; validate the porting and adaptation of Qt unit tests.
-- October 2023 to December 2023: Complete the adaptation of modules planned for Qt5.15.11 version and release the binary SDK package; release a Qt application example project based on DevEco.
-- January 2024 to June 2024: Complete the adaptation for Qt6.5.x version and release the binary SDK package.
+- October 2023 to December 2023: Complete the adaptation of modules planned for Qt5.15.12 version and release the binary SDK package; release a Qt application example project based on DevEco.
+- January 2024 to June 2024: Complete the adaptation for Qt6.2.x version and release the binary SDK package.
 
 ## SIG Members
 
@@ -165,7 +166,7 @@ The adaptation contribution plan for version Qt5.15.11 is as follows（The modul
 
 ### Meeting
  - Meeting Time: Bi-weekly meeting, Friday 10:00-10:30
- - Meeting Proposal：[Qt SIG Metting Proposal](https://shimo.im/sheets/vVqRVBewOBUx7oqy/MODOC)
+ - Meeting Proposal：[Qt SIG Metting Proposal](https://docs-pre.qingque.cn/s/home/eZQDMOq-T25IEhYtRTMYbqWUD?identityId=25cWu1jdmUt)
  - Meeting Link: WeLink
  - Meeting Summary：[Archive Link Address](https://gitee.com/openharmony-sig/sig-content/tree/master/qt/meetings)
  - Meeting Notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
