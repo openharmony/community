@@ -6749,3 +6749,12 @@ projects = []
 gitee_id = "https://gitee.com/diao-meng"
 gitee_email = "diaomeng@huawei.com"
 
+[[sig]]
+sig_name = "sig_huaweicloud"
+description = "为OpenHarmony提供云端配合组件"
+sig_status = "active"
+sub_system = ["NONE"]
+projects = []
+[sig.leader]
+gitee_id = "https://gitee.com/one_two_zero"
+gitee_email = "nieyanling@huawei.com"
