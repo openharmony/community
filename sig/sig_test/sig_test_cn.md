@@ -18,15 +18,24 @@ Test-SIG（ sig_Test ）技术栈范围全景图如下图所示：
 
 ![test_overview](figures/test_overview.png)
 
+测试仓目录结构如下图所示：
+
+![test_dir](figures/test_dir.png)
+
+测试内容组成如下图所示：
+
+![test_content](figures/test_content.png)
+
 ## 代码仓
-| **称**                    | **部件功能描述**                                             | **部件仓名称**                              |
-| ------------------------- | ------------------------------------------------------------ | ------------------------------------------- |
-| 测试框架arkXtest          | OpenHarmony自动化测试框架代码部件仓arkXtest，包含单元测试框架(JsUnit)和Ui测试框架(UiTest)。 | arkXtest                                    |
-| 稳定性测试工具wukong      | 稳定性测试工具，支持：控件随机注入、基础注入、录制回放能力、可视化工具、可视化报告功能 | wukong                                      |
-| 性能功耗测试工具smartperf | 支持FPS、功耗、热、Soc信息的实时采集、实时展示、数据报告生成 | developtools_profiler/host/smartperf/client |
-| 自测试框架developer_test  | OpenHarmony为开发者提供了一套全面的自测试框架，开发者可根据测试需求开发相关测试用例，开发阶段提前发现缺陷，大幅提高代码质量 | test_developertest                          |
+| **称**               | **部件功能描述**                                             | **部件仓名称**                                   |
+|---------------------| ------------------------------------------------------------ |---------------------------------------------|
+| 测试框架arkXtest        | OpenHarmony自动化测试框架代码部件仓arkXtest，包含单元测试框架(JsUnit)和Ui测试框架(UiTest)。 | arkXtest                                    |
+| 稳定性测试工具wukong       | 稳定性测试工具，支持：控件随机注入、基础注入、录制回放能力、可视化工具、可视化报告功能 | wukong                                      |
+| 性能功耗测试工具smartperf   | 支持FPS、功耗、热、Soc信息的实时采集、实时展示、数据报告生成 | developtools_profiler/host/smartperf/client |
+| 自测试框架developer_test | OpenHarmony为开发者提供了一套全面的自测试框架，开发者可根据测试需求开发相关测试用例，开发阶段提前发现缺陷，大幅提高代码质量 | test_developertest                          |
 | 测试调度框架test_xdevice  | xdevice是OpenHarmony中为测试框架的核心组件，提供用例执行所依赖的相关服务 | test_xdevice                                |
 | 性能调优工具profiler      | OpenHarmony性能调优分析工具，支持CPU调度、频点、进程线程时间片、堆内存、FPS数据采集和展示。支持在泳道图中展示非实时的采集数据，支持GUI操作数据分析 | developtools_profiler/host/smartperf        |
+| 集成测试integration_test       | 集成测试仓用于统一规划、开发、管理操作系统产品化的场景、功能、性能、稳定性、安全性等测试用例。 | test/ostest/ostest_integration_test         |
 
 ## SIG组成员
 
