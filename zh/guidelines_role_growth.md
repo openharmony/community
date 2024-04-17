@@ -16,22 +16,15 @@
 
 ### 2.1 晋升标准简介 :
 
-- 2.1.1 如何晋升Committer: 优秀的OpenHarmony 社区贡献者，经现任PMC/Committer提名和投票后，可以成为OpenHarmony 社区Committer，Committer按照权限可分为Approver审批人和Reviewer审阅人。
-    - Approver审批人 :
-        - 1. OpenHarmony项目贡献至少3个月
-        - 2. 至少5个PR的审核意见
-        - 3. 20个实质性的代码PR提交
-        - 4. 对所申请的仓库代码非常熟悉
-        - 5. 由对应仓库的审批人或SIG Leader或PMC提名
-    - Reviewer审阅人 :
-        - 1. OpenHarmony项目贡献至少2个月
-        - 2. 至少有5个PR的审核意见
-        - 3. 10个实质性的代码PR提交
-        - 4. 对所申请的仓库代码非常熟悉
-        - 5. 可以由对应仓库的审批人或审阅人提名
+- 2.1.1 如何晋升Committer: 优秀的OpenHarmony 社区贡献者，经现任PMC/Committer提名和投票后，可以成为OpenHarmony 社区Committer，申请Committer后，具有PR的审核加分权限。
+  - 1. OpenHarmony项目贡献至少2个月
+  - 2. 至少有5个PR的审核意见
+  - 3. 10个实质性的代码PR提交
+  - 4. 对所申请的仓库代码非常熟悉
+  - 5. 可以由对应仓库的审批人或审阅人提名
 
 - 2.1.2 如何成为SIG Leader: 优秀的OpenHarmony Committer，通过PMC项目管理委员会批准后，可以成为对应的SIG的SIG Leader。
-  - 新申请SIG的SIG Leader： 任何开发者可以在社区中寻找2-3个有共同兴趣及目标的开发者，确定SIG Leader候选人，通过PMC项目管理委员会发送新建SIG的PR申请，经PMC项目管理委员会批准后，可以成为此新SIG的SIG Leader
+  - 新申请SIG的SIG Leader： 任何开发者可以在社区中寻找3个及以上有共同兴趣及目标的开发者，确定SIG Leader候选人，通过PMC项目管理委员会发送新建SIG的PR申请，经PMC项目管理委员会批准后，可以成为此新SIG的SIG Leader
   - 已有SIG的SIG Leader： 已经是对应SIG所看护领域的仓库Committer，可以由对应SIG的Committer、SIG Leader或PMC成员提名
 
 - 2.1.3  如何晋升PMC：优秀的OpenHarmony 社区Committer，经现任PMC成员提议和投票后，可以成为OpenHarmony 社区PMC。
