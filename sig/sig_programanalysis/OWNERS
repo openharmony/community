@@ -1,0 +1,55 @@
+{
+    "Leader": [{
+        "gitee_id": "lilicoding",
+        "gitee_email": "lilicoding@buaa.edu.cn"
+    }],
+    "Committers": [{
+            "gitee_id": "kubigao",
+            "gitee_email": "https://gitee.com/kubigao"
+        },
+        {
+            "gitee_id": "yifei-xue",
+            "gitee_email": "https://gitee.com/yifei_xue"
+        },
+        {
+            "gitee_id": "kubrick-hjh",
+            "gitee_email": "https://gitee.com/kubrick-hjh"
+        },
+        {
+            "gitee_id": "speed9",
+            "gitee_email": "https://gitee.com/speeds"
+        },
+        {
+            "gitee_id": "bbsun",
+            "gitee_email": "https://gitee.com/bbsun"
+        },
+        {
+            "gitee_id": "chn",
+            "gitee_email": "https://gitee.com/chn"
+        },
+        {
+            "gitee_id": "Elouan",
+            "gitee_email": "https://gitee.com/Elouan"
+        },
+        {
+            "gitee_id": "Rnine",
+            "gitee_email": "https://gitee.com/Rnine"
+        },
+        {
+            "gitee_id": "workspace_cb",
+            "gitee_email": "https://gitee.com/workspace_cb"
+        },
+        {
+            "gitee_id": "longyuC",
+            "gitee_email": "https://gitee.com/longyuC"
+        },
+        {
+            "gitee_id": "xyji95",
+            "gitee_email": "https://gitee.com/xyji95"
+        },
+        {
+            "gitee_id": "xulingyun-red",
+            "gitee_email": "https://gitee.com/xulingyun-red"
+        }
+    ]
+}
