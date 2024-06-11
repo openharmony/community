@@ -11,6 +11,9 @@ OpenHarmony安全业务的开发规划
 ### 工作范围
 OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密钥管理等
 
+安全SIG（ sig_security ）架构全景图如下图所示：
+![OpenHarmony文档概览](figures/sig_security_overview.png)
+
 ## SIG组成员
 
 ### Leader
