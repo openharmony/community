@@ -48,6 +48,8 @@ SBOM可在不同的软件声明周期内进行生成，因此SBOM也会存在因
 | Deployed SBOM | SBOM提供系统上存在的软件清单。 这可能时其他SBOM的集合，它结合了配置选型的分析和部署环境中的执行行为检查 | 通常通过记录已安全在系统上的软件的SBOM和配置信息生成     | 显示系统上安装的软件，包括用于运行应用程序的其他配置和系统软件 | 可能会要修改安装/部署过程，可能无法准确描述运行环境 |
 | Runtime SBOM  | 通过检测运行软件的系统生成的SBOM，已仅捕获系统中存在的组件，以及外部标注或动态加载的组件。在某些情况下，这也可以成为“仪器化”或“动态”SBOM     | 通常由与系统交互的工具生成，以记录运行环境中存在的或已执行的artifacts  | 提升系统运行状况可见性，包括动态加载和外部链接，包括哪些被激活，哪些被使用的状态  | 需要在运行时分析系统，可能需要额外开销。有些详细信息可能需要系统运行一段时间后才能获得。  |
 
+OpenHarmony社区当前核心关注**两类SBOM的生成与使用**：Source SBOM（基于全量源码）和Build SBOM（基于设备形态中使用的部件）
+
 ## OpenHarmony社区SBOM最小集规范
 参照业界对于SBOM最小集的要求，结合OpenHarmony社区中安全治理、开源软件管理、开源合规治理诉求特对OpenHarmony社区SBOM进行以下三方面的规范
 
@@ -56,6 +58,9 @@ SBOM可在不同的软件声明周期内进行生成，因此SBOM也会存在因
 3. **SBOM自动化支持格式**：即SBOM清单在表达关键信息时需要遵从的格式、关键字、嵌套表达方式要求，此格式在SBOM生成和SBOM消费环节都需要使用，并且要做到*机器可读*。
 
 ### OpenHarmony社区安全治理、开源合规治理、开源软件管理诉求汇总
+1. 安全治理：开源软件成分的准确全面
+2. 开源合规：许可证信息准确
+3. 开源管理：软件生命周期满足要求，状态与部件实时同步，二进制管理
 
 ### OpenHarmony SBOM 各组件最小数据集规范
 组件最小数据集是指作为每个组件必须包含的数据信息的集合，通过本数据集，应可以充分完整的追溯到该组件中成分的原始信息，再进一步基于这些最小集信息，可以根据不同的场景诉求，生成对应的满足安全治理、合规治理等SBOM信息。
@@ -145,10 +150,11 @@ OpenHarmony SBOM SPDX格式规范
 ##### SPDXID 命名规则  
 - SBOM 清单文档 : SPDXRef-DOCUMENT
 - 产品大包：  SPDXRef-PRODUCT
-- 源码仓： SPDXRef-SOURCE-源码仓
+- 源码仓： SPDXRef-SOURCE-源码仓名
 - 第三方上游软件： SPDXRef-UPSTREAM-软件名
 - 文件/二进制： SPDXRef-路径，其中/改为-
 - 软件包：SPDXRef-Package-包名
+- 部件：SPDXRef-Componet-部件名
 
 
 ##### Package information section
@@ -186,7 +192,7 @@ OpenHarmony SBOM SPDX格式规范
       "referenceLocator" : "cpe:2.3:a:pivotal_software:spring_framework:4.1.0:*:*:*:*:*:*:*",
       "referenceType" : "cpe23Type"
       }],
-    "primaryPackagePurpose" : "SOURCE", **相较SPDX额外作为必选** **开源管理必选**, 标识软件包属性，应用hap使用APPLICATION;应用框架使用FRAMEWORK; 单一功能库使用LIBRARY;容器镜像使用CONTAINER; 操作系统OS使用OPERATING-SYSTEM;芯片及开发板相关使用DEVICE;驱动等底软使用 FIRMWARE， 当前组件为多个源码文件的集合使用SOURCE; 当前为压缩包(.tar, .zip等）使用ARCHIVE; 独立可分发的单文件使用FILE ; 如果仅用于安装软件的工具使用INSTALL，未被上述领域覆盖的使用OTHER.
+    "primaryPackagePurpose" : "FRAMEWORK", **相较SPDX额外作为必选** **开源管理必选**, 标识软件包属性，应用hap使用APPLICATION;应用框架使用FRAMEWORK; 单一功能库使用LIBRARY;容器镜像使用CONTAINER; 操作系统OS使用OPERATING-SYSTEM;芯片及开发板相关使用DEVICE;驱动等底软使用 FIRMWARE， 当前组件为多个源码文件的集合使用SOURCE; 当前为压缩包(.tar, .zip等）使用ARCHIVE; 独立可分发的单文件使用FILE ; 如果仅用于安装软件的工具使用INSTALL，未被上述领域覆盖的使用OTHER.
     "releaseDate" : "2012-01-29T18:30:22Z",  **开源管理必选**  版本发布时间
     "validUntilDate" : "2014-01-29T18:30:22Z",  ***开源管理必选**  EOS时间
 ```
@@ -245,11 +251,425 @@ OpenHarmony SBOM SPDX格式规范
  {
     "spdxElementId" : "SPDXRef-Package-A",
     "relationshipType" : "DEPENDS_ON",      **后续通过此字段来表达A依赖B。**
-    "relatedSpdxElement" : "SPDXRef-Package-B"
+    "relatedSpdxElement" : "SPDXRef-Package-B" 
   }
+ {
+    "spdxElementId" : "SPDXRef-bin-A",
+    "relationshipType" : "GENERATED_FROM",      **后续通过此字段来构建关系。**
+    "relatedSpdxElement" : "SPDXRef-Source-B" 
+  }
+
 }
 
 ```
+
+#### OpenHarmony典型场景下SPDX格式的表达规范
+##### Source SBOM的表达规范
+1. OpenHarmony自研部件自身表达
+
+```
+"packages" : [ {
+    "SPDXID" : "SPDXRef-SOURCE-ability_ability_base",    **源码仓： SPDXRef-SOURCE-源码仓名** 
+    "filesAnalyzed" : "true",     **此字段为true，即可以基于此组件进行文件级分析**
+    "name" : "ability_base",                 **部件名**
+    "supplier" : "Organization: OpenHarmony",     **当前OpenHarmony的源，均为OpenHarmony分发**
+    "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
+    "PackageFileName"："./myrootdir/mysubdir1" **源码使用下载后的源码路径，可选**
+    "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony**
+    "downloadLocation" : "https://gitee.com/openharmony/ability_ability_base/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
+    "packageVerificationCode" : {                                           当 filesAnalyzed为true时，填写以下字段，当 filesAnalyzed为false时，不填写
+      "packageVerificationCodeValue" : "d6a770ba38583ed4bb4525bd96e50461655d2758"
+    }
+    "checksums" : [ {                        **相较SPDX额外作为必选**， **对应NTIA中的Component Hash**， 同packageVerificationCode
+      "algorithm" : "SHA1",
+      "checksumValue" : "2fd4e1c67a2d28fced849ee1bb76e7391b93eb12"
+    } ],
+    "homepage" : "https://www.openharmony.cn/mainPlay",   **相较SPDX额外作为必选**，统一填OpenHarmony首页https://www.openharmony.cn/mainPlay
+    "licenseConcluded" : "Apache-2.0",  **相较SPDX额外作为必选** **对应NTIA中的License Information** 由SBOM创建者推论的该组件的许可证信息，可借助扫描工具，必须为SPDX License Expression
+    "licenseDeclared" : "Apache-2.0",    **合规必选****相较SPDX额外作为必选**，仅包含原始作者对许可证的声明，不包含第三方库的许可证信息。
+    "copyrightText" : "Copyright 2008-2010 John Smith",   **合规必选**  可多行
+    "description" : "元能力的基础定义部件", **部件功能描述信息，优选英文**
+    "externalRefs" : [ {     **相较SPDX额外作为必选**, **对应NTIA中的Unique Identifier** 
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:gitee/openharmony/ability_ability_base@OpenHarmony-v4.0-Release",
+      "referenceType" : "purl"
+       }],
+    "primaryPackagePurpose" : "FRAMEWORK", **相较SPDX额外作为必选**， 标识软件包属性，应用hap使用APPLICATION;应用框架使用FRAMEWORK; 单一功能库使用LIBRARY;容器镜像使用CONTAINER; 操作系统OS使用OPERATING-SYSTEM;芯片及开发板相关使用DEVICE;驱动等底软使用 FIRMWARE， 当前组件为多个源码文件的集合使用SOURCE; 当前为压缩包(.tar, .zip等）使用ARCHIVE; 独立可分发的单文件使用FILE ; 如果仅用于安装软件的工具使用INSTALL，未被上述领域覆盖的使用OTHER.
+    "releaseDate" : "2012-01-29T18:30:22Z",  **开源管理必选**  版本发布时间，此处为本代码仓对应tag发布时间
+    "validUntilDate" : "2014-01-29T18:30:22Z",  ***开源管理必选**  EOS时间 此处为本代码仓对应tagEOS时间
+}]
+```
+2. OpenHarmony第三方部件与上游软件衍生关系表达（此场景为该部件就是上游主软件的鸿蒙化编译适配,本部件时上游部件的一个衍生作品，如third_party_libuv部件是libuv软件的鸿蒙化适配作品。本场景是社区使用第三方软件的主要场景，原则上一个部件就是一款软件，如果有多款应该拆分）
+
+```
+"packages" : [ {
+    "SPDXID" : "SPDXRef-SOURCE-third_party_libuv",    **源码仓： SPDXRef-SOURCE-源码仓名** 
+    "filesAnalyzed" : "true",     **此字段为true，即可以基于此组件进行文件级分析**
+    "name" : "third_party_libuv",                 **部件名**
+    "supplier" : "Organization: OpenHarmony",     **当前OpenHarmony的源，均为OpenHarmony分发，第三方软件亦是由OpenHarmony仓库托管分发**
+    "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
+    "PackageFileName"："./myrootdir/mysubdir1" **源码使用下载后的源码路径，可选**
+    "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony**
+    "downloadLocation" : "https://gitee.com/openharmony/third_party_libuv/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
+    "packageVerificationCode" : {                                           当 filesAnalyzed为true时，填写以下字段，当 filesAnalyzed为false时，不填写
+      "packageVerificationCodeExcludedFiles" : [ "./package.spdx" ],
+      "packageVerificationCodeValue" : "d6a770ba38583ed4bb4525bd96e50461655d2758"
+    }
+    "checksums" : [ {                        **相较SPDX额外作为必选**， **对应NTIA中的Component Hash**， 同packageVerificationCode
+      "algorithm" : "SHA1",
+      "checksumValue" : "2fd4e1c67a2d28fced849ee1bb76e7391b93eb12"
+    } ],
+
+    "homepage" : "https://www.openharmony.cn/mainPlay",   **相较SPDX额外作为必选**，统一填OpenHarmony首页https://www.openharmony.cn/mainPlay
+    "licenseConcluded" : "(LGPL-2.0-only OR LicenseRef-3)",  **相较SPDX额外作为必选** **对应NTIA中的License Information** 由SBOM创建者推论的该组件的许可证信息，可借助扫描工具，必须为SPDX License Expression
+    "licenseInfoFromFiles" : [ "GPL-2.0-only", "LicenseRef-2", "LicenseRef-1" ],   **合规必选****相较SPDX额外作为必选**，作为推论许可证中的参考依据，应包含组件中全量许可证信息，在此不做许可证间关系说明，由工具扫描文件级许可证，必须为SPDX License Expression
+    "licenseDeclared" : "(LGPL-2.0-only AND LicenseRef-3)",    **合规必选****相较SPDX额外作为必选**，仅包含原始作者对许可证的声明，不包含第三方库的许可证信息。
+    "licenseComments" : "The license for this project changed with the release of version x.y.  The version of the project included here post-dates the license change.",   **合规必选**
+    "copyrightText" : "Copyright 2008-2010 John Smith",   **合规必选**  可多行
+    "description" : "The GNU C Library defines functions that are specified by the ISO C standard.", **部件功能描述信息，开源管理必选**
+    "externalRefs" : [ {     **相较SPDX额外作为必选**, **对应NTIA中的Unique Identifier** 
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:gitee/openharmony/ability_ability_base@OpenHarmony-v4.0-Release",
+      "referenceType" : "purl"
+       },   {
+      "referenceCategory" : "SECURITY",
+      "referenceLocator" : "cpe:2.3:a:pivotal_software:spring_framework:4.1.0:*:*:*:*:*:*:*",
+      "referenceType" : "cpe23Type"
+      }],
+    "primaryPackagePurpose" : "SOURCE", **相较SPDX额外作为必选** **开源管理必选**, 标识软件包属性，应用hap使用APPLICATION;应用框架使用FRAMEWORK; 单一功能库使用LIBRARY;容器镜像使用CONTAINER; 操作系统OS使用OPERATING-SYSTEM;芯片及开发板相关使用DEVICE;驱动等底软使用 FIRMWARE， 当前组件为多个源码文件的集合使用SOURCE; 当前为压缩包(.tar, .zip等）使用ARCHIVE; 独立可分发的单文件使用FILE ; 如果仅用于安装软件的工具使用INSTALL，未被上述领域覆盖的使用OTHER.
+    "releaseDate" : "2012-01-29T18:30:22Z",  **开源管理必选**  版本发布时间，此处为本代码仓对应tag发布时间，非上游地址时间
+    "validUntilDate" : "2014-01-29T18:30:22Z",  ***开源管理必选**  EOS时间 此处为本代码仓对应tagEOS时间，非上游地址时间
+}，
+{
+    "SPDXID" : "SPDXRef-UPSTREAM-libuv",        ** 源码仓：SPDXRef-SOURCE-源码仓名 ** 
+    "name" : "libuv",                           ** 上游软件名 **
+    "supplier" : "Organization: XXX",           ** 上游软件分发供应商 **
+    "versionInfo" : "v1.48.0"                   ** 上游软件原生版本号 **，
+    "originator" : "Organization: XXX (contact@example.com)",  ** 上游原始供应商，和分发商可能不一致 **
+    "downloadLocation" : "https://github.com/libuv/libuv/archive/refs/tags/v1.44.2.tar.gz",   ** 上游源码包下载地址 **
+    "homepage" : "https://libuv.org/",          ** 填写上游软件首页地址 **
+    "licenseConcluded" : "(LGPL-2.0-only OR LicenseRef-3)",  ** 由SBOM创建者推论的该软件的许可证信息，扫描工具，必须为SPDX License Expression** 
+    "licenseDeclared" : "(LGPL-2.0-only AND LicenseRef-3)",    **合规必选****相较SPDX额外作为必选**，仅包含原始作者对许可证的声明，不包含第三方库的许可证信息。
+    "copyrightText" : "Copyright 2008-2010 John Smith",   **合规必选**  ** 可多行 **
+    "description" : "The GNU C Library defines functions that are specified by the ISO C standard.", **上游软件功能描述，开源管理必选**
+    "externalRefs" : [ {     **相较SPDX额外作为必选**, **对应NTIA中的Unique Identifier** 
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:github/libuv/libuv@v1.48.0",
+      "referenceType" : "purl"
+       }],
+    "primaryPackagePurpose" : "LIBRARY", **相较SPDX额外作为必选** **开源管理必选**, 标识软件包属性，应用hap使用APPLICATION;应用框架使用FRAMEWORK; 单一功能库使用LIBRARY;容器镜像使用CONTAINER; 操作系统OS使用OPERATING-SYSTEM;芯片及开发板相关使用DEVICE;驱动等底软使用 FIRMWARE， 当前组件为多个源码文件的集合使用SOURCE; 当前为压缩包(.tar, .zip等）使用ARCHIVE; 独立可分发的单文件使用FILE ; 如果仅用于安装软件的工具使用INSTALL，未被上述领域覆盖的使用OTHER.
+    "releaseDate" : "2012-01-29T18:30:22Z",  **开源管理必选**  版本发布时间，此处为上游代码仓对应tag发布时间
+    "validUntilDate" : "2014-01-29T18:30:22Z",  ***开源管理必选**  EOS时间 此处为上游代码仓对应tagEOS时间
+
+}],
+"relationships":[
+ {
+    "spdxElementId" : "SPDXRef-SOURCE-third_party_libuv",
+    "relationshipType" : "VARIANT_OF",      **后续通过此字段来表达三方软件在OpenHarmony的衍生版本。**
+    "relatedSpdxElement" : "SPDXRef-UPSTREAM-libuv"
+  }]
+```
+
+3.  OpenHarmony中自研/三方部件中包含一款或多款上游开源软件的关联表达方式（此场景为特殊少量场景，原则上，自研部件不应包含第三方成分，但部分特殊自研或三方部件无法再拆分的，部件中源码包含一个或多个上游软件成分，如device_soc_XXX 中包含其他第三方开源软件）
+
+
+```
+"packages" : [ {
+    "SPDXID" : "SPDXRef-SOURCE-device_soc_XXX",    **源码仓： SPDXRef-SOURCE-源码仓名** 
+    "filesAnalyzed" : "true",     **此字段为true，即可以基于此组件进行文件级分析**
+    "name" : "device_soc_XXX",                 **部件名**
+    "supplier" : "Organization: OpenHarmony",     **当前OpenHarmony的源，均为OpenHarmony分发，第三方软件亦是由OpenHarmony仓库托管分发**
+    "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
+    "PackageFileName"："./myrootdir/mysubdir1" **源码使用下载后的源码路径，可选**
+    "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony**
+    "downloadLocation" : "https://gitee.com/openharmony/device_soc_XXX/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
+    "packageVerificationCode" : {                                           当 filesAnalyzed为true时，填写以下字段，当 filesAnalyzed为false时，不填写
+      "packageVerificationCodeExcludedFiles" : [ "./package.spdx" ],
+      "packageVerificationCodeValue" : "d6a770ba38583ed4bb4525bd96e50461655d2758"
+    }
+    "checksums" : [ {                        **相较SPDX额外作为必选**， **对应NTIA中的Component Hash**， 同packageVerificationCode
+      "algorithm" : "SHA1",
+      "checksumValue" : "2fd4e1c67a2d28fced849ee1bb76e7391b93eb12"
+    } ],
+
+    "homepage" : "https://www.openharmony.cn/mainPlay",   **相较SPDX额外作为必选**，统一填OpenHarmony首页https://www.openharmony.cn/mainPlay
+    "licenseConcluded" : "(LGPL-2.0-only OR LicenseRef-3)",  **相较SPDX额外作为必选** **对应NTIA中的License Information** 由SBOM创建者推论的该组件的许可证信息，可借助扫描工具，必须为SPDX License Expression
+    "licenseInfoFromFiles" : [ "GPL-2.0-only", "LicenseRef-2", "LicenseRef-1" ],   **可选，合规必选****相较SPDX额外作为必选**，作为推论许可证中的参考依据，应包含组件中全量许可证信息，在此不做许可证间关系说明，由工具扫描文件级许可证，必须为SPDX License Expression
+    "licenseDeclared" : "(LGPL-2.0-only AND LicenseRef-3)",    **合规必选****相较SPDX额外作为必选**，仅包含原始作者对许可证的声明，不包含第三方库的许可证信息。
+    "licenseComments" : "The license for this project changed with the release of version x.y.  The version of the project included here post-dates the license change.",   **合规必选**
+    "copyrightText" : "Copyright 2008-2010 John Smith",   **可选，合规必选**  可多行
+    "description" : "The GNU C Library defines functions that are specified by the ISO C standard.", **部件功能描述信息，开源管理必选**
+    "externalRefs" : [ {     **相较SPDX额外作为必选**, **对应NTIA中的Unique Identifier** 
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:gitee/openharmony/device_soc_XXX@OpenHarmony-v4.0-Release",
+      "referenceType" : "purl"
+       }],
+    "primaryPackagePurpose" : "DEVICE", **相较SPDX额外作为必选** **开源管理必选**, 标识软件包属性，应用hap使用APPLICATION;应用框架使用FRAMEWORK; 单一功能库使用LIBRARY;容器镜像使用CONTAINER; 操作系统OS使用OPERATING-SYSTEM;芯片及开发板相关使用DEVICE;驱动等底软使用 FIRMWARE， 当前组件为多个源码文件的集合使用SOURCE; 当前为压缩包(.tar, .zip等）使用ARCHIVE; 独立可分发的单文件使用FILE ; 如果仅用于安装软件的工具使用INSTALL，未被上述领域覆盖的使用OTHER.
+    "releaseDate" : "2012-01-29T18:30:22Z",  **开源管理必选**  版本发布时间，此处为本代码仓对应tag发布时间，非上游地址时间
+    "validUntilDate" : "2014-01-29T18:30:22Z",  ***开源管理必选**  EOS时间 此处为本代码仓对应tagEOS时间，非上游地址时间
+}，
+{
+    "SPDXID" : "SPDXRef-UPSTREAM-libuv",        ** 源码仓：SPDXRef-SOURCE-源码仓名 ** 
+    "name" : "libuv",                           ** 上游软件名 **
+    "supplier" : "Organization: XXX",           ** 上游软件分发供应商 **
+    "versionInfo" : "v1.48.0"                   ** 上游软件原生版本号 **，
+    "originator" : "Organization: XXX (contact@example.com)",  ** 上游原始供应商，和分发商可能不一致 **
+    "downloadLocation" : "https://github.com/libuv/libuv/archive/refs/tags/v1.44.2.tar.gz",   ** 上游源码包下载地址 **
+    "homepage" : "https://libuv.org/",          ** 填写上游软件首页地址 **
+    "licenseConcluded" : "(LGPL-2.0-only OR LicenseRef-3)",  ** 由SBOM创建者推论的该软件的许可证信息，扫描工具，必须为SPDX License Expression** 
+    "licenseDeclared" : "(LGPL-2.0-only AND LicenseRef-3)",    **合规必选****相较SPDX额外作为必选**，仅包含原始作者对许可证的声明，不包含第三方库的许可证信息。
+    "copyrightText" : "Copyright 2008-2010 John Smith",   **合规必选**  ** 可多行 **
+    "description" : "The GNU C Library defines functions that are specified by the ISO C standard.", **上游软件功能描述，开源管理必选**
+    "externalRefs" : [ {     **相较SPDX额外作为必选**, **对应NTIA中的Unique Identifier** 
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:github/libuv/libuv@v1.48.0",
+      "referenceType" : "purl"
+       }],
+    "primaryPackagePurpose" : "LIBRARY", **相较SPDX额外作为必选** **开源管理必选**, 标识软件包属性，应用hap使用APPLICATION;应用框架使用FRAMEWORK; 单一功能库使用LIBRARY;容器镜像使用CONTAINER; 操作系统OS使用OPERATING-SYSTEM;芯片及开发板相关使用DEVICE;驱动等底软使用 FIRMWARE， 当前组件为多个源码文件的集合使用SOURCE; 当前为压缩包(.tar, .zip等）使用ARCHIVE; 独立可分发的单文件使用FILE ; 如果仅用于安装软件的工具使用INSTALL，未被上述领域覆盖的使用OTHER.
+    "releaseDate" : "2012-01-29T18:30:22Z",  **开源管理必选**  版本发布时间，此处为上游代码仓对应tag发布时间
+    "validUntilDate" : "2014-01-29T18:30:22Z",  ***开源管理必选**  EOS时间 此处为上游代码仓对应tagEOS时间
+
+}，
+{
+    "SPDXID" : "SPDXRef-UPSTREAM-zlib",        ** 源码仓：SPDXRef-SOURCE-源码仓名 ** 
+    "name" : "zlib",                           ** 上游软件名 **
+    "supplier" : "Organization: XXX",           ** 上游软件分发供应商 **
+    "versionInfo" : "v1.2.13"                   ** 上游软件原生版本号 **，
+    "originator" : "Organization: XXX (contact@example.com)",  ** 上游原始供应商，和分发商可能不一致 **
+    "downloadLocation" : "https://github.com/madler/zlib/releases/download/v1.2.13/zlib-1.2.13.tar.gz",   ** 上游源码包下载地址 **
+    "homepage" : "https://www.zlib.net/",          ** 填写上游软件首页地址 **
+    "licenseConcluded" : "zlib",  ** 由SBOM创建者推论的该软件的许可证信息，扫描工具，必须为SPDX License Expression** 
+    "licenseDeclared" : "(LGPL-2.0-only AND LicenseRef-3)",    **合规必选****相较SPDX额外作为必选**，仅包含原始作者对许可证的声明，不包含第三方库的许可证信息。
+    "copyrightText" : "Copyright 2008-2010 John Smith",   **合规必选**  ** 可多行 **
+    "description" : "The GNU C Library defines functions that are specified by the ISO C standard.", **上游软件功能描述，开源管理必选**
+    "externalRefs" : [ {     **相较SPDX额外作为必选**, **对应NTIA中的Unique Identifier** 
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:github/madler/zlib@vv1.2.13",
+      "referenceType" : "purl"
+       }],
+    "primaryPackagePurpose" : "LIBRARY", **相较SPDX额外作为必选** **开源管理必选**, 标识软件包属性，应用hap使用APPLICATION;应用框架使用FRAMEWORK; 单一功能库使用LIBRARY;容器镜像使用CONTAINER; 操作系统OS使用OPERATING-SYSTEM;芯片及开发板相关使用DEVICE;驱动等底软使用 FIRMWARE， 当前组件为多个源码文件的集合使用SOURCE; 当前为压缩包(.tar, .zip等）使用ARCHIVE; 独立可分发的单文件使用FILE ; 如果仅用于安装软件的工具使用INSTALL，未被上述领域覆盖的使用OTHER.
+    "releaseDate" : "2012-01-29T18:30:22Z",  **开源管理必选**  版本发布时间，此处为上游代码仓对应tag发布时间
+    "validUntilDate" : "2014-01-29T18:30:22Z",  ***开源管理必选**  EOS时间 此处为上游代码仓对应tagEOS时间
+
+}],
+"relationships":[
+ {
+    "spdxElementId" : "SPDXRef-SOURCE-device_soc_XXX",
+    "relationshipType" : "CONTAINS",                     ** device_soc_XXX 包含libuv**
+    "relatedSpdxElement" : "SPDXRef-UPSTREAM-libuv"
+  }，
+ {
+    "spdxElementId" : "SPDXRef-SOURCE-device_soc_XXX",
+    "relationshipType" : "CONTAINS",                     ** device_soc_XXX 包含zlib**
+    "relatedSpdxElement" : "SPDXRef-UPSTREAM-zlib"
+  }
+
+
+]
+```
+
+
+4. OpenHarmony中部件与部件间存在动态链接或者调用关系而产生依赖的关联表达
+
+```
+"packages" : [ {
+    "SPDXID" : "SPDXRef-SOURCE-ability_ability_base",    **源码仓： SPDXRef-SOURCE-源码仓名** 
+    "filesAnalyzed" : "true",     **此字段为true，即可以基于此组件进行文件级分析**
+    "name" : "ability_base",                 **部件名**
+    "supplier" : "Organization: OpenHarmony",     **当前OpenHarmony的源，均为OpenHarmony分发**
+    "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
+    "PackageFileName"："./myrootdir/mysubdir1" **源码使用下载后的源码路径，可选**
+    "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony**
+    "downloadLocation" : "https://gitee.com/openharmony/ability_ability_base/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
+    "packageVerificationCode" : {                                           当 filesAnalyzed为true时，填写以下字段，当 filesAnalyzed为false时，不填写
+      "packageVerificationCodeValue" : "d6a770ba38583ed4bb4525bd96e50461655d2758"
+    }
+    "checksums" : [ {                        **相较SPDX额外作为必选**， **对应NTIA中的Component Hash**， 同packageVerificationCode
+      "algorithm" : "SHA1",
+      "checksumValue" : "2fd4e1c67a2d28fced849ee1bb76e7391b93eb12"
+    } ],
+    "homepage" : "https://www.openharmony.cn/mainPlay",   **相较SPDX额外作为必选**，统一填OpenHarmony首页https://www.openharmony.cn/mainPlay
+    "licenseConcluded" : "Apache-2.0",  **相较SPDX额外作为必选** **对应NTIA中的License Information** 由SBOM创建者推论的该组件的许可证信息，可借助扫描工具，必须为SPDX License Expression
+    "licenseDeclared" : "Apache-2.0",    **合规必选****相较SPDX额外作为必选**，仅包含原始作者对许可证的声明，不包含第三方库的许可证信息。
+    "copyrightText" : "Copyright 2008-2010 John Smith",   **合规必选**  可多行
+    "description" : "元能力的基础定义部件", **部件功能描述信息，优选英文**
+    "externalRefs" : [ {     **相较SPDX额外作为必选**, **对应NTIA中的Unique Identifier** 
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:gitee/openharmony/ability_ability_base@OpenHarmony-v4.0-Release",
+      "referenceType" : "purl"
+       }],
+    "primaryPackagePurpose" : "FRAMEWORK", **相较SPDX额外作为必选**， 标识软件包属性，应用hap使用APPLICATION;应用框架使用FRAMEWORK; 单一功能库使用LIBRARY;容器镜像使用CONTAINER; 操作系统OS使用OPERATING-SYSTEM;芯片及开发板相关使用DEVICE;驱动等底软使用 FIRMWARE， 当前组件为多个源码文件的集合使用SOURCE; 当前为压缩包(.tar, .zip等）使用ARCHIVE; 独立可分发的单文件使用FILE ; 如果仅用于安装软件的工具使用INSTALL，未被上述领域覆盖的使用OTHER.
+    "releaseDate" : "2012-01-29T18:30:22Z",  **开源管理必选**  版本发布时间，此处为本代码仓对应tag发布时间
+    "validUntilDate" : "2014-01-29T18:30:22Z",  ***开源管理必选**  EOS时间 此处为本代码仓对应tagEOS时间
+}，
+{
+    "SPDXID" : "SPDXRef-SOURCE-ability_ability_runtime",    **源码仓： SPDXRef-SOURCE-源码仓名** 
+    "filesAnalyzed" : "true",     **此字段为true，即可以基于此组件进行文件级分析**
+    "name" : "ability_base",                 **部件名**
+    "supplier" : "Organization: OpenHarmony",     **当前OpenHarmony的源，均为OpenHarmony分发**
+    "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
+    "PackageFileName"："./myrootdir/mysubdir1" **源码使用下载后的源码路径，可选**
+    "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony**
+    "downloadLocation" : "https://gitee.com/openharmony/ability_ability_runtime/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
+    "packageVerificationCode" : {                                           当 filesAnalyzed为true时，填写以下字段，当 filesAnalyzed为false时，不填写
+      "packageVerificationCodeValue" : "d6a770ba38583ed4bb4525bd96e50461655d2758"
+    }
+    "checksums" : [ {                        **相较SPDX额外作为必选**， **对应NTIA中的Component Hash**， 同packageVerificationCode
+      "algorithm" : "SHA1",
+      "checksumValue" : "2fd4e1c67a2d28fced849ee1bb76e7391b93eb12"
+    } ],
+    "homepage" : "https://www.openharmony.cn/mainPlay",   **相较SPDX额外作为必选**，统一填OpenHarmony首页https://www.openharmony.cn/mainPlay
+    "licenseConcluded" : "Apache-2.0",  **相较SPDX额外作为必选** **对应NTIA中的License Information** 由SBOM创建者推论的该组件的许可证信息，可借助扫描工具，必须为SPDX License Expression
+    "licenseDeclared" : "Apache-2.0",    **合规必选****相较SPDX额外作为必选**，仅包含原始作者对许可证的声明，不包含第三方库的许可证信息。
+    "copyrightText" : "Copyright 2008-2010 John Smith",   **合规必选**  可多行
+    "description" : "元能力的基础定义部件", **部件功能描述信息，优选英文**
+    "externalRefs" : [ {     **相较SPDX额外作为必选**, **对应NTIA中的Unique Identifier** 
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:gitee/openharmony/ability_ability_runtime@OpenHarmony-v4.0-Release",
+      "referenceType" : "purl"
+       }],
+    "primaryPackagePurpose" : "FRAMEWORK", **相较SPDX额外作为必选**， 标识软件包属性，应用hap使用APPLICATION;应用框架使用FRAMEWORK; 单一功能库使用LIBRARY;容器镜像使用CONTAINER; 操作系统OS使用OPERATING-SYSTEM;芯片及开发板相关使用DEVICE;驱动等底软使用 FIRMWARE， 当前组件为多个源码文件的集合使用SOURCE; 当前为压缩包(.tar, .zip等）使用ARCHIVE; 独立可分发的单文件使用FILE ; 如果仅用于安装软件的工具使用INSTALL，未被上述领域覆盖的使用OTHER.
+    "releaseDate" : "2012-01-29T18:30:22Z",  **开源管理必选**  版本发布时间，此处为本代码仓对应tag发布时间
+    "validUntilDate" : "2014-01-29T18:30:22Z",  ***开源管理必选**  EOS时间 此处为本代码仓对应tagEOS时间
+}]，
+"relationships":[
+ {
+    "spdxElementId" : "SPDXRef-SOURCE-ability_ability_runtime",
+    "relationshipType" : "DEPENDS_ON",                     ** runtime依赖base **
+    "relatedSpdxElement" : "SPDXRef-SOURCE-ability_ability_base"
+  }
+]
+```
+
+
+
+##### Build SBOM的表达规范
+
+1. OpenHarmony二进制自身表达
+
+```
+{
+	"SPDXID":"SPDXRef-system-lib-libability_base.so"
+    "filename":"/system/lib/libdXXX.so"      **构建SBOM必选**    
+    "checksums": [
+        {
+			"algorithm":"SHA1",
+            "checksumValue": "279XXXXXXXXXXXXXXXXXXXX"
+        }
+    ]
+}
+```
+2. 二进制与产品镜像的关系表达(通过hasFile表达)
+
+```
+"packages" : [ {
+    "SPDXID" : "SPDXRef-PRODUCT",    **二进制仓： 路径 system/lib/libability_base.so** 
+    "filesAnalyzed" : "ture",     **此字段为true，即可以基于此组件进行文件级分析**
+    "name" : "Dayu200",                 **二进制名称**
+    "supplier" : "Organization: OpenHarmony",     **当前OpenHarmony的源，均为OpenHarmony分发**
+    "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
+    "PackageFileName"："./myrootdir/mysubdir1" **二进制路径**
+    "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony** 
+    "checksums" : [ {                        **相较SPDX额外作为必选**， **对应NTIA中的Component Hash**， 同packageVerificationCode
+      "algorithm" : "SHA1",
+      "checksumValue" : "2fd4e1c67a2d28fced849ee1bb76e7391b93eb12"
+    } ], 
+    "hasFiles":[                                          ** 镜像包与二进制的包含关系  **
+         "SPDXRef-system-lib-libability_base.so",        
+         "SPDXRef-system-lib-libability_runtime.so"
+         "XXXXXXX"
+     ]
+    "homepage" : "https://www.openharmony.cn/mainPlay",   **相较SPDX额外作为必选**，统一填OpenHarmony首页https://www.openharmony.cn/mainPlay
+    "primaryPackagePurpose" : "OPERATING-SYSTEM", **相较SPDX额外作为必选**， 标识软件包属性，应用hap使用APPLICATION;应用框架使用FRAMEWORK; 单一功能库使用LIBRARY;容器镜像使用CONTAINER; 操作系统OS使用OPERATING-SYSTEM;芯片及开发板相关使用DEVICE;驱动等底软使用 FIRMWARE， 当前组件为多个源码文件的集合使用SOURCE; 当前为压缩包(.tar, .zip等）使用ARCHIVE; 独立可分发的单文件使用FILE ; 如果仅用于安装软件的工具使用INSTALL，未被上述领域覆盖的使用OTHER.
+}，
+{
+	"SPDXID":"SPDXRef-system-lib-libability_base.so"
+    "filename":"/system/lib/libdXXX.so"      **构建SBOM额外作为必选**
+    "checksums": [
+        {
+			"algorithm":"SHA1",
+            "checksumValue": "279XXXXXXXXXXXXXXXXXXXX"
+        }
+    ]
+}
+]
+```
+
+3. OpenHarmony二进制自身与产品大包的关系已及二进制源码仓溯源关系表达
+
+```
+"packages" : [ {
+    "SPDXID" : "SPDXRef-PRODUCT",    **二进制仓： 路径 system/lib/libability_base.so** 
+    "filesAnalyzed" : "ture",     **此字段为true，即可以基于此组件进行文件级分析**
+    "name" : "Dayu200",                 **二进制名称**
+    "supplier" : "Organization: OpenHarmony",     **当前OpenHarmony的源，均为OpenHarmony分发**
+    "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
+    "PackageFileName"："./myrootdir/mysubdir1" **二进制路径**
+    "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony** 
+    "checksums" : [ {                        **相较SPDX额外作为必选**， **对应NTIA中的Component Hash**， 同packageVerificationCode
+      "algorithm" : "SHA1",
+      "checksumValue" : "2fd4e1c67a2d28fced849ee1bb76e7391b93eb12"
+    } ], 
+    "hasFiles":[                                          ** 镜像包与二进制的包含关系  **
+         "SPDXRef-system-lib-libability_base.so",        
+         "SPDXRef-system-lib-libability_runtime.so"
+         "XXXXXXX"
+     ]
+    "homepage" : "https://www.openharmony.cn/mainPlay",   **相较SPDX额外作为必选**，统一填OpenHarmony首页https://www.openharmony.cn/mainPlay
+    "primaryPackagePurpose" : "OPERATING-SYSTEM", **相较SPDX额外作为必选**， 标识软件包属性，应用hap使用APPLICATION;应用框架使用FRAMEWORK; 单一功能库使用LIBRARY;容器镜像使用CONTAINER; 操作系统OS使用OPERATING-SYSTEM;芯片及开发板相关使用DEVICE;驱动等底软使用 FIRMWARE， 当前组件为多个源码文件的集合使用SOURCE; 当前为压缩包(.tar, .zip等）使用ARCHIVE; 独立可分发的单文件使用FILE ; 如果仅用于安装软件的工具使用INSTALL，未被上述领域覆盖的使用OTHER.
+}，
+{
+	"SPDXID":"SPDXRef-system-lib-libability_base.so"
+    "filename":"/system/lib/libdXXX.so"      **构建SBOM额外作为必选**
+    "checksums": [
+        {
+			"algorithm":"SHA1",
+            "checksumValue": "279XXXXXXXXXXXXXXXXXXXX"
+        }
+    ]
+},
+{
+    "SPDXID" : "SPDXRef-SOURCE-ability_ability_base",    **源码仓： SPDXRef-SOURCE-源码仓名** 
+    "filesAnalyzed" : "true",     **此字段为true，即可以基于此组件进行文件级分析**
+    "name" : "ability_base",                 **部件名**
+    "supplier" : "Organization: OpenHarmony",     **当前OpenHarmony的源，均为OpenHarmony分发**
+    "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
+    "PackageFileName"："./myrootdir/mysubdir1" **源码使用下载后的源码路径，可选**
+    "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony**
+    "downloadLocation" : "https://gitee.com/openharmony/ability_ability_base/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
+    "packageVerificationCode" : {                                           当 filesAnalyzed为true时，填写以下字段，当 filesAnalyzed为false时，不填写
+      "packageVerificationCodeValue" : "d6a770ba38583ed4bb4525bd96e50461655d2758"
+    }
+    "checksums" : [ {                        **相较SPDX额外作为必选**， **对应NTIA中的Component Hash**， 同packageVerificationCode
+      "algorithm" : "SHA1",
+      "checksumValue" : "2fd4e1c67a2d28fced849ee1bb76e7391b93eb12"
+    } ],
+    "homepage" : "https://www.openharmony.cn/mainPlay",   **相较SPDX额外作为必选**，统一填OpenHarmony首页https://www.openharmony.cn/mainPlay
+    "licenseConcluded" : "Apache-2.0",  **相较SPDX额外作为必选** **对应NTIA中的License Information** 由SBOM创建者推论的该组件的许可证信息，可借助扫描工具，必须为SPDX License Expression
+    "licenseDeclared" : "Apache-2.0",    **合规必选****相较SPDX额外作为必选**，仅包含原始作者对许可证的声明，不包含第三方库的许可证信息。
+    "copyrightText" : "Copyright 2008-2010 John Smith",   **合规必选**  可多行
+    "description" : "元能力的基础定义部件", **部件功能描述信息，优选英文**
+    "externalRefs" : [ {     **相较SPDX额外作为必选**, **对应NTIA中的Unique Identifier** 
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:gitee/openharmony/ability_ability_base@OpenHarmony-v4.0-Release",
+      "referenceType" : "purl"
+       }],
+    "primaryPackagePurpose" : "FRAMEWORK", **相较SPDX额外作为必选**， 标识软件包属性，应用hap使用APPLICATION;应用框架使用FRAMEWORK; 单一功能库使用LIBRARY;容器镜像使用CONTAINER; 操作系统OS使用OPERATING-SYSTEM;芯片及开发板相关使用DEVICE;驱动等底软使用 FIRMWARE， 当前组件为多个源码文件的集合使用SOURCE; 当前为压缩包(.tar, .zip等）使用ARCHIVE; 独立可分发的单文件使用FILE ; 如果仅用于安装软件的工具使用INSTALL，未被上述领域覆盖的使用OTHER.
+    "releaseDate" : "2012-01-29T18:30:22Z",  **开源管理必选**  版本发布时间，此处为本代码仓对应tag发布时间
+    "validUntilDate" : "2014-01-29T18:30:22Z",  ***开源管理必选**  EOS时间 此处为本代码仓对应tagEOS时间
+} ]
+"relationships":[
+ {
+    "spdxElementId" : "SPDXRef-system-lib-libability_base.so",
+    "relationshipType" : "GENERATED_FROM",                     ** 构建生成关系 **
+    "relatedSpdxElement" : "SPDXRef-SOURCE-ability_ability_base"
+  }
+]
+```
+
+4. 依赖关系与衍生关系的追溯同Source BOM 见上一节所示.
+
+
 #### cycloneDX格式的表达方式规范
 
 cycloneDX 1.5 json格式
