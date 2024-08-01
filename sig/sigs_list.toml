@@ -4971,8 +4971,8 @@ sub_system = ["NONE"]
 https_url = "https://gitee.com/openharmony/napi_generator"
 repo_status = "0"
 [[sig.projects.committer]]
-gitee_id = "https://gitee.com/zhaojunxia2020"
-gitee_email = "zhaojunxia@kaihong.com"
+gitee_id = "https://gitee.com/wshikh"
+gitee_email = "wangshi@kaihong.com"
 
 [[sig.projects.committer]]
 gitee_id = "https://gitee.com/bayanxing"
@@ -4980,8 +4980,8 @@ gitee_email = "bayanxing@kaihong.com"
 
 
 [sig.leader]
-gitee_id = "https://gitee.com/zhaojunxia2020"
-gitee_email = "zhaojunxia@kaihong.com"
+gitee_id = "https://gitee.com/wshikh"
+gitee_email = "wangshi@kaihong.com"
 [[sig]]
 sig_name = "sig_release"
 description = "负责制定OpenHarmony的发布计划和协调各SIG团队完成OpenHarmony社区版本的发布工作"
