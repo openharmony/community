@@ -5358,8 +5358,8 @@
         "description": "基于OpenHarmony标准系统,推出一些提升开发效率的NAPI框架代码生成工具",
         "sig_status": "active",
         "leader": {
-            "gitee_id": "https://gitee.com/zhaojunxia2020",
-            "gitee_email": "zhaojunxia@kaihong.com"
+            "gitee_id": "https://gitee.com/wshikh",
+            "gitee_email": "wangshi@kaihong.com"
         },
         "sub_system": [
             "NONE"
@@ -5368,8 +5368,8 @@
             "https_url": "https://gitee.com/openharmony/napi_generator",
             "repo_status": "0",
             "committer": [{
-                    "gitee_id": "https://gitee.com/zhaojunxia2020",
-                    "gitee_email": "zhaojunxia@kaihong.com"
+                    "gitee_id": "https://gitee.com/wshikh",
+                    "gitee_email": "wangshi@kaihong.com"
                 },
                 {
                     "gitee_id": "https://gitee.com/bayanxing",
