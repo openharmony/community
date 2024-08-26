@@ -6768,3 +6768,13 @@ projects = []
 [sig.leader]
 gitee_id = "https://gitee.com/lilicoding"
 gitee_email = "lilicoding@buaa.edu.cn"
+
+[[sig]]
+sig_name = "sig_peripherals"
+description = "提供IDE工具/开发板技术支持，支持生态伙伴开发外设驱动及配套应用、生态成果共建共享，快速繁荣OpenHarmony外设生态"
+sig_status = "active"
+sub_system = ["NONE"]
+projects = []
+[sig.leader]
+gitee_id = "https://gitee.com/yihaitao8686"
+gitee_email = "yihaitao@huawei.com"
