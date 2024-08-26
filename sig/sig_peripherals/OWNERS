@@ -1,0 +1,19 @@
+{
+    "Leader": [{
+        "gitee_id": "yihaitao",
+        "gitee_email": "yihaitao@huawei.com"
+    }],
+    "Committers": [{
+            "gitee_id": "yuanyulu",
+            "gitee_email": "yuanyulu@huawei.com"
+        },
+        {
+            "gitee_id": "lixinsheng",
+            "gitee_email": "lixinsheng2@huawei.com"
+        },
+        {
+            "gitee_id": "liudimin",
+            "gitee_email": "liudimin1@huawei.com"
+        }
+    ]
+}
