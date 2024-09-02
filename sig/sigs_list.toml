@@ -6778,3 +6778,13 @@ projects = []
 [sig.leader]
 gitee_id = "https://gitee.com/yihaitao8686"
 gitee_email = "yihaitao@huawei.com"
+
+[[sig]]
+sig_name = "sig_x86"
+description = "构筑OpenHarmony基于X86的通用技术能力，提供给开发者、企业成熟、稳定的系统能力,推动OpenHarmony在X86环境下的应用生态建设。"
+sig_status = "active"
+sub_system = ["NONE"]
+projects = []
+[sig.leader]
+gitee_id = "https://gitee.com/boyd-ye"
+gitee_email = "xbyec@isoftstone.com"
