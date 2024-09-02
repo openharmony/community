@@ -1,0 +1,32 @@
+{
+    "Leader": [{
+        "gitee_id": "boyd-ye",
+        "gitee_email": "xbyec@isoftstone.com"
+    }],
+    "Committers": [{
+            "gitee_id": "pengzhaon",
+            "gitee_email": "pengzhaon@isoftstone.com"
+        },
+		{
+            "gitee_id": "lianzhian",
+            "gitee_email": "zalian@isoftstone.com"
+        },
+        {
+            "gitee_id": "hiweil",
+            "gitee_email": "weiliuq@isoftstone.com"
+        },
+        {
+            "gitee_id": "paworcn",
+            "gitee_email": "weipanga@isoftstone.com"
+        },
+        {
+            "gitee_id": "chn9528",
+            "gitee_email": "bwyuan@isoftstone.com"
+        },
+        {
+            "gitee_id": "diemit",
+            "gitee_email": "xuyuanshen@openvalley.net"
+        },
+		
+    ]
+}
