@@ -61,7 +61,7 @@
 
 | 地址                                 | 简介        | 用途说明                                                         |
 | ---------------------------------------|---------- | ------------------------------------------------------------ |
-| dev@openharmony.io  <img width=120/>| 开发邮件列表 <img width=100/> | OpenHarmony社区开发讨论邮件列表，任何社区开发相关话题都可以在邮件列表讨论。任何开发者可[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)。<img width=200/>|
-| cicd@openharmony.io <img width=120/> | CI邮件列表  <img width=100/>| OpenHarmony CICD构建邮件列表，任何开发者可[订阅](https://lists.openatom.io/postorius/lists/cicd.openharmony.io)。<img width=200/>|
-| pmc@openharmony.io  <img width=120/>| PMC邮件列表  <img width=100/>| PMC讨论邮件列表，PMC成员可[订阅](https://lists.openatom.io/postorius/lists/pmc.openharmony.io/)。<img width=200/>|
+| dev@openharmony.io  | 开发邮件列表  | OpenHarmony社区开发讨论邮件列表，任何社区开发相关话题都可以在邮件列表讨论。任何开发者可[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)。|
+| cicd@openharmony.io  | CI邮件列表  | OpenHarmony CICD构建邮件列表，任何开发者可[订阅](https://lists.openatom.io/postorius/lists/cicd.openharmony.io)。|
+| pmc@openharmony.io  | PMC邮件列表  | PMC讨论邮件列表，PMC成员可[订阅](https://lists.openatom.io/postorius/lists/pmc.openharmony.io/)。|
 
