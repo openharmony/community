@@ -29,7 +29,7 @@ CrossPlatformUI SIG allows applications developed based on frameworks such as Ta
    - WEEX
    - Cordova
 
-Develop and maintain cross platform adaptation cores, enabling developers to reuse cross platform UI framework code assets and achieve the ability to quickly adapt to OpenHarmony.   ![image-20231007155438055](D:\06.Flutter\02.Code\community\sig\sig_crossplatformui\figures\crossplatformui_overview.png)
+Develop and maintain cross platform adaptation cores, enabling developers to reuse cross platform UI framework code assets and achieve the ability to quickly adapt to OpenHarmony.   ![image-20231007155438055](./figures/crossplatformui_overview.png)
 
 2. **Component,  API library**
 
