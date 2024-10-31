@@ -29,7 +29,7 @@ CrossPlatformUI SIG 让基于Taro、React Native、Flutter、uni-app、CEF (Elec
 
    开发和维护跨平台适配核心，让开发者复用跨平台UI框架代码资产，实现快速适配 OpenHarmony 的能力。
 
-   ![image-20231007155438055](D:\06.Flutter\02.Code\community\sig\sig_crossplatformui\figures\crossplatformui_overview_cn.png)
+   ![image-20231007155438055](./figures/crossplatformui_overview_cn.png)
 
 2. **组件库、API 库**
 
