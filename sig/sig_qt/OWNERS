@@ -1,7 +1,7 @@
 {
     "Leader": [{
         "gitee_id": "cwc1987",
-        "gitee_email": "wccaid@isoftstone.com"
+        "gitee_email": "caiwc01@sinux.com.cn"
     }],
     "Committers": [{
             "gitee_id": "zhuwei12345678",
@@ -9,7 +9,7 @@
         },
         {
             "gitee_id": "xiecyong",
-            "gitee_email": "cyxier@isoftstone.com"
+            "gitee_email": "xiecy01@sinux.com.cn"
         },
         {
             "gitee_id": "wanglz1988",
@@ -22,6 +22,10 @@
         {
             "gitee_id": "honglianglin"
             "gitee_email": "linhongliang@hisilicon.com"
+        },
+        {
+            "gitee_id": "fan_ji"
+            "gitee_email": "jifan@isoftstone.com"
         }
     ]
 }
