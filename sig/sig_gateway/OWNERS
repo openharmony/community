@@ -1,0 +1,31 @@
+{
+    "Leader": [{
+        "gitee_id": "shi-chao-cmcc",
+        "gitee_email": "shichaohz@cmhi.chinamobile.com"
+    }],
+    "Committers": [{
+        "gitee_id": "hxdlj",
+        "gitee_email": "huxiaodong@huawei.com"
+    },{
+        "gitee_id": "hu-weiwei-jiayou",
+        "gitee_email": "david.huweiwei@huawei.com"
+    },{
+        "gitee_id": "zhoupengcmcc",
+        "gitee_email": "zhoupenghy@cmhi.chinamobile.com"
+    },{
+        "gitee_id": "hurui01",
+        "gitee_email": "hurui@cmhi.chinamobile.com"
+    },{
+        "gitee_id": "liangyiwen001",
+        "gitee_email": "liangyiwen@cmhi.chinamobile.com"
+    },{
+        "gitee_id": "wangzhcs",
+        "gitee_email": "wangzhen@cmhi.chinamobile.com"
+    },{
+        "gitee_id": "jucy99",
+        "gitee_email": "gui.li@unionman.com.cn"
+    },{
+        "gitee_id": "osprey",
+        "gitee_email": "e.hong@unionman.com.cn"
+    }]
+}

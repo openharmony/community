@@ -6788,3 +6788,13 @@ projects = []
 [sig.leader]
 gitee_id = "https://gitee.com/boyd-ye"
 gitee_email = "xbyec@isoftstone.com"
+
+[[sig]]
+sig_name = "sig_gateway"
+description = "构筑OpenHarmony路由器/网关关键技术能力、推动行业标准化、加强生态合作、促进OpenHarmony路由器/网关品类生态繁荣。"
+sig_status = "active"
+sub_system = ["NONE"]
+projects = []
+[sig.leader]
+gitee_id = "https://gitee.com/shi-chao-cmcc"
+gitee_email = "shichaohz@cmhi.chinamobile.com"
