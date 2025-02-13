@@ -6798,3 +6798,13 @@ projects = []
 [sig.leader]
 gitee_id = "https://gitee.com/shi-chao-cmcc"
 gitee_email = "shichaohz@cmhi.chinamobile.com"
+
+[[sig]]
+sig_name = "sig_bdoh"
+description = "构筑OpenHarmony北斗导航定位授时、北斗短报文技术能力、推动行业标准化、加强生态合作、促进OpenHarmony+北斗生态繁荣。"
+sig_status = "active"
+sub_system = ["NONE"]
+projects = []
+[sig.leader]
+gitee_id = "https://gitee.com/BDOH"
+gitee_email = "bds_oh@163.com"

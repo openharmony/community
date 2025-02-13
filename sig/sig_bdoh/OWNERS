@@ -1,0 +1,25 @@
+{
+    "Leader": [{
+        "gitee_id": "BDOH",
+        "gitee_email": "bds_oh@163.com"
+    }],
+    "Committers": [{
+        "gitee_id": "hxdlj",
+        "gitee_email": "huxiaodong@huawei.com"
+    },{
+        "gitee_id": "jiwenjun1013",
+        "gitee_email": "1343220487@qq.com"
+    },{
+        "gitee_id": "huguangming123",
+        "gitee_email": "gmhu@nudt.edu.cn"
+    },{
+        "gitee_id": "Spice_wu",
+        "gitee_email": "cupbwxf@163.com"
+    },{
+        "gitee_id": "huang-dengcheng",
+        "gitee_email": "huangdengcheng@superred.com.cn"
+    },{
+        "gitee_id": "bradyD",
+        "gitee_email": "dengchenyang@tju.edu.cn"
+    }]
+}
