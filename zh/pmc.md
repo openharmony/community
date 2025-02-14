@@ -33,19 +33,19 @@
 | 董金光 |[@dongjinguang](https://gitee.com/dongjinguang) | PMC成员 | 系统架构 |
 | 万承臻 | [@wanchengzhen](https://gitee.com/wanchengzhen) | PMC成员 | 架构SIG |
 | 付天福 | [@futianfu](https://gitee.com/futianfu) | PMC成员 |	安全架构 |
-| 吴勇辉 | [@davidwulanxi](https://gitee.com/davidwulanxi) | PMC成员 | 版本发布SIG |
+| 赵鹏 | [@diog](https://gitee.com/diog) | PMC成员 | 版本发布SIG |
 | 强波 | [@huawei_qiangbo](https://gitee.com/huawei_qiangbo) | PMC成员 | 应用框架SIG |
 | 鲜余强 | [@klooer](https://gitee.com/klooer) | PMC成员 | 编译运行时SIG |
 | 余枝强 | [@yuzhiqiang101](https://gitee.com/yuzhiqiang101) | PMC成员 | ArkUI框架SIG |
 | 易见 | [@easy-to-see](https://gitee.com/easy-to-see) | PMC成员 | 内核SIG |
 | 马耀辉 | [@stesen](https://gitee.com/stesen) | PMC成员 | 基础软件服务SIG |
 | 赵文华 | [@shidi_snow](https://gitee.com/shidi_snow) | PMC成员 | 驱动框架SIG |
-| 丁勇 | [@ding-yong](https://gitee.com/ding-yong) | PMC成员 | 社区产品规划 |
+| 李锋 | [@robinloveleo](https://gitee.com/robinloveleo) | PMC成员 | 社区产品规划 |
 | 邢文华 | [@xhuazi](https://gitee.com/xhuazi) | PMC成员 | QA-SIG |
 | 高涵一 | [@gaohanyi1982](https://gitee.com/gaohanyi1982) | PMC成员 | 测试SIG |
 | 王意明 | [@youthdragon](https://gitee.com/youthdragon) | PMC成员 | 基础设施SIG |
 | 张小田 | [@handyohos](https://gitee.com/handyohos) | PMC成员 | 基础软件服务SIG |
-| 李煜 | [@abbuu](https://gitee.com/abbuu) | PMC成员 | 图形SIG |
+| 黄然 | [@frank-huangran](https://gitee.com/frank-huangran) | PMC成员 | 图形SIG |
 | 巴延兴 | [@bayanxing](https://gitee.com/bayanxing) | PMC成员 | 测试SIG |
 | 候鹏飞 | [@talkweb_houpengfei](https://gitee.com/talkweb_houpengfei) | PMC成员 | 驱动框架SIG |
 | 庞伟 | [@paworcn](https://gitee.com/paworcn) | PMC成员 | 多媒体SIG |
