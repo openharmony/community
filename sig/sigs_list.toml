@@ -6808,3 +6808,13 @@ projects = []
 [sig.leader]
 gitee_id = "https://gitee.com/BDOH"
 gitee_email = "bds_oh@163.com"
+
+[[sig]]
+sig_name = "sig_web"
+description = "构筑OpenHarmony Web引擎能力、推动W3C行业标准化、加强生态合作、促进OpenHarmony Web类生态繁荣。"
+sig_status = "active"
+sub_system = ["NONE"]
+projects = []
+[sig.leader]
+gitee_id = "https://gitee.com/kurli"
+gitee_email = "liguangzhen2@huawei.com"
