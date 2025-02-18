@@ -1,0 +1,28 @@
+{
+    "Leader": [{
+        "gitee_id": "kurli",
+        "gitee_email": "liguangzhen2@huawei.com"
+    }],
+    "Committers": [
+        {
+            "gitee_id": "litao33",
+            "gitee_email": "litao33@huawei.com"
+        },
+        {
+            "gitee_id": "mark.zhai",
+            "gitee_email": "yixi.zyf@antgroup.com"
+        },
+        {
+            "gitee_id": "bolide74",
+            "gitee_email": "haibin.zhb@antgroup.com"
+        },
+        {
+            "gitee_id": "leluyun",
+            "gitee_email": "leluyun@qq.com"
+        },
+        {
+            "gitee_id": "javayhu",
+            "gitee_email": "yinger090807@qq.com"
+        }
+    ]
+}
