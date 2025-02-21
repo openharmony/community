@@ -6818,3 +6818,13 @@ projects = []
 [sig.leader]
 gitee_id = "https://gitee.com/kurli"
 gitee_email = "liguangzhen2@huawei.com"
+
+[[sig]]
+sig_name = "sig_adss"
+description = "针对各垂域场景和开发者场景，在OpenHarmony社区构建开源解决方案"
+sig_status = "active"
+sub_system = ["NONE"]
+projects = []
+[sig.leader]
+gitee_id = "https://gitee.com/tiger-zhang"
+gitee_email = "zhangtai@huawei.com"
