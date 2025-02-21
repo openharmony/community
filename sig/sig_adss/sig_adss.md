@@ -13,6 +13,9 @@ The application scenario suite prioritizes the implementation of libraries and s
 
 The application development scenario suite is a set of libraries, tools, guidelines, and solutions for developers.
 
+sig_adss technology stack panoramic diagram:
+![sig_adss Overview](figures/adss_overview.png)
+
 ### Meetings
  - Meeting time：Every Thursday 14:15
  - Meeting application: https://docs.qq.com/sheet/DQ21qR1VVUmhJeHdq?tab=BB08J2
