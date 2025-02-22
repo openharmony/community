@@ -1,0 +1,22 @@
+{
+    "Leader": [{
+        "gitee_id": "tiger-zhang",
+        "gitee_email": "zhangtai@huawei.com"
+    },{
+        "gitee_id": "cepandxy_admin",
+        "gitee_email": "chengzhipeng7@huawei.com"
+    }],
+    "Committers": [{
+        "gitee_id": "luqi0119",
+        "gitee_email": "luqi7@huawei.com"
+    },{
+        "gitee_id": "diaiwei",
+        "gitee_email": "diaiwei@huawei.com"
+    },{
+        "gitee_id": "YX_Jiang1996",
+        "gitee_email": "jiangyuxiao3@huawei.com"
+    },{
+        "gitee_id": "wu_jiangmu",
+        "gitee_email": "wuqizhao@bytedance.com"
+    }]
+}
