@@ -8,13 +8,15 @@
 ## SIG组工作目标和范围
 
 ### 工作目标
-- 建立OpenHarmony的开源合规工程体系
-- 拟定OpenHarmony的开源合规治理的规则、规范、流程
-- 开发OpenHarmony的开源合规工具
-- 提供OpenHarmony的开源合规服务
+- 建立OpenHarmony的开源治理工程体系
+- 拟定OpenHarmony的开源治理治理的规则、规范、流程
+- 开发OpenHarmony的开源治理工具
+- 提供OpenHarmony的开源治理服务
 
 ### 工作范围
-本小组首期核心工作聚焦于社区**开源合规治理工程体系及能力的构建**，根据开源软件及社区开发的生命周期，我们将开源合规分为
+
+#### 第一期
+本小组**首期**核心工作聚焦于社区**开源合规治理工程体系及能力的构建**，根据开源软件及社区开发的生命周期，我们将开源合规分为
 - **来源可信**  ( 三方开源软件、社区代码贡献）
 - **许可证遵从**  ( 三方开源软件许可证兼容、三方开源软件证义务履行、项目许可证)
 - **知识产权合规**  ( 版权、专利、商标、术语)
@@ -28,11 +30,28 @@
 - **社区内合规文化与培训**
 
 
+#### 第二期 （当前）
+本小组**二期**核心工作在社区开源合规治理工程体系及能力的构建的基础上，**扩展** OpenHarmony SBOM管理（软件物料清单），第三方开源软件引入治理。
+
+- （原有）**开源合规** ( 版权、许可证合规、开源义务履行）
+- （新增）**SBOM管理** ( SBOM的生成、数据治理、格式规范、生命周期、访问)
+- （新增）**第三方开源软件引入治理**（引入评审（合法合规、生命周期、技术生态、来源可信等维度）、元数据治理、生命周期管理）
+
+本小组工作**包含**以上分类中
+- **工程能力及工具的规划及建设**
+- **流程规则的起草及拟定**
+- **与社区内及业界组织在工程能力方面协作**
+- **合规治理方面最佳实践的引入与对外分享**
+- **社区内合规文化与培训**
+- **第三方开源软件引入合规评审**
+- **SBOM的工程能力及流程规则及数据管理**
+
+
 #### **与开源审查工具OAT项目的关系**：
 本小组作为一个伞形项目，包含[开源合规审查工具OAT](https://gitee.com/openharmony-sig/tools_oat)，即OAT是SIG-Compliance中的一个子项目，也是当前最主要的合规审查工具，本小组一方面会持续演进OAT工具，另一方也会引入业界其他最佳实践及工具，将多种能力进行集成，共同打造合规工程体系
 
-#### **与工作委员会下开源合规组的关系**：
-原则上，本小组应在开源合规组的指导下完成工程能力的建设，并定期向工作委员会下的开源合规组进行工作汇报
+#### **与工作委员会下法务与合规组的关系**：
+原则上，本小组应在法务与合规组的指导下完成工程能力的建设，并定期向工作委员会下的法务与合规组进行工作汇报
 
 本小组**不包含**
 - 社区合规及法务问题的官方口径
@@ -43,25 +62,34 @@
 ## 代码仓
 - 代码仓地址：
   - SIG-Compliance ：https://gitee.com/openharmony/community/tree/master/sig/sig_compliance
-  - OAT开源审查工具 ：https://gitee.com/openharmony-sig/tools_oat
+  - OAT开源审查工具 ：https://gitcode.com/openharmony-sig/tools_oat
+  - OAT的IDE插件：https://gitcode.com/openharmony-sig/oat_deveco_plugin
+  - 许可证兼容性分析工具：https://gitcode.com/openharmony-sig/compliance_license_compatibility
+  - 成分分析： https://gitcode.com/openharmony-sig/compliance_composition_analysis
+  - 社区开源合规规范： https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/OpenHarmony%E7%A4%BE%E5%8C%BA%E5%BC%80%E6%BA%90%E5%90%88%E8%A7%84%E8%A7%84%E8%8C%83%E5%8F%8A%E6%8C%87%E5%AF%BC.md
 
 ## SIG组成员
 
 ### Leader
-- @jalenchen(https://gitee.com/jalenchen)
+- @kubigao (https://gitee.com/kubigao)
 
 ### Committers列表
 - @king-gao (https://gitee.com/king-gao)
-- @alec-z (https://gitee.com/alec-z)
 - @kubigao (https://gitee.com/kubigao)
-- @billwangliang (https://gitee.com/billwangliang)
 - @youthdragon (https://gitee.com/youthdragon)
-- @jungle8023 (https://gitee.com/jungle8023)
-- @yishuangli（https://gitee.com/yishuangli）
 - @Rahul Mohan G（rahulmohang@gmail.com）
 - @Carlo Piana（ piana@array.eu ）
 - @alpianon（https://gitee.com/alpianon） 
 - 欢迎加入
+
+### 历史SIG Leader及 Committers列表
+- @jalenchen(https://gitee.com/jalenchen) 2022-2023 SIG Leader
+- @jungle8023 (https://gitee.com/jungle8023)  2023  committer
+- @yishuangli（https://gitee.com/yishuangli）  2022  committer
+- @billwangliang (https://gitee.com/billwangliang) 2022  committer
+- @alec-z (https://gitee.com/alec-z) 2022  committer
+
+
 ### Contributor列表
 - 欢迎加入
 - @lainslin(https://gitee.com/lainslin)
@@ -106,6 +134,8 @@
 合规SIG的可贡献内容是多方面的，我们欢迎包括但不限于以下方面的贡献：
 
 - 合规工程能力：合规工程体系涉及的需求、设计、开发、测试、bugfix、漏洞修复
+- SBOM管理
+- 发布、引入评审
 - 文档 - 指导书、FAQs、流程规范
 - 翻译： 翻译及本地化
 - 法务
