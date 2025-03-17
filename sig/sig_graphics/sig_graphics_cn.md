@@ -43,17 +43,19 @@ https://gitee.com/openharmony-sig/sig-content/tree/master/graphics/docs
 ## SIG组成员
 
 ### Leader
-- @abbuu(https://gitee.com/abbuu)
-- @yifan-cui(https://gitee.com/yifan-cui)
+- @frank-huangran(https://gitee.com/frank-huangran)
+- @lijj01(https://gitee.com/lijj01)
 
 ### Committers列表
 - @lijj01(https://gitee.com/lijj01)
-- @bj1010(https://gitee.com/bj1010)
-- @mk_gc(https://gitee.com/mk_gc)
 - @xuyuqiong(https://gitee.com/xuyuqiong)
 - @liuchao92(https://gitee.com/liuchao92)
-- @xxfeng-hw(https://gitee.com/xxfeng-hw)
 - @stonesxd(https://gitee.com/stonesxd)
+- @chen-yuheng5(https://gitee.com/chen-yuheng5)
+- @aslklw(https://gitee.com/aslklw)
+- @kaixin-liu(https://gitee.com/kaixin-liu)
+- @hm1991(https://gitee.com/hm1991)
+- @dujnan(https://gitee.com/dujnan)
 
 ### 会议
  - 会议时间：双周周五17:00-18:00
@@ -64,8 +66,5 @@ https://gitee.com/openharmony-sig/sig-content/tree/master/graphics/docs
 
 ### 联系方式(可选)
 
-- liyu37@huawei.com
-- cuikun1@huawei.com
-
-- 邮件列表：dev@openharmony.io
-- 微信群：SIG-Graphics
+- frank.huangran@huawei.com
+- lijunjie29@huawei.com
