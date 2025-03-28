@@ -11,6 +11,19 @@ OpenHarmony 媒体管理。
 ### 工作范围
 媒体相关的设计和提交评审。
 
+媒体SIG（ sig_media ）技术栈范围全景图如下图所示：
+![OpenHarmony文档概览](figures/media_overview_cn.png)
+
+|部件名称|部件功能描述|部件仓名称|
+| ------------ | ------------ |------------ |
+|音频服务|音频组件用于实现音频相关的功能，包括音频播放，录制，音量管理和设备管理|multimedia_audio_framework|
+|视频服务|提供播放、录制等场景的媒体数据流水线处理|multimedia_media_foundation|
+|编解码服务|提供了统一的音视频编解码、封装、解封装能力|multimedia_av_codec|
+|播控服务|提供了统一的媒体控制能力|multimedia_av_session|
+|相机服务|支持相机业务的开发，提供接口实现相机硬件的访问、操作和新功能开发|multimedia_camera_framework|
+|图片服务|提供了一系列易用的接口用于存放image的源码信息，提供创建图片源和位图管理能力|multimedia_image_framework|
+|媒体库服务|提供了一系列易用的接口用于获取媒体文件元数据信息|multimedia_media_library|
+|视频处理引擎|提供细节增强、对比度增强、亮度增强、动态范围增强等基础能力|multimedia_video_processing_engine|
 
 ## SIG组成员
 
