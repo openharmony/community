@@ -49,10 +49,10 @@ Web 引擎开发者等进行合作，协助贡献他们的代码上库
 
 ### 会议
  - 会议时间：双周例会，上午周一10:30
- - 会议申报：[OpenHarmony sig_Web Meeting Proposal](https://shimo.im/sheets/5xkGoLr9ewSyLYkX/MODOC/)
+ - 会议申报：[OpenHarmony sig_Web Meeting Proposal](https://shimo.im/sheets/5xkGoLr9ewSyLYkX/MODOC)
  - 会议链接: Welink
- - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content)
+ - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_web.openharmony.io/)邮件列表 sig_web@openharmony.io 获取会议链接
+ - 会议纪要: [归档链接地址](https://gitcode.com/openharmony-sig/sig-content/tree/master/web)
 
 ### 联系方式(可选)
 

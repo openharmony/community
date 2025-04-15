@@ -1,4 +1,4 @@
-# SIG_SoftBus 
+# SIG_Web
 English | [简体中文](./sig_web_cn.md)
 
 Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
@@ -46,13 +46,13 @@ Actively negotiate cooperation with ecosystem partners, web engine developers, a
 
  ### Meetings
  - Meeting time：Biweekly meeting, 10:30 a.m. Monday
- - Meeting link：[Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
+ - Meeting link：[Subscribe to](https://lists.openatom.io/postorius/lists/sig_web.openharmony.io) mailing list dev@openharmony.io for the meeting link
 
  - Meeting time：Biweekly meeting, 10:30 a.m. Monday
- - Meeting application：[OpenHarmony sig_Web Meeting Proposal](https://shimo.im/sheets/5xkGoLr9ewSyLYkX/MODOC/)
+ - Meeting application：[OpenHarmony sig_Web Meeting Proposal](https://shimo.im/sheets/5xkGoLr9ewSyLYkX/MODOC)
  - Meeting link: Welink
-  - Meeting notification: [Subscribe to] (https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [归档链接地址](https://gitee.com/openharmony-sig/sig-content)
+ - Meeting notification: [Subscribe to] (https://lists.openatom.io/postorius/lists/sig_web.openharmony.io) mailing list dev@openharmony.io for the meeting link
+ - Meeting-Minutes: [归档链接地址](https://gitcode.com/openharmony-sig/sig-content/tree/master/web)
 
 ### Contact (optional)
 
