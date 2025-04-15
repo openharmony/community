@@ -6828,3 +6828,13 @@ projects = []
 [sig.leader]
 gitee_id = "https://gitee.com/tiger-zhang"
 gitee_email = "zhangtai@huawei.com"
+
+[[sig]]
+sig_name = "sig_ib"
+description = "构建和推进OpenHarmony在智能建筑领域的应用、开发和优化关键技术。SIG-IB将与生态合作伙伴共同推动智能建筑行业的自主创新，形成开放、共享的生态系统，加快新质生产力的形成。"
+sig_status = "active"
+sub_system = ["NONE"]
+projects = []
+[sig.leader]
+gitee_id = "https://gitee.com/yujunqi1"
+gitee_email = "junqi@xauat.edu.cn"
