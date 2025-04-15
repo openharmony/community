@@ -45,6 +45,8 @@ OpenHarmony ApplicationFramework technology stack scope is shown in the followin
 | Resource Schedule Service          | Provides the perception and distribution of system events such as application startup, exit, screen on and off, etc. The grouping of scheduling processes is jointly decided by sensing events, user operations, and background task execution status. | resourceschedule_resource_schedule_service    |
 | Memory Management                  | Based on the life cycle status of the application, update the process recycling priority list, and manage system memory through memory recycling, killing and other means to ensure memory supply. | resourceschedule_memmgr                       |
 | Framework Aware Scheduler          | In order to ensure the cpu scheduling supply, it updates the process scheduling groups and adjust the kernel schedule parameters to influence the kernel scheduling behavior according to the information of the application frame drawing and the application life cycle status. | frame_aware_sched                             |
+| App Extension     | 1. Baseline definitions for image editing application extensions involving drapeability and context definitions; 2. Baseline definitions of other pendant extensions, such as action, etc. | app_extension                             |
+| App Extension Picker     | Support the application of selection boxes, image editing, navigation, finance and other verticals of the unified panel processing logic. | app_extension_picker                             |
 
 
 ## SIG Members
