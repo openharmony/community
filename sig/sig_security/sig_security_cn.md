@@ -17,14 +17,13 @@ OpenHarmony安全业务,包括应用权限、应用签名、设备认证和密�
 ## SIG组成员
 
 ### Leader
-- @yongjie2020(https://gitee.com/yongjie2020)
+- @niejiteng(https://gitee.com/niejiteng)
 
 ### Committers列表
-- @scuteehuangjun(https://gitee.com/scuteehuangjun)
-- @Chaos-Liang(https://gitee.com/Chaos-Liang)
-- @xuwenfang(https://gitee.com/xuwenfang)
-- @jiang-xiaofeng(https://gitee.com/jiang-xiaofeng)
-- @shangxuan_hz(https://gitee.com/shangxuan_hz)
+- @wangkairong(https://gitee.com/wkr321_ent)
+- @liuhanxiong(https://gitee.com/liuhanxiong)
+- @haixiangw(https://gitee.com/haixiangw)
+- @chennian1(https://gitee.com/chennian1121)
 
 ### 会议
  - 会议时间：双周例会，周一晚上19:15，UTC+8

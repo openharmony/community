@@ -15,14 +15,13 @@ OpenHarmony security sbusystem, including application permissions, application s
 ## SIG Members
 
 ### Leader
-- @yongjie2020(https://gitee.com/yongjie2020)
+- @niejiteng(https://gitee.com/niejiteng)
 
 ### Committers
-- @scuteehuangjun(https://gitee.com/scuteehuangjun)
-- @Chaos-Liang(https://gitee.com/Chaos-Liang)
-- @xuwenfang(https://gitee.com/xuwenfang)
-- @jiang-xiaofeng(https://gitee.com/jiang-xiaofeng)
-- @shangxuan_hz(https://gitee.com/shangxuan_hz)
+- @wangkairong(https://gitee.com/wkr321_ent)
+- @liuhanxiong(https://gitee.com/liuhanxiong)
+- @haixiangw(https://gitee.com/haixiangw)
+- @chennian1(https://gitee.com/chennian1121)
 
  ### Meetings
 - Meeting time：Bi-weekly meeting, Monday 19:15 pm, UTC+8
