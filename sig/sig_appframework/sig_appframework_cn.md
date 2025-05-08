@@ -40,6 +40,8 @@ ApplicationFramework SIG技术栈范围全景图如下图所示：
 | 资源调度服务     | 提供系统事件如应用启动、退出、亮灭屏等的感知和分发，同时，通过感知事件、用户操作、后台任务执行状态等共同决策调度进程的分组。 | resourceschedule_resource_schedule_service    |
 | 内存管理部件     | 基于应用的生命周期状态，更新进程回收优先级列表，并通过内存回收、查杀等手段管理系统内存，保障内存供给。 | resourceschedule_memmgr                       |
 | 智能感知调度     | 通过获取应用的生命周期状态、应用绘帧等信息，调节内核调度参数，从而控制内核调度行为，保障系统进程调度供给。 | frame_aware_sched                             |
+| 应用扩展各垂域基线     | 1、图片编辑应用扩展的基线定义，涉及垂域ability和context定义； 2、其他垂域扩展的基线定义，比如action等。 | app_extension                             |
+| 应用扩展统一面板     | 支撑应用选择框、图片编辑、导航、金融等各垂域的统一面板处理逻辑。 | app_extension_picker                             |
 
 ## SIG组成员
 
