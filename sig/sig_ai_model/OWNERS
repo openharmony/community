@@ -1,0 +1,16 @@
+{
+    "Leader": [{
+        "gitee_id": "talkweb_houpengfei",
+        "gitee_email": "houpengfei@openvalley.net"
+    }],
+    "Committers": [{
+        "gitee_id": "tanpengju",
+        "gitee_email": "tanpengju@huawei.com"
+    },{
+        "gitee_id": "yuan-dan-1",
+        "gitee_email": "yuandan17@huawei.com"
+    },{
+        "gitee_id": "xfanonymous",
+        "gitee_email": "fanjingxiao@huawei.com"
+    }]
+}
