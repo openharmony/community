@@ -9,7 +9,7 @@
 ## SIG组工作目标和范围
 
 ### 工作目标
-搭建一个OpenHarmony大屏软硬件公共平台，通过共建降低开发难度，减少研发投入，并聚焦竞争力提升和创新场景落地，支撑大屏产业伙伴更快商业成功！
+基于OH社区，携手业界生态伙伴，补充大屏关键技术能力，推动行业标准化，加强生态合作，促进OH生态繁荣
 
 ### 工作范围
  - 联合芯片厂商，基于OpenHarmony系统完成芯片适配和系统升级；
@@ -22,7 +22,23 @@
 - @shuguang-wang(https://gitee.com/shuguang-wang)
 
 ### Committers列表
-- @tianxudong2(https://gitee.com/tianxudong2)
+- @leven1(https://gitee.com/leven1)
+- @lite-eos(https://gitee.com/lite-eos)
+- @qibaowei.zhu(https://gitee.com/qibaowei.zhu)
+- @xyanggogo(https://gitee.com/xyanggogo)
+- @SeanHW(https://gitee.com/SeanHW)
+- @18673380227(https://gitee.com/18673380227)
+- @yao-lei770708(https://gitee.com/yao-lei770708)
+- @ztfrdas(https://gitee.com/ztfrdas)
+- @chen-xuejun01(https://gitee.com/chen-xuejun01)
+- @caizhigang20231018(https://gitee.com/caizhigang20231018)
+- @pai_666(https://gitee.com/pai_666)
+- @chengcharchar(https://gitee.com/chengcharchar)
+- @zhangguorong(https://gitee.com/zhangguorong)
+- @15002264759(https://gitee.com/15002264759)
+- @donglin_lu(https://gitee.com/donglin_lu)
+- @yan-kaiyun(https://gitee.com/yan-kaiyun)
+- @18573110257(https://gitee.com/18573110257)
 
 ### 会议
  - 会议时间：单周例会，周三下午16:00 ~ 17:30
