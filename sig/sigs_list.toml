@@ -6851,7 +6851,7 @@ gitee_email = "houpengfei@openvalley.net"
 
 [[sig]]
 sig_name = "sig_tv"
-description = "搭建一个OpenHarmony大屏软硬件公共平台，通过共建降低开发难度，减少研发投入，并聚焦竞争力提升和创新场景落地，支撑大屏产业伙伴更快商业成功"
+description = "基于OH社区，携手业界生态伙伴，补充大屏关键技术能力，推动行业标准化，加强生态合作，促进OH生态繁荣"
 sig_status = "active"
 sub_system = ["NONE"]
 projects = []
