@@ -7304,5 +7304,18 @@
             "NONE"
         ],
         "projects": []
+    },
+    {
+        "sig_name": "sig_tv",
+        "description": "搭建一个OpenHarmony大屏软硬件公共平台，通过共建降低开发难度，减少研发投入，并聚焦竞争力提升和创新场景落地，支撑大屏产业伙伴更快商业成功",
+        "sig_status": "active",
+        "leader": {
+            "gitee_id": "https://gitee.com/shuguang-wang",
+            "gitee_email": "shuguang.wang@huawei.com"
+        },
+        "sub_system": [
+            "NONE"
+        ],
+        "projects": []
     }
 ]
