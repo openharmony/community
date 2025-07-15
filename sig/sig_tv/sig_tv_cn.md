@@ -28,6 +28,7 @@
  - 会议时间：单周例会，周三下午16:00 ~ 17:30
  - 会议申报：[OpenHarmony TV SIG Meeting Proposal](https://docs.qingque.cn/s/home/eZQD5fEgz0p9aMBiO68_Ymyt0?identityId=2JZgg0BEwbM)
  - 会议链接：通过邮件通知
+ - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content)
 
 ### 联系方式(可选)
 

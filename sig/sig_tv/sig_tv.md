@@ -28,6 +28,7 @@ Build an OpenHarmony large-screen hardware and software public platform to reduc
  - Meeting time：Weekly meeting every Wednesday, from 4:00 PM to 5:30 PM
  - Meeting application: [OpenHarmony TV SIG Meeting Proposal](https://docs.qingque.cn/s/home/eZQD5fEgz0p9aMBiO68_Ymyt0?identityId=2JZgg0BEwbM)
  - Meeting link: Notify via email
+ - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
 
 ### Contact (optional)
 
