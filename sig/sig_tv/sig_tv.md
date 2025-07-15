@@ -3,6 +3,9 @@ English | [简体中文](./sig_tv_cn.md)
 
 Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
+## SIG Technology Architecture
+![figures/tv-framework.png](figures/tv-framework.png)
+
 ## SIG group work objectives and scope
 
 ### work goals
@@ -12,10 +15,6 @@ Build an OpenHarmony large-screen hardware and software public platform to reduc
  - Collaborate with chip manufacturers to complete chip adaptation and system upgrades based on the OpenHarmony system;
  - Partner with device manufacturers to achieve adaptation of dedicated subsystems for TVs/projectors/set-top boxes based on OpenHarmony, as well as large-screen adaptations for functions such as screen casting, remote control/audio focus, to create competitive products;
  - Work together with application developers to complete large-screen adaptation of third-party applications based on OpenHarmony, and build smooth, user-friendly, and innovative native OpenHarmony applications from aspects of multi-device collaboration and unified interconnection.
-
- - TV Subsystem Architecture
-
-![figures/tv-framework.png](figures/tv-framework.png)
 
 ## SIG Members
 

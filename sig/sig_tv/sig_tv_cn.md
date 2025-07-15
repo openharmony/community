@@ -3,6 +3,9 @@
 
 说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
+## SIG技术架构
+![figures/tv-framework.png](figures/tv-framework.png)
+
 ## SIG组工作目标和范围
 
 ### 工作目标
@@ -12,10 +15,6 @@
  - 联合芯片厂商，基于OpenHarmony系统完成芯片适配和系统升级；
  - 联合设备厂家，基于OpenHarmony系统完成TV/投影/机顶盒等专有子系统适配，以及投屏、遥控器/音频焦点等功能大屏端适配，打造出有竞争力的产品；
  - 联合应用厂家，基于OpenHarmony系统完成三方应用大屏端适配，并从多端协同，统一互联等方面打造出流畅好用、体验创新的原生开源鸿蒙应用；
-
- - TV子系统架构
-
-![figures/tv-framework.png](figures/tv-framework.png)
 
 ## SIG组成员
 
