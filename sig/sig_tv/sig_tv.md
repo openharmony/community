@@ -3,8 +3,8 @@ English | [简体中文](./sig_tv_cn.md)
 
 Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
-## SIG Technology Architecture
-![figures/tv-framework.png](figures/tv-framework.png)
+## SIG Technology Stack Landscape Diagram
+![figures/Technology_Stack_Landscape_Diagram.png](figures/Technology_Stack_Landscape_Diagram.png)
 
 ## SIG group work objectives and scope
 
@@ -12,9 +12,31 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 Based on the OH community, working hand in hand with industry ecosystem partners, we will enhance large-screen key technology capabilities, promote industry standardization, strengthen ecological cooperation, and facilitate the prosperity of the OH ecosystem.
 
 ### work scope
- - Collaborate with chip manufacturers to complete chip adaptation and system upgrades based on the OpenHarmony system;
- - Partner with device manufacturers to achieve adaptation of dedicated subsystems for TVs/projectors/set-top boxes based on OpenHarmony, as well as large-screen adaptations for functions such as screen casting, remote control/audio focus, to create competitive products;
- - Work together with application developers to complete large-screen adaptation of third-party applications based on OpenHarmony, and build smooth, user-friendly, and innovative native OpenHarmony applications from aspects of multi-device collaboration and unified interconnection.
+1. Capability Enhancement: Strengthen key capabilities for large-screen devices
+ - System Applications: Develop large-screen versions of system applications (Launcher, Setting, SystemUI, Input Sources, etc.)
+ - System Capabilities: Build dedicated subsystem capabilities for large screens (TV subsystem, projection subsystem, miracast/DLNA screen casting Sink,large-screen specific audio/video codecs, focus control, etc.)
+ - Chips and Peripherals: Complete adaptation of large-screen SOC chips and peripheral chips (AMP/MIC/PANEL), as well as peripheral accessories (remote control/microphone/gamepad, etc.)
+
+2. Establish Standards: Standardization to promote industry development
+Advance large-screen standard system for TVs/conference screens
+ - XTS Compatibility: Enhance compatibility with large-screen unique capabilities
+ - Information Technology Application Innovation Standards: Incorporate education large-screen standards
+ - Centralized Procurement Specifications: Comply with carrier centralized procurement norms
+
+3. Building Ecosystem: Working hand in hand with ecological partners to jointly promote ecosystem prosperity.
+ - Northbound Application Ecosystem: Attract third-party application vendors to participate in ecosystem co-construction,OH northbound ecosystem. Meanwhile, incorporate application vendors' requirements into the system for co-construction, enhancing application innovation capabilities and competitiveness.
+ - Southbound Chip Ecosystem: Attract large-screen chip manufacturers to participate in ecosystem co-construction, providing chips of various specifications to support commercial shipment of diverse large-screen devices. By combining chip and system capabilities, support partners in developing competitive products.
+ - End-to-End Device Ecosystem: Attract top traditional vendors in the industry chain to join the OH large-screen ecosystem, develop competitive products for commercial shipment, and support widespread commercial adoption of OH products.
+
+### Main Work Direction and Content 
+1、Attract large-screen chip manufacturers to contribute SDKs and development boards, building a unified verification platform for large screens.
+2、Collaboratively develop large-screen system capabilities based on common hardware platforms.
+3、Support large-screen northbound applications, southbound chips, and peripheral accessories integration into the OH technology ecosystem.
+4、Accelerate chip, system, and third-party application maturity through ecosystem partner commercial projects, supporting the prosperity of the large-screen ecosystem.
+5、Serve as a focal point to collect and implement the latest industry technologies and demands into the TV SIG, enhancing the competitiveness of the OH large-screen system.
+
+### Planned Contributions
+![figures/计划贡献内容.png](figures/计划贡献内容.png)
 
 ## SIG Members
 
@@ -41,10 +63,10 @@ Based on the OH community, working hand in hand with industry ecosystem partners
 - @18573110257(https://gitee.com/18573110257)
 
 ### Meetings
- - Meeting time：Weekly meeting every Wednesday, from 4:00 PM to 5:30 PM
+ - Meeting time：Bi-weekly meeting, every Friday from 4:00 PM to 5:30 PM
  - Meeting application：[OpenHarmony TV SIG Meeting Proposal](https://docs.qingque.cn/s/home/eZQD5fEgz0p9aMBiO68_Ymyt0?identityId=2JZgg0BEwbM)
  - Meeting link：Notify via email
- - Meeting-Minutes：[Archive link address](https://gitee.com/openharmony-sig/sig-content)
+ - Meeting-Minutes：[Archive link address](https://gitee.com/openharmony/community/blob/master/sig/sig_tv/meetings)
 
 ### Contact (optional)
 
