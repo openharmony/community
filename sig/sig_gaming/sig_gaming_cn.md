@@ -13,12 +13,15 @@
 
 ![OpenHarmony文档概览](figures/gaming_overview.png)
 
+
 ## 代码仓
 
-|部件名称|部件功能描述|部件仓名称|
-| ------------ | ------------ |------------ |
-|cocos2dx|开源、轻量的跨平台游戏引擎|cocos2dx|
-|third_party_cocos2d|开源、轻量的跨平台游戏引擎|third_party_cocos2d|
+| 部件名称                          |部件功能描述| 部件仓名称                          |
+|-------------------------------| ------------ |--------------------------------|
+| cocos2dx                      |开源、轻量的跨平台游戏引擎| cocos2dx                       |
+| third_party_cocos2d           |开源、轻量的跨平台游戏引擎| third_party_cocos2d            |
+| game_controller_framework |GameController用于给游戏开发者提供游戏外设接入能力的API以及给设备厂商提供输入转触控能力。其中game_controller_framework为GameController的framework层，用于提供游戏外设上下线监听和外设输入事件监听；以及给设备厂商提供输入转触控的实现能力。| game_game_controller_framework |
+| game_controller_service  |GameController用于给游戏开发者提供游戏外设接入能力以及给设备厂商提供输入转触控能力。其中game_controller_servcei为GameController的CoreService层，通过提供InnerAPI给设备厂商，让设备厂商可以实现对外设设备的认证信息的管理以及对输入转触控的模版管理。| game_game_controller_service   |
 
 ## SIG组成员
 
