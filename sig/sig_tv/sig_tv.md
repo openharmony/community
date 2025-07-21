@@ -5,6 +5,35 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ## SIG Technology Stack Landscape Diagram
 ![figures/Technology_Stack_Landscape_Diagram.png](figures/Technology_Stack_Landscape_Diagram.png)
+The TV technology stack panoramic architecture diagram is divided from bottom to top into the kernel layer, framework & service layer, and application layer.
+### Kernel Layer
+ - Kernel subsystem (Linux): Built upon the Linux kernel, providing the underlying runtime environment and responsible for basic functions such as hardware resource management and process scheduling.
+ - Peripheral device drivers: Interface with various peripheral hardware (such as remote controls, audio output devices, etc.), enabling data interaction between hardware and upper-level software.
+ - SOC chip drivers: Developed specifically for TV main control SOC chips, coordinating the work of internal hardware modules (such as CPU, GPU, decoding modules, etc.) to ensure the normal operation of core chip functions.
+ - HDF subsystem: Hardware driver framework that standardizes hardware driver development processes, providing unified hardware access interfaces to upper layers and reducing hardware adaptation complexity.
+### Framework & Service Layer
+#### Multi-modal Input Subsystem
+ - Input Event Reception: Responsible for capturing user operations (such as remote control buttons, external device commands).
+ - Remote Control: Parses remote control button commands to implement basic interactions like channel switching and volume adjustment.
+#### Media Subsystem
+ - DRM (Digital Rights Management): Protects audio and video content copyrights, encrypts and decrypts protected content to prevent illegal copying and distribution.
+ - Audio Management: Covers TV audio input/output management (e.g., external amplifier, SPDIF), and remote control microphone pickup.
+ - Power Management Subsystem：Power Management: Controls TV power states, including standby and wake-up (STR standby wake-up).
+#### TV Subsystem
+ - TV Framework (Framework Layer): Defines basic functions such as image, sound, input source, and event reporting.
+ - TV Service (Service Layer): Divided into functional modules including audio/video and picture quality, implementing specific services:
+     - Common: Image mode switching, color/clarity/screen settings
+     - Sound: Audio output, volume adjustment, sound enhancement
+     - Picture Quality: Natural color, auto light sensing, auto tone adjustment, game enhancement
+     - HDMI/DTV: HDMI handles CEC settings, EDID version, ARC/eARC interface functions; DTV implements playback control, channel management, electronic program guide, recording/scheduling and other digital TV services
+     - Common Capabilities: Database (stores system configuration/user preferences), configuration parsing (loads system/user parameters), message monitoring (captures system/business events), providing basic capabilities for all modules
+     - Player Framework: Interfaces with HDMI, DTV, CVBS protocols and interfaces, implementing audio/video content decoding and playback control
+ - TV Service HDI: Hardware abstraction layer interface, shielding underlying hardware differences upward and interfacing with specific hardware drivers (such as HDMI, DTV hardware modules) downward
+### Application Layer:
+ - TV Launcher: The primary interactive interface displayed when users boot up the device.
+ - TV SystemUI: System interface components that assist users in quickly adjusting system status (such as volume, brightness).
+ - TV Settings: The system configuration center where users can adjust parameters including image, sound, network, and device connections.
+ - TV Input Source: Manages signal input from external devices (such as set-top boxes, game consoles, USB drives), allowing users to switch between different input sources.
 
 ## SIG group work objectives and scope
 
