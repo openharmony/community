@@ -7304,18 +7304,5 @@
             "NONE"
         ],
         "projects": []
-    },
-    {
-        "sig_name": "sig_tv",
-        "description": "基于OH社区，携手业界生态伙伴，补充大屏关键技术能力，推动行业标准化，加强生态合作，促进OH生态繁荣",
-        "sig_status": "active",
-        "leader": {
-            "gitee_id": "https://gitee.com/shuguang-wang",
-            "gitee_email": "shuguang.wang@huawei.com"
-        },
-        "sub_system": [
-            "NONE"
-        ],
-        "projects": []
     }
 ]

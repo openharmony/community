@@ -93,7 +93,7 @@ Advance large-screen standard system for TVs/conference screens
 
 ### Meetings
  - Meeting time：Bi-weekly meeting, every Friday from 4:00 PM to 5:30 PM
- - Meeting application：[OpenHarmony TV SIG Meeting Proposal](https://docs.qingque.cn/s/home/eZQD5fEgz0p9aMBiO68_Ymyt0?identityId=2JZgg0BEwbM)
+ - Meeting application：[OpenHarmony TV SIG Meeting Proposal](https://shimo.im/sheets/erAdMe7OK2iwmz3G/MODOC)
  - Meeting link：Notify via email
  - Meeting-Minutes：[Archive link address](https://gitee.com/openharmony/community/blob/master/sig/sig_tv/meetings)
 
