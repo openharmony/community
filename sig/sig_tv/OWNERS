@@ -1,0 +1,76 @@
+{
+    "Leader": [{
+        "gitee_id": "shuguang-wang",
+        "gitee_email": "shuguang.wang@huawei.com"
+    }],
+    "Committers": [
+        {
+            "gitee_id": "leven1",
+            "gitee_email": "huahongning@huawei.com"
+        },
+        {
+            "gitee_id": "lite-eos",
+            "gitee_email": "shuai.zhang@changhong.com"
+        },
+        {
+            "gitee_id": "qibaowei.zhu",
+            "gitee_email": "qiaowei.zhu@unionman.com.cm"
+        },
+        {
+            "gitee_id": "xyanggogo",
+            "gitee_email": "wangyang@fun.tv"
+        },
+        {
+            "gitee_id": "SeanHW",
+            "gitee_email": "fuxinrong@huawei.com"
+        },
+        {
+            "gitee_id": "18673380227",
+            "gitee_email": "liujiebing@goke.com"
+        },
+        {
+            "gitee_id": "yao-lei770708",
+            "gitee_email": "leiyaoy@isoftstone.com"
+        },
+        {
+            "gitee_id": "ztfrdas",
+            "gitee_email": "zhaotong@konka.com"
+        },
+        {
+            "gitee_id": "chen-xuejun01",
+            "gitee_email": "chenxuejun@runkaihong.com.cn"
+        },
+        {
+            "gitee_id": "caizhigang20231018",
+            "gitee_email": "caizhigang@openvalley.net"
+        },
+        {
+            "gitee_id": "pai_666",
+            "gitee_email": "puai@td-tech.com"
+        },
+        {
+            "gitee_id": "chengcharchar",
+            "gitee_email": "charliecheng@harmonytsc.com"
+        },
+        {
+            "gitee_id": "zhangguorong",
+            "gitee_email": "zhangguorong@kaihong.com"
+        },
+        {
+            "gitee_id": "15002264759",
+            "gitee_email": "li.xin@chinaott.net"
+        },
+        {
+            "gitee_id": "donglin_lu",
+            "gitee_email": "donglin.lu@qcast.cn"
+        },
+        {
+            "gitee_id": "yan-kaiyun",
+            "gitee_email": "yankaiyun@seneasy.com"
+        },
+        {
+            "gitee_id": "18573110257",
+            "gitee_email": "guanwen@mlslab.com.cn"
+        }
+    ]
+}
