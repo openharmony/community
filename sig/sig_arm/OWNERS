@@ -1,0 +1,42 @@
+{
+    "Leader": [
+        {
+            "gitcode_id": "justinhe2",
+            "gitcode_email": "justin.he@arm.com"
+        },
+        {
+            "gitcode_id": "xie_hai",
+            "gitcode_email": "xiehai@kaihong.com"
+        }
+    ],
+    "Committers": [
+        {
+            "gitcode_id": "junhe_arm",
+            "gitcode_email": "jun.he@arm.com"
+        },
+        {
+            "gitcode_id": "frman26",
+            "gitcode_email": "xudong.chen@cixtech.com"
+        },
+        {
+            "gitcode_id": "kalyxin",
+            "gitcode_email": "kaly.xin@linaro.org"
+        },
+        {
+            "gitcode_id": "honglianglin",
+            "gitcode_email": "linhongliang@hisilicon.com"
+        },
+        {
+            "gitcode_id": "lucici2018",
+            "gitcode_email": "luxuan3@huawei.com"
+        },
+        {
+            "gitcode_id": "niu-guoliang",
+            "gitcode_email": "niuguoliang4@huawei.com"
+        },
+        {
+            "gitcode_id": "talkweb_houpengfei",
+            "gitcode_email": "houpengfei@talkweb.com.cn"
+        },
+    ]
+}
