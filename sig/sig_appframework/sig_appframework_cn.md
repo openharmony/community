@@ -42,6 +42,14 @@ ApplicationFramework SIG技术栈范围全景图如下图所示：
 | 智能感知调度     | 通过获取应用的生命周期状态、应用绘帧等信息，调节内核调度参数，从而控制内核调度行为，保障系统进程调度供给。 | frame_aware_sched                             |
 | 应用扩展各垂域基线     | 1、图片编辑应用扩展的基线定义，涉及垂域ability和context定义； 2、其他垂域扩展的基线定义，比如action等。 | app_extension_framework                 |
 | 应用扩展统一面板     | 支撑应用选择框、图片编辑、导航、金融等各垂域的统一面板处理逻辑。 | app_extension_manage                        |
+|应用域名校验|提供App Linking相关的域名校验能力，以及应用与域名的映射关系的管理等。|bundlemanager_app_domain_verify|
+| ArkUI开发框架 | ArkUI框架是OpenHarmony UI开发框架，提供开发者进行应用UI开发时所必需的能力，包括UI组件、动画、绘制、交互事件、JS API扩展机制等。 | arkui_ace_engine |
+| 原生模块扩展开发框架 | NAPI是基于Node.js N-API规范开发的原生模块扩展框架，提供标准化接口支持。 | arkui_napi |
+| 用户界面外观 | 管理和配置系统的用户界面外观，不包括产品化应用定制的外观模式。 | arkui_ui_appearance |
+| 声明式范式工具链 | 提供声明式范式的语法编译转换，语法验证，丰富友好的语法报错提示能力。 | developtools_ace_ets2bundle |
+| 类Web范式编译工具链 | 提供类Web范式的语法编译转换、语法验证，丰富友好的语法报错提示。 | developtools_ace_js2bundle |
+| 高级UI组件 | advanced_ui 是基于使用场景设计，为应用提供高效的UI组合，接口封闭、风格一致，开箱即用的组件接口。 | arkui_advanced_ui_component |
+| 多语言对接层生成工具 | 为ArkUI开发提供一个效率提升工具，能够让ArkUI开发使用Idlize工具快速的为ArkUI生成多种语言的桥接层代码。 | arkui_idlize |
 
 ## SIG组成员
 
