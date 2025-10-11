@@ -47,6 +47,14 @@ OpenHarmony ApplicationFramework technology stack scope is shown in the followin
 | Framework Aware Scheduler          | In order to ensure the cpu scheduling supply, it updates the process scheduling groups and adjust the kernel schedule parameters to influence the kernel scheduling behavior according to the information of the application frame drawing and the application life cycle status. | frame_aware_sched                             |
 | App Extension FrameWork | 1. Baseline definitions for image editing application extensions involving drapeability and context definitions; 2. Baseline definitions of other pendant extensions, such as action, etc. | app_extension_framework                   |
 | App Extension Manage | Support the application of selection boxes, image editing, navigation, finance and other verticals of the unified panel processing logic. | app_extension_manage                       |
+| Application Domain Verification | Provides domain validation capabilities related to App Linking, as well as management of mapping relationships between applications and domains. | bundlemanager_app_domain_verify |
+| ArkUI Development Framework | The ArkUI framework is the UI development framework for OpenHarmony, providing developers with essential capabilities for application UI development, including UI components, animations, drawing capabilities, interactive events, and JS API extension mechanisms. | arkui_ace_engine |
+| Native Module Framework | NAPI is a native module extension framework developed based on the Node.js N-API specification, providing support for standardized interfaces. | arkui_napi |
+| UI Appearance | Management and configuration of the system's user interface appearance, excluding appearance modes for product-specific customization. | arkui_ui_appearance |
+| Declarative Compile Plugin | Provides compilation and transformation for declarative paradigm syntax, syntax validation, and rich, user-friendly error message capabilities. | developtools_ace_ets2bundle |
+| Web Compile Plugin | Provides compilation and transformation for Web-like paradigm syntax, syntax validation, and rich, user-friendly error messages. | developtools_ace_js2bundle |
+| Advanced UI Component | advanced_ui is a scenario-based design component that provides efficient UI composition for applications, featuring well-encapsulated interfaces, consistent styling, and out-of-the-box usability. | arkui_advanced_ui_component |
+| Multi-Language Generation Tool | Provides an efficiency enhancement tool for ArkUI development, enabling developers to use the Idlize tool to rapidly generate bridge layer code in multiple languages for ArkUI. | arkui_idlize |
 
 
 ## SIG Members
