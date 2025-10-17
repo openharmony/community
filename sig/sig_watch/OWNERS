@@ -1,0 +1,32 @@
+{
+    "Leader": [{
+            "gitee_id": "zeusszhang",
+            "gitee_email": "zhangzhaosheng@zhikaihong.com"
+        },
+        {
+            "gitee_id": "zhanglimingstar",
+            "gitee_email": "zhangliming8@hisilicon.com"
+        },
+        {
+            "gitee_id": "liangqi-li",
+            "gitee_email": "liliangqi@huawei.com"
+        }
+    ],
+    "Committers": [{
+            "gitee_id": "dqiyy",
+            "gitee_email": "duanqian@huawei.com"
+        },
+        {
+            "gitee_id": "jiyong_sd",
+            "gitee_email": "jiyong@huawei.com"
+        },
+        {
+            "gitee_id": "yangxuan_321",
+            "gitee_email": "xuan.yang@ximalaya.com"
+        },
+        {
+            "gitee_id": "Dokui",
+            "gitee_email": "dongkui@anyfont.com"
+        }
+    ]
+}
