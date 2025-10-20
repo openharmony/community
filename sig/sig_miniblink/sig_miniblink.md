@@ -43,7 +43,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - Meeting application: 
 - Meeting link: Welink Meeting or Others
 - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_miniblink.openharmony.io/) mailing list [dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io/) for the meeting link
-- Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content/tree/master/miniblink/meetings)
+- Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content/tree/master/miniblink/meetings)
 
 ### Contact (optional)
 

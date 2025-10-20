@@ -52,5 +52,5 @@
  - 会议申报：[OpenHarmony sig_SecureElement Meeting Proposal]((https://shimo.im/sheets/KlkKVywv8BtmZXqd/MODOC)
  - 会议链接: Welink
  - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig-secure_element.openharmony.io)邮件列表 sig-secure_element@openharmony.io 获取会议链接
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content)
+ - 会议纪要: [归档链接地址](https://gitcode.com/openharmony-sig/sig-content)
 

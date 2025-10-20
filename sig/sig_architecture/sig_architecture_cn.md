@@ -44,7 +44,7 @@
 - **会议申报**：[OpenHarmony SIG-Architecture Meeting Proposal](https://shimo.im/sheets/StzhuFkEk38enrnl/MODO)
 - **会议链接**: Welink
 - **会议通知**: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
-- **会议纪要**：[查看历史会议纪要](https://gitee.com/openharmony/community/tree/master/sig/sig_architecture/meetings)
+- **会议纪要**：[查看历史会议纪要](https://gitcode.com/openharmony/community/tree/master/sig/sig_architecture/meetings)
 
 ### 联系方式
 

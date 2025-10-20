@@ -6,7 +6,7 @@
 ## SIG组工作目标和范围
 
 ### 工作目标
-- 针对当前已有日志系统存在的功能缺失、性能较低、资源开销大等问题，成立本SIG，目标是为OpenHarmony设计1个全新的日志系统HiLog，能够存储和管理内核日志、系统日志以及三方日志等各种类型的日志，为系统开发者和应用开发者提供丰富便捷的日志访问功能，同时在日志可靠性、接口时延、以及资源开销等方面具有良好的性能体验。本SIG为基础软件服务SIG([SIG_BasicSoftwareService](https://gitee.com/openharmony/community/tree/master/sig/sig_basicsoftwareservice))的子SIG。
+- 针对当前已有日志系统存在的功能缺失、性能较低、资源开销大等问题，成立本SIG，目标是为OpenHarmony设计1个全新的日志系统HiLog，能够存储和管理内核日志、系统日志以及三方日志等各种类型的日志，为系统开发者和应用开发者提供丰富便捷的日志访问功能，同时在日志可靠性、接口时延、以及资源开销等方面具有良好的性能体验。本SIG为基础软件服务SIG([SIG_BasicSoftwareService](https://gitcode.com/openharmony/community/tree/master/sig/sig_basicsoftwareservice))的子SIG。
 
 ### 工作范围
 
@@ -49,7 +49,7 @@
  - 会议申报：可参考[PMC例会](https://gitee.com/dongjinguang/community/blob/master/zh/pmc.md#pmc%E4%BC%9A%E8%AE%AE%E9%93%BE%E6%8E%A5)申请方式，提供石墨共享文档链接，便于SIG相关申报人自行申请议题
  - 会议链接: 瞩目或其他会议
  - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/hilog/meetings)
+ - 会议纪要: [归档链接地址](https://gitcode.com/openharmony-sig/sig-content/tree/master/hilog/meetings)
 
 ### 联系方式(可选)
 

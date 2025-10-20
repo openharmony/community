@@ -34,7 +34,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
  - Meeting application:  [sig_Telephony Meeting Proposal](https://shimo.im/sheets/wgwGRwc9KCYH6Txv/MODOC)
  - Meeting link: Welink Meeting or Others
  - Meeting notification: [Subscribe to] (https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
+ - Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content)
 
 ### Contact (optional)
 

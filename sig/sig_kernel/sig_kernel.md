@@ -27,7 +27,7 @@ File system related open source software used by OpenHarmony lite equipment, inc
  - Meeting application: please write [SHIMO](https://shimo.im/sheets/VgQV6VjCJ9cXtY8G/MODOC) for sig_related people to apply for the topic.
  - Meeting link: Welink Meeting or Others
  - Meeting notification: [Subscribe to](https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
+ - Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content)
 
 ### Contact (optional)
 

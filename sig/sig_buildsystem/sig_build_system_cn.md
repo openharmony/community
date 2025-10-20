@@ -20,12 +20,12 @@
 
 ## 代码仓
 - 代码仓地址：
-  - build: https://gitee.com/openharmony/build
-  - third_party_gn: https://gitee.com/openharmony/third_party_gn
-  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
-  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
-  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
-  - third_party_python: https://gitee.com/openharmony/third_party_python
+  - build: https://gitcode.com/openharmony/build
+  - third_party_gn: https://gitcode.com/openharmony/third_party_gn
+  - third_party_jinja2: https://gitcode.com/openharmony/third_party_jinja2
+  - third_party_markupsafe: https://gitcode.com/openharmony/third_party_markupsafe
+  - third_party_ninja: https://gitcode.com/openharmony/third_party_ninja
+  - third_party_python: https://gitcode.com/openharmony/third_party_python
 
 ## SIG组成员
 
@@ -49,7 +49,7 @@
  - 会议申报：[sig_buildsystem Meeting Proposal](https://shimo.im/sheets/m8AZV1JgE2UQ1KAb/MODOC/)
  - 会议链接: Welink或其他会议
  - 会议通知: 请订阅邮件列表 dev@openharmony.io 获取会议链接
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content)
+ - 会议纪要: [归档链接地址](https://gitcode.com/openharmony-sig/sig-content)
 
 ### 联系方式
 

@@ -57,7 +57,7 @@ Checking OpenHarmony Apps for Potential Code-level Defects
  - Meeting Application：[Link](https://shimo.im/forms/B1Awd60W7bU51g3m/fill)
  - Meeting Link: Welink or Others
  - Meeting Notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- - Meeting Summary: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
+ - Meeting Summary: [Archive link address](https://gitcode.com/openharmony-sig/sig-content)
 
 ### Contact
 

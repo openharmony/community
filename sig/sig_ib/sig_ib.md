@@ -32,7 +32,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
  - Meeting time：Monthly meeting, first Friday of each month
  - Meeting link: [OpenHarmony sig_ib Meeting Proposal](http://shimo.im/sheets/913JMp6jLOsvM8AE/MODOC)
  - Meeting notification: Wechat group for notification
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony/community/tree/master/sig/sig_ib/meetings)
+ - Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony/community/tree/master/sig/sig_ib/meetings)
 
 ### Contact (optional)
 

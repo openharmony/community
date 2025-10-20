@@ -44,7 +44,7 @@
  - 会议申报：可参考[PMC例会](https://gitee.com/dongjinguang/community/blob/master/zh/pmc.md#pmc%E4%BC%9A%E8%AE%AE%E9%93%BE%E6%8E%A5)申请方式，提供石墨共享文档链接，便于SIG相关申报人自行申请议题
  - 会议链接: Welink或其他会议
  - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_industry_network.openharmony.io/)邮件列表[sig_industry_network@openharmony.io](https://lists.openatom.io/postorius/lists/sig_industry_network.openharmony.io/)获取会议链接
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/industrial_internet/meetings)
+ - 会议纪要: [归档链接地址](https://gitcode.com/openharmony-sig/sig-content/tree/master/industrial_internet/meetings)
 
 ### 联系方式(可选)
 

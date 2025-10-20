@@ -134,7 +134,7 @@ Driver sig负责构建OpenHarmony的统一硬件驱动平台HDF（Hardware Drive
   - 会议申报：[sig_driver会议议题收集](https://shimo.im/sheets/36GKhpvrXd8TcQHY)
   - 会议链接：腾讯会议或其他会议
   - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_driver.openharmony.io/)邮件列表获取会议链接
-  - 会议纪要：查看往期会议纪要，请点此[链接](https://gitee.com/openharmony-sig/sig-content/tree/master/driver/meetings)
+  - 会议纪要：查看往期会议纪要，请点此[链接](https://gitcode.com/openharmony-sig/sig-content/tree/master/driver/meetings)
 
 ### 联系方式(可选)
 

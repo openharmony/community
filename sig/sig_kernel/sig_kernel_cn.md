@@ -64,7 +64,7 @@
  - 会议申报：请填写[石墨文档](https://shimo.im/sheets/8Nk6MM2zmnfj5lqL/MODOC)，SIG相关申报人自行申请议题
  - 会议链接：Welink或其他会议
  - 会议通知：请[订阅](https://lists.openatom.io/hyperkitty/list/kernel@openharmony.io/)邮件列表 kernel@openharmony.io 获取会议链接
- - 会议纪要：[归档链接地址](https://gitee.com/openharmony-sig/sig-content)
+ - 会议纪要：[归档链接地址](https://gitcode.com/openharmony-sig/sig-content)
 
 ### 联系方式(可选)
 

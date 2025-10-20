@@ -11,7 +11,7 @@
 
   **推举概述示例：**
   ```
-  xxx_sig组Committer gitee_id (email address) 提名 gitee_id (email address) 为 repository_address仓的社区Committer。
+  xxx_sig组Committer gitcode_id (email address) 提名 gitcode_id (email address) 为 repository_address仓的社区Committer。
   xxx 个人贡献的简要一句话介绍。请大家回复邮件投票，赞成请回复 +1，不赞成请回复 -1 及不赞成原因。
   ```
 
@@ -45,19 +45,19 @@
 - 邮件正文：
 ```
   1. OpenHarmony Repository:
-    - [Repository 1](https://gitee.com/openharmony/ability_ability_runtime)
+    - [Repository 1](https://gitcode.com/openharmony/ability_ability_runtime)
     - ...
 
   2. My name: [中文名拼音全拼/Chinese romanization]
-  3. gitee id url: [gitee id的链接](https://gitee.com/xxx)
-  4. gitee id associated email: [个人企业邮箱/Enterprise Email], 若是个人贡献者可以填写自己关联gitee的个人邮箱
+  3. gitcode id url: [gitcode id的链接](https://gitcode.com/xxx)
+  4. gitcode id associated email: [个人企业邮箱/Enterprise Email], 若是个人贡献者可以填写自己关联gitcode的个人邮箱
 
   ```
 
 ### 3 在SIG管理平台提交committer新增/退出申请
 
-1. 用gitee帐号登录仓库管理平台：[仓管理](http://ci.openharmony.cn/workbench/sig/repositoryManagement)
+1. 用gitcode帐号登录仓库管理平台：[仓管理](http://ci.openharmony.cn/workbench/sig/repositoryManagement)
 2. 仓路径筛选自己需要申请的仓库;
 3. 在弹出的“仓信息修改”中填写：
-    - **Committer列表**：输入自己的 gitee帐号（为了社区沟通和开发者沟通，要求关联邮箱公开可获取）
+    - **Committer列表**：输入自己的 gitcode帐号（为了社区沟通和开发者沟通，要求关联邮箱公开可获取）
     - **会议记录**：填写dev 邮件公示的会议纪要链接，例如 [会议纪要链接](https://lists.openatom.io/hyperkitty/list/dev@openharmony.io)

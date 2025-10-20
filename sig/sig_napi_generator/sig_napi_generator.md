@@ -30,7 +30,7 @@ Based on the openharmony standard system, some NAPI framework code generation to
  - Meeting application: [SIG_Napi_generator application](https://shimo.im/sheets/ppCXWxYr68k3JPk9/MODOC)
  - Meeting link: Welink Meeting or Others
  - Meeting notification: [Subscribe](https://lists.openatom.io/postorius/lists/dev.openharmony.io/) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content/tree/master/napi_generator/meetings)
+ - Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content/tree/master/napi_generator/meetings)
 
 ### Contact (optional)
 

@@ -68,7 +68,7 @@
  - 会议申报：[OpenHarmony Gateway SIG Meeting Proposal](https://docs.qingque.cn/s/home/eZQDvBVvUxUyUAZ9chWhhxAjd?identityId=2D7couieItQ&section=2172595)
  - 会议链接: 通过邮件通知
  - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content)
+ - 会议纪要: [归档链接地址](https://gitcode.com/openharmony-sig/sig-content)
 
 ### 联系方式(可选)
 

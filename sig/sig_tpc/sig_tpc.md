@@ -26,7 +26,7 @@ The third-party library SIG enables rapid expansion of software on the OpenHarmo
  - Meeting time：Every Tuesday at 15:00 o'clock
  - Meeting application：[Declaration address](https://docs.qq.com/sheet/DT2pwU25CTUVZclZv)
  - Meeting link：Welink or other meeting
- - Meeting Summary: To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/sig_tpc)
+ - Meeting Summary: To view the minutes of past meetings, please click this [link](https://gitcode.com/openharmony-sig/sig-content/tree/master/sig_tpc)
 
 ### Contact (optional)
 
