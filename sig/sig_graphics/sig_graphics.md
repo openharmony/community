@@ -12,7 +12,7 @@ Manage OpenHarmony Graphics
 OpenHarmony Graphics and windowmanager related design and review.
 
 the Graphics Review Rulers：
-https://gitee.com/openharmony-sig/sig-content/tree/master/graphics/docs
+https://gitcode.com/openharmony-sig/sig-content/tree/master/graphics/docs
 
 ## SIG Members
 
@@ -34,7 +34,7 @@ https://gitee.com/openharmony-sig/sig-content/tree/master/graphics/docs
  - Meeting application: [OpenHarmony sig_Graphics Meeting Proposal](https://shimo.im/sheets/m4kMLLgagotBK9qD/MODOC)
  - Meeting link: [tencent meeting] Reference the notification mail from graphics_dev@openharmony.io
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/graphics_dev@openharmony.io) mailing list graphics_dev@openharmony.io for the meeting link
- - Meeting notes: link（https://gitee.com/openharmony-sig/sig-content/tree/master/graphics/meetings）
+ - Meeting notes: link（https://gitcode.com/openharmony-sig/sig-content/tree/master/graphics/meetings）
 
 ### Contact (optional)
 

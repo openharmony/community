@@ -168,5 +168,5 @@ The adaptation contribution plan for version Qt5.15.12 is as follows（The modul
  - Meeting Time: Bi-weekly meeting, Friday 10:00-10:30
  - Meeting Proposal：[Qt SIG Metting Proposal](https://docs-pre.qingque.cn/s/home/eZQDMOq-T25IEhYtRTMYbqWUD?identityId=25cWu1jdmUt)
  - Meeting Link: WeLink
- - Meeting Summary：[Archive Link Address](https://gitee.com/openharmony-sig/sig-content/tree/master/qt/meetings)
+ - Meeting Summary：[Archive Link Address](https://gitcode.com/openharmony-sig/sig-content/tree/master/qt/meetings)
  - Meeting Notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link

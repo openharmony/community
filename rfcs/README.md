@@ -8,8 +8,8 @@
 3. RFC 是描述需求与解决需求的建议更改的文档。具体来说，RFC 将：
 
 - 根据  [RFC 模板](./yyyymmdd-rfc-template_cn.md)进行撰写。
-- 作为PR请求提交到  [community/rfcs](https://gitee.com/openharmony/community/tree/master/rfcs)  目录。
-- 在接受之前要经过项目仓Committer或领域SIG Leader充分讨论和会议评审，无对应SIG领域归属的，与架构SIG讨论和会议评审或转[SIG项目孵化](https://gitee.com/openharmony/community/blob/master/sig/README.md)。
+- 作为PR请求提交到  [community/rfcs](https://gitcode.com/openharmony/community/tree/master/rfcs)  目录。
+- 在接受之前要经过项目仓Committer或领域SIG Leader充分讨论和会议评审，无对应SIG领域归属的，与架构SIG讨论和会议评审或转[SIG项目孵化](https://gitcode.com/openharmony/community/blob/master/sig/README.md)。
 
 
 ## 如何提交 RFC
@@ -29,13 +29,13 @@
 - 请先在 RFC 中注明发起人，然后再发布 PR。
 -  您 _可以_ 在没有发起人的情况下发布 RFC请求，但是如果在发布 PR 请求的一个月内仍然没有发起人，则该 PR 将被关闭。
 
-1. 将您的 RFC 作为 PR 提交到  [openharmony/community/rfcs](https://gitee.com/openharmony/community/tree/master/rfcs)。
+1. 将您的 RFC 作为 PR 提交到  [openharmony/community/rfcs](https://gitcode.com/openharmony/community/tree/master/rfcs)。
 
 2. 通过开发者邮件列表向开发者发送简要说明、PR 链接和审查请求，邮件标题加前缀[RFC]。
 
 3. 发起人将在 RFC PR 发布后的两周内请求召开SIG技术评审会议。评审会议的目的是解决小的争议，大争议应提前达成共识。如果评审过程中提出了问题，请等到问题解决后再重新发起进行评审。
 
-4. 会议可以接受或拒绝 RFC，也可以待更改后重新评审。评审通过的 RFC 将合并到  [community/rfcs](https://gitee.com/openharmony/community/tree/master/rfcs  中， 而 被拒绝的RFC 的 PR 则会被关闭。
+4. 会议可以接受或拒绝 RFC，也可以待更改后重新评审。评审通过的 RFC 将合并到  [community/rfcs](https://gitcode.com/openharmony/community/tree/master/rfcs  中， 而 被拒绝的RFC 的 PR 则会被关闭。
 
 
 ## RFC 参与者
@@ -86,8 +86,8 @@
 
 - 请确保理解了RFC 中批准的功能需求和设计思路。在开始工作之前，尽量充分提出问题并讨论解决方法。
 - 新功能必须包括新的单元测试，以验证该功能是否按预期工作。建议在编写代码之前先编写这些测试。
-- 遵循  [OpenHarmony 代码样式指南](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E8%B4%A1%E7%8C%AE%E4%BB%A3%E7%A0%81.md)
-- 添加或更新相关的 API 文档，请遵循[API治理章程](https://gitee.com/openharmony/docs/blob/master/zh-cn/design/OpenHarmony-API-governance.md)。
+- 遵循  [OpenHarmony 代码样式指南](https://gitcode.com/openharmony/docs/blob/master/zh-cn/contribute/%E8%B4%A1%E7%8C%AE%E4%BB%A3%E7%A0%81.md)
+- 添加或更新相关的 API 文档，请遵循[API治理章程](https://gitcode.com/openharmony/docs/blob/master/zh-cn/design/OpenHarmony-API-governance.md)。
 - 先运行单元测试，然后再提交代码。
 - 与 RFC 发起人合作并实现相关代码。
 
@@ -103,4 +103,4 @@
 
 2. 如果RFC流程运行完善，那么RFC被拒绝的情况应发生在RFC的早期阶段而非后期代码实施阶段。经接纳的RFC不能作为承诺实现的保证，并且RFC实现能否最终被接纳仍然要满足代码评审阶段的要求，不满足代码评审阶段的要求i提交，项目仓的Committer可以有理由的拒绝接纳。
 
-3. 如果您对此流程有任何疑问，请随时通过dev邮件列表提问，或在  [OpenHarmony/community](https://gitee.com/openharmony/community/issues) issue中提交问题。
+3. 如果您对此流程有任何疑问，请随时通过dev邮件列表提问，或在  [OpenHarmony/community](https://gitcode.com/openharmony/community/issues) issue中提交问题。

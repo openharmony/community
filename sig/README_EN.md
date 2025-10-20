@@ -24,7 +24,7 @@ Before applying for a new SIG, the applicant needs to:
     *   You can learn about the operating rules of SIGs by carefully reading other sections of this document.
 *   **Confirm the Uniqueness and Feasibility of the Technical Direction**:
     *   Ensure that the proposed technical direction does not already exist within the OpenHarmony community.
-    *   Review the [existing SIG list](https://gitee.com/openharmony/community/tree/master/sig) and the [historical DEV mailing list](https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/).
+    *   Review the [existing SIG list](https://gitcode.com/openharmony/community/tree/master/sig) and the [historical DEV mailing list](https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/).
     *   Confirm that the proposed technical project can eventually be transformed into new components and sub-projects of OpenHarmony.
     *   If you have any questions, you can consult the PMC through the mailing list [dev@openharmony.io](mailto:dev@openharmony.io).
 *   **Prepare SIG Related Documents**: Refer to the [SIG Application Template](../meeting-notes/docs/openharmony_sig_template.pptx) and prepare the SIG charter and other documents.

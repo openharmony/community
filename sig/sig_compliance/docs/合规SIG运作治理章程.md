@@ -16,18 +16,18 @@
 
 ## 合规SIG角色设置
 为了使社区席位设置规范化和标准化，让社区参与者更好的融入社区,
-- Compliance-SIG 基于[OpenHarmony社区角色定义](https://gitee.com/openharmony/community/blob/master/zh/guidelines_role_growth.md)，继承三种角色：**SIG Leader**、**committer**和**contributer**。
+- Compliance-SIG 基于[OpenHarmony社区角色定义](https://gitcode.com/openharmony/community/blob/master/zh/guidelines_role_growth.md)，继承三种角色：**SIG Leader**、**committer**和**contributer**。
 - 基于能力小组形式，新增**能力组 Leader** 角色
 - 基于例会运作形式，新增**Co-Chair** 角色
 
 
 ## 选举与退出
 
-合规SIG成员，整体遵从社区[OpenHarmony社区角色定义及晋升机制](https://gitee.com/openharmony/community/blob/master/zh/guidelines_role_growth.md),并为进一步保证SIG成员的多样性和贡献优先导向，细化补充以下规则
+合规SIG成员，整体遵从社区[OpenHarmony社区角色定义及晋升机制](https://gitcode.com/openharmony/community/blob/master/zh/guidelines_role_growth.md),并为进一步保证SIG成员的多样性和贡献优先导向，细化补充以下规则
 
 - SIG Leader： 作为社区标准角色，合规SIG内部进行提名和投票，推举最终候选人后，报送PMC项目管理委员会后批准后，可担任对应角色。合规SIG内部共识：SIG Leader 每次任期为1年，最多连任1次，SIG内选举时，存在多名提名候选人时，以获得票数最多者作为最终候选人； 若SIG内选举时，仅一名候选人，需获得committer总数 2/3以上同意票, 若未达到 2/3 同意票，则需在合规SIG例会澄清，并最终经PMC审核是否可以担任SIG Leader。
 
-- SIG Committer： 作为社区标准角色，合规SIG内部进行提名和投票，满足要求后，报送PMC项目管理委员会后批准后，可担任对应角色。合规SIG内部共识：合规SIG 候选committer由现Committer提名，由于合规SIG非业务部件，无独立代码仓，且交付件具有多样性，在贡献衡量中不仅包括代码和文档贡献，因此对[OpenHarmony社区角色定义及晋升机制](https://gitee.com/openharmony/community/blob/master/zh/guidelines_role_growth.md)中Committer晋升标准中的贡献要求进行适配，并不再区分Approver和Reviewer，合规SIG成员均可进行Review，贡献要求以**合规SIG贡献衡量指标**中的贡献行为均可认定为合规SIG有效贡献，原则上Committer候选人需有至少3个月以上在合规SIG贡献的记录，有效贡献次数不少于10次。
+- SIG Committer： 作为社区标准角色，合规SIG内部进行提名和投票，满足要求后，报送PMC项目管理委员会后批准后，可担任对应角色。合规SIG内部共识：合规SIG 候选committer由现Committer提名，由于合规SIG非业务部件，无独立代码仓，且交付件具有多样性，在贡献衡量中不仅包括代码和文档贡献，因此对[OpenHarmony社区角色定义及晋升机制](https://gitcode.com/openharmony/community/blob/master/zh/guidelines_role_growth.md)中Committer晋升标准中的贡献要求进行适配，并不再区分Approver和Reviewer，合规SIG成员均可进行Review，贡献要求以**合规SIG贡献衡量指标**中的贡献行为均可认定为合规SIG有效贡献，原则上Committer候选人需有至少3个月以上在合规SIG贡献的记录，有效贡献次数不少于10次。
 
 - SIG 能力组Leader： 作为合规SIG扩展角色，由合规SIG自行管理，每次任期为1年，为保持能力建设的延续性，可连任，可基于SIG共识直接推选，如有多人竞选则，参考SIG Leader竞选规则。
 
@@ -130,7 +130,7 @@ contributer定义是长期活跃在社区的参与者。其社区行为符合上
 
 ### Committer 义务
 
-合规SIG Committer继承社区[OpenHarmony社区角色定义及晋升机制](https://gitee.com/openharmony/community/blob/master/zh/guidelines_role_growth.md), 并补充以下要求：
+合规SIG Committer继承社区[OpenHarmony社区角色定义及晋升机制](https://gitcode.com/openharmony/community/blob/master/zh/guidelines_role_growth.md), 并补充以下要求：
 
 - 参与合规SIG的双周例会次数不低于70%，例会时间冲突应委托他人参与
 

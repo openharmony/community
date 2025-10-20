@@ -23,7 +23,7 @@ Develop OpenHarmony API design specifications, ensuring that the designed APIs c
 
 project name:
 
-interface_sdk-js:https://gitee.com/openharmony/interface_sdk-js
+interface_sdk-js:https://gitcode.com/openharmony/interface_sdk-js
 
 ## SIG Members
 

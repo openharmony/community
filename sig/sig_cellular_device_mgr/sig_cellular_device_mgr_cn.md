@@ -1,7 +1,7 @@
 # SIG_CellularDeviceManagement
 简体中文 | [English](./sig_cellular_device_mgr.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](https://gitee.com/openharmony/community/blob/master/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](https://gitcode.com/openharmony/community/blob/master/zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -40,7 +40,7 @@
  - 会议申报：[智慧城市蜂窝终端管理 Meeting Proposal](https://shimo.im/sheets/1lq7MDJ5JBHvP7Ae/MODOC)
  - 会议方式:   腾讯会议
  - 会议通知:   请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表dev@openharmony.io 获取会议链接
- - 会议纪要:   [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/cellular_device_mgr)
+ - 会议纪要:   [归档链接地址](https://gitcode.com/openharmony-sig/sig-content/tree/master/cellular_device_mgr)
 
 ### 联系方式(可选)
 

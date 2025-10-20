@@ -34,7 +34,7 @@ OpenHarmony For Car SIG（ sig_car ）技术栈范围全景图如下图所示：
 ### 会议
  - 会议时间：双周四 10:00-12:00
  - 会议链接：Welink
- - 会议纪要：查看往期会议纪要，请点此[链接](https://gitee.com/openharmony-sig/sig-content)
+ - 会议纪要：查看往期会议纪要，请点此[链接](https://gitcode.com/openharmony-sig/sig-content)
 
 ### 联系方式(可选)
 

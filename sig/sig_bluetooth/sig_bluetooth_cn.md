@@ -29,7 +29,7 @@
 
 ## 代码仓
 - 代码仓地址：
-  - bluetooth：https://gitee.com/openharmony/communication_bluetooth
+  - bluetooth：https://gitcode.com/openharmony/communication_bluetooth
 
 ## SIG组成员
 

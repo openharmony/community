@@ -21,7 +21,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### Meetings
  - Meeting time：Every Tuesday at 14:00 o'clock
  - Meeting link：Welink
- - Meeting minutes: Click [here](https://gitee.com/openharmony-sig/sig-content/tree/master/distributeddatamgr/meetings) to view previous meeting minutes.
+ - Meeting minutes: Click [here](https://gitcode.com/openharmony-sig/sig-content/tree/master/distributeddatamgr/meetings) to view previous meeting minutes.
 
 ### Contact (optional)
 

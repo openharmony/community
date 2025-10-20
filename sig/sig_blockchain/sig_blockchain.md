@@ -22,7 +22,7 @@ The group would establish sample projects on “IoT + Blockchain” as reference
 The group would actively seek cooperation with IoT device manufactures to promote the prosperity of the ecology of BoT with OpenHarmony OS. Especially, the group would explore the application of OpenHarmony and Blockchain in the scenario of carbon neutral.
 
 ### The repository 
-- block_chain:https://gitee.com/openharmony-sig/security_block_chain
+- block_chain:https://gitcode.com/openharmony-sig/security_block_chain
 
 ## SIG Members
 

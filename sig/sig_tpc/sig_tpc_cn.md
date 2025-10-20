@@ -26,7 +26,7 @@
  - 会议时间：每周五 15:00
  - 会议申报: [申报地址](https://docs.qq.com/sheet/DT2pwU25CTUVZclZv)
  - 会议链接：Welink或其他会议
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/sig_tpc)
+ - 会议纪要: [归档链接地址](https://gitcode.com/openharmony-sig/sig-content/tree/master/sig_tpc)
 
 ### 联系方式(可选)
 

@@ -27,7 +27,7 @@ Provides screen and audio casting capabilities with multiple protocols such as C
  - Meeting application:  [sig_castengine Meeting Proposal](https://docs.qingque.cn/s/home/eZQC8DnY-lAvzY81PB4Kd-Ehk?identityId=1yOkXOqnIUl)
  - Meeting link: Welink Meeting or Others
  - Meeting notification: [Subscribe to] (https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
+ - Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content)
 
 ### Contact (optional)
 

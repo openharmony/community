@@ -108,7 +108,7 @@ Device driver technology stack
   - Meeting application: [sig_Driver meetings](https://shimo.im/sheets/36GKhpvrXd8TcQHY)
   - Meeting link: Tencent or other meetings
   - Meeting notice: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_driver@openharmony.io/) the email address to obtain the meeting link.
-  - Meeting minutes: Click [here](https://gitee.com/openharmony-sig/sig-content/tree/master/driver/meetings) to view previous meeting minutes.
+  - Meeting minutes: Click [here](https://gitcode.com/openharmony-sig/sig-content/tree/master/driver/meetings) to view previous meeting minutes.
 
 ### (Optional) Contact
 

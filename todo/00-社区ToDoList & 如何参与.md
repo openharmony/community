@@ -10,7 +10,7 @@
 
 ## **如何参与**
 
-步骤一、**认领ToDo项**：在下面表格找到感兴趣的特性并[提交PR](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E8%B4%A1%E7%8C%AE%E6%B5%81%E7%A8%8B.md)，更新本文TodoList表格中对应的认领单位/个人和计划完成时间两列；
+步骤一、**认领ToDo项**：在下面表格找到感兴趣的特性并[提交PR](https://gitcode.com/openharmony/docs/blob/master/zh-cn/contribute/%E8%B4%A1%E7%8C%AE%E6%B5%81%E7%A8%8B.md)，更新本文TodoList表格中对应的认领单位/个人和计划完成时间两列；
 
 步骤二、**加入子系统仓团队**：社区管理员审核通过后，仓committer会邀请步骤1中认领ToDo项的账号加入对应的团队，一般是通过发私信或者向账号对应的邮箱发送邮件来完成通知，此时注意查收信息并确认,通常1个工作日内会响应；
 
@@ -18,13 +18,13 @@
 
 步骤四、**需求澄清&方案确认**：issue责任人对需求有任何疑问，或者需要交流方案，建议在issue下方进行评论，并@committer，仓committer收到消息后会进行回复；
 
-步骤五、**开发与提交代码**：责任人和社区通过跟踪[issue](https://gitee.com/openharmony/community/blob/master/sig/sig_qa/issue%EF%BC%88%E9%9C%80%E6%B1%82%E7%B1%BB%EF%BC%89%E5%A4%84%E7%90%86%E6%8C%87%E5%AF%BC.md)来进行互动，开发完成后，提交PR[上传代码](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E8%B4%A1%E7%8C%AE%E6%B5%81%E7%A8%8B.md),并把PR和对应的任务issue进行关联。
+步骤五、**开发与提交代码**：责任人和社区通过跟踪[issue](https://gitcode.com/openharmony/community/blob/master/sig/sig_qa/issue%EF%BC%88%E9%9C%80%E6%B1%82%E7%B1%BB%EF%BC%89%E5%A4%84%E7%90%86%E6%8C%87%E5%AF%BC.md)来进行互动，开发完成后，提交PR[上传代码](https://gitcode.com/openharmony/docs/blob/master/zh-cn/contribute/%E8%B4%A1%E7%8C%AE%E6%B5%81%E7%A8%8B.md),并把PR和对应的任务issue进行关联。
 
 
 
 ## TodoList：
 
-| 级别         | 子系统    | 特性     | 需求描述                                     | 产出标准                                     | 技术要求                              | 难度   | 认领单位/个人 | 计划完成时间 | gitee issue链接                            |
+| 级别         | 子系统    | 特性     | 需求描述                                     | 产出标准                                     | 技术要求                              | 难度   | 认领单位/个人 | 计划完成时间 | gitee/gitcode issue链接                            |
 | ---------- | ------ | ------ | ---------------------------------------- | ---------------------------------------- | --------------------------------- | ---- | ------- | ------ | ---------------------------------------- |
 | Mini/Small | kernel | Arch   | 支持中断嵌套，提高内核硬实时性                          | 1、实现中断嵌套基本功能：      （1）Cortex-M系列：NVIC（内嵌向量中断控制器）；      1）支持中断抢占优先级和子优先级设置；      2）高抢占优先级的中断可以抢占低抢占优先级的中断的执行（即中断嵌套）；      3）在抢占优先级相同的情况下，高子优先级的中断优先被响应；子优先级只能决定中断响应的先后顺序，不能抢占（即不支持中断嵌套）；      （2）Cortex-A/R系列：GIC中断控制器；      1）同一时间只能有一个中断可以被设成快速中断FIQ；      2）快速中断FIQ可以打断IRQ中断服务程序；      3）IRQ中断不能打断其他中断；      3、其他架构：可根据架构是否支持而定；      4、提供一套通用的对外接口，可以通过适配这些接口来提供中断嵌套的能力；      5、输出需求分析、架构分析、详细设计、测试用例、开发指南、维护手册等文档； | 1、熟悉各个架构中断控制器；      2、熟悉内核异常处理逻辑； | 高    |         |        | <https://gitee.com/openharmony/kernel_liteos_a/issues/I4T8NJ?from=project-issue> |
 | Mini       | kernel | Kernel | 支持多核SMP                                  | 1、实现多核基础功能：      1）多核启动框架；      2）多核调度；      3）绑核操作；      2、支持多核功能裁剪，即单核运行或多核运行；      3、保证多核运行尽量独立，减少竞态，提高并行能力；      4、多核性能测试工具，输出多核性能提升数据；      5、支持spinlock死锁检测机制；      6、输出需求分析、架构分析、详细设计、测试用例、开发指南、维测手段等文档； | 1、熟悉内核调度模块；      2、熟悉架构多核启动流程；    | 高    | 拓维      | 930    | <https://gitee.com/openharmony/kernel_liteos_m/issues/I4T90H?from=project-issue> |

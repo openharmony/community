@@ -15,18 +15,18 @@
 - 帮助开发者参与OpenHarmony的文档贡献，提供标准和内容编辑上的支持。
 
 ## 文档仓
-文档源码仓地址：https://gitee.com/openharmony/docs
+文档源码仓地址：https://gitcode.com/openharmony/docs
 
 官网文档地址：https://www.openharmony.cn/docs
 
 | 文档名称                                                     | 描述                                                         | 仓名称          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
-| [设备开发](https://gitee.com/openharmony/docs/blob/master/zh-cn/device-dev/Readme-CN.md) | 用于指导开发者通过OpenHarmony提供的系统能力完成设备开发。    | device-dev      |
-| [应用开发](https://gitee.com/openharmony/docs/blob/master/zh-cn/application-dev/Readme-CN.md) | 用于指导开发者通过OpenHarmony提供的接口完成应用开发。        | application-dev |
-| [版本说明](https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/Readme.md) | 提供版本配套信息、特性变更、接口变更等。                     | release-notes   |
-| [子系统介绍](https://gitee.com/openharmony/docs/blob/master/zh-cn/readme) | OpenHarmony系统功能按照“系统 > 子系统  > 功能/模块”逐级展开，提供子系统介绍、子系统框架原理。 | readme          |
-| [设计介绍](https://gitee.com/openharmony/docs/tree/master/zh-cn/design) | 提供开发者希望了解的API治理章程、部件化设计和开发指南。      | design          |
-| [贡献指南](https://gitee.com/openharmony/docs/tree/master/zh-cn/contribute) | 用于指导开发者了解如何参与OpenHarmony贡献，反馈问题、贡献代码及文档。 | contribute      |
+| [设备开发](https://gitcode.com/openharmony/docs/blob/master/zh-cn/device-dev/Readme-CN.md) | 用于指导开发者通过OpenHarmony提供的系统能力完成设备开发。    | device-dev      |
+| [应用开发](https://gitcode.com/openharmony/docs/blob/master/zh-cn/application-dev/Readme-CN.md) | 用于指导开发者通过OpenHarmony提供的接口完成应用开发。        | application-dev |
+| [版本说明](https://gitcode.com/openharmony/docs/blob/master/zh-cn/release-notes/Readme.md) | 提供版本配套信息、特性变更、接口变更等。                     | release-notes   |
+| [子系统介绍](https://gitcode.com/openharmony/docs/blob/master/zh-cn/readme) | OpenHarmony系统功能按照“系统 > 子系统  > 功能/模块”逐级展开，提供子系统介绍、子系统框架原理。 | readme          |
+| [设计介绍](https://gitcode.com/openharmony/docs/tree/master/zh-cn/design) | 提供开发者希望了解的API治理章程、部件化设计和开发指南。      | design          |
+| [贡献指南](https://gitcode.com/openharmony/docs/tree/master/zh-cn/contribute) | 用于指导开发者了解如何参与OpenHarmony贡献，反馈问题、贡献代码及文档。 | contribute      |
 
 OpenHarmony开发者文档概览如下图所示，包含入门学习、上手体验、开发、调试等开发者历程需要的相关文档。
 
@@ -34,9 +34,9 @@ OpenHarmony开发者文档概览如下图所示，包含入门学习、上手体
 
 其他资源：
 
-Samples：https://gitee.com/openharmony/applications_app_samples
+Samples：https://gitcode.com/openharmony/applications_app_samples
 
-Codelabs：https://gitee.com/openharmony/codelabs
+Codelabs：https://gitcode.com/openharmony/codelabs
 
 ## SIG组成员
 
@@ -67,5 +67,5 @@ Codelabs：https://gitee.com/openharmony/codelabs
 ### 我们期待您的反馈
 我们看到400+位社区开发者参与了OpenHarmony Docs仓贡献，欢迎广大开发者在参与OpenHarmony开源项目中，持续关注SIG Docs，反馈文档建议和需求，与我们一同持续提升文档体验。
 欢迎前往Gitee Docs仓，反馈文档使用意见。
-https://gitee.com/openharmony/docs/issues
+https://gitcode.com/openharmony/docs/issues
 
