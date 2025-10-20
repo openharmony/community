@@ -37,7 +37,7 @@ RK3399 是瑞芯微推出的一款低功耗、高性能的应用处理器芯片�
 
 ### 相关项目
 
-- OpenHarmony 快速指导：https://gitee.com/openharmony/docs/blob/master/zh-cn/readme.md
+- OpenHarmony 快速指导：https://gitcode.com/openharmony/docs/blob/master/zh-cn/readme.md
 - RK3399 介绍：http://opensource.rock-chips.com/wiki_RK3399
 - 参考 RK3399 开发板产品页面：http://www.t-firefly.com/product/rk3399.html
 - 参考 RK3399 开发板规格说明书：http://www.t-firefly.com/product/rk3399/spec.html

@@ -21,7 +21,7 @@ sig_adss technology stack panoramic diagram:
  - Meeting application: https://docs.qq.com/sheet/DQ21qR1VVUmhJeHdq?tab=BB08J2
  - Meeting link: Welink Meeting or Others
  - Meeting notification: [Subscribe to] (https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
+ - Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content)
 
 ### Contact (optional)
 

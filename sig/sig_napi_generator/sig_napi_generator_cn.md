@@ -32,7 +32,7 @@
  - 会议申报：[OH 辅助工具 Meeting Proposal](https://shimo.im/sheets/ppCXWxYr68k3JPk9/MODOC)
  - 会议方式:   腾讯会议
  - 会议通知:   请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io/)邮件列表dev@openharmony.io获取会议链接
- - 会议纪要:   [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/napi_generator/meetings)
+ - 会议纪要:   [归档链接地址](https://gitcode.com/openharmony-sig/sig-content/tree/master/napi_generator/meetings)
 
 ### 联系方式(可选)
 

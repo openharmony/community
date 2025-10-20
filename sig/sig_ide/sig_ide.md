@@ -56,7 +56,7 @@ IDE documents, samples, FAQs and  issues reply
 + Meeting application: [sig_Ide application](https://shimo.im/docs/RKAWVD8p8OiOVek8)
 + Meeting link: Welink
 + Meeting notification: [subscribe](https://lists.openatom.io/postorius/lists/dev.openharmony.io) to the mailing list dev@openharmony.io for the meeting link
-+ Meeting-Minutes: To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/ide/meetings)
++ Meeting-Minutes: To view the minutes of past meetings, please click this [link](https://gitcode.com/openharmony-sig/sig-content/tree/master/ide/meetings)
 
 ### Contact(optional)
 

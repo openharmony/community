@@ -20,12 +20,12 @@
 
 ### The repository
 - project name:
-  - build: https://gitee.com/openharmony/build
-  - third_party_gn: https://gitee.com/openharmony/third_party_gn
-  - third_party_jinja2: https://gitee.com/openharmony/third_party_jinja2
-  - third_party_markupsafe: https://gitee.com/openharmony/third_party_markupsafe
-  - third_party_ninja: https://gitee.com/openharmony/third_party_ninja
-  - third_party_python: https://gitee.com/openharmony/third_party_python
+  - build: https://gitcode.com/openharmony/build
+  - third_party_gn: https://gitcode.com/openharmony/third_party_gn
+  - third_party_jinja2: https://gitcode.com/openharmony/third_party_jinja2
+  - third_party_markupsafe: https://gitcode.com/openharmony/third_party_markupsafe
+  - third_party_ninja: https://gitcode.com/openharmony/third_party_ninja
+  - third_party_python: https://gitcode.com/openharmony/third_party_python
 
 ## SIG Members
 
@@ -49,7 +49,7 @@
  - Meeting application: [sig_buildsystem Meeting Proposal](https://shimo.im/sheets/m8AZV1JgE2UQ1KAb/MODOC/)
  - Meeting link: Welink Meeting or Others
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
+ - Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content)
 
  ### Contact
 

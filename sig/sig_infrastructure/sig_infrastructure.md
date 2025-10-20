@@ -25,10 +25,10 @@ Actively cooperate with developers, universities and community developers to pro
 
 ### The repository
 
-- website: https://gitee.com/openharmony-sig/website
-- CICD: https://gitee.com/openharmony-sig/cicd
-- Archive: https://gitee.com/openharmony-sig/archive
-- developtools_integration_verification: https://gitee.com/openharmony/developtools_integration_verification
+- website: https://gitcode.com/openharmony-sig/website
+- CICD: https://gitcode.com/openharmony-sig/cicd
+- Archive: https://gitcode.com/openharmony-sig/archive
+- developtools_integration_verification: https://gitcode.com/openharmony/developtools_integration_verification
 
 ## SIG Members
 
@@ -53,7 +53,7 @@ Actively cooperate with developers, universities and community developers to pro
  - Meeting application: None
  - Meeting link：Tencent meeting or other meeting
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev@openharmony.io) mailing list for the meeting link
- - Meeting Summary: To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/Infrastructure/meetings)
+ - Meeting Summary: To view the minutes of past meetings, please click this [link](https://gitcode.com/openharmony-sig/sig-content/tree/master/Infrastructure/meetings)
 
 ### Contact (optional)
 

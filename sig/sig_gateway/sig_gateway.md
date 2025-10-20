@@ -62,7 +62,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
  - Meeting application: [OpenHarmony Gateway SIG Meeting Proposal](https://docs.qingque.cn/s/home/eZQDvBVvUxUyUAZ9chWhhxAjd?identityId=2D7couieItQ&section=2172595)
  - Meeting link: Notify by email
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
+ - Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content)
 
 ### Contact (optional)
 

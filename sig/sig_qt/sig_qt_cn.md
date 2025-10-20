@@ -169,5 +169,5 @@ Qt5.15.12版本适配贡献规划如下所示（字体加粗模块为与5.12.12�
  - 会议时间：双周例会，周五 10:00-10:30
  - 会议申报：[Qt SIG议题申报](https://docs-pre.qingque.cn/s/home/eZQDMOq-T25IEhYtRTMYbqWUD?identityId=25cWu1jdmUt)
  - 会议链接：WeLink
- - 会议纪要：[归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/qt/meetings)
+ - 会议纪要：[归档链接地址](https://gitcode.com/openharmony-sig/sig-content/tree/master/qt/meetings)
  - 会议通知：请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接

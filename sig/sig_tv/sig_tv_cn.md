@@ -111,7 +111,7 @@ TV技术栈全景架构图从下到上分为内核层、框架&服务层、应�
  - 会议时间：双周例会，周五下午16:00 ~ 17:30
  - 会议申报：[OpenHarmony TV SIG Meeting Proposal](https://shimo.im/sheets/KrkEl86XPWSwM4qJ/MODOC)
  - 会议链接：通过邮件通知
- - 会议纪要：[归档链接地址](https://gitee.com/openharmony/community/blob/master/sig/sig_tv/meetings)
+ - 会议纪要：[归档链接地址](https://gitcode.com/openharmony/community/blob/master/sig/sig_tv/meetings)
 
 ### 联系方式(可选)
 

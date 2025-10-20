@@ -33,7 +33,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### The repository
 
 - project name:
-  - sig_python: https://gitee.com/openharmony-sig/python
+  - sig_python: https://gitcode.com/openharmony-sig/python
 ## SIG Members
 
 ### Leader
@@ -52,7 +52,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
  - Meeting application: [sig_python Meeting application](https://shimo.im/sheets/WlArz7M5a1Cr1KA2/)
  - Meeting link：Tencent meeting or other meeting
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list for the meeting link
- - Meeting Summary: To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/python/meetings)
+ - Meeting Summary: To view the minutes of past meetings, please click this [link](https://gitcode.com/openharmony-sig/sig-content/tree/master/python/meetings)
 
 ### Contact (optional)
 

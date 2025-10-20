@@ -14,7 +14,7 @@
 ### 工作范围
 #### 社区版本发布流程
 版本发布流程参考：
-https://gitee.com/openharmony/release-management/blob/master/OpenHarmony%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83%E8%AF%84%E5%AE%A1%E8%A7%84%E8%8C%83%20-%20V2.0.md
+https://gitcode.com/openharmony/release-management/blob/master/OpenHarmony%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83%E8%AF%84%E5%AE%A1%E8%A7%84%E8%8C%83%20-%20V2.0.md
 
 ####  社区版本补丁发布流程和生命周期策略说明
  openHarmony版本开发周期大约为6个月，Release版本正式发布后，维护周期1年，1年安全补丁，LTS版本正式发布后，维护周期2年，1.5年安全补丁
