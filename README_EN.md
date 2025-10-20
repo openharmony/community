@@ -8,11 +8,11 @@ The **community** repository stores the following content:
 
 - Community Governance Organizational Structure
     - [Project Management Committee](/zh/pmc.md)
-- [Contributing to the Community](https://gitee.com/openharmony/docs/blob/master/en/contribute/Readme-EN.md)
+- [Contributing to the Community](https://gitcode.com/openharmony/docs/blob/master/en/contribute/Readme-EN.md)
 - [Contributor Agreement for Contributing to the Community](https://dco.openharmony.io/sign/Z2l0ZWUlMkZPcGVuQXRvbQ==)
-- [Communications in the Community](https://gitee.com/openharmony/docs/blob/master/en/contribute/communication-in-community.md)
-- [Responses to Security Issues](https://gitee.com/openharmony/security)
-- [Project Logo](https://gitee.com/openharmony/community/blob/master/README_EN.md#project-logo)
+- [Communications in the Community](https://gitcode.com/openharmony/docs/blob/master/en/contribute/communication-in-community.md)
+- [Responses to Security Issues](https://gitcode.com/openharmony/security)
+- [Project Logo](https://gitcode.com/openharmony/community/blob/master/README_EN.md#project-logo)
 
 ## Community Governance Organizational Structure
 
@@ -20,7 +20,7 @@ The [Project Management Committee](/zh/pmc.md) (PMC) manages the OpenHarmony com
 
 ## Contributing to the Community
 
-See [How to Contribute to the OpenHarmony Community](https://gitee.com/openharmony/docs/blob/master/en/contribute/Readme-EN.md).
+See [How to Contribute to the OpenHarmony Community](https://gitcode.com/openharmony/docs/blob/master/en/contribute/Readme-EN.md).
 
 ## Signing the Developer Certificate of Origin
 

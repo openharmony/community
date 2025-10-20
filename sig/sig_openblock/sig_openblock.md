@@ -75,7 +75,7 @@ Actively cooperate with schools, teachers and education providers
  - Meeting application: [sig_OpenBloack application](https://shimo.im/sheets/vfghbtkSIvo49soA)
  - meeting link:Tencent meeting or other meeting
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list for the 
- - Meeting Summary:To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/openblock/meetings)
+ - Meeting Summary:To view the minutes of past meetings, please click this [link](https://gitcode.com/openharmony-sig/sig-content/tree/master/openblock/meetings)
 
 ### Contact (optional)
 

@@ -53,7 +53,7 @@
  - 议题申报: [OpenHarmony sig_SoftBus Meeting Proposal](https://shimo.im/sheets/iDp1dGmnk3sVjJoE/MODOC)
  - 会议链接：Welink
  - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/sig_dsoftbus.openharmony.io) 邮件列表 sig_dsoftbus@openharmony.io 获取会议链接
- - 会议纪要：查看往期会议纪要，请点此[会议纪要](https://gitee.com/openharmony-sig/sig-content/blob/master/softbus/meetings)
+ - 会议纪要：查看往期会议纪要，请点此[会议纪要](https://gitcode.com/openharmony-sig/sig-content/blob/master/softbus/meetings)
 
 
 ### 联系方式(可选)

@@ -33,7 +33,7 @@ Robotic sub-systems based on OpenHarmony that support technical architectures, a
  - Meeting time: BiWeek Wednesday 20:00
  - meeting link:Tencent meeting or other meeting
  - Meeting notification: [Subscribe to]([dev@openharmony.io](https://lists.openatom.io/postorius/lists/dev.openharmony.io)) mailing list for the 
- - Meeting Summary:To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/robotics/meetings)
+ - Meeting Summary:To view the minutes of past meetings, please click this [link](https://gitcode.com/openharmony-sig/sig-content/tree/master/robotics/meetings)
 
 ### Contact (optional)
 

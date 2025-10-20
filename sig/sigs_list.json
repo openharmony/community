@@ -10,7 +10,7 @@
             "L1S_AI"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/ai_engine",
+                "https_url": "https://gitcode.com/openharmony/ai_engine",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/hada__lee",
@@ -18,7 +18,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_flatbuffers",
+                "https_url": "https://gitcode.com/openharmony/third_party_flatbuffers",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jianghui58",
@@ -31,7 +31,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_mindspore",
+                "https_url": "https://gitcode.com/openharmony/third_party_mindspore",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhaizhiqiang",
@@ -56,7 +56,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_opencl-headers",
+                "https_url": "https://gitcode.com/openharmony/third_party_opencl-headers",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jianghui58",
@@ -69,7 +69,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/ai_neural_network_runtime",
+                "https_url": "https://gitcode.com/openharmony/ai_neural_network_runtime",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/grbuzhidao",
@@ -94,7 +94,7 @@
             "L1S_Notification"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/applications_camera_screensaver_app",
+                "https_url": "https://gitcode.com/openharmony/applications_camera_screensaver_app",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/borne",
@@ -107,7 +107,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/developtools_packing_tool",
+                "https_url": "https://gitcode.com/openharmony/developtools_packing_tool",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/changzheng6",
@@ -124,7 +124,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/ability_ability_lite",
+                "https_url": "https://gitcode.com/openharmony/ability_ability_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jayleehw",
@@ -141,7 +141,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/arkui_ace_engine_lite",
+                "https_url": "https://gitcode.com/openharmony/arkui_ace_engine_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/borne",
@@ -158,7 +158,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/bundlemanager_bundle_framework_lite",
+                "https_url": "https://gitcode.com/openharmony/bundlemanager_bundle_framework_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/autumn330",
@@ -175,7 +175,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/ability_dmsfwk_lite",
+                "https_url": "https://gitcode.com/openharmony/ability_dmsfwk_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lijiarun",
@@ -200,7 +200,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/systemabilitymgr_safwk_lite",
+                "https_url": "https://gitcode.com/openharmony/systemabilitymgr_safwk_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lijiarun",
@@ -217,7 +217,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/systemabilitymgr_samgr_lite",
+                "https_url": "https://gitcode.com/openharmony/systemabilitymgr_samgr_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lijiarun",
@@ -234,7 +234,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_cJSON",
+                "https_url": "https://gitcode.com/openharmony/third_party_cJSON",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/borne",
@@ -251,7 +251,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/notification_common_event_service",
+                "https_url": "https://gitcode.com/openharmony/notification_common_event_service",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/autumn330",
@@ -264,7 +264,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/ability_ability_runtime",
+                "https_url": "https://gitcode.com/openharmony/ability_ability_runtime",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gwang2008",
@@ -293,7 +293,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/arkui_ace_engine",
+                "https_url": "https://gitcode.com/openharmony/arkui_ace_engine",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/sunfei2021",
@@ -330,7 +330,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/arkui_napi",
+                "https_url": "https://gitcode.com/openharmony/arkui_napi",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/sunfei2021",
@@ -351,7 +351,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/bundlemanager_bundle_framework",
+                "https_url": "https://gitcode.com/openharmony/bundlemanager_bundle_framework",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gwang2008",
@@ -372,7 +372,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/ability_dmsfwk",
+                "https_url": "https://gitcode.com/openharmony/ability_dmsfwk",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lijiarun",
@@ -397,7 +397,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/systemabilitymgr_safwk",
+                "https_url": "https://gitcode.com/openharmony/systemabilitymgr_safwk",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lijiarun",
@@ -414,7 +414,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/systemabilitymgr_samgr",
+                "https_url": "https://gitcode.com/openharmony/systemabilitymgr_samgr",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lijiarun",
@@ -431,7 +431,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/interface_sdk-js",
+                "https_url": "https://gitcode.com/openharmony/interface_sdk-js",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/im-off-this-week",
@@ -452,7 +452,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_css-what",
+                "https_url": "https://gitcode.com/openharmony/third_party_css-what",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/davidwulanxi",
@@ -465,7 +465,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_expat",
+                "https_url": "https://gitcode.com/openharmony/third_party_expat",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/davidwulanxi",
@@ -478,7 +478,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_flutter",
+                "https_url": "https://gitcode.com/openharmony/third_party_flutter",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/sunfei2021",
@@ -495,7 +495,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_jsframework",
+                "https_url": "https://gitcode.com/openharmony/third_party_jsframework",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/davidwulanxi",
@@ -512,7 +512,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libuv",
+                "https_url": "https://gitcode.com/openharmony/third_party_libuv",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/davidwulanxi",
@@ -529,7 +529,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_node",
+                "https_url": "https://gitcode.com/openharmony/third_party_node",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/davidwulanxi",
@@ -546,7 +546,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/resourceschedule_work_scheduler",
+                "https_url": "https://gitcode.com/openharmony/resourceschedule_work_scheduler",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chenmingJay",
@@ -567,7 +567,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/resourceschedule_background_task_mgr",
+                "https_url": "https://gitcode.com/openharmony/resourceschedule_background_task_mgr",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/wanglai-yao",
@@ -588,7 +588,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/developtools_ace-js2bundle",
+                "https_url": "https://gitcode.com/openharmony/developtools_ace-js2bundle",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lihong67",
@@ -601,7 +601,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/developtools_ace-ets2bundle",
+                "https_url": "https://gitcode.com/openharmony/developtools_ace-ets2bundle",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lihong67",
@@ -618,7 +618,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_weex-loader",
+                "https_url": "https://gitcode.com/openharmony/third_party_weex-loader",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lihong67",
@@ -631,7 +631,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_parse5",
+                "https_url": "https://gitcode.com/openharmony/third_party_parse5",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lihong67",
@@ -644,7 +644,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_glfw",
+                "https_url": "https://gitcode.com/openharmony/third_party_glfw",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/laigerendaqiu",
@@ -657,7 +657,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/ability_ability_base",
+                "https_url": "https://gitcode.com/openharmony/ability_ability_base",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gwang2008",
@@ -686,7 +686,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/ability_form_fwk",
+                "https_url": "https://gitcode.com/openharmony/ability_form_fwk",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gwang2008",
@@ -711,7 +711,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/ability_idl_tool",
+                "https_url": "https://gitcode.com/openharmony/ability_idl_tool",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gwang2008",
@@ -732,7 +732,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/notification_distributed_notification_service",
+                "https_url": "https://gitcode.com/openharmony/notification_distributed_notification_service",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/autumn330",
@@ -745,7 +745,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_profile_core",
+                "https_url": "https://gitcode.com/openharmony/device_profile_core",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lijiarun",
@@ -762,7 +762,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/resourceschedule_device_usage_statistics",
+                "https_url": "https://gitcode.com/openharmony/resourceschedule_device_usage_statistics",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/tangtiantian2021",
@@ -783,7 +783,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/resourceschedule_resource_schedule_service",
+                "https_url": "https://gitcode.com/openharmony/resourceschedule_resource_schedule_service",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/shire-yao",
@@ -804,7 +804,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/resourceschedule_memmgr",
+                "https_url": "https://gitcode.com/openharmony/resourceschedule_memmgr",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/wang2002xu",
@@ -817,7 +817,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/resourceschedule_frame_aware_sched",
+                "https_url": "https://gitcode.com/openharmony/resourceschedule_frame_aware_sched",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lizongfeng",
@@ -830,7 +830,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_typescript",
+                "https_url": "https://gitcode.com/openharmony/third_party_typescript",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhuoli72",
@@ -843,7 +843,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_typescript_eslint",
+                "https_url": "https://gitcode.com/openharmony/third_party_typescript_eslint",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhuoli72",
@@ -856,7 +856,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_chromium",
+                "https_url": "https://gitcode.com/openharmony/third_party_chromium",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bigpumpkin",
@@ -869,7 +869,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_cef",
+                "https_url": "https://gitcode.com/openharmony/third_party_cef",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bigpumpkin",
@@ -882,7 +882,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/web_webview",
+                "https_url": "https://gitcode.com/openharmony/web_webview",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bigpumpkin",
@@ -895,7 +895,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/notification_eventhandler",
+                "https_url": "https://gitcode.com/openharmony/notification_eventhandler",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zero-cyc",
@@ -908,7 +908,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/arkui_ui_appearance",
+                "https_url": "https://gitcode.com/openharmony/arkui_ui_appearance",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/piggyguy",
@@ -921,7 +921,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/bundlemanager_bundle_tool",
+                "https_url": "https://gitcode.com/openharmony/bundlemanager_bundle_tool",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gwang2008",
@@ -938,7 +938,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/bundlemanager_distributed_bundle_framework",
+                "https_url": "https://gitcode.com/openharmony/bundlemanager_distributed_bundle_framework",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gwang2008",
@@ -968,7 +968,7 @@
             "NONE"
         ],
         "projects": [{
-            "https_url": "https://gitee.com/openharmony/community",
+            "https_url": "https://gitcode.com/openharmony/community",
             "repo_status": "0",
             "committer": [{
                     "gitee_id": "https://gitee.com/dongjinguang",
@@ -1006,7 +1006,7 @@
             "L1S_UploadAndDownload"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/global_cust_lite",
+                "https_url": "https://gitcode.com/openharmony/global_cust_lite",
                 "repo_status": "1",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhengbin5",
@@ -1019,7 +1019,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/global_i18n_lite",
+                "https_url": "https://gitcode.com/openharmony/global_i18n_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/mengjingzhimo",
@@ -1032,7 +1032,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/global_resource_management_lite",
+                "https_url": "https://gitcode.com/openharmony/global_resource_management_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhuxiang6",
@@ -1045,7 +1045,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_hievent_lite",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_hievent_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/shenchenkai",
@@ -1058,7 +1058,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_hilog_lite",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_hilog_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/shenchenkai",
@@ -1071,7 +1071,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_hiview_lite",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_hiview_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/shenchenkai",
@@ -1084,7 +1084,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/startup_appspawn_lite",
+                "https_url": "https://gitcode.com/openharmony/startup_appspawn_lite",
                 "repo_status": "1",
                 "committer": [{
                         "gitee_id": "https://gitee.com/handyohos",
@@ -1097,7 +1097,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/startup_bootstrap_lite",
+                "https_url": "https://gitcode.com/openharmony/startup_bootstrap_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/handyohos",
@@ -1110,7 +1110,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/startup_init_lite",
+                "https_url": "https://gitcode.com/openharmony/startup_init_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/handyohos",
@@ -1123,7 +1123,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/startup_syspara_lite",
+                "https_url": "https://gitcode.com/openharmony/startup_syspara_lite",
                 "repo_status": "1",
                 "committer": [{
                         "gitee_id": "https://gitee.com/handyohos",
@@ -1136,7 +1136,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/update_sys_installer_lite",
+                "https_url": "https://gitcode.com/openharmony/update_sys_installer_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/handyohos",
@@ -1153,7 +1153,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_curl",
+                "https_url": "https://gitcode.com/openharmony/third_party_curl",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/stesen",
@@ -1166,7 +1166,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_icu",
+                "https_url": "https://gitcode.com/openharmony/third_party_icu",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/mengjingzhimo",
@@ -1179,7 +1179,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_zlib",
+                "https_url": "https://gitcode.com/openharmony/third_party_zlib",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/autumn330",
@@ -1196,7 +1196,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/account_os_account",
+                "https_url": "https://gitcode.com/openharmony/account_os_account",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/libing23",
@@ -1213,7 +1213,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/global_i18n",
+                "https_url": "https://gitcode.com/openharmony/global_i18n",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/mengjingzhimo",
@@ -1226,7 +1226,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/global_resource_management",
+                "https_url": "https://gitcode.com/openharmony/global_resource_management",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhuxiang6",
@@ -1239,7 +1239,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_faultloggerd",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_faultloggerd",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/maplestorys",
@@ -1256,7 +1256,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_hiappevent",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_hiappevent",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yaomanhai",
@@ -1269,7 +1269,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_hilog",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_hilog",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yaomanhai",
@@ -1282,7 +1282,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_hisysevent",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_hisysevent",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yaomanhai",
@@ -1295,7 +1295,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_hiview",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_hiview",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/maplestorys",
@@ -1303,7 +1303,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/startup_appspawn",
+                "https_url": "https://gitcode.com/openharmony/startup_appspawn",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/handyohos",
@@ -1320,7 +1320,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/update_update_app",
+                "https_url": "https://gitcode.com/openharmony/update_update_app",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ailorna",
@@ -1337,7 +1337,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/update_packaging_tools",
+                "https_url": "https://gitcode.com/openharmony/update_packaging_tools",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ailorna",
@@ -1354,7 +1354,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/update_updater",
+                "https_url": "https://gitcode.com/openharmony/update_updater",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ailorna",
@@ -1371,7 +1371,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/update_updateservice",
+                "https_url": "https://gitcode.com/openharmony/update_updateservice",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ailorna",
@@ -1388,7 +1388,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/developtools_bytrace",
+                "https_url": "https://gitcode.com/openharmony/developtools_bytrace",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/leizhenzang",
@@ -1401,7 +1401,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/developtools_hdc",
+                "https_url": "https://gitcode.com/openharmony/developtools_hdc",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/stesen",
@@ -1414,7 +1414,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/developtools_profiler",
+                "https_url": "https://gitcode.com/openharmony/developtools_profiler",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/leizhenzang",
@@ -1427,7 +1427,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_abseil-cpp",
+                "https_url": "https://gitcode.com/openharmony/third_party_abseil-cpp",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/leizhenzang",
@@ -1440,7 +1440,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_boringssl",
+                "https_url": "https://gitcode.com/openharmony/third_party_boringssl",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/leizhenzang",
@@ -1453,7 +1453,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_bzip2",
+                "https_url": "https://gitcode.com/openharmony/third_party_bzip2",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ailorna",
@@ -1470,7 +1470,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_cares",
+                "https_url": "https://gitcode.com/openharmony/third_party_cares",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/leizhenzang",
@@ -1483,7 +1483,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_grpc",
+                "https_url": "https://gitcode.com/openharmony/third_party_grpc",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/leizhenzang",
@@ -1496,7 +1496,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_jsoncpp",
+                "https_url": "https://gitcode.com/openharmony/third_party_jsoncpp",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhuxiang6",
@@ -1509,7 +1509,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libphonenumber",
+                "https_url": "https://gitcode.com/openharmony/third_party_libphonenumber",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/mengjingzhimo",
@@ -1522,7 +1522,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libunwind",
+                "https_url": "https://gitcode.com/openharmony/third_party_libunwind",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/maplestorys",
@@ -1535,7 +1535,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libusb",
+                "https_url": "https://gitcode.com/openharmony/third_party_libusb",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/faithwang",
@@ -1548,7 +1548,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libxml2",
+                "https_url": "https://gitcode.com/openharmony/third_party_libxml2",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhuxiang6",
@@ -1561,7 +1561,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_lz4",
+                "https_url": "https://gitcode.com/openharmony/third_party_lz4",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ailorna",
@@ -1578,7 +1578,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_protobuf",
+                "https_url": "https://gitcode.com/openharmony/third_party_protobuf",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/leizhenzang",
@@ -1591,7 +1591,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_re2",
+                "https_url": "https://gitcode.com/openharmony/third_party_re2",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/leizhenzang",
@@ -1604,7 +1604,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/global_system_resources",
+                "https_url": "https://gitcode.com/openharmony/global_system_resources",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhuxiang6",
@@ -1617,7 +1617,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_blackbox",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_blackbox",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/stesen",
@@ -1630,7 +1630,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_hidumper_lite",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_hidumper_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/faithwang",
@@ -1643,7 +1643,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_hitrace",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_hitrace",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yaomanhai",
@@ -1656,7 +1656,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_hicollie",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_hicollie",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ericlee",
@@ -1669,7 +1669,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_ejdb",
+                "https_url": "https://gitcode.com/openharmony/third_party_ejdb",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ericlee",
@@ -1682,7 +1682,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_iowow",
+                "https_url": "https://gitcode.com/openharmony/third_party_iowow",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ericlee",
@@ -1695,7 +1695,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/accessibility",
+                "https_url": "https://gitcode.com/openharmony/accessibility",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/seeylran",
@@ -1703,7 +1703,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/developtools_hiperf",
+                "https_url": "https://gitcode.com/openharmony/developtools_hiperf",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/leizhenzang",
@@ -1716,7 +1716,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_pyyaml",
+                "https_url": "https://gitcode.com/openharmony/third_party_pyyaml",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/guochuanqi",
@@ -1729,7 +1729,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/syscap_codec",
+                "https_url": "https://gitcode.com/openharmony/syscap_codec",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/taiyipei",
@@ -1742,7 +1742,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/developtools_global_resource_tool",
+                "https_url": "https://gitcode.com/openharmony/developtools_global_resource_tool",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhuxiang6",
@@ -1755,7 +1755,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_hichecker",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_hichecker",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zlxia",
@@ -1768,7 +1768,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/hiviewdfx_hidumper",
+                "https_url": "https://gitcode.com/openharmony/hiviewdfx_hidumper",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zlxia",
@@ -1781,7 +1781,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/update_sys_installer",
+                "https_url": "https://gitcode.com/openharmony/update_sys_installer",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ailorna",
@@ -1798,7 +1798,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/print_print_fwk",
+                "https_url": "https://gitcode.com/openharmony/print_print_fwk",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/h00279611",
@@ -1806,7 +1806,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libbpf",
+                "https_url": "https://gitcode.com/openharmony/third_party_libbpf",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zlxia",
@@ -1819,7 +1819,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libabigail",
+                "https_url": "https://gitcode.com/openharmony/third_party_libabigail",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ailorna",
@@ -1832,7 +1832,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_elfutils",
+                "https_url": "https://gitcode.com/openharmony/third_party_elfutils",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ailorna",
@@ -1845,7 +1845,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/startup_hvb",
+                "https_url": "https://gitcode.com/openharmony/startup_hvb",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/handyohos",
@@ -1858,7 +1858,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_bpftool",
+                "https_url": "https://gitcode.com/openharmony/third_party_bpftool",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zlxia",
@@ -1879,7 +1879,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/customization_config_policy",
+                "https_url": "https://gitcode.com/openharmony/customization_config_policy",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/huangke11",
@@ -1900,7 +1900,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/customization_enterprise_device_management",
+                "https_url": "https://gitcode.com/openharmony/customization_enterprise_device_management",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/huangke11",
@@ -1921,7 +1921,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_admin_provisioning",
+                "https_url": "https://gitcode.com/openharmony/applications_admin_provisioning",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/huangke11",
@@ -1955,7 +1955,7 @@
             "L1S_BuildSystem"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/build_lite",
+                "https_url": "https://gitcode.com/openharmony/build_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chenmudan",
@@ -1968,7 +1968,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/build",
+                "https_url": "https://gitcode.com/openharmony/build",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chenmudan",
@@ -1981,7 +1981,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/prebuilts_aosp_libs",
+                "https_url": "https://gitcode.com/openharmony/prebuilts_aosp_libs",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chenmudan",
@@ -1994,7 +1994,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/productdefine_common",
+                "https_url": "https://gitcode.com/openharmony/productdefine_common",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chenmudan",
@@ -2007,7 +2007,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_gn",
+                "https_url": "https://gitcode.com/openharmony/third_party_gn",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chenmudan",
@@ -2020,7 +2020,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_markupsafe",
+                "https_url": "https://gitcode.com/openharmony/third_party_markupsafe",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chenmudan",
@@ -2033,7 +2033,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_ninja",
+                "https_url": "https://gitcode.com/openharmony/third_party_ninja",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chenmudan",
@@ -2046,7 +2046,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_python",
+                "https_url": "https://gitcode.com/openharmony/third_party_python",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chenmudan",
@@ -2073,7 +2073,7 @@
             "L1S_Utils"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/third_party_jerryscript",
+                "https_url": "https://gitcode.com/openharmony/third_party_jerryscript",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/weng-changcheng",
@@ -2086,7 +2086,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_musl",
+                "https_url": "https://gitcode.com/openharmony/third_party_musl",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/huanghuijin",
@@ -2111,7 +2111,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/commonlibrary_utils_lite",
+                "https_url": "https://gitcode.com/openharmony/commonlibrary_utils_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/huanghuijin",
@@ -2124,7 +2124,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_boost",
+                "https_url": "https://gitcode.com/openharmony/third_party_boost",
                 "repo_status": "1",
                 "committer": [{
                         "gitee_id": "https://gitee.com/weng-changcheng",
@@ -2137,7 +2137,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_jinja2",
+                "https_url": "https://gitcode.com/openharmony/third_party_jinja2",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chenmudan",
@@ -2150,7 +2150,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_mingw-w64",
+                "https_url": "https://gitcode.com/openharmony/third_party_mingw-w64",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/huanghuijin",
@@ -2167,7 +2167,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_quickjs",
+                "https_url": "https://gitcode.com/openharmony/third_party_quickjs",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/weng-changcheng",
@@ -2175,7 +2175,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/utils",
+                "https_url": "https://gitcode.com/openharmony/utils",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/huanghuijin",
@@ -2188,7 +2188,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/commonlibrary_c_utils",
+                "https_url": "https://gitcode.com/openharmony/commonlibrary_c_utils",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/huanghuijin",
@@ -2201,7 +2201,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/arkcompiler_runtime_core",
+                "https_url": "https://gitcode.com/openharmony/arkcompiler_runtime_core",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/peijiajun",
@@ -2218,7 +2218,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+                "https_url": "https://gitcode.com/openharmony/arkcompiler_ets_runtime",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/wuzhefengh",
@@ -2239,7 +2239,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/arkcompiler_ets_frontend",
+                "https_url": "https://gitcode.com/openharmony/arkcompiler_ets_frontend",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/godmiaozi",
@@ -2252,7 +2252,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_miniz",
+                "https_url": "https://gitcode.com/openharmony/third_party_miniz",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/shawn_hu_ls",
@@ -2265,7 +2265,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_e2fsprogs",
+                "https_url": "https://gitcode.com/openharmony/third_party_e2fsprogs",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/wangxing-hw",
@@ -2278,7 +2278,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/commonlibrary_ets_utils",
+                "https_url": "https://gitcode.com/openharmony/commonlibrary_ets_utils",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gongjunsong",
@@ -2299,7 +2299,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/utils_memory",
+                "https_url": "https://gitcode.com/openharmony/utils_memory",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/wang2002xu",
@@ -2312,7 +2312,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/arkcompiler_toolchain",
+                "https_url": "https://gitcode.com/openharmony/arkcompiler_toolchain",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/wuzhefengh",
@@ -2333,7 +2333,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_llvm-project",
+                "https_url": "https://gitcode.com/openharmony/third_party_llvm-project",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/huanghuijin",
@@ -2346,7 +2346,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_lldb-mi",
+                "https_url": "https://gitcode.com/openharmony/third_party_lldb-mi",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/huanghuijin",
@@ -2372,7 +2372,7 @@
             "L1S_DevBoard"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/device_hisilicon_build",
+                "https_url": "https://gitcode.com/openharmony/device_hisilicon_build",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yuanwhong",
@@ -2385,7 +2385,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_hisilicon_drivers",
+                "https_url": "https://gitcode.com/openharmony/device_hisilicon_drivers",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yuanwhong",
@@ -2398,7 +2398,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_hisilicon_hardware",
+                "https_url": "https://gitcode.com/openharmony/device_hisilicon_hardware",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yuanwhong",
@@ -2411,7 +2411,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_hisilicon_hispark_aries",
+                "https_url": "https://gitcode.com/openharmony/device_hisilicon_hispark_aries",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yuanwhong",
@@ -2424,7 +2424,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_hisilicon_hispark_pegasus",
+                "https_url": "https://gitcode.com/openharmony/device_hisilicon_hispark_pegasus",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yuanwhong",
@@ -2437,7 +2437,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_hisilicon_hispark_taurus",
+                "https_url": "https://gitcode.com/openharmony/device_hisilicon_hispark_taurus",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yuanwhong",
@@ -2450,7 +2450,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_hisilicon_modules",
+                "https_url": "https://gitcode.com/openharmony/device_hisilicon_modules",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yuanwhong",
@@ -2463,7 +2463,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_hisilicon_third_party_ffmpeg",
+                "https_url": "https://gitcode.com/openharmony/device_hisilicon_third_party_ffmpeg",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yuanwhong",
@@ -2476,7 +2476,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_u-boot",
+                "https_url": "https://gitcode.com/openharmony/third_party_u-boot",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yuanwhong",
@@ -2489,7 +2489,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_qemu",
+                "https_url": "https://gitcode.com/openharmony/device_qemu",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/kkup180",
@@ -2502,7 +2502,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_ohemu",
+                "https_url": "https://gitcode.com/openharmony/vendor_ohemu",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/kkup180",
@@ -2515,7 +2515,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_soc_hisilicon",
+                "https_url": "https://gitcode.com/openharmony/device_soc_hisilicon",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/northking-super",
@@ -2528,7 +2528,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_hisilicon",
+                "https_url": "https://gitcode.com/openharmony/device_board_hisilicon",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/northking-super",
@@ -2545,7 +2545,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_hihope",
+                "https_url": "https://gitcode.com/openharmony/device_hihope",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bob_qu",
@@ -2558,7 +2558,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_hihope",
+                "https_url": "https://gitcode.com/openharmony/vendor_hihope",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bob_qu",
@@ -2571,7 +2571,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_fnlink",
+                "https_url": "https://gitcode.com/openharmony/device_board_fnlink",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/besyangjian",
@@ -2588,7 +2588,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_soc_bestechnic",
+                "https_url": "https://gitcode.com/openharmony/device_soc_bestechnic",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/besyangjian",
@@ -2605,7 +2605,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_bestechnic",
+                "https_url": "https://gitcode.com/openharmony/vendor_bestechnic",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/besyangjian",
@@ -2622,7 +2622,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_goodix",
+                "https_url": "https://gitcode.com/openharmony/vendor_goodix",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/sink-top",
@@ -2635,7 +2635,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_soc_goodix",
+                "https_url": "https://gitcode.com/openharmony/device_soc_goodix",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/sink-top",
@@ -2648,7 +2648,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_goodix",
+                "https_url": "https://gitcode.com/openharmony/device_board_goodix",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/sink-top",
@@ -2661,7 +2661,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_bearpi",
+                "https_url": "https://gitcode.com/openharmony/device_board_bearpi",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bearpi",
@@ -2674,7 +2674,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_bearpi",
+                "https_url": "https://gitcode.com/openharmony/vendor_bearpi",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bearpi",
@@ -2687,7 +2687,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_soc_st",
+                "https_url": "https://gitcode.com/openharmony/device_soc_st",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/talkweb_houpengfei",
@@ -2704,7 +2704,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_hihope",
+                "https_url": "https://gitcode.com/openharmony/device_board_hihope",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bob_qu",
@@ -2717,7 +2717,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_soc_winnermicro",
+                "https_url": "https://gitcode.com/openharmony/device_soc_winnermicro",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bob_qu",
@@ -2730,7 +2730,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_soc_asrmicro",
+                "https_url": "https://gitcode.com/openharmony/device_soc_asrmicro",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lango-tech_0",
@@ -2743,7 +2743,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_lango",
+                "https_url": "https://gitcode.com/openharmony/device_board_lango",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lango-tech_0",
@@ -2756,7 +2756,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_asrmicro",
+                "https_url": "https://gitcode.com/openharmony/vendor_asrmicro",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lango-tech_0",
@@ -2769,7 +2769,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_chipsea",
+                "https_url": "https://gitcode.com/openharmony/vendor_chipsea",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ihaobo",
@@ -2782,7 +2782,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_chipsea",
+                "https_url": "https://gitcode.com/openharmony/device_board_chipsea",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ihaobo",
@@ -2795,7 +2795,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_soc_chipsea",
+                "https_url": "https://gitcode.com/openharmony/device_soc_chipsea",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ihaobo",
@@ -2808,7 +2808,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_soc_allwinner",
+                "https_url": "https://gitcode.com/openharmony/device_soc_allwinner",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/vyagoo_0",
@@ -2821,7 +2821,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_isoftstone",
+                "https_url": "https://gitcode.com/openharmony/device_board_isoftstone",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chen563705",
@@ -2846,7 +2846,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_isoftstone",
+                "https_url": "https://gitcode.com/openharmony/vendor_isoftstone",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chen563705",
@@ -2871,7 +2871,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_talkweb",
+                "https_url": "https://gitcode.com/openharmony/vendor_talkweb",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/talkweb_houpengfei",
@@ -2884,7 +2884,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_talkweb",
+                "https_url": "https://gitcode.com/openharmony/device_board_talkweb",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/talkweb_houpengfei",
@@ -2897,7 +2897,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_soc_rockchip",
+                "https_url": "https://gitcode.com/openharmony/device_soc_rockchip",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bob_qu",
@@ -2914,7 +2914,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_unionman",
+                "https_url": "https://gitcode.com/openharmony/device_board_unionman",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/algoideas",
@@ -2935,7 +2935,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_unionman",
+                "https_url": "https://gitcode.com/openharmony/vendor_unionman",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/algoideas",
@@ -2956,7 +2956,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_soc_amlogic",
+                "https_url": "https://gitcode.com/openharmony/device_soc_amlogic",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/algoideas",
@@ -2977,7 +2977,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_telink",
+                "https_url": "https://gitcode.com/openharmony/vendor_telink",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/andy-telink",
@@ -2994,7 +2994,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_soc_telink",
+                "https_url": "https://gitcode.com/openharmony/device_soc_telink",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/andy-telink",
@@ -3011,7 +3011,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_telink",
+                "https_url": "https://gitcode.com/openharmony/device_board_telink",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/andy-telink",
@@ -3028,7 +3028,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_kaihong",
+                "https_url": "https://gitcode.com/openharmony/device_board_kaihong",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhangxingjun007",
@@ -3049,7 +3049,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_kaihong",
+                "https_url": "https://gitcode.com/openharmony/vendor_kaihong",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhangxingjun007",
@@ -3070,7 +3070,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_alientek",
+                "https_url": "https://gitcode.com/openharmony/vendor_alientek",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -3091,7 +3091,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_hpmicro",
+                "https_url": "https://gitcode.com/openharmony/vendor_hpmicro",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jh_qian",
@@ -3108,7 +3108,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_soc_hpmicro",
+                "https_url": "https://gitcode.com/openharmony/device_soc_hpmicro",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jh_qian",
@@ -3125,7 +3125,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_hpmicro",
+                "https_url": "https://gitcode.com/openharmony/device_board_hpmicro",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jh_qian",
@@ -3142,7 +3142,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_beken",
+                "https_url": "https://gitcode.com/openharmony/vendor_beken",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/barrytu",
@@ -3159,7 +3159,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_soc_beken",
+                "https_url": "https://gitcode.com/openharmony/device_soc_beken",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/barrytu",
@@ -3176,7 +3176,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_beken",
+                "https_url": "https://gitcode.com/openharmony/device_board_beken",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/barrytu",
@@ -3193,7 +3193,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_lockzhiner",
+                "https_url": "https://gitcode.com/openharmony/vendor_lockzhiner",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lockzhiner_wang-xiaobin",
@@ -3206,7 +3206,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_board_lockzhiner",
+                "https_url": "https://gitcode.com/openharmony/device_board_lockzhiner",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/libing_frank",
@@ -3232,7 +3232,7 @@
             "L1S_DistributedDataMgr_DFS"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/time_time_service",
+                "https_url": "https://gitcode.com/openharmony/time_time_service",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/mangtsang",
@@ -3245,7 +3245,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributeddatamgr_datamgr_service",
+                "https_url": "https://gitcode.com/openharmony/distributeddatamgr_datamgr_service",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/widecode",
@@ -3258,7 +3258,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributeddatamgr_file",
+                "https_url": "https://gitcode.com/openharmony/distributeddatamgr_file",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/zhangzhiwi",
@@ -3266,7 +3266,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_sqlite",
+                "https_url": "https://gitcode.com/openharmony/third_party_sqlite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/widecode",
@@ -3279,7 +3279,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/multimedia_media_library",
+                "https_url": "https://gitcode.com/openharmony/multimedia_media_library",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gudehe",
@@ -3292,7 +3292,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributeddatamgr_data_object",
+                "https_url": "https://gitcode.com/openharmony/distributeddatamgr_data_object",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/widecode",
@@ -3305,7 +3305,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/inputmethod_imf",
+                "https_url": "https://gitcode.com/openharmony/inputmethod_imf",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/illybyy",
@@ -3318,7 +3318,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributeddatamgr_relational_store",
+                "https_url": "https://gitcode.com/openharmony/distributeddatamgr_relational_store",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lugitee",
@@ -3331,7 +3331,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributeddatamgr_data_share",
+                "https_url": "https://gitcode.com/openharmony/distributeddatamgr_data_share",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lugitee",
@@ -3344,7 +3344,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributeddatamgr_preferences",
+                "https_url": "https://gitcode.com/openharmony/distributeddatamgr_preferences",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lugitee",
@@ -3357,7 +3357,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributeddatamgr_kv_store",
+                "https_url": "https://gitcode.com/openharmony/distributeddatamgr_kv_store",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/widecode",
@@ -3374,7 +3374,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributeddatamgr_pasteboard",
+                "https_url": "https://gitcode.com/openharmony/distributeddatamgr_pasteboard",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/xiaolvxiangqianchong",
@@ -3387,7 +3387,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/request_request",
+                "https_url": "https://gitcode.com/openharmony/request_request",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuwenhui_ddmp",
@@ -3400,7 +3400,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/theme_screenlock_mgr",
+                "https_url": "https://gitcode.com/openharmony/theme_screenlock_mgr",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/illybyy",
@@ -3413,7 +3413,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/theme_wallpaper_mgr",
+                "https_url": "https://gitcode.com/openharmony/theme_wallpaper_mgr",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/illybyy",
@@ -3443,7 +3443,7 @@
             "L1S_USB"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/powermgr_powermgr_lite",
+                "https_url": "https://gitcode.com/openharmony/powermgr_powermgr_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/aqxyjay",
@@ -3456,7 +3456,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/sensors_miscdevice_lite",
+                "https_url": "https://gitcode.com/openharmony/sensors_miscdevice_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hhh2",
@@ -3469,7 +3469,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/sensors_sensor_lite",
+                "https_url": "https://gitcode.com/openharmony/sensors_sensor_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hhh2",
@@ -3482,7 +3482,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/powermgr_battery_manager",
+                "https_url": "https://gitcode.com/openharmony/powermgr_battery_manager",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/aqxyjay",
@@ -3495,7 +3495,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/powermgr_display_manager",
+                "https_url": "https://gitcode.com/openharmony/powermgr_display_manager",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/aqxyjay",
@@ -3508,7 +3508,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/powermgr_power_manager",
+                "https_url": "https://gitcode.com/openharmony/powermgr_power_manager",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/aqxyjay",
@@ -3521,7 +3521,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/multimodalinput_input",
+                "https_url": "https://gitcode.com/openharmony/multimodalinput_input",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hhh2",
@@ -3534,7 +3534,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_xkeyboardconfig",
+                "https_url": "https://gitcode.com/openharmony/third_party_xkeyboardconfig",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/hhh2",
@@ -3542,7 +3542,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_eudev",
+                "https_url": "https://gitcode.com/openharmony/third_party_eudev",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hhh2",
@@ -3555,7 +3555,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_json",
+                "https_url": "https://gitcode.com/openharmony/third_party_json",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hhh2",
@@ -3568,7 +3568,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libevdev",
+                "https_url": "https://gitcode.com/openharmony/third_party_libevdev",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hhh2",
@@ -3581,7 +3581,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libinput",
+                "https_url": "https://gitcode.com/openharmony/third_party_libinput",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hhh2",
@@ -3594,7 +3594,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libxkbcommon",
+                "https_url": "https://gitcode.com/openharmony/third_party_libxkbcommon",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/hhh2",
@@ -3602,7 +3602,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_mtdev",
+                "https_url": "https://gitcode.com/openharmony/third_party_mtdev",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hhh2",
@@ -3615,7 +3615,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributedhardware_device_manager",
+                "https_url": "https://gitcode.com/openharmony/distributedhardware_device_manager",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/renguang1116",
@@ -3632,7 +3632,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/sensors_miscdevice",
+                "https_url": "https://gitcode.com/openharmony/sensors_miscdevice",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hhh2",
@@ -3645,7 +3645,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/sensors_sensor",
+                "https_url": "https://gitcode.com/openharmony/sensors_sensor",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hhh2",
@@ -3658,7 +3658,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/usb_usb_manager",
+                "https_url": "https://gitcode.com/openharmony/usb_usb_manager",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hhh2",
@@ -3679,7 +3679,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/powermgr_battery_lite",
+                "https_url": "https://gitcode.com/openharmony/powermgr_battery_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/aqxyjay",
@@ -3692,7 +3692,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/powermgr_battery_statistics",
+                "https_url": "https://gitcode.com/openharmony/powermgr_battery_statistics",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/aqxyjay",
@@ -3705,7 +3705,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/powermgr_thermal_manager",
+                "https_url": "https://gitcode.com/openharmony/powermgr_thermal_manager",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/aqxyjay",
@@ -3718,7 +3718,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/sensors_start",
+                "https_url": "https://gitcode.com/openharmony/sensors_start",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hhh2",
@@ -3731,7 +3731,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributedhardware_distributed_hardware_fwk",
+                "https_url": "https://gitcode.com/openharmony/distributedhardware_distributed_hardware_fwk",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hwzhangchuang",
@@ -3752,7 +3752,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributedhardware_distributed_input",
+                "https_url": "https://gitcode.com/openharmony/distributedhardware_distributed_input",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hwzhangchuang",
@@ -3773,7 +3773,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/msdp_device_status",
+                "https_url": "https://gitcode.com/openharmony/msdp_device_status",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hhh2",
@@ -3786,7 +3786,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributedhardware_distributed_camera",
+                "https_url": "https://gitcode.com/openharmony/distributedhardware_distributed_camera",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hwzhangchuang",
@@ -3803,7 +3803,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributedhardware_distributed_screen",
+                "https_url": "https://gitcode.com/openharmony/distributedhardware_distributed_screen",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hwzhangchuang",
@@ -3820,7 +3820,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/sensors_medical_sensor",
+                "https_url": "https://gitcode.com/openharmony/sensors_medical_sensor",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chiptest",
@@ -3833,7 +3833,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/distributedhardware_distributed_audio",
+                "https_url": "https://gitcode.com/openharmony/distributedhardware_distributed_audio",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/hwzhangchuang",
@@ -3859,7 +3859,7 @@
             "L1S_Docs"
         ],
         "projects": [{
-            "https_url": "https://gitee.com/openharmony/docs",
+            "https_url": "https://gitcode.com/openharmony/docs",
             "repo_status": "0",
             "committer": [{
                     "gitee_id": "https://gitee.com/neeen",
@@ -3892,7 +3892,7 @@
             "L1S_Drivers"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/drivers_adapter_khdf_linux",
+                "https_url": "https://gitcode.com/openharmony/drivers_adapter_khdf_linux",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/Kevin-Lau",
@@ -3913,7 +3913,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/drivers_framework",
+                "https_url": "https://gitcode.com/openharmony/drivers_framework",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/Kevin-Lau",
@@ -3934,7 +3934,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_hisilicon",
+                "https_url": "https://gitcode.com/openharmony/vendor_hisilicon",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/yuanwhong",
@@ -3947,7 +3947,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/vendor_huawei_hdf",
+                "https_url": "https://gitcode.com/openharmony/vendor_huawei_hdf",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/Kevin-Lau",
@@ -3968,7 +3968,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/drivers_peripheral",
+                "https_url": "https://gitcode.com/openharmony/drivers_peripheral",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/Kevin-Lau",
@@ -3989,7 +3989,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/drivers_adapter",
+                "https_url": "https://gitcode.com/openharmony/drivers_adapter",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/Kevin-Lau",
@@ -4010,7 +4010,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/device_hisilicon_hi3516dv300",
+                "https_url": "https://gitcode.com/openharmony/device_hisilicon_hi3516dv300",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/northking-super",
@@ -4018,7 +4018,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libdrm",
+                "https_url": "https://gitcode.com/openharmony/third_party_libdrm",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/lz-230",
@@ -4026,7 +4026,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/drivers_interface",
+                "https_url": "https://gitcode.com/openharmony/drivers_interface",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/Kevin-Lau",
@@ -4043,7 +4043,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libnl",
+                "https_url": "https://gitcode.com/openharmony/third_party_libnl",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/Kevin-Lau",
@@ -4056,7 +4056,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_openmax",
+                "https_url": "https://gitcode.com/openharmony/third_party_openmax",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/Kevin-Lau",
@@ -4069,7 +4069,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/drivers_hdf_core",
+                "https_url": "https://gitcode.com/openharmony/drivers_hdf_core",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/Kevin-Lau",
@@ -4102,7 +4102,7 @@
             "L1S_MultiModalInput"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/graphic_surface",
+                "https_url": "https://gitcode.com/openharmony/graphic_surface",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/pssea",
@@ -4115,7 +4115,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/graphic_ui",
+                "https_url": "https://gitcode.com/openharmony/graphic_ui",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/pssea",
@@ -4128,7 +4128,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/graphic_utils",
+                "https_url": "https://gitcode.com/openharmony/graphic_utils",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/pssea",
@@ -4141,7 +4141,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/graphic_wms",
+                "https_url": "https://gitcode.com/openharmony/graphic_wms",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/pssea",
@@ -4154,7 +4154,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_freetype",
+                "https_url": "https://gitcode.com/openharmony/third_party_freetype",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/pssea",
@@ -4167,7 +4167,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_giflib",
+                "https_url": "https://gitcode.com/openharmony/third_party_giflib",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/pssea",
@@ -4180,7 +4180,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_harfbuzz",
+                "https_url": "https://gitcode.com/openharmony/third_party_harfbuzz",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/pssea",
@@ -4193,7 +4193,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libjpeg-turbo",
+                "https_url": "https://gitcode.com/openharmony/third_party_libjpeg-turbo",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/pssea",
@@ -4206,7 +4206,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libpng",
+                "https_url": "https://gitcode.com/openharmony/third_party_libpng",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/pssea",
@@ -4219,7 +4219,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_qrcodegen",
+                "https_url": "https://gitcode.com/openharmony/third_party_qrcodegen",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/pssea",
@@ -4232,7 +4232,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/graphic_graphic_2d",
+                "https_url": "https://gitcode.com/openharmony/graphic_graphic_2d",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/mk_gc",
@@ -4265,7 +4265,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_pixman",
+                "https_url": "https://gitcode.com/openharmony/third_party_pixman",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/bj1010",
@@ -4273,7 +4273,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_wayland-ivi-extension",
+                "https_url": "https://gitcode.com/openharmony/third_party_wayland-ivi-extension",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/lijj01",
@@ -4281,7 +4281,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_wayland-protocols_standard",
+                "https_url": "https://gitcode.com/openharmony/third_party_wayland-protocols_standard",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/lz-230",
@@ -4289,7 +4289,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_wayland_standard",
+                "https_url": "https://gitcode.com/openharmony/third_party_wayland_standard",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/bj1010",
@@ -4297,7 +4297,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_weston",
+                "https_url": "https://gitcode.com/openharmony/third_party_weston",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/lz-230",
@@ -4305,7 +4305,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/multimedia_image_framework",
+                "https_url": "https://gitcode.com/openharmony/multimedia_image_framework",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/chen-yuheng5",
@@ -4322,7 +4322,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_egl",
+                "https_url": "https://gitcode.com/openharmony/third_party_egl",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lijj01",
@@ -4335,7 +4335,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_opengles",
+                "https_url": "https://gitcode.com/openharmony/third_party_opengles",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lijj01",
@@ -4348,7 +4348,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_skia",
+                "https_url": "https://gitcode.com/openharmony/third_party_skia",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/mk_gc",
@@ -4361,7 +4361,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/window_window_manager",
+                "https_url": "https://gitcode.com/openharmony/window_window_manager",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bj1010",
@@ -4374,7 +4374,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libexif",
+                "https_url": "https://gitcode.com/openharmony/third_party_libexif",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuchao92",
@@ -4387,7 +4387,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_vulkan-loader",
+                "https_url": "https://gitcode.com/openharmony/third_party_vulkan-loader",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/xxfeng-hw",
@@ -4413,7 +4413,7 @@
             "NONE"
         ],
         "projects": [{
-            "https_url": "https://gitee.com/openharmony/tools_previewer",
+            "https_url": "https://gitcode.com/openharmony/tools_previewer",
             "repo_status": "0",
             "committer": [{
                     "gitee_id": "https://gitee.com/duanlang2020",
@@ -4438,7 +4438,7 @@
             "NONE"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony-sig/tools_oat",
+                "https_url": "https://gitcode.com/openharmony-sig/tools_oat",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/jalenchen",
@@ -4446,7 +4446,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/developtools_integration_verification",
+                "https_url": "https://gitcode.com/openharmony/developtools_integration_verification",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/five-yuan",
@@ -4472,7 +4472,7 @@
             "L1S_Kernel"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/drivers_liteos",
+                "https_url": "https://gitcode.com/openharmony/drivers_liteos",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4489,7 +4489,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/kernel_liteos_a",
+                "https_url": "https://gitcode.com/openharmony/kernel_liteos_a",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4506,7 +4506,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/kernel_liteos_m",
+                "https_url": "https://gitcode.com/openharmony/kernel_liteos_m",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4523,7 +4523,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/prebuilts_lite_sysroot",
+                "https_url": "https://gitcode.com/openharmony/prebuilts_lite_sysroot",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4540,7 +4540,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_FatFs",
+                "https_url": "https://gitcode.com/openharmony/third_party_FatFs",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4557,7 +4557,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_FreeBSD",
+                "https_url": "https://gitcode.com/openharmony/third_party_FreeBSD",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4574,7 +4574,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_Linux_Kernel",
+                "https_url": "https://gitcode.com/openharmony/third_party_Linux_Kernel",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4591,7 +4591,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_NuttX",
+                "https_url": "https://gitcode.com/openharmony/third_party_NuttX",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4608,7 +4608,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_cmsis",
+                "https_url": "https://gitcode.com/openharmony/third_party_cmsis",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4625,7 +4625,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_mksh",
+                "https_url": "https://gitcode.com/openharmony/third_party_mksh",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4642,7 +4642,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_mtd_utils",
+                "https_url": "https://gitcode.com/openharmony/third_party_mtd_utils",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4659,7 +4659,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_optimized_routines",
+                "https_url": "https://gitcode.com/openharmony/third_party_optimized_routines",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4676,7 +4676,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_rt_thread",
+                "https_url": "https://gitcode.com/openharmony/third_party_rt_thread",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4693,7 +4693,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_toybox",
+                "https_url": "https://gitcode.com/openharmony/third_party_toybox",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4710,7 +4710,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/kernel_linux_config",
+                "https_url": "https://gitcode.com/openharmony/kernel_linux_config",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gail92",
@@ -4727,7 +4727,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/kernel_linux_patches",
+                "https_url": "https://gitcode.com/openharmony/kernel_linux_patches",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/weiyj_lk",
@@ -4748,7 +4748,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_littlefs",
+                "https_url": "https://gitcode.com/openharmony/third_party_littlefs",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -4765,7 +4765,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/kernel_linux_build",
+                "https_url": "https://gitcode.com/openharmony/kernel_linux_build",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/weiyj_lk",
@@ -4782,7 +4782,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/kernel_linux_4.19",
+                "https_url": "https://gitcode.com/openharmony/kernel_linux_4.19",
                 "repo_status": "1",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuyoufang",
@@ -4795,7 +4795,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/kernel_linux_5.10",
+                "https_url": "https://gitcode.com/openharmony/kernel_linux_5.10",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/weiyj_lk",
@@ -4812,7 +4812,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/filemanagement_user_file_service",
+                "https_url": "https://gitcode.com/openharmony/filemanagement_user_file_service",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/panqinxu",
@@ -4825,7 +4825,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/filemanagement_file_api",
+                "https_url": "https://gitcode.com/openharmony/filemanagement_file_api",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/panqinxu",
@@ -4838,7 +4838,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/filemanagement_app_file_service",
+                "https_url": "https://gitcode.com/openharmony/filemanagement_app_file_service",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bubble_mao",
@@ -4855,7 +4855,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/filemanagement_storage_service",
+                "https_url": "https://gitcode.com/openharmony/filemanagement_storage_service",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/panqinxu",
@@ -4868,7 +4868,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/filemanagement_dfs_service",
+                "https_url": "https://gitcode.com/openharmony/filemanagement_dfs_service",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bubble_mao",
@@ -4885,7 +4885,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/filemanagement_fs_tools",
+                "https_url": "https://gitcode.com/openharmony/filemanagement_fs_tools",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/panqinxu",
@@ -4902,7 +4902,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_f2fs-tools",
+                "https_url": "https://gitcode.com/openharmony/third_party_f2fs-tools",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/panqinxu",
@@ -4915,7 +4915,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_ntfs-3g",
+                "https_url": "https://gitcode.com/openharmony/third_party_ntfs-3g",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/panqinxu",
@@ -4928,7 +4928,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_fsck_msdos",
+                "https_url": "https://gitcode.com/openharmony/third_party_fsck_msdos",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/panqinxu",
@@ -4941,7 +4941,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_gptfdisk",
+                "https_url": "https://gitcode.com/openharmony/third_party_gptfdisk",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/panqinxu",
@@ -4954,7 +4954,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_newfs_msdos",
+                "https_url": "https://gitcode.com/openharmony/third_party_newfs_msdos",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/panqinxu",
@@ -4967,7 +4967,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_exfat-utils",
+                "https_url": "https://gitcode.com/openharmony/third_party_exfat-utils",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/panqinxu",
@@ -4980,7 +4980,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_exfatprogs",
+                "https_url": "https://gitcode.com/openharmony/third_party_exfatprogs",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bubble_mao",
@@ -4997,7 +4997,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_mimalloc",
+                "https_url": "https://gitcode.com/openharmony/third_party_mimalloc",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/cbraham",
@@ -5010,7 +5010,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/kernel_uniproton",
+                "https_url": "https://gitcode.com/openharmony/kernel_uniproton",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/JerryH1011",
@@ -5027,7 +5027,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libfuse",
+                "https_url": "https://gitcode.com/openharmony/third_party_libfuse",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/bubble_mao",
@@ -5040,7 +5040,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/kernel_common_modules",
+                "https_url": "https://gitcode.com/openharmony/kernel_common_modules",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/weiyj_lk",
@@ -5053,7 +5053,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/kernel_linux_common_modules",
+                "https_url": "https://gitcode.com/openharmony/kernel_linux_common_modules",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/weiyj_lk",
@@ -5079,7 +5079,7 @@
             "L1S_MultiMedia"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/applications_sample_camera",
+                "https_url": "https://gitcode.com/openharmony/applications_sample_camera",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/sjtu_sp",
@@ -5092,7 +5092,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/multimedia_audio_lite",
+                "https_url": "https://gitcode.com/openharmony/multimedia_audio_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuyuehua1",
@@ -5105,7 +5105,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/multimedia_camera_lite",
+                "https_url": "https://gitcode.com/openharmony/multimedia_camera_lite",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/sjtu_sp",
@@ -5113,7 +5113,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/multimedia_media_lite",
+                "https_url": "https://gitcode.com/openharmony/multimedia_media_lite",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/liuyuehua1",
@@ -5121,7 +5121,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/multimedia_utils_lite",
+                "https_url": "https://gitcode.com/openharmony/multimedia_utils_lite",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/liuyuehua1",
@@ -5129,7 +5129,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_iniparser",
+                "https_url": "https://gitcode.com/openharmony/third_party_iniparser",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/zhu-mingliang",
@@ -5137,7 +5137,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/multimedia_audio_framework",
+                "https_url": "https://gitcode.com/openharmony/multimedia_audio_framework",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuyuehua1",
@@ -5150,7 +5150,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/multimedia_camera_framework",
+                "https_url": "https://gitcode.com/openharmony/multimedia_camera_framework",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuyuehua1",
@@ -5163,7 +5163,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/multimedia_histreamer",
+                "https_url": "https://gitcode.com/openharmony/multimedia_histreamer",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/guodongchen",
@@ -5171,7 +5171,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/multimedia_player_framework",
+                "https_url": "https://gitcode.com/openharmony/multimedia_player_framework",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuyuehua1",
@@ -5188,7 +5188,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_glib",
+                "https_url": "https://gitcode.com/openharmony/third_party_glib",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuyuehua1",
@@ -5205,7 +5205,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_gstreamer",
+                "https_url": "https://gitcode.com/openharmony/third_party_gstreamer",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuyuehua1",
@@ -5222,7 +5222,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libffi",
+                "https_url": "https://gitcode.com/openharmony/third_party_libffi",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuyuehua1",
@@ -5239,7 +5239,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libsnd",
+                "https_url": "https://gitcode.com/openharmony/third_party_libsnd",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/magekkkk",
@@ -5252,7 +5252,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_pulseaudio",
+                "https_url": "https://gitcode.com/openharmony/third_party_pulseaudio",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/magekkkk",
@@ -5265,7 +5265,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_ffmpeg",
+                "https_url": "https://gitcode.com/openharmony/third_party_ffmpeg",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/huang-xl",
@@ -5273,7 +5273,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libsoup",
+                "https_url": "https://gitcode.com/openharmony/third_party_libsoup",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/zhu-mingliang",
@@ -5281,7 +5281,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libpsl",
+                "https_url": "https://gitcode.com/openharmony/third_party_libpsl",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/zhu-mingliang",
@@ -5289,7 +5289,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_gettext",
+                "https_url": "https://gitcode.com/openharmony/third_party_gettext",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/zhu-mingliang",
@@ -5297,7 +5297,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_openh264",
+                "https_url": "https://gitcode.com/openharmony/third_party_openh264",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/huang-xl",
@@ -5310,7 +5310,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_opensles",
+                "https_url": "https://gitcode.com/openharmony/third_party_opensles",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuyuehua1",
@@ -5323,7 +5323,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_minimp3",
+                "https_url": "https://gitcode.com/openharmony/third_party_minimp3",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/yiweidengdai",
@@ -5331,7 +5331,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_minimp4",
+                "https_url": "https://gitcode.com/openharmony/third_party_minimp4",
                 "repo_status": "1",
                 "committer": [{
                     "gitee_id": "https://gitee.com/yiweidengdai",
@@ -5339,7 +5339,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/multimedia_av_session",
+                "https_url": "https://gitcode.com/openharmony/multimedia_av_session",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuyuehua1",
@@ -5365,7 +5365,7 @@
             "NONE"
         ],
         "projects": [{
-            "https_url": "https://gitee.com/openharmony/napi_generator",
+            "https_url": "https://gitcode.com/openharmony/napi_generator",
             "repo_status": "0",
             "committer": [{
                     "gitee_id": "https://gitee.com/wshikh",
@@ -5390,7 +5390,7 @@
             "NONE"
         ],
         "projects": [{
-            "https_url": "https://gitee.com/openharmony/release-management",
+            "https_url": "https://gitcode.com/openharmony/release-management",
             "repo_status": "0",
             "committer": [{
                     "gitee_id": "https://gitee.com/davidwulanxi",
@@ -5416,7 +5416,7 @@
             "L1S_BIOMETRICS"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/security",
+                "https_url": "https://gitcode.com/openharmony/security",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/zhangadong",
@@ -5424,7 +5424,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/security_appverify",
+                "https_url": "https://gitcode.com/openharmony/security_appverify",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiang-xiaofeng",
@@ -5441,7 +5441,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/security_device_auth",
+                "https_url": "https://gitcode.com/openharmony/security_device_auth",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lvyuanmin",
@@ -5458,7 +5458,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/security_huks",
+                "https_url": "https://gitcode.com/openharmony/security_huks",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/wkr321_ent",
@@ -5471,7 +5471,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/security_permission_lite",
+                "https_url": "https://gitcode.com/openharmony/security_permission_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/libing23",
@@ -5488,7 +5488,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/security_itrustee_ree_lite",
+                "https_url": "https://gitcode.com/openharmony/security_itrustee_ree_lite",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/jiang-xiaofeng",
@@ -5496,7 +5496,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/signcenter_tool",
+                "https_url": "https://gitcode.com/openharmony/signcenter_tool",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/scuteehuangjun",
@@ -5509,7 +5509,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_JSON-C",
+                "https_url": "https://gitcode.com/openharmony/third_party_JSON-C",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/libing23",
@@ -5522,7 +5522,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_LVM2",
+                "https_url": "https://gitcode.com/openharmony/third_party_LVM2",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/libing23",
@@ -5535,7 +5535,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_bounds_checking_function",
+                "https_url": "https://gitcode.com/openharmony/third_party_bounds_checking_function",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/libing23",
@@ -5552,7 +5552,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_cryptsetup",
+                "https_url": "https://gitcode.com/openharmony/third_party_cryptsetup",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/libing23",
@@ -5565,7 +5565,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libuuid",
+                "https_url": "https://gitcode.com/openharmony/third_party_libuuid",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/libing23",
@@ -5578,7 +5578,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_mbedtls",
+                "https_url": "https://gitcode.com/openharmony/third_party_mbedtls",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/rain_myf",
@@ -5591,7 +5591,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_openssl",
+                "https_url": "https://gitcode.com/openharmony/third_party_openssl",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/wkr321_ent",
@@ -5604,7 +5604,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_popt",
+                "https_url": "https://gitcode.com/openharmony/third_party_popt",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiang-xiaofeng",
@@ -5617,7 +5617,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/security_dataclassification",
+                "https_url": "https://gitcode.com/openharmony/security_dataclassification",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/jinliang9",
@@ -5625,12 +5625,12 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/utils_selinux_policy_standard",
+                "https_url": "https://gitcode.com/openharmony/utils_selinux_policy_standard",
                 "repo_status": "1",
                 "committer": []
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_selinux",
+                "https_url": "https://gitcode.com/openharmony/third_party_selinux",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/libing23",
@@ -5655,7 +5655,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_pcre2",
+                "https_url": "https://gitcode.com/openharmony/third_party_pcre2",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/libing23",
@@ -5680,7 +5680,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/security_selinux",
+                "https_url": "https://gitcode.com/openharmony/security_selinux",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/libing23",
@@ -5705,7 +5705,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/security_access_token",
+                "https_url": "https://gitcode.com/openharmony/security_access_token",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/libing23",
@@ -5726,7 +5726,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/useriam_auth_executor_mgr",
+                "https_url": "https://gitcode.com/openharmony/useriam_auth_executor_mgr",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/wangxu43",
@@ -5739,7 +5739,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/useriam_face_auth",
+                "https_url": "https://gitcode.com/openharmony/useriam_face_auth",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/wangxu43",
@@ -5752,7 +5752,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/useriam_pin_auth",
+                "https_url": "https://gitcode.com/openharmony/useriam_pin_auth",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/wangxu43",
@@ -5765,7 +5765,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/useriam_user_auth_framework",
+                "https_url": "https://gitcode.com/openharmony/useriam_user_auth_framework",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/wangxu43",
@@ -5778,7 +5778,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/useriam_user_idm",
+                "https_url": "https://gitcode.com/openharmony/useriam_user_idm",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/wangxu43",
@@ -5791,7 +5791,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/security_device_security_level",
+                "https_url": "https://gitcode.com/openharmony/security_device_security_level",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/zhirenx",
@@ -5804,7 +5804,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/developtools_hapsigner",
+                "https_url": "https://gitcode.com/openharmony/developtools_hapsigner",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/liuchibin",
@@ -5812,7 +5812,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/security_crypto_framework",
+                "https_url": "https://gitcode.com/openharmony/security_crypto_framework",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lvyuanmin",
@@ -5829,7 +5829,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/security_certificate_manager",
+                "https_url": "https://gitcode.com/openharmony/security_certificate_manager",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuchibin",
@@ -5842,7 +5842,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/security_privacy_center",
+                "https_url": "https://gitcode.com/openharmony/security_privacy_center",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/liuchibin",
@@ -5871,7 +5871,7 @@
             "L1S_Communication_NetMgr"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/applications_camera_sample_communication",
+                "https_url": "https://gitcode.com/openharmony/applications_camera_sample_communication",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/rain_myf",
@@ -5892,7 +5892,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_sample_wifi_iot",
+                "https_url": "https://gitcode.com/openharmony/applications_sample_wifi_iot",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/five-yuan",
@@ -5905,7 +5905,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/iothardware_peripheral",
+                "https_url": "https://gitcode.com/openharmony/iothardware_peripheral",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/defeng2020",
@@ -5918,7 +5918,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/iot_link",
+                "https_url": "https://gitcode.com/openharmony/iot_link",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/defeng2020",
@@ -5931,7 +5931,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_ipc_lite",
+                "https_url": "https://gitcode.com/openharmony/communication_ipc_lite",
                 "repo_status": "1",
                 "committer": [{
                         "gitee_id": "https://gitee.com/maerlii",
@@ -5952,7 +5952,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_wifi_aware",
+                "https_url": "https://gitcode.com/openharmony/communication_wifi_aware",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/legendtau",
@@ -5965,7 +5965,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_wifi_lite",
+                "https_url": "https://gitcode.com/openharmony/communication_wifi_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/legendtau",
@@ -5982,7 +5982,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_dsoftbus",
+                "https_url": "https://gitcode.com/openharmony/communication_dsoftbus",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/maerlii",
@@ -6011,7 +6011,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_ipc",
+                "https_url": "https://gitcode.com/openharmony/communication_ipc",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/maerlii",
@@ -6032,7 +6032,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_wifi",
+                "https_url": "https://gitcode.com/openharmony/communication_wifi",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/legendtau",
@@ -6053,7 +6053,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libcoap",
+                "https_url": "https://gitcode.com/openharmony/third_party_libcoap",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/brickhz",
@@ -6070,7 +6070,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_netmanager_standard",
+                "https_url": "https://gitcode.com/openharmony/communication_netmanager_standard",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiayanhong-hw",
@@ -6083,7 +6083,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_nfc",
+                "https_url": "https://gitcode.com/openharmony/communication_nfc",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/cheng_guohong",
@@ -6096,7 +6096,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_bluetooth",
+                "https_url": "https://gitcode.com/openharmony/communication_bluetooth",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/cheng_guohong",
@@ -6109,7 +6109,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/base_location",
+                "https_url": "https://gitcode.com/openharmony/base_location",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/cheng_guohong",
@@ -6122,7 +6122,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_connected_nfc_tag",
+                "https_url": "https://gitcode.com/openharmony/communication_connected_nfc_tag",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/cheng_guohong",
@@ -6135,7 +6135,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_dhcp",
+                "https_url": "https://gitcode.com/openharmony/communication_dhcp",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/legendtau",
@@ -6148,7 +6148,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/kernel_common_modules_newip",
+                "https_url": "https://gitcode.com/openharmony/kernel_common_modules_newip",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/maerlii",
@@ -6178,7 +6178,7 @@
             "L1S_Applications"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/applications_hap",
+                "https_url": "https://gitcode.com/openharmony/applications_hap",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lv-zhongwei",
@@ -6203,7 +6203,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_launcher",
+                "https_url": "https://gitcode.com/openharmony/applications_launcher",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/lv-zhongwei",
@@ -6211,7 +6211,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_settings",
+                "https_url": "https://gitcode.com/openharmony/applications_settings",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lv-zhongwei",
@@ -6224,7 +6224,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_systemui",
+                "https_url": "https://gitcode.com/openharmony/applications_systemui",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/lv-zhongwei",
@@ -6237,7 +6237,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_app_samples",
+                "https_url": "https://gitcode.com/openharmony/applications_app_samples",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiangwensai",
@@ -6250,12 +6250,12 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_photos",
+                "https_url": "https://gitcode.com/openharmony/applications_photos",
                 "repo_status": "0",
                 "committer": []
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_camera",
+                "https_url": "https://gitcode.com/openharmony/applications_camera",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/blancwu",
@@ -6268,7 +6268,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_contacts",
+                "https_url": "https://gitcode.com/openharmony/applications_contacts",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/starr666",
@@ -6285,7 +6285,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_mms",
+                "https_url": "https://gitcode.com/openharmony/applications_mms",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/starr666",
@@ -6298,7 +6298,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_call",
+                "https_url": "https://gitcode.com/openharmony/applications_call",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiayanhong-hw",
@@ -6311,7 +6311,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_permission_manager",
+                "https_url": "https://gitcode.com/openharmony/applications_permission_manager",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/libing23",
@@ -6328,7 +6328,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_screenlock",
+                "https_url": "https://gitcode.com/openharmony/applications_screenlock",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/sjtu_sp",
@@ -6336,7 +6336,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_settings_data",
+                "https_url": "https://gitcode.com/openharmony/applications_settings_data",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/sjtu_sp",
@@ -6344,7 +6344,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_theme",
+                "https_url": "https://gitcode.com/openharmony/applications_theme",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/sjtu_sp",
@@ -6357,7 +6357,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/applications_screenshot",
+                "https_url": "https://gitcode.com/openharmony/applications_screenshot",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/sjtu_sp",
@@ -6383,7 +6383,7 @@
             "L1S_telepony"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/third_party_lwip",
+                "https_url": "https://gitcode.com/openharmony/third_party_lwip",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/rain_myf",
@@ -6396,7 +6396,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_wpa_supplicant",
+                "https_url": "https://gitcode.com/openharmony/third_party_wpa_supplicant",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/rain_myf",
@@ -6409,7 +6409,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/telephony_call_manager",
+                "https_url": "https://gitcode.com/openharmony/telephony_call_manager",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiayanhong-hw",
@@ -6426,7 +6426,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/telephony_cellular_call",
+                "https_url": "https://gitcode.com/openharmony/telephony_cellular_call",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ohos-lsw",
@@ -6439,7 +6439,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/telephony_core_service",
+                "https_url": "https://gitcode.com/openharmony/telephony_core_service",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiayanhong-hw",
@@ -6452,7 +6452,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/telephony_sms_mms",
+                "https_url": "https://gitcode.com/openharmony/telephony_sms_mms",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ohos-lsw",
@@ -6465,7 +6465,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/telephony_state_registry",
+                "https_url": "https://gitcode.com/openharmony/telephony_state_registry",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiayanhong-hw",
@@ -6478,7 +6478,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/telephony_ril_adapter",
+                "https_url": "https://gitcode.com/openharmony/telephony_ril_adapter",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiayanhong-hw",
@@ -6499,7 +6499,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/telephony_telephony_data",
+                "https_url": "https://gitcode.com/openharmony/telephony_telephony_data",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiayanhong-hw",
@@ -6512,7 +6512,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/telephony_cellular_data",
+                "https_url": "https://gitcode.com/openharmony/telephony_cellular_data",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiayanhong-hw",
@@ -6533,7 +6533,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_nghttp2",
+                "https_url": "https://gitcode.com/openharmony/third_party_nghttp2",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/clevercong",
@@ -6541,7 +6541,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_netstack",
+                "https_url": "https://gitcode.com/openharmony/communication_netstack",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/clevercong",
@@ -6558,7 +6558,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libwebsockets",
+                "https_url": "https://gitcode.com/openharmony/third_party_libwebsockets",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/clevercong",
@@ -6566,7 +6566,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_iptables",
+                "https_url": "https://gitcode.com/openharmony/third_party_iptables",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/clevercong",
@@ -6574,7 +6574,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libmnl",
+                "https_url": "https://gitcode.com/openharmony/third_party_libmnl",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/clevercong",
@@ -6582,7 +6582,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libnetfilter_conntrack",
+                "https_url": "https://gitcode.com/openharmony/third_party_libnetfilter_conntrack",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/clevercong",
@@ -6590,7 +6590,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libnfnetlink",
+                "https_url": "https://gitcode.com/openharmony/third_party_libnfnetlink",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/clevercong",
@@ -6598,7 +6598,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_libnftnl",
+                "https_url": "https://gitcode.com/openharmony/third_party_libnftnl",
                 "repo_status": "0",
                 "committer": [{
                     "gitee_id": "https://gitee.com/clevercong",
@@ -6606,7 +6606,7 @@
                 }]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_netmanager_base",
+                "https_url": "https://gitcode.com/openharmony/communication_netmanager_base",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/rain_myf",
@@ -6619,7 +6619,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/communication_netmanager_ext",
+                "https_url": "https://gitcode.com/openharmony/communication_netmanager_ext",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiayanhong-hw",
@@ -6645,7 +6645,7 @@
             "L1S_Test"
         ],
         "projects": [{
-                "https_url": "https://gitee.com/openharmony/testfwk_developer_test",
+                "https_url": "https://gitcode.com/openharmony/testfwk_developer_test",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/buranfanchen",
@@ -6662,7 +6662,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/testfwk_xdevice",
+                "https_url": "https://gitcode.com/openharmony/testfwk_xdevice",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/kuanjay",
@@ -6675,7 +6675,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/xts_acts",
+                "https_url": "https://gitcode.com/openharmony/xts_acts",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiyong_sd",
@@ -6712,7 +6712,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/xts_tools",
+                "https_url": "https://gitcode.com/openharmony/xts_tools",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/ye-xiangbin",
@@ -6729,7 +6729,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_googletest",
+                "https_url": "https://gitcode.com/openharmony/third_party_googletest",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gaohanyi1982",
@@ -6742,7 +6742,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_ltp",
+                "https_url": "https://gitcode.com/openharmony/third_party_ltp",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gaohanyi1982",
@@ -6759,7 +6759,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_unity",
+                "https_url": "https://gitcode.com/openharmony/third_party_unity",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/buranfanchen",
@@ -6776,7 +6776,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_benchmark",
+                "https_url": "https://gitcode.com/openharmony/third_party_benchmark",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gaohanyi1982",
@@ -6793,7 +6793,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/xts_hats",
+                "https_url": "https://gitcode.com/openharmony/xts_hats",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/teacher-dong",
@@ -6806,7 +6806,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/xts_dcts",
+                "https_url": "https://gitcode.com/openharmony/xts_dcts",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gaohanyi1982",
@@ -6823,7 +6823,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/ostest_wukong",
+                "https_url": "https://gitcode.com/openharmony/ostest_wukong",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/gaoxi785",
@@ -6836,7 +6836,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/testfwk_arkxtest",
+                "https_url": "https://gitcode.com/openharmony/testfwk_arkxtest",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/inter515",
@@ -6849,7 +6849,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/xts_device_attest",
+                "https_url": "https://gitcode.com/openharmony/xts_device_attest",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/inter515",
@@ -6862,7 +6862,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/xts_device_attest_lite",
+                "https_url": "https://gitcode.com/openharmony/xts_device_attest_lite",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/inter515",
@@ -6875,7 +6875,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_vk-gl-cts",
+                "https_url": "https://gitcode.com/openharmony/third_party_vk-gl-cts",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiyong_sd",
@@ -6888,7 +6888,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_spirv-tools",
+                "https_url": "https://gitcode.com/openharmony/third_party_spirv-tools",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiyong_sd",
@@ -6901,7 +6901,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_glslang",
+                "https_url": "https://gitcode.com/openharmony/third_party_glslang",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiyong_sd",
@@ -6914,7 +6914,7 @@
                 ]
             },
             {
-                "https_url": "https://gitee.com/openharmony/third_party_spirv-headers",
+                "https_url": "https://gitcode.com/openharmony/third_party_spirv-headers",
                 "repo_status": "0",
                 "committer": [{
                         "gitee_id": "https://gitee.com/jiyong_sd",

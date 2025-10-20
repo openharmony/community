@@ -101,7 +101,7 @@ OpenHarmony社区自身的服务可以通过基础设施的API接口获取相关
 #### OpenHarmony SBOM 访问控制
 由于SBOM作为核心数据，本身的全量导出应有一定的访问控制，当前SBOM的访问权限定义为PMC成员 + 合规SIG Leader + 安全SIG Leader，但关于SBOM数据的应用结果，应向社区开放。
 #### OpenHarmony SBOM 勘错
-由于大型开源软件的复杂性，SBOM很难完全准确，社区通过[issue](https://gitee.com/openharmony/community/issues)来接收SBOM的错误，社区在确认后，即会定期更新SBOM的内容及新版本
+由于大型开源软件的复杂性，SBOM很难完全准确，社区通过[issue](https://gitcode.com/openharmony/community/issues)来接收SBOM的错误，社区在确认后，即会定期更新SBOM的内容及新版本
 
 ### OpenHarmony SBOM自动化支持格式
 
@@ -276,7 +276,7 @@ OpenHarmony SBOM SPDX格式规范
     "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
     "PackageFileName"："./myrootdir/mysubdir1" **源码使用下载后的源码路径，可选**
     "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony**
-    "downloadLocation" : "https://gitee.com/openharmony/ability_ability_base/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
+    "downloadLocation" : "https://gitcode.com/openharmony/ability_ability_base/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
     "packageVerificationCode" : {                                           当 filesAnalyzed为true时，填写以下字段，当 filesAnalyzed为false时，不填写
       "packageVerificationCodeValue" : "d6a770ba38583ed4bb4525bd96e50461655d2758"
     }
@@ -310,7 +310,7 @@ OpenHarmony SBOM SPDX格式规范
     "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
     "PackageFileName"："./myrootdir/mysubdir1" **源码使用下载后的源码路径，可选**
     "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony**
-    "downloadLocation" : "https://gitee.com/openharmony/third_party_libuv/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
+    "downloadLocation" : "https://gitcode.com/openharmony/third_party_libuv/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
     "packageVerificationCode" : {                                           当 filesAnalyzed为true时，填写以下字段，当 filesAnalyzed为false时，不填写
       "packageVerificationCodeExcludedFiles" : [ "./package.spdx" ],
       "packageVerificationCodeValue" : "d6a770ba38583ed4bb4525bd96e50461655d2758"
@@ -382,7 +382,7 @@ OpenHarmony SBOM SPDX格式规范
     "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
     "PackageFileName"："./myrootdir/mysubdir1" **源码使用下载后的源码路径，可选**
     "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony**
-    "downloadLocation" : "https://gitee.com/openharmony/device_soc_XXX/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
+    "downloadLocation" : "https://gitcode.com/openharmony/device_soc_XXX/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
     "packageVerificationCode" : {                                           当 filesAnalyzed为true时，填写以下字段，当 filesAnalyzed为false时，不填写
       "packageVerificationCodeExcludedFiles" : [ "./package.spdx" ],
       "packageVerificationCodeValue" : "d6a770ba38583ed4bb4525bd96e50461655d2758"
@@ -480,7 +480,7 @@ OpenHarmony SBOM SPDX格式规范
     "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
     "PackageFileName"："./myrootdir/mysubdir1" **源码使用下载后的源码路径，可选**
     "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony**
-    "downloadLocation" : "https://gitee.com/openharmony/ability_ability_base/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
+    "downloadLocation" : "https://gitcode.com/openharmony/ability_ability_base/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
     "packageVerificationCode" : {                                           当 filesAnalyzed为true时，填写以下字段，当 filesAnalyzed为false时，不填写
       "packageVerificationCodeValue" : "d6a770ba38583ed4bb4525bd96e50461655d2758"
     }
@@ -510,7 +510,7 @@ OpenHarmony SBOM SPDX格式规范
     "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
     "PackageFileName"："./myrootdir/mysubdir1" **源码使用下载后的源码路径，可选**
     "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony**
-    "downloadLocation" : "https://gitee.com/openharmony/ability_ability_runtime/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
+    "downloadLocation" : "https://gitcode.com/openharmony/ability_ability_runtime/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
     "packageVerificationCode" : {                                           当 filesAnalyzed为true时，填写以下字段，当 filesAnalyzed为false时，不填写
       "packageVerificationCodeValue" : "d6a770ba38583ed4bb4525bd96e50461655d2758"
     }
@@ -636,7 +636,7 @@ OpenHarmony SBOM SPDX格式规范
     "versionInfo" : "OpenHarmony-4.0-Release"  **OpenHarmony社区大版本号**，
     "PackageFileName"："./myrootdir/mysubdir1" **源码使用下载后的源码路径，可选**
     "originator" : "Organization: OpenHarmony (contact@example.com)",  **源码仓的原始供应商，全部填写OpenHarmony**
-    "downloadLocation" : "https://gitee.com/openharmony/ability_ability_base/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
+    "downloadLocation" : "https://gitcode.com/openharmony/ability_ability_base/repository/archive/OpenHarmony-v5.0-Beta1",   **源码仓下载地址，可按以下方式git地址+tag点方式，若无tag点，可以使用分支 "git+https://git.myproject.org/MyProject.git@v1.0"
     "packageVerificationCode" : {                                           当 filesAnalyzed为true时，填写以下字段，当 filesAnalyzed为false时，不填写
       "packageVerificationCodeValue" : "d6a770ba38583ed4bb4525bd96e50461655d2758"
     }

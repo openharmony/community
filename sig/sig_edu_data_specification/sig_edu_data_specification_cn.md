@@ -40,7 +40,7 @@
  - 会议申报：[教育信息数据采集 Meeting Proposal](https://shimo.im/sheets/tpcJktty9Pvpp9c8/MODOC/)
  - 会议方式:   腾讯会议
  - 会议通知:   请[订阅](https://lists.openatom.io/postorius/lists/sig_edu_data.openharmony.io/)邮件列表 sig_edu_data@openharmony.io 获取会议链接
- - 会议纪要:   [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/edu_data_specification/meetings)
+ - 会议纪要:   [归档链接地址](https://gitcode.com/openharmony-sig/sig-content/tree/master/edu_data_specification/meetings)
 
 ### 联系方式(可选)
 

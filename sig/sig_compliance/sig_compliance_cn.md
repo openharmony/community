@@ -3,7 +3,7 @@
 
 说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
 ## 概述
-随着OpenHarmony社区的蓬勃发展，一方面，开发者向社区提交的代码越来越多；另一方面，社区内引入的第三方开源软件越来越多，这使得OpenHarmony版本发布中带来的潜在合规风险也越来越大，社区当前已经引入或者开发了[开源合规审查工具OAT](https://gitee.com/openharmony-sig/tools_oat)、敏感词扫描工具、片段扫描，棱镜七彩等工具，上解决了基础合规问题，但当前的社区的合规活动中依然存在不少的人为环节和需要大量的人力维护，随着社区规模的上升，这将对社区的合规形成巨大的挑战。因此，我们希望基于OAT的基础上，成立合规SIG，借助SIG组织，加强多方联接与投入，拥抱业界开源最佳实践成果，建立开源合规治理的机制和工程体系，包括标准/规范、流程、装备工具、组织。通过工具和工程方法落地这些规则，提供开源合规治理的解决方案或服务给参与社区的组织和个人。
+随着OpenHarmony社区的蓬勃发展，一方面，开发者向社区提交的代码越来越多；另一方面，社区内引入的第三方开源软件越来越多，这使得OpenHarmony版本发布中带来的潜在合规风险也越来越大，社区当前已经引入或者开发了[开源合规审查工具OAT](https://gitcode.com/openharmony-sig/tools_oat)、敏感词扫描工具、片段扫描，棱镜七彩等工具，上解决了基础合规问题，但当前的社区的合规活动中依然存在不少的人为环节和需要大量的人力维护，随着社区规模的上升，这将对社区的合规形成巨大的挑战。因此，我们希望基于OAT的基础上，成立合规SIG，借助SIG组织，加强多方联接与投入，拥抱业界开源最佳实践成果，建立开源合规治理的机制和工程体系，包括标准/规范、流程、装备工具、组织。通过工具和工程方法落地这些规则，提供开源合规治理的解决方案或服务给参与社区的组织和个人。
 
 ## SIG组工作目标和范围
 
@@ -48,7 +48,7 @@
 
 
 #### **与开源审查工具OAT项目的关系**：
-本小组作为一个伞形项目，包含[开源合规审查工具OAT](https://gitee.com/openharmony-sig/tools_oat)，即OAT是SIG-Compliance中的一个子项目，也是当前最主要的合规审查工具，本小组一方面会持续演进OAT工具，另一方也会引入业界其他最佳实践及工具，将多种能力进行集成，共同打造合规工程体系
+本小组作为一个伞形项目，包含[开源合规审查工具OAT](https://gitcode.com/openharmony-sig/tools_oat)，即OAT是SIG-Compliance中的一个子项目，也是当前最主要的合规审查工具，本小组一方面会持续演进OAT工具，另一方也会引入业界其他最佳实践及工具，将多种能力进行集成，共同打造合规工程体系
 
 #### **与工作委员会下法务与合规组的关系**：
 原则上，本小组应在法务与合规组的指导下完成工程能力的建设，并定期向工作委员会下的法务与合规组进行工作汇报
@@ -61,12 +61,12 @@
 
 ## 代码仓
 - 代码仓地址：
-  - SIG-Compliance ：https://gitee.com/openharmony/community/tree/master/sig/sig_compliance
+  - SIG-Compliance ：https://gitcode.com/openharmony/community/tree/master/sig/sig_compliance
   - OAT开源审查工具 ：https://gitcode.com/openharmony-sig/tools_oat
   - OAT的IDE插件：https://gitcode.com/openharmony-sig/oat_deveco_plugin
   - 许可证兼容性分析工具：https://gitcode.com/openharmony-sig/compliance_license_compatibility
   - 成分分析： https://gitcode.com/openharmony-sig/compliance_composition_analysis
-  - 社区开源合规规范： https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/OpenHarmony%E7%A4%BE%E5%8C%BA%E5%BC%80%E6%BA%90%E5%90%88%E8%A7%84%E8%A7%84%E8%8C%83%E5%8F%8A%E6%8C%87%E5%AF%BC.md
+  - 社区开源合规规范： https://gitcode.com/openharmony/docs/blob/master/zh-cn/contribute/OpenHarmony%E7%A4%BE%E5%8C%BA%E5%BC%80%E6%BA%90%E5%90%88%E8%A7%84%E8%A7%84%E8%8C%83%E5%8F%8A%E6%8C%87%E5%AF%BC.md
 
 ## SIG组成员
 
@@ -109,7 +109,7 @@
  - 会议申报：[OpenHarmony SIG-Compliance Meeting Proposal](https://shimo.im/sheets/B1Aw1d18GeFygLqm/MODOC)
  - 会议链接：[见链接](https://shimo.im/sheets/B1Aw1d18GeFygLqm/MODOC)
  - 会议通知：请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/compliance)
+ - 会议纪要: [归档链接地址](https://gitcode.com/openharmony-sig/sig-content/tree/master/compliance)
  - 协作文档：[重点工作及核心组成员](https://shimo.im/sheets/B1Aw1d18GeFygLqm/gofnm)
 ## 联系方式(可选)
 

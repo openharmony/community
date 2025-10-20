@@ -3,7 +3,7 @@ English | [简体中文](./sig_compliance_cn.md)
 
 Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 ## Overview
-With the rapid development of the OpenHarmony community, more and more patches are submitted by developers, more and more third-party open source software is introduced into the community, Meanwhile, OpenHarmony Compliance risks are increasing. As we all know, The community has introduced and developed [Open Source Compliance Audit Tool OAT](https://gitee.com/openharmony-sig/tools_oat), sensitive word scanning tools, open source code fragment scanning, and 7-cai tools to solve the basic compliance problems. However, there is still a lot of work to be confirmed by the team. As the size of the community increases, this will pose a huge challenge to the compliance of the community. Therefore, we hope to setup the sig_Compliance . With the SIG, we will strengthen multi-party connectionst, embrace the best practices in open source, and establish a mechanism and engineering system for open source compliance governance, including standards/norms, processes , tools, organization. The SIG will provide open source compliance governance solutions or services to organizations and individuals participating in the community.
+With the rapid development of the OpenHarmony community, more and more patches are submitted by developers, more and more third-party open source software is introduced into the community, Meanwhile, OpenHarmony Compliance risks are increasing. As we all know, The community has introduced and developed [Open Source Compliance Audit Tool OAT](https://gitcode.com/openharmony-sig/tools_oat), sensitive word scanning tools, open source code fragment scanning, and 7-cai tools to solve the basic compliance problems. However, there is still a lot of work to be confirmed by the team. As the size of the community increases, this will pose a huge challenge to the compliance of the community. Therefore, we hope to setup the sig_Compliance . With the SIG, we will strengthen multi-party connectionst, embrace the best practices in open source, and establish a mechanism and engineering system for open source compliance governance, including standards/norms, processes , tools, organization. The SIG will provide open source compliance governance solutions or services to organizations and individuals participating in the community.
 ## SIG group work objectives and scope
 ### work goals
 - Establish OpenHarmony's open source compliance engineering system
@@ -47,16 +47,16 @@ The working group's responsibilities encompass the following areas under the abo
 
 #### **Relationship between Open Source Audit Tool Project**:
 As a umbrella project, The sig_compliance will 
-integrate with [OAT](https://gitee.com/openharmony-sig/tools_oat) as one of most important tool for our project. Meanwhile, the other compliance tools also will be integrate into our project. We will leverage these tools to empower openharmony compliance engineering system
+integrate with [OAT](https://gitcode.com/openharmony-sig/tools_oat) as one of most important tool for our project. Meanwhile, the other compliance tools also will be integrate into our project. We will leverage these tools to empower openharmony compliance engineering system
 
 ## Code Repository
 - Repository Address:：
-  - SIG-Compliance ：https://gitee.com/openharmony/community/tree/master/sig/sig_compliance
+  - SIG-Compliance ：https://gitcode.com/openharmony/community/tree/master/sig/sig_compliance
   - OAT ：https://gitcode.com/openharmony-sig/tools_oat
   - OAT IDE pulgin：https://gitcode.com/openharmony-sig/oat_deveco_plugin
   - license compatibility：https://gitcode.com/openharmony-sig/compliance_license_compatibility
   - composition analysis： https://gitcode.com/openharmony-sig/compliance_composition_analysis
-  - open source policy： https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/OpenHarmony%E7%A4%BE%E5%8C%BA%E5%BC%80%E6%BA%90%E5%90%88%E8%A7%84%E8%A7%84%E8%8C%83%E5%8F%8A%E6%8C%87%E5%AF%BC.md
+  - open source policy： https://gitcode.com/openharmony/docs/blob/master/zh-cn/contribute/OpenHarmony%E7%A4%BE%E5%8C%BA%E5%BC%80%E6%BA%90%E5%90%88%E8%A7%84%E8%A7%84%E8%8C%83%E5%8F%8A%E6%8C%87%E5%AF%BC.md
 
 
 #### **Relationship with Open Source Compliance Group under the Openharmony Working Committee**:
@@ -93,7 +93,7 @@ This group **does not** includes
  - Meeting application: [OpenHarmony sig_compliance Meeting Proposal](https://shimo.im/sheets/B1Aw1d18GeFygLqm/MODOC)
  - Meeting link: [Meeting link](https://shimo.im/sheets/B1Aw1d18GeFygLqm/MODOC)
  - Meeting notification:  Please [Subscribe](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the conference link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
+ - Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content)
 
 ### Contact (optional)
 

@@ -59,7 +59,7 @@
  - 会议时间：月度例会，月初第一个周四上午10:00
  - 会议链接：Welink或其他会议
  - 会议申报：[sig_x86会议申报](https://shimo.im/sheets/5bqndMnd6aiyVNAy)
- - 会议纪要：查看往期会议纪要，请点此[链接](https://gitee.com/openharmony-sig/sig-content/tree/master/x86/meetings)
+ - 会议纪要：查看往期会议纪要，请点此[链接](https://gitcode.com/openharmony-sig/sig-content/tree/master/x86/meetings)
 
 
 ### 联系方式(可选)

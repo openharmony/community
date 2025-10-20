@@ -18,31 +18,31 @@ Continuously contributes to the softbus of the OpenHarmony community, implements
 
 ### The repository 
 - project name:
-  - communication_dsoftbus: https://gitee.com/openharmony/communication_dsoftbus
-  - communication_ipc: https://gitee.com/openharmony/communication_ipc
-  - communication_ipc_lite: https://gitee.com/openharmony/communication_ipc_lite
-  - communication_bluetooth: https://gitee.com/openharmony/communication_bluetooth
-  - communication_nfc: https://gitee.com/openharmony/communication_nfc
-  - communication_connected_nfc_tag: https://gitee.com/openharmony/communication_connected_nfc_tag
-  - communication_wifi: https://gitee.com/openharmony/communication_wifi
-  - communication_wifi_lite: https://gitee.com/openharmony/communication_wifi_lite
-  - communication_wifi_aware: https://gitee.com/openharmony/communication_wifi_aware
-  - communication_dhcp: https://gitee.com/openharmony/communication_dhcp
-  - kernel_linux_common_modules: https://gitee.com/openharmony/kernel_linux_common_modules/tree/master/newip
-  - base_location：https://gitee.com/openharmony/base_location
-  - telephony_call_manager: https://gitee.com/openharmony/telephony_call_manager
-  - telephony_cellular_call: https://gitee.com/openharmony/telephony_cellular_call
-  - telephony_core_service: https://gitee.com/openharmony/telephony_core_service
-  - telephony_sms_mms: https://gitee.com/openharmony/telephony_sms_mms
-  - telephony_state_registry: https://gitee.com/openharmony/telephony_state_registry
-  - applications_camera_sample_communication: https://gitee.com/openharmony/applications_camera_sample_communication
-  - applications_sample_wifi_iot: https://gitee.com/openharmony/applications_sample_wifi_iot
-  - iothardware_peripheral: https://gitee.com/openharmony/iothardware_peripheral
-  - iot_link: https://gitee.com/openharmony/iot_link
-  - third_party_lwip: https://gitee.com/openharmony/third_party_lwip
-  - third_party_nfc-nci：https://gitee.com/openharmony-sig/third_party_nfc-nci
-  - third_party_wpa_supplicant: https://gitee.com/openharmony/third_party_wpa_supplicant
-  - third_party_libcoap: https://gitee.com/openharmony/third_party_libcoap
+  - communication_dsoftbus: https://gitcode.com/openharmony/communication_dsoftbus
+  - communication_ipc: https://gitcode.com/openharmony/communication_ipc
+  - communication_ipc_lite: https://gitcode.com/openharmony/communication_ipc_lite
+  - communication_bluetooth: https://gitcode.com/openharmony/communication_bluetooth
+  - communication_nfc: https://gitcode.com/openharmony/communication_nfc
+  - communication_connected_nfc_tag: https://gitcode.com/openharmony/communication_connected_nfc_tag
+  - communication_wifi: https://gitcode.com/openharmony/communication_wifi
+  - communication_wifi_lite: https://gitcode.com/openharmony/communication_wifi_lite
+  - communication_wifi_aware: https://gitcode.com/openharmony/communication_wifi_aware
+  - communication_dhcp: https://gitcode.com/openharmony/communication_dhcp
+  - kernel_linux_common_modules: https://gitcode.com/openharmony/kernel_linux_common_modules/tree/master/newip
+  - base_location：https://gitcode.com/openharmony/base_location
+  - telephony_call_manager: https://gitcode.com/openharmony/telephony_call_manager
+  - telephony_cellular_call: https://gitcode.com/openharmony/telephony_cellular_call
+  - telephony_core_service: https://gitcode.com/openharmony/telephony_core_service
+  - telephony_sms_mms: https://gitcode.com/openharmony/telephony_sms_mms
+  - telephony_state_registry: https://gitcode.com/openharmony/telephony_state_registry
+  - applications_camera_sample_communication: https://gitcode.com/openharmony/applications_camera_sample_communication
+  - applications_sample_wifi_iot: https://gitcode.com/openharmony/applications_sample_wifi_iot
+  - iothardware_peripheral: https://gitcode.com/openharmony/iothardware_peripheral
+  - iot_link: https://gitcode.com/openharmony/iot_link
+  - third_party_lwip: https://gitcode.com/openharmony/third_party_lwip
+  - third_party_nfc-nci：https://gitcode.com/openharmony-sig/third_party_nfc-nci
+  - third_party_wpa_supplicant: https://gitcode.com/openharmony/third_party_wpa_supplicant
+  - third_party_libcoap: https://gitcode.com/openharmony/third_party_libcoap
 
 
 ## SIG Members
@@ -72,7 +72,7 @@ Continuously contributes to the softbus of the OpenHarmony community, implements
  - Meeting Proposal: [OpenHarmony sig_SoftBus Meeting Proposal](https://shimo.im/sheets/iDp1dGmnk3sVjJoE/MODOC)
  - Meeting link: Welink
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/sig_dsoftbus.openharmony.io) mailing list sig_dsoftbus@openharmony.io for the meeting link
- - Meeting Summary:To view the minutes of past meetings, please click this [Meeting minutes](https://gitee.com/openharmony-sig/sig-content/blob/master/softbus/meetings)
+ - Meeting Summary:To view the minutes of past meetings, please click this [Meeting minutes](https://gitcode.com/openharmony-sig/sig-content/blob/master/softbus/meetings)
 
 
 ### Contact (optional)
