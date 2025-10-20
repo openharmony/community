@@ -1,14 +1,14 @@
 {
     "Leader": [{
-            "gitee_id": "zeusszhang",
+            "gitee_id": "gcw_fYKDe5oE",
             "gitee_email": "zhangzhaosheng@zhikaihong.com"
         },
         {
-            "gitee_id": "zhanglimingstar",
+            "gitee_id": "Zhangliming_star",
             "gitee_email": "zhangliming8@hisilicon.com"
         },
         {
-            "gitee_id": "liangqi-li",
+            "gitee_id": "llq75250858",
             "gitee_email": "liliangqi@huawei.com"
         }
     ],
@@ -21,12 +21,16 @@
             "gitee_email": "jiyong@huawei.com"
         },
         {
-            "gitee_id": "yangxuan_321",
+            "gitee_id": "yangxuan321",
             "gitee_email": "xuan.yang@ximalaya.com"
         },
         {
-            "gitee_id": "Dokui",
+            "gitee_id": "AnyFont",
             "gitee_email": "dongkui@anyfont.com"
+        },
+        {
+            "gitee_id": "moyoung123",
+            "gitee_email": "tony@moyoung.com"
         }
     ]
 }

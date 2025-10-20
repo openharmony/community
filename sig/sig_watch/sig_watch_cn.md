@@ -39,19 +39,17 @@
 
 ### Leader
 
-- [@zeusszhang](https://gitee.com/zeusszhang)
-- [@zhanglimingstar](https://gitee.com/zhanglimingstar)
-- [@liangqi-li](https://gitee.com/liangqi-li)
+- [@gcw_fYKDe5oE](https://gitcode.com/gcw_fYKDe5oE)
+- [@Zhangliming_star](https://gitcode.com/Zhangliming_star)
+- [@llq75250858](https://gitcode.com/llq75250858)
 
 ### Committers列表
 
-- [@dqiyy](https://gitee.com/dqiyy)
-- [@ric](ric@linwear.com)
-- [@tony](tony@moyoung.com)
-- [@Dokui](https://gitee.com/Dokui)
-- [@jiyong_sd](https://gitee.com/jiyong_sd)
-- [@yangxuan_321](https://gitee.com/yangxuan_321)
-- [@hfkuo](hfkuo@gomore.net)
+- [@dqiyy](https://gitcode.com/dqiyy)
+- [@moyoung123](https://gitcode.com/moyoung123)
+- [@AnyFont](https://gitcode.com/AnyFont)
+- [@jiyong_sd](https://gitcode.com/jiyong_sd)
+- [@yangxuan321](https://gitcode.com/yangxuan321)
 
 ### 会议
 
