@@ -1,36 +1,36 @@
 {
     "Leader": [{
-            "gitee_id": "gcw_fYKDe5oE",
-            "gitee_email": "zhangzhaosheng@zhikaihong.com"
+            "gitcode_id": "gcw_fYKDe5oE",
+            "gitcode_email": "zhangzhaosheng@zhikaihong.com"
         },
         {
-            "gitee_id": "Zhangliming_star",
-            "gitee_email": "zhangliming8@hisilicon.com"
+            "gitcode_id": "Zhangliming_star",
+            "gitcode_email": "zhangliming8@hisilicon.com"
         },
         {
-            "gitee_id": "llq75250858",
-            "gitee_email": "liliangqi@huawei.com"
+            "gitcode_id": "llq75250858",
+            "gitcode_email": "liliangqi@huawei.com"
         }
     ],
     "Committers": [{
-            "gitee_id": "dqiyy",
-            "gitee_email": "duanqian@huawei.com"
+            "gitcode_id": "dqiyy",
+            "gitcode_email": "duanqian@huawei.com"
         },
         {
-            "gitee_id": "jiyong_sd",
-            "gitee_email": "jiyong@huawei.com"
+            "gitcode_id": "jiyong_sd",
+            "gitcode_email": "jiyong@huawei.com"
         },
         {
-            "gitee_id": "yangxuan321",
-            "gitee_email": "xuan.yang@ximalaya.com"
+            "gitcode_id": "yangxuan321",
+            "gitcode_email": "xuan.yang@ximalaya.com"
         },
         {
-            "gitee_id": "AnyFont",
-            "gitee_email": "dongkui@anyfont.com"
+            "gitcode_id": "AnyFont",
+            "gitcode_email": "dongkui@anyfont.com"
         },
         {
-            "gitee_id": "moyoung123",
-            "gitee_email": "tony@moyoung.com"
+            "gitcode_id": "moyoung123",
+            "gitcode_email": "tony@moyoung.com"
         }
     ]
 }
