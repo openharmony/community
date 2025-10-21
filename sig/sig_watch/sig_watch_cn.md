@@ -54,7 +54,7 @@
 ### 会议
 
 - 会议时间：季度例会，每个季度第一个周四下午3点
-- 会议申报：[watch_sig例会议题申报](https://docs.qq.com/sheet/DR0llbVhjdWdMdFFt?nlc=1&tab=BB08J2)
+- 会议申报：[Watch_SIG例会议题申报](https://shimo.im/sheets/XKq42MbmyYfr9JAN/MODOC)
 - 会议链接: Welink或其他会议
 - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
 - 会议纪要: [归档链接地址](https://gitcode.com/openharmony/community/tree/master/sig/sig_watch/meetings)

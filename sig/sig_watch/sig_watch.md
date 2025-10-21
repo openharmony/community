@@ -53,7 +53,7 @@ Establish the **OpenHarmony For Watch** SIG group, whose main responsibilities i
 ### Meetings
 
 - Meeting time：Quarterly meeting, first Thursday of each quarter at 3pm
-- Meeting application: [sig_watch Meeting application](https://docs.qq.com/sheet/DR0llbVhjdWdMdFFt?nlc=1&tab=BB08J2)
+- Meeting application: [Watch SIG Meeting Proposal](https://shimo.im/sheets/XKq42MbmyYfr9JAN/MODOC)
 - Meeting link：Welink or other meeting
 - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
 - Meeting-Minutes: To view the minutes of past meetings, please click this [link](https://gitcode.com/openharmony/community/tree/master/sig/sig_watch/meetings)
