@@ -8,8 +8,8 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 ### Objectives of SIG
 
-RISC-V SIG aims to build a RISC-V ecosystem for OpenHarmony, provide instructions to build software, maintain supports for RISC-V devices, and enable security capabilities like TEE on RISC-V.
-RISC-V SIG will promote more developers to involve in developing OpenHarmony on RISC-V.
+- RISC-V SIG aims to build a RISC-V ecosystem for OpenHarmony, provide instructions to build software, maintain supports for RISC-V devices, and enable security capabilities like TEE on RISC-V.
+- RISC-V SIG will promote more developers to involve in developing OpenHarmony on RISC-V.
 
 ### Scope of SIG
 
@@ -30,6 +30,7 @@ The SIG will enable TEE capability for OpenHarmony on RISC-V based on Penglai En
 The SIG will actively cooperate with schools and end-users to promote the usage of OpenHarmony on RISC-V devices.
 ## The repository
 - Source Code Co-development Repository([link](https://gitee.com/riscv-sig))
+
 Since the current OpenHarmony RISC-V adaptation involves changes across a large number of repositories (around 70+), it has not yet been merged into the mainline. To facilitate collaborative development among SIG members, a full fork of the OpenHarmony community repositories has been created under the riscv-sig organization.
 
 - SIG Documentation and Progress Tracking Repository([link](https://gitcode.com/openharmony-sig/riscv))
@@ -52,7 +53,7 @@ Since the current OpenHarmony RISC-V adaptation involves changes across a large 
 - [Fredlou](https://gitee.com/Fredlou)
 
 ### Meetings
- - Meeting time：Bi-weekly meeting, Tuesday at 14:00, UTC+8
+ - Meeting time：Monthly meeting, on the first Tuesday at 14:00, UTC+8
  - Meeting Proposal: [OpenHarmony RISC-V SIG Meeting Proposal](https://docs.qq.com/sheet/DR21vdXdsVE96c2tk?tab=45wxzh_t=1708586199631)
  - Meeting link：Tencent Meeting
  - Meeting Summary:To view the minutes of past meetings, please click this [Meeting minutes](https://gitcode.com/openharmony-sig/sig-content/tree/master/riscv/meetings)
@@ -60,4 +61,4 @@ Since the current OpenHarmony RISC-V adaptation involves changes across a large 
 ### Contact (optional)
 
 - Mailing list：dev@openharmony.io
-- Wechat group：NA
+- Wechat：Xin Ding(Sternstunde-00)
