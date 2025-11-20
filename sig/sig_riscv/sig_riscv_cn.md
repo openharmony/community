@@ -15,19 +15,26 @@
 ### 工作范围
 
 - OpenHarmony子系统对RISC-V架构的支持
-SIG负责musl、媒体、图形、llvm、方舟运行时等与指令集强相关的系统组件和三方库的移植适配，以及随版本持续升级。
-- 维护OpenHarmony在RISC-V设备上的使用，
-SIG将不断更新（移植）和维护OpenHarmony能够支持的RISC-V设备。
+
+	SIG负责musl、媒体、图形、llvm、方舟运行时等与指令集强相关的系统组件和三方库的移植适配，以及随版本持续升级。
+- 维护OpenHarmony在RISC-V设备上的使用
+
+	SIG将不断更新（移植）和维护OpenHarmony能够支持的RISC-V设备。
 - RISC-V 安全能力
-SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力。
+
+	SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力。
+    
 - 生态扩展
-积极与高校和相关客户合作，推动OpenHarmony在RISC-V环境下的应用。
+
+	积极与高校和相关客户合作，推动OpenHarmony在RISC-V环境下的应用。
+    
 ![RISC-V SIG](figures/riscv_overview.png)
 
 ## 代码仓
 
 - 源码共建仓库（[链接](https://gitee.com/riscv-sig)）
-因当前OpenHarmony RISC-V架构移植涉及修改的代码仓较多（约70+），暂未合入主线，为方便SIG成员共建，目前完整fork OpenHarmony社区代码仓至riscv-sig组织。
+
+	因当前OpenHarmony RISC-V架构移植涉及修改的代码仓较多（约70+），暂未合入主线，为方便SIG成员共建，目前完整fork OpenHarmony社区代码仓至riscv-sig组织。
 
 - SIG文档和进展同步仓（[链接](https://gitcode.com/openharmony-sig/riscv)）
 
