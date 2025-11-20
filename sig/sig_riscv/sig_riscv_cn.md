@@ -7,9 +7,9 @@
 
 ### 工作目标
 
-RISC-V 是一个免费开源的指令集（ISA）。围绕RISC-V的软硬件生态都在快速完善。
-RISC-V SIG 组旨在构建围绕OpenHarmony的软硬件生态，提供RISC-V的软件包和系统构建等指导，并维护对RISC-V设备的支持，使能RISC-V场景下的安全等能力。
-RISC-V SIG将推动对 RISC-V OpenHarmony感兴趣的开发者能够参与到开源系统开发中活动中来。
+- RISC-V 是一个免费开源的指令集（ISA）。围绕RISC-V的软硬件生态都在快速完善。
+- RISC-V SIG 组旨在构建围绕OpenHarmony的软硬件生态，提供RISC-V的软件包和系统构建等指导，并维护对RISC-V设备的支持，使能RISC-V场景下的安全等能力。
+- RISC-V SIG将推动对 RISC-V OpenHarmony感兴趣的开发者能够参与到开源系统开发中活动中来。
 
 
 ### 工作范围
@@ -51,7 +51,7 @@ SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力�
 - [Fredlou](https://gitee.com/Fredlou)
 
 ### 会议
- - 会议时间：双周例会，周二 14:00，UTC+8
+ - 会议时间：月度例会，第一个周二 14:00，UTC+8
  - 议题申报：[OpenHarmony RISC-V SIG Meeting Proposal](https://docs.qq.com/sheet/DR21vdXdsVE96c2tk?tab=45wxzh_t=1708586199631)
  - 会议链接：腾讯会议
  - 会议纪要：看往期会议纪要，请点此[会议纪要](https://gitcode.com/openharmony-sig/sig-content/tree/master/riscv/meetings)
