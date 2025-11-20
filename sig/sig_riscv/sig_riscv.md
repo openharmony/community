@@ -15,23 +15,23 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 
 - Support of OpenHarmony Subsystems for the RISC-V Architecture
 
-The SIG is responsible for the porting and adaptation of system components and third-party libraries that are strongly architecture-dependent — including musl, multimedia, graphics, LLVM, and the Ark eTS Runtime — as well as their continuous upgrades across OpenHarmony releases.
+	The SIG is responsible for the porting and adaptation of system components and third-party libraries that are strongly architecture-dependent — including musl, multimedia, graphics, LLVM, and the Ark eTS Runtime — as well as their continuous upgrades across OpenHarmony releases.
 
 - Maintain supported RISC-V devices for OpenHarmony
 
-The SIG will continuously port and maintain OpenHarmony to support different RISC-V devices.
+	The SIG will continuously port and maintain OpenHarmony to support different RISC-V devices.
 
 - RISC-V Security
 
-The SIG will enable TEE capability for OpenHarmony on RISC-V based on Penglai Enclave.
+	The SIG will enable TEE capability for OpenHarmony on RISC-V based on Penglai Enclave.
 
 - Build Ecosystems
 
-The SIG will actively cooperate with schools and end-users to promote the usage of OpenHarmony on RISC-V devices.
+	The SIG will actively cooperate with schools and end-users to promote the usage of OpenHarmony on RISC-V devices.
 ## The repository
 - Source Code Co-development Repository([link](https://gitee.com/riscv-sig))
 
-Since the current OpenHarmony RISC-V adaptation involves changes across a large number of repositories (around 70+), it has not yet been merged into the mainline. To facilitate collaborative development among SIG members, a full fork of the OpenHarmony community repositories has been created under the riscv-sig organization.
+	Since the current OpenHarmony RISC-V adaptation involves changes across a large number of repositories (around 70+), it has not yet been merged into the mainline. To facilitate collaborative development among SIG members, a full fork of the OpenHarmony community repositories has been created under the riscv-sig organization.
 
 - SIG Documentation and Progress Tracking Repository([link](https://gitcode.com/openharmony-sig/riscv))
 
