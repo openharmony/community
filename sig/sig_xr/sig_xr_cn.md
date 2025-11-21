@@ -31,4 +31,4 @@
  - 会议申报：[议题申报共享链接](https://shimo.im/sheets/0l3NMM6MrnFxj7AR/MODOC)
  - 会议链接: Welink
  - 会议通知: 邮件通知
- - 会议纪要：[会议纪要共享链接](https://gitee.com/openharmony/community/tree/master/sig/sig_xr/meetings)
+ - 会议纪要：[会议纪要共享链接](https://gitcode.com/openharmony/community/tree/master/sig/sig_xr/meetings)
