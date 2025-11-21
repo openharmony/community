@@ -31,4 +31,4 @@ Add a dedicated business subsystem for XR glasses to provide basic capabilities 
  - Meeting application: [Issue Submission Shared Link](https://shimo.im/sheets/0l3NMM6MrnFxj7AR/MODOC)
  - Meeting link: Welink
  - Meeting notification: Email Notification
- - Meeting-Minutes: [Minutes Shared Link](https://gitee.com/openharmony/community/tree/master/sig/sig_xr/meetings)
+ - Meeting-Minutes: [Minutes Shared Link](https://gitcode.com/openharmony/community/tree/master/sig/sig_xr/meetings)
