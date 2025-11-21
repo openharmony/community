@@ -1,0 +1,20 @@
+{
+    "Leader": [{
+        "gitee_id": "xie_yujuan",
+        "gitee_email": "xieyujuan@huawei.com"
+    }],
+    "Committers": [
+        {
+            "gitee_id": "zhao_mengjiao",
+            "gitee_email": "zhaomengjiao1@huawei.com"
+        },
+        {
+              "gitee_id": "tongjunyu",
+              "gitee_email": "tongjunyu1@huawei.com"
+        },
+        {
+              "gitee_id": "nibirucao",
+              "gitee_email": "kelvin@inibiru.com"
+        }
+    ]
+}
