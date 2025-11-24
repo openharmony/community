@@ -24,7 +24,7 @@ Add a dedicated business subsystem for XR glasses to provide basic capabilities 
 ### Committers
 - @zhao_mengjiao(https://gitcode.com/zhaomengjiao)
 - @tongjunyu(https://gitcode.com/tongjunyu)
-- @nibirucao(https://gitee.com/nibirucao)
+- @nibirucao(https://gitcode.com/nibirucao)
 
 ### Meetings
  - Meeting time：Every other Monday, 14:10-15:10

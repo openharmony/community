@@ -23,7 +23,7 @@
 ### Committers列表
 - @zhao_mengjiao(https://gitcode.com/zhaomengjiao)
 - @tongjunyu(https://gitcode.com/tongjunyu)
-- @nibirucao(https://gitee.com/nibirucao)
+- @nibirucao(https://gitcode.com/nibirucao)
 
 
 ### 会议
