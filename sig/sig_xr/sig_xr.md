@@ -19,11 +19,11 @@ Add a dedicated business subsystem for XR glasses to provide basic capabilities 
 ## SIG Members
 
 ### Leader
-- @xie_yujuan(https://gitee.com/xie_yujuan_hw)
+- @xie_yujuan(https://gitcode.com/xie_yujuan)
 
 ### Committers
-- @zhao_mengjiao(https://gitee.com/zhao_mengjiao)
-- @tongjunyu(https://gitee.com/tongjunyu)
+- @zhao_mengjiao(https://gitcode.com/zhaomengjiao)
+- @tongjunyu(https://gitcode.com/tongjunyu)
 - @nibirucao(https://gitee.com/nibirucao)
 
 ### Meetings
