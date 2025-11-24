@@ -22,7 +22,7 @@ Add a dedicated business subsystem for XR glasses to provide basic capabilities 
 - @xie_yujuan(https://gitcode.com/xie_yujuan)
 
 ### Committers
-- @zhao_mengjiao(https://gitcode.com/zhaomengjiao)
+- @zhaomengjiao(https://gitcode.com/zhaomengjiao)
 - @tongjunyu(https://gitcode.com/tongjunyu)
 - @nibirucao(https://gitcode.com/nibirucao)
 

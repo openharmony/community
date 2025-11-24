@@ -21,7 +21,7 @@
 - @xie_yujuan(https://gitcode.com/xie_yujuan)
 
 ### Committers列表
-- @zhao_mengjiao(https://gitcode.com/zhaomengjiao)
+- @zhaomengjiao(https://gitcode.com/zhaomengjiao)
 - @tongjunyu(https://gitcode.com/tongjunyu)
 - @nibirucao(https://gitcode.com/nibirucao)
 
