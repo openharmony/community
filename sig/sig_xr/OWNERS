@@ -5,16 +5,16 @@
     }],
     "Committers": [
         {
-            "gitee_id": "zhao_mengjiao",
-            "gitee_email": "zhaomengjiao1@huawei.com"
+            "gitcode_id": "zhaomengjiao",
+            "gitcode_email": "zhaomengjiao1@huawei.com"
         },
         {
-              "gitee_id": "tongjunyu",
-              "gitee_email": "tongjunyu1@huawei.com"
+              "gitcode_id": "tongjunyu",
+              "gitcode_email": "tongjunyu1@huawei.com"
         },
         {
-              "gitee_id": "nibirucao",
-              "gitee_email": "kelvin@inibiru.com"
+              "gitcode_id": "nibirucao",
+              "gitcode_email": "kelvin@inibiru.com"
         }
     ]
 }
