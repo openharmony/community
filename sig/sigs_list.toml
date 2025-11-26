@@ -6868,3 +6868,13 @@ projects = []
 [sig.leader]
 gitee_id = "https://gitcode.com/gcw_fYKDe5oE"
 gitee_email = "zhangzhaosheng@zhikaihong.com"
+
+[[sig]]
+sig_name = "sig_xr"
+description = "新增XR眼镜专有业务子系统，提供将虚拟信息与现实世界相互融合的基础能力."
+sig_status = "active"
+sub_system = ["NONE"]
+projects = []
+[sig.leader]
+gitcode_id = "https://gitcode.com/xie_yujuan"
+gitcode_email = "xieyujuan@huawei.com"
