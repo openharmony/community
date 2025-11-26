@@ -112,11 +112,11 @@ The OpenHarmony project goes through the following steps from open source reposi
     *   Addition, Retirement, Renaming: Refer to [Template 1 - Addition, Retirement, Renaming](../sig/sig_architecture/meetings/repository_review_template.pptx).
     *   Open Source Software Introduction: Refer to [Template 2 - Open Source Software Introduction](../sig/sig_architecture/meetings/OpenHarmony_thirdparty_opensource_software_selection_analysis_templateV1.0.pptx).
     *   Apply for [Architecture SIG](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC) issue review.
-2.  **New Repository Electronic Flow Application**: After the Architecture SIG review is passed, refer to the [Operation Guide](http://ci.openharmony.cn/workbench/ciCommunity): "Operation Guide" --> "SIG Management" --> "SIG Repository Application".
-3.  **Repository Retirement and Renaming Electronic Flow Application**: After the Architecture SIG review is passed, refer to the [Operation Guide](http://ci.openharmony.cn/workbench/ciCommunity): "Operation Guide" --> "SIG Management" --> "Repository Management".
+2.  **New Repository Electronic Flow Application**: After the Architecture SIG review is passed, refer to the [Operation Guide](http://dcp.openharmony.cn/workbench/ciCommunity): "Operation Guide" --> "SIG Management" --> "SIG Repository Application".
+3.  **Repository Retirement and Renaming Electronic Flow Application**: After the Architecture SIG review is passed, refer to the [Operation Guide](http://dcp.openharmony.cn/workbench/ciCommunity): "Operation Guide" --> "SIG Management" --> "Repository Management".
 
 ### 3. Repository Incubation Graduation
 
 1.  **Apply for Architecture SIG Incubation Pre-review**: [Apply for an issue](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC) and refer to the [template](../sig/sig_architecture/meetings/repository_review_template.pptx).
 2.  **Apply for Quality SIG Incubation Graduation Review**: [Apply for an issue](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC) and refer to the [graduation standards](../sig/sig_qa/guidance_for_incubation_project_graduation_cn.md).
-3.  **Submit the Repository Incubation Graduation Electronic Flow**: After the Quality SIG graduation review is passed, submit the [incubation graduation electronic flow](http://ci.openharmony.cn/workbench/ciCommunity): "Operation Guide" --> "SIG Management" --> "Incubation Report".
+3.  **Submit the Repository Incubation Graduation Electronic Flow**: After the Quality SIG graduation review is passed, submit the [incubation graduation electronic flow](http://dcp.openharmony.cn/workbench/ciCommunity): "Operation Guide" --> "SIG Management" --> "Incubation Report".
