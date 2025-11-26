@@ -149,11 +149,11 @@ OpenHarmony 项目从开源建仓到孵化成熟并进入主干，通常需经�
    - 开源软件引入：参考[模板2--开源软件引入](../sig/sig_architecture/meetings/OpenHarmony_thirdparty_opensource_software_selection_analysis_templateV1.0.pptx)。
    - 提交[架构 SIG](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC) 议题进行评审。
 2. **提交电子流申请**：架构 SIG 评审通过后，根据需求提交电子流。
-   - **新增仓**：参考[操作指导](http://ci.openharmony.cn/workbench/ciCommunity)：“操作指南” -> "SIG管理" -> “SIG仓申请”。
-   - **仓库退休/更名**：参考[操作指导](http://ci.openharmony.cn/workbench/ciCommunity)：“操作指南” -> "SIG管理" -> “仓管理”。
+   - **新增仓**：参考[操作指导](http://dcp.openharmony.cn/workbench/ciCommunity)：“操作指南” -> "SIG管理" -> “SIG仓申请”。
+   - **仓库退休/更名**：参考[操作指导](http://dcp.openharmony.cn/workbench/ciCommunity)：“操作指南” -> "SIG管理" -> “仓管理”。
 
 #### 3.3 仓库孵化准出
 
 1. **申请架构 SIG 孵化预审**：提交[议题](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC)，参考[模板](../sig/sig_architecture/meetings/repository_review_template.pptx)。
 2. **申请质量 SIG 孵化准出评审**：提交[议题](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC)，参考[准出标准](../sig/sig_qa/guidance_for_incubation_project_graduation_cn.md)。
-3. **提交仓库孵化准出电子流**：质量 SIG 准出评审通过后，在[此平台](http://ci.openharmony.cn/workbench/ciCommunity)提交：“操作指南” -> "SIG管理" -> “孵化报告”。
+3. **提交仓库孵化准出电子流**：质量 SIG 准出评审通过后，在[此平台](http://dcp.openharmony.cn/workbench/ciCommunity)提交：“操作指南” -> "SIG管理" -> “孵化报告”。
