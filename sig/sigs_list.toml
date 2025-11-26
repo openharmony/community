@@ -6876,5 +6876,5 @@ sig_status = "active"
 sub_system = ["NONE"]
 projects = []
 [sig.leader]
-gitcode_id = "https://gitcode.com/xie_yujuan"
-gitcode_email = "xieyujuan@huawei.com"
+gitee_id  = "https://gitcode.com/xie_yujuan"
+gitee_email = "xieyujuan@huawei.com"
