@@ -29,11 +29,11 @@ Review the operation of each sig in community development and operations, identi
 
 ### Meetings
  - Meeting time：BiWeek Wednesday at 14:30:16:00
- - Meeting application: [OpenHarmony sig_QA Meeting Proposal](https://shimo.im/sheets/6QqqWJX99xrWWqJg/MODOC)
+ - Meeting application: [OpenHarmony sig_QA Meeting Proposal](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC)
  - Meeting link: Welink
- - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
+ - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/qa.openharmony.io) mailing list qa@openharmony.io for the meeting link
 
 ### Contact (optional)
 
-- Mailing list：dev@openharmony.io
+- Mailing list：qa@openharmony.io
 - Wechat group：NA
