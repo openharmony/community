@@ -6440,7 +6440,7 @@ gitee_email = "qiangbo2@huawei.com"
 [[sig]]
 sig_name = "sig_blockchain"
 description = "提供OpenHarmony数据上链功能，深度定制可适配OpenHarmony的数据上链组件"
-sig_status = "active"
+sig_status = "inactive"
 sub_system = ["NONE"]
 projects = []
 
