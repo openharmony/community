@@ -3,6 +3,9 @@
 
 说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
+## SIG架构
+![输入图片说明](figures/ai_swe_cn.png)
+
 ## SIG组工作目标和范围
 
 ### 工作目标
@@ -31,7 +34,8 @@ AI SWE SIG是基于满足社区开源开发和鸿蒙生态拓展的业务诉求�
 
 ### 会议
  - 会议时间：双周例会，晚上周三19:00
- - 会议链接：请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
+- 会议申报：[OpenHarmony AI Software Engineering Meeting Proposal](https://shimo.im/sheets/rp3OMLlRrJh9RLkm/MODOC)
+- 会议链接：通过邮件通知
 
 ### 联系方式(可选)
 

@@ -1,7 +1,10 @@
-# sig_XXX
+# sig_ai_swe
 English | [简体中文](./sig_template_cn.md)
 
 Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
+
+## SIG architecture
+![输入图片说明](figures/ai_swe_en.png)
 
 ## SIG group work objectives and scope
 
@@ -28,11 +31,9 @@ The AI SWE SIG is based on meeting the business needs of community-driven open-s
 - @youthdragon(https://gitcode.com/youthdragon)
 
 ### Meetings
- - Meeting time：Biweekly meeting on Wednesday at 7:00 PM
- - Meeting application: Refer to the method of [PMC meeting](https://gitee.com/dongjinguang/community/blob/master/zh/pmc.md#pmc%E4%BC%9A%E8%AE%AE%E9%93%BE%E6%8E%A5) to provide sharing document weblink, convenient for sig_related people to apply for the topic.
- - Meeting link: Welink Meeting or Others
- - Meeting notification: [Subscribe to] (https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
+- Time: Bi-weekly meeting, Wednesday 19:00 (evening)
+- Meeting proposal：[OpenHarmony AI Software Engineering Meeting Proposal](https://shimo.im/sheets/rp3OMLlRrJh9RLkm/MODOC)
+- Meeting link: Notify via email
 
 ### Contact (optional)
 
