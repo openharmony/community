@@ -30,7 +30,7 @@ Print SIG aims to develop print function for OpenHarmony, expand and improve the
  - Meeting application: https://etherpad.openharmony.cn/p/sig_print
  - Meeting link: Welink Meeting or Others
  - Meeting notification: [Subscribe to] (https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content/tree/master/print/meetings)
+ - Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content/tree/master/print/meetings)
 
 ### Contact (optional)
  - eric.li@urovo.com

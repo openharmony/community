@@ -41,7 +41,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
  - Meeting application：[OpenHarmony LoongArch Meeting Proposal](https://docs.qq.com/sheet/DRVVFVEtXV29Nd3Fa?tab=BB08J2)
  - Meeting link: Welink or other meeting
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list dev@openharmony.io for the meeting link
- - Meeting Summary: To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/loongarch/meetings)
+ - Meeting Summary: To view the minutes of past meetings, please click this [link](https://gitcode.com/openharmony-sig/sig-content/tree/master/loongarch/meetings)
 
 ### Contact (optional)
 

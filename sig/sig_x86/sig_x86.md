@@ -57,7 +57,7 @@ The x86 instruction set is highly favored for its mature technology, strong scal
  - Meeting time：Monthly meeting, first Thursday of the month at 10:00 AM
  - Meeting link：Welink or other meeting
  - Meeting application: [sig_x86Meeting application](https://shimo.im/sheets/5bqndMnd6aiyVNAy)
- - Meeting Summary:To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/x86/meetings)
+ - Meeting Summary:To view the minutes of past meetings, please click this [link](https://gitcode.com/openharmony-sig/sig-content/tree/master/x86/meetings)
 
 ### Contact (optional)
 

@@ -8,11 +8,11 @@ Community仓库用于管理OpenHarmony社区治理、开发者贡献指南、开
 
 - 社区治理组织架构
     - [项目管理委员会](/zh/pmc.md)
-- [开发者社区贡献指南](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/Readme-CN.md)
+- [开发者社区贡献指南](https://gitcode.com/openharmony/docs/blob/master/zh-cn/contribute/Readme-CN.md)
 - [开发者社区贡献协议](https://dco.openharmony.io/sign/Z2l0ZWUlMkZPcGVuQXRvbQ==)
-- [社区交流](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E7%A4%BE%E5%8C%BA%E6%B2%9F%E9%80%9A%E4%B8%8E%E4%BA%A4%E6%B5%81.md)
-- [安全问题响应](https://gitee.com/openharmony/security)
-- [项目LOGO](https://gitee.com/openharmony/community#%E9%A1%B9%E7%9B%AElogo)
+- [社区交流](https://gitcode.com/openharmony/docs/blob/master/zh-cn/contribute/%E7%A4%BE%E5%8C%BA%E6%B2%9F%E9%80%9A%E4%B8%8E%E4%BA%A4%E6%B5%81.md)
+- [安全问题响应](https://gitcode.com/openharmony/security)
+- [项目LOGO](https://gitcode.com/openharmony/community#%E9%A1%B9%E7%9B%AElogo)
 
 ## 社区治理组织架构
 
@@ -20,7 +20,7 @@ OpenHarmony社区通过[项目管理委员会](/zh/pmc.md)（ Project Management
 
 ## 开发者社区贡献指南
 
-请阅读[如何贡献](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE.md)获得帮助。
+请阅读[如何贡献](https://gitcode.com/openharmony/docs/blob/master/zh-cn/contribute/%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE.md)获得帮助。
 
 ## 签署开发者原创声明
 

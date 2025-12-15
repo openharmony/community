@@ -1,0 +1,36 @@
+{
+    "Leader": [{
+            "gitcode_id": "gcw_fYKDe5oE",
+            "gitcode_email": "zhangzhaosheng@zhikaihong.com"
+        },
+        {
+            "gitcode_id": "Zhangliming_star",
+            "gitcode_email": "zhangliming8@hisilicon.com"
+        },
+        {
+            "gitcode_id": "llq75250858",
+            "gitcode_email": "liliangqi@huawei.com"
+        }
+    ],
+    "Committers": [{
+            "gitcode_id": "dqiyy",
+            "gitcode_email": "duanqian@huawei.com"
+        },
+        {
+            "gitcode_id": "jiyong_sd",
+            "gitcode_email": "jiyong@huawei.com"
+        },
+        {
+            "gitcode_id": "yangxuan321",
+            "gitcode_email": "xuan.yang@ximalaya.com"
+        },
+        {
+            "gitcode_id": "AnyFont",
+            "gitcode_email": "dongkui@anyfont.com"
+        },
+        {
+            "gitcode_id": "moyoung123",
+            "gitcode_email": "tony@moyoung.com"
+        }
+    ]
+}

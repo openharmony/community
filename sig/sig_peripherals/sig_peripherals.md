@@ -69,7 +69,7 @@ Target users：
   - Meeting application: 
   - Meeting link: Tencent or other meetings
   - Meeting notice: [Subscribe to](https://lists.openatom.io/postorius/lists/dev@openharmony.io/) the email address to obtain the meeting link.
-  - Meeting minutes: Click [here](https://gitee.com/openharmony-sig/sig-content) to view previous meeting minutes.
+  - Meeting minutes: Click [here](https://gitcode.com/openharmony-sig/sig-content) to view previous meeting minutes.
 
 ### (Optional) Contact
 

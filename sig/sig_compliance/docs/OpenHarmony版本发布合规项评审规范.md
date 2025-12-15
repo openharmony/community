@@ -25,7 +25,7 @@
 
 ## 开源合规举证及评审规范
 ###  整体原则
-整体遵从[版本质量要求](https://gitee.com/openharmony/community/blob/master/sig/sig_qa/%E7%89%88%E6%9C%AC%E8%B4%A8%E9%87%8F%E8%A6%81%E6%B1%82.md)中对于开源合规的要求，其中主要涉及为以下两项：
+整体遵从[版本质量要求](https://gitcode.com/openharmony/community/blob/master/sig/sig_qa/%E7%89%88%E6%9C%AC%E8%B4%A8%E9%87%8F%E8%A6%81%E6%B1%82.md)中对于开源合规的要求，其中主要涉及为以下两项：
 
 |  质量要求小类 |Canary版本   |Beta版本   |正式版/LTS版本| 说明 |
 | :------------ | :------------ | :------------ | :------------ | :------------ |

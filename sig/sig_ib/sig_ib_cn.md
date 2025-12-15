@@ -36,7 +36,7 @@
  - 会议时间：月度例会，每月第一个周五
  - 会议链接: [OpenHarmony sig_ib Meeting Proposal](http://shimo.im/sheets/913JMp6jLOsvM8AE/MODOC)
  - 会议通知: 微信群通知
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony/community/tree/master/sig/sig_ib/meetings)
+ - 会议纪要: [归档链接地址](https://gitcode.com/openharmony/community/tree/master/sig/sig_ib/meetings)
 
 ### 联系方式(可选)
 

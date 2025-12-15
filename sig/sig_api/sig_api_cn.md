@@ -20,7 +20,7 @@
 ## 代码仓
 interface_sdk-js
 
-https://gitee.com/openharmony/interface_sdk-js
+https://gitcode.com/openharmony/interface_sdk-js
 
 ## SIG组成员
 

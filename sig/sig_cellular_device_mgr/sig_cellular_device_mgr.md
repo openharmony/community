@@ -1,7 +1,7 @@
 # SIG_CellularDeviceManagement
 English | [简体中文](./sig_cellular_device_mgr_cn.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](https://gitee.com/openharmony/community/blob/master/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](https://gitcode.com/openharmony/community/blob/master/zh/pmc.md).
 
 ## SIG group work objectives and scope
 
@@ -39,7 +39,7 @@ Extensive replication: benchmarking projects are first tried, and OpenHarmony ap
  - Meeting application: [cellular_device_mgr Meeting Proposal](https://shimo.im/sheets/1lq7MDJ5JBHvP7Ae/MODOC)
  - Meeting link: Tencent Meeting
  - Meeting notification: [Subscribe](https://lists.openatom.io/postorius/lists/dev.openharmony.io) mailing list [dev@openharmony.io]() for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content/tree/master/cellular_device_mgr)
+ - Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content/tree/master/cellular_device_mgr)
 
 ### Contact (optional)
 
