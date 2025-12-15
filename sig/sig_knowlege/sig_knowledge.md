@@ -38,7 +38,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
  - Meeting application：To be added
  - Meeting link: Welink or other meeting
  - Meeting notification:  [Subscribe to ](https://lists.openatom.io/postorius/lists/sig-knowledge.openharmony.io/) mailing list sig-knowledge@openharmony.io  for the meeting link
- - Meeting Summary: To view the minutes of past meetings, please click this [link](https://gitee.com/openharmony-sig/sig-content/tree/master/knowlege/meetings)
+ - Meeting Summary: To view the minutes of past meetings, please click this [link](https://gitcode.com/openharmony-sig/sig-content/tree/master/knowlege/meetings)
 
 ### Contact (optional)
 

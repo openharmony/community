@@ -37,7 +37,7 @@
 ### 会议
  - 会议时间：每周三 14:15
  - 会议链接：Welink
- - 会议纪要：查看往期会议纪要，请点此[链接](https://gitee.com/openharmony-sig/sig-content/tree/master/distributeddatamgr/meetings)
+ - 会议纪要：查看往期会议纪要，请点此[链接](https://gitcode.com/openharmony-sig/sig-content/tree/master/distributeddatamgr/meetings)
 
 ### 联系方式(可选)
 

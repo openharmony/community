@@ -76,7 +76,7 @@ SIG 的生命周期包括创建申请、运作、变更和终止四个阶段。
 
 - **阅读 SIG 管理制度**：深入理解本文档，特别是“SIG 治理”章节，明确 SIG 的运作规则、角色职责和生命周期。
 - **确认技术方向的唯一性和可行性**：
-  - 查阅[已有的 SIG 列表](https://gitee.com/openharmony/community/tree/master/sig)和[历史 DEV 邮件列表](https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/)，确保所申请的技术方向在社区中尚不存在。
+  - 查阅[已有的 SIG 列表](https://gitcode.com/openharmony/community/tree/master/sig)和[历史 DEV 邮件列表](https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/)，确保所申请的技术方向在社区中尚不存在。
   - 确认所申请的技术项目能够最终转化为 OpenHarmony 的新增部件和子项目。
   - 如有疑问，可通过邮件列表 [dev@openharmony.io](mailto:dev@openharmony.io)咨询 PMC。
 - **准备 SIG 章程与目标**：参考[SIG 申请模板](../meeting-notes/docs/openharmony_sig_template.pptx)，准备 SIG 章程，并清晰地梳理 SIG 的工作目标、范围和预期成果。
@@ -149,11 +149,11 @@ OpenHarmony 项目从开源建仓到孵化成熟并进入主干，通常需经�
    - 开源软件引入：参考[模板2--开源软件引入](../sig/sig_architecture/meetings/OpenHarmony_thirdparty_opensource_software_selection_analysis_templateV1.0.pptx)。
    - 提交[架构 SIG](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC) 议题进行评审。
 2. **提交电子流申请**：架构 SIG 评审通过后，根据需求提交电子流。
-   - **新增仓**：参考[操作指导](http://ci.openharmony.cn/workbench/ciCommunity)：“操作指南” -> "SIG管理" -> “SIG仓申请”。
-   - **仓库退休/更名**：参考[操作指导](http://ci.openharmony.cn/workbench/ciCommunity)：“操作指南” -> "SIG管理" -> “仓管理”。
+   - **新增仓**：参考[操作指导](http://dcp.openharmony.cn/workbench/ciCommunity)：“操作指南” -> "SIG管理" -> “SIG仓申请”。
+   - **仓库退休/更名**：参考[操作指导](http://dcp.openharmony.cn/workbench/ciCommunity)：“操作指南” -> "SIG管理" -> “仓管理”。
 
 #### 3.3 仓库孵化准出
 
 1. **申请架构 SIG 孵化预审**：提交[议题](https://shimo.im/sheets/StzhuFkEk38enrnl/MODOC)，参考[模板](../sig/sig_architecture/meetings/repository_review_template.pptx)。
 2. **申请质量 SIG 孵化准出评审**：提交[议题](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC)，参考[准出标准](../sig/sig_qa/guidance_for_incubation_project_graduation_cn.md)。
-3. **提交仓库孵化准出电子流**：质量 SIG 准出评审通过后，在[此平台](http://ci.openharmony.cn/workbench/ciCommunity)提交：“操作指南” -> "SIG管理" -> “孵化报告”。
+3. **提交仓库孵化准出电子流**：质量 SIG 准出评审通过后，在[此平台](http://dcp.openharmony.cn/workbench/ciCommunity)提交：“操作指南” -> "SIG管理" -> “孵化报告”。

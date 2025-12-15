@@ -31,7 +31,7 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 ### Meetings
  - Meeting time：Thursday 10:00-12:00
  - Meeting link：Welink
- - Meeting minutes: Click [here](https://gitee.com/openharmony-sig/sig-content) to view previous meeting minutes.
+ - Meeting minutes: Click [here](https://gitcode.com/openharmony-sig/sig-content) to view previous meeting minutes.
 
 ### Contact (optional)
 

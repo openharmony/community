@@ -52,5 +52,5 @@ Secure Element (SE) is a secure chip that is by design protected from unauthoriz
  - Meeting application: [OpenHarmony sig_SecureElement Meeting Proposal]((https://shimo.im/sheets/KlkKVywv8BtmZXqd/MODOC)
  - Meeting link: Welink Meeting
  - Meeting notification: [Subscribe to] (https://lists.openatom.io/postorius/lists/sig-secure_element.openharmony.io) mailing list sig-secure_element@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content)
+ - Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content)
 

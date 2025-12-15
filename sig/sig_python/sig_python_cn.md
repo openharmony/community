@@ -53,7 +53,7 @@ SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力�
  - 会议申报：[sig_python会议申报](https://shimo.im/sheets/WlArz7M5a1Cr1KA2/)
  - 会议链接：腾讯会议或其他会议
  - 会议通知：请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表获取会议链接
- - 会议纪要：查看往期会议纪要，请点此[链接](https://gitee.com/openharmony-sig/sig-content/tree/master/python/meetings)
+ - 会议纪要：查看往期会议纪要，请点此[链接](https://gitcode.com/openharmony-sig/sig-content/tree/master/python/meetings)
 
 ### 联系方式(可选)
 

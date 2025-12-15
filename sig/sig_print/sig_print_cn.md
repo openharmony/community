@@ -29,7 +29,7 @@ Print SIG旨在为OpenHarmony开发打印服务功能，进一步拓展及完善
  - 会议申报：https://etherpad.openharmony.cn/p/sig_print
  - 会议链接: Welink或其他会议
  - 会议通知: 请[订阅](https://lists.openatom.io/hyperkitty/list/dev@openharmony.io/)邮件列表 dev@openharmony.io 获取会议链接
- - 会议纪要: [归档链接地址](https://gitee.com/openharmony-sig/sig-content/tree/master/print/meetings)
+ - 会议纪要: [归档链接地址](https://gitcode.com/openharmony-sig/sig-content/tree/master/print/meetings)
 
 ### 联系方式(可选)
  - eric.li@urovo.com

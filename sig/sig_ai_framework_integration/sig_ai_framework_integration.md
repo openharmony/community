@@ -27,7 +27,7 @@ Integrates current state of art high quality open sourced AI inference framework
  - Meeting application: Refer to the method of [PMC meeting](https://gitee.com/dongjinguang/community/blob/master/zh/pmc.md#pmc%E4%BC%9A%E8%AE%AE%E9%93%BE%E6%8E%A5) to provide the shimo sharing document weblink, convenient for sig_related people to apply for the topic.
  - Meeting link: Welink Meeting or Others
  - Meeting notification: [Subscribe](https://lists.openatom.io/postorius/lists/dev@openharmony.io/) mailing list dev@openharmony.io for the meeting link
- - Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content/tree/master/ai_framework_integration/meetings)
+ - Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content/tree/master/ai_framework_integration/meetings)
 
 ### Contact (optional)
 

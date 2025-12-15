@@ -42,7 +42,7 @@ Work with ecological partners to donate OpenHarmony education application ecolog
 - Meeting application: [OpenHarmony SIG_edudataspecification Meeting Proposal](https://shimo.im/sheets/tpcJktty9Pvpp9c8/MODOC/)
 - Meeting link: Welink Meeting or Others
 - Meeting notification: [Subscribe to ](https://lists.openatom.io/postorius/lists/sig_edu_data.openharmony.io/) mailing list sig_edu_data@openharmony.io for the meeting link
-- Meeting-Minutes: [Archive link address](https://gitee.com/openharmony-sig/sig-content/tree/master/edu_data_specification/meetings)
+- Meeting-Minutes: [Archive link address](https://gitcode.com/openharmony-sig/sig-content/tree/master/edu_data_specification/meetings)
 
 ### Contact (optional)
 
