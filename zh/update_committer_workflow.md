@@ -56,7 +56,7 @@
 
 ### 3 在SIG管理平台提交committer新增/退出申请
 
-1. 用gitcode帐号登录仓库管理平台：[仓管理](http://ci.openharmony.cn/workbench/sig/repositoryManagement)
+1. 用gitcode帐号登录仓库管理平台：[仓管理](http://dcp.openharmony.cn/workbench/sig/repositoryManagement)
 2. 仓路径筛选自己需要申请的仓库;
 3. 在弹出的“仓信息修改”中填写：
     - **Committer列表**：输入自己的 gitcode帐号（为了社区沟通和开发者沟通，要求关联邮箱公开可获取）
