@@ -32,11 +32,11 @@
 
 ### 会议
 - 会议时间: 每双周周二 14:30-16:00
-- 议题申报: [OpenHarmony QA Meeting Proposal](https://shimo.im/sheets/6QqqWJX99xrWWqJg/MODOC)
+- 议题申报: [OpenHarmony QA Meeting Proposal](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC)
 - 会议主题: 通过邮件通知
-- 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io)邮件列表 dev@openharmony.io 获取会议链接
+- 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/qa.openharmony.io)邮件列表 qa@openharmony.io 获取会议链接
 
 ### 联系方式(可选)
 
-- 邮件列表：dev@openharmony.io
+- 邮件列表：qa@openharmony.io
 - 微信群：NA
