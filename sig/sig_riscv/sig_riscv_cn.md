@@ -7,26 +7,36 @@
 
 ### 工作目标
 
-RISC-V 是一个免费开源的指令集（ISA）。围绕RISC-V的软硬件生态都在快速完善。
-RISC-V SIG 组旨在构建围绕OpenHarmony的软硬件生态，提供RISC-V的软件包和系统构建等指导，并维护对RISC-V设备的支持，使能RISC-V场景下的安全等能力。
-RISC-V SIG将推动对 RISC-V OpenHarmony感兴趣的开发者能够参与到开源系统开发中活动中来。
+- RISC-V 是一个免费开源的指令集（ISA）。围绕RISC-V的软硬件生态都在快速完善。
+- RISC-V SIG 组旨在构建围绕OpenHarmony的软硬件生态，提供RISC-V的软件包和系统构建等指导，并维护对RISC-V设备的支持，使能RISC-V场景下的安全等能力。
+- RISC-V SIG将推动对 RISC-V OpenHarmony感兴趣的开发者能够参与到开源系统开发中活动中来。
 
 
 ### 工作范围
 
+- OpenHarmony子系统对RISC-V架构的支持
+
+	SIG负责musl、媒体、图形、llvm、方舟运行时等与指令集强相关的系统组件和三方库的移植适配，以及随版本持续升级。
 - 维护OpenHarmony在RISC-V设备上的使用
 
-SIG将不断更新（移植）和维护OpenHarmony能够支持的RISC-V设备。
-
+	SIG将不断更新（移植）和维护OpenHarmony能够支持的RISC-V设备。
 - RISC-V 安全能力
 
-SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力。
-
+	SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力。
+    
 - 生态扩展
 
-积极与高校和相关客户合作，推动OpenHarmony在RISC-V环境下的应用。
+	积极与高校和相关客户合作，推动OpenHarmony在RISC-V环境下的应用。
+    
+![RISC-V SIG](figures/riscv_overview.png)
 
+## 代码仓
 
+- 源码共建仓库（[链接](https://gitee.com/riscv-sig)）
+
+	因当前OpenHarmony RISC-V架构移植涉及修改的代码仓较多（约70+），暂未合入主线，为方便SIG成员共建，目前完整fork OpenHarmony社区代码仓至riscv-sig组织。
+
+- SIG文档和进展同步仓（[链接](https://gitcode.com/openharmony-sig/riscv)）
 
 ## SIG组成员
 
@@ -40,7 +50,7 @@ SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力�
 - [Denny](https://gitee.com/DennyShen)
 - [Huaqi Fang](https://gitee.com/fanghuaqi)
 - [engine_li](https://gitee.com/kkup180)
-- [iscas-taiyang](https://gitee.com/iscas-taiyang)
+- [Tai Yang](https://gitcode.com/taylor_young)
 - [hplinux](https://gitee.com/hplinux)
 - [xzmu](https://gitee.com/xzmu)
 - [clmngu](https://gitee.com/clmngu)
@@ -48,10 +58,12 @@ SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力�
 - [Fredlou](https://gitee.com/Fredlou)
 
 ### 会议
- - 会议时间：每周二 14:00
- - 会议链接：Welink
+ - 会议时间：月度例会，第一个周二 14:00，UTC+8
+ - 议题申报：[OpenHarmony RISC-V SIG Meeting Proposal](https://docs.qq.com/sheet/DR21vdXdsVE96c2tk?tab=45wxzh_t=1708586199631)
+ - 会议链接：腾讯会议
+ - 会议纪要：看往期会议纪要，请点此[会议纪要](https://gitcode.com/openharmony-sig/sig-content/tree/master/riscv/meetings)
 
 ### 联系方式(可选)
 
 - 邮件列表：dev@openharmony.io
-- 微信群：NA
+- 微信：丁新（Sternstunde-00）
