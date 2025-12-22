@@ -46,10 +46,35 @@
 ### Committers列表
 
 - [@dqiyy](https://gitcode.com/dqiyy)
+
 - [@moyoung123](https://gitcode.com/moyoung123)
+
 - [@AnyFont](https://gitcode.com/AnyFont)
+
 - [@jiyong_sd](https://gitcode.com/jiyong_sd)
+
 - [@yangxuan321](https://gitcode.com/yangxuan321)
+
+### SIG组成员加入流程
+
+1. 请发送申请邮件至`ohwatchsig@163.com`进行评审，说明单位、项目及计划等；
+
+2. 新成员加入由SIG组长和副组长评审，通过后以邮件方式通知；
+
+### SIG组成员要求和义务
+
+1. 需要有商业项目，有一定规模和效果更佳；
+
+2. 生态建设协作，如：应用拓展，共性功能开发等；
+
+3. 参与SIG会议，讨论需求、方案、标准讨论等；
+
+### 成员权益
+
+1. 享有社区大会、营销等资源的优先权；
+2. 享有社区支持的优先权；
+3. 参与轻智能SIG长期规划；
+
 
 ### 会议
 

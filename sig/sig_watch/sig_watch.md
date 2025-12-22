@@ -45,10 +45,31 @@ Establish the **OpenHarmony For Watch** SIG group, whose main responsibilities i
 ### Committers
 
 - [@dqiyy](https://gitcode.com/dqiyy)
+
 - [@moyoung123](https://gitcode.com/moyoung123)
+
 - [@AnyFont](https://gitcode.com/AnyFont)
+
 - [@jiyong_sd](https://gitcode.com/jiyong_sd)
+
 - [@yangxuan321](https://gitcode.com/yangxuan321)
+
+### SIG Membership Application Process
+
+1. Please send an application email to `ohwatchsig@163.com` for review, specifying your organization, project details, and plans;
+2. New membership applications will be reviewed by the SIG Lead and Deputy Lead. Applicants will be notified via email upon approval.
+
+### Membership Requirements and Responsibilities
+
+1. Must have an active commercial project; projects demonstrating significant scale and impact are preferred;
+2. Collaborate on ecosystem development, such as application expansion and joint development of common features;
+3. Attend SIG meetings to discuss requirements, proposals, standards, and other relevant topics.
+
+### Member Benefits
+
+1. Priority access to community events, marketing resources, and related opportunities;
+2. Priority access to community support;
+3. Opportunity to participate in the long-term planning of the Light Intelligence SIG.
 
 ### Meetings
 
