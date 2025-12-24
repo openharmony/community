@@ -18,7 +18,7 @@ OpenHarmony 媒体管理。
 | ------------ | ------------ |------------ |
 |音频服务|音频组件用于实现音频相关的功能，包括音频播放，录制，音量管理和设备管理|multimedia_audio_framework|
 |视频服务|提供播放、录制等场景的媒体数据流水线处理|multimedia_media_foundation|
-|编解码服务|提供了统一的音视频编解码、封装、解封装能力|multimedia_av_codec|
+|编解码服务|提供了统一的[音视频编解码](https://gitcode.com/openharmony/docs/blob/master/zh-cn/application-dev/media/avcodec/avcodec-support-formats.md)、封装、解封装能力|multimedia_av_codec|
 |播控服务|提供了统一的媒体控制能力|multimedia_av_session|
 |相机服务|支持相机业务的开发，提供接口实现相机硬件的访问、操作和新功能开发|multimedia_camera_framework|
 |图片服务|提供了一系列易用的接口用于存放image的源码信息，提供创建图片源和位图管理能力|multimedia_image_framework|
