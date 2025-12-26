@@ -67,7 +67,7 @@ Establish the **OpenHarmony For Watch** SIG group, whose main responsibilities i
 
 ### Member Benefits
 
-1. Priority access to community events, marketing resources, and related opportunities;
+1. Priority access to resources such as community summits, promotional campaigns, and more;
 2. Priority access to community support;
 3. Opportunity to participate in the long-term planning of the Light Intelligence SIG.
 
