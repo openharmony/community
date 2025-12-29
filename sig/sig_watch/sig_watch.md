@@ -56,7 +56,7 @@ Establish the **OpenHarmony For Watch** SIG group, whose main responsibilities i
 
 ### SIG Membership Application Process
 
-1. Please send an application email to `ohwatchsig@163.com` for review, specifying your organization, project details, and plans;
+1. Please send an application email to `liliangqi@huawei.com` for review, specifying your organization, project details, and plans;
 2. New membership applications will be reviewed by the SIG Lead and Deputy Lead. Applicants will be notified via email upon approval.
 
 ### Membership Requirements and Responsibilities
