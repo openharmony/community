@@ -3,7 +3,7 @@ English | [简体中文](./sig_template_cn.md)
 
 Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](../../zh/pmc.md).
 
-## SIG architecture
+## SIG Technology Domain Map
 ![输入图片说明](figures/ai_swe_en.png)
 
 ## SIG group work objectives and scope
