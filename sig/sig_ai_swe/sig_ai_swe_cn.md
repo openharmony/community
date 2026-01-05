@@ -3,7 +3,7 @@
 
 说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](../../zh/pmc.md)中描述的约定。
 
-## SIG架构
+## SIG技术领域地图
 ![输入图片说明](figures/ai_swe_cn.png)
 
 ## SIG组工作目标和范围
