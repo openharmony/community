@@ -41,7 +41,7 @@ To ensure the healthy and sustainable development of all technical directions wi
 ### Meetings
 
 - **Time**: Every Tuesday at 9:30 AM
-- **Meeting Proposal**: [OpenHarmony SIG-Architecture Meeting Proposal](https://shimo.im/sheets/StzhuFkEk38enrnl/MODO)
+- **Meeting Proposal**: [OpenHarmony SIG-Architecture Meeting Proposal](https://shimo.im/sheets/XKq42Y1JMXSrJrAN/MODOC)
 - **Meeting Link**: Welink
 - **Meeting Invitation**: Please [subscribe](https://lists.openatom.io/postorius/lists/dev.openharmony.io) to the dev@openharmony.io mailing list to receive meeting invitations.
 - **Meeting Minutes**: [View historical meeting minutes](https://gitcode.com/openharmony/community/tree/master/sig/sig_architecture/meetings)
