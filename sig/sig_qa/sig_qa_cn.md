@@ -31,8 +31,8 @@
 
 
 ### 会议
-- 会议时间: 每双周周二 14:30-16:00
-- 议题申报: [OpenHarmony QA Meeting Proposal](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC)
+- 会议时间: 每周二 14:15-16:00
+- 议题申报: [OpenHarmony QA Meeting Proposal](https://shimo.im/sheets/gXqmd8B0Jpheb13o/MODOC)
 - 会议主题: 通过邮件通知
 - 会议通知: 请[订阅](https://lists.openatom.io/postorius/lists/qa.openharmony.io)邮件列表 qa@openharmony.io 获取会议链接
 

@@ -28,8 +28,8 @@ Review the operation of each sig in community development and operations, identi
 - [@rtos_yuan](https://gitee.com/rtos_yuan)
 
 ### Meetings
- - Meeting time：BiWeek Wednesday at 14:30:16:00
- - Meeting application: [OpenHarmony sig_QA Meeting Proposal](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC)
+ - Meeting time：BiWeek Tuesday at 14:15~16:00
+ - Meeting application: [OpenHarmony sig_QA Meeting Proposal](https://shimo.im/sheets/gXqmd8B0Jpheb13o/MODOC)
  - Meeting link: Welink
  - Meeting notification: [Subscribe to](https://lists.openatom.io/postorius/lists/qa.openharmony.io) mailing list qa@openharmony.io for the meeting link
 
