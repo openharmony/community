@@ -3,8 +3,8 @@ SIG孵化项目毕业评审组织
 简体中文 | [English](./guidance_for_incubation_project_graduation.md)
 
 - SIG孵化项目成熟并满足项目毕业要求后，可申请合入OpenHarmony组织代码主库。
-- 提交孵化项目毕业申请，[请按照表格内容填写议题](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC)。
-- QA SIG组组织孵化项目准出，[发布评审纪要并归档](https://shimo.im/sheets/AQrrKb4pJCUFYkHR/MODOC)
+- 提交孵化项目毕业申请，[请按照表格内容填写议题](https://shimo.im/sheets/gXqmd8B0Jpheb13o/MODOC)。
+- QA SIG组组织孵化项目准出，[发布评审纪要并归档](https://shimo.im/sheets/gXqmd8B0Jpheb13o/MODOC)
 
 #### 参加人：
 
