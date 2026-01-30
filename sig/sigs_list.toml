@@ -3,7 +3,7 @@ gitee_id = "https://gitcode.com/stxia88"
 gitee_email = "xiast@sz.tsinghua.edu.cn"
 [[sig]]
 sig_name = "sig_ai_swe"
-description = "提供智能化赋能和低成本鸿蒙定制化能力"
+description = "提供智能化赋能和低成本开源鸿蒙定制化能力"
 sig_status = "active"
 sub_system = ["NONE"]
 projects = []
