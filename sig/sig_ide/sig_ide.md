@@ -8,47 +8,45 @@ Note: The contents of this SIG follows the convention described in OpenHarmony's
 
 ### work goals
 
-Cooperate with ecosystem and community developers to establish a new ecosystem co-construction mechanism to form a lifecycle system which covers IDE(Integrated Development Environment) feature planning, development and testing, and O&M(Operation and Management) operations.  Work together to build the best OpenHarmony IDE to help developers reduce costs and improve efficiency.
+Leverage open-source collaboration to unite community efforts, partner with vendors to build the IDE tooling ecosystem, explore the IDE evolution path, strengthen AI Coding capabilities, refine tooling standards, lower the development barrier, empower ecosystem partners to innovate efficiently, and foster a thriving developer ecosystem.
 
 ### work scope
 
-+ Features planning phase:
-Collecting, prioritizing and reviewing the feature requirements
-+ Developing and testing phase:
-  + 1) Features co-construction:
-      Plugin solution discussion and integration; IDE functional modules co-construction; IDE platform co-built.
-  + 2) Resources co-construction: engineering vertical templates and samples/codelabs integration
-
-+ O&M phase:
-IDE documents, samples, FAQs and  issues reply
+1. Version delivery: Overall IDE requirement planning, architecture design, release iteration, and maintenance of core engineering capabilities.
+2. Key capability building: IDE foundational capabilities, atomic services (build system, language services, emulator, etc.), Agent infrastructure, coding agents, Skill/MCP and other AI capabilities.
+3. Standards and specifications: IDE development standards, plugin standards, Skill specifications, etc., to support ecosystem vendors and third-party tool integration.
+4. Open-source co-construction: Collect developer requirements, address toolchain pain points, and improve development experience and efficiency.
 
 
 ## SIG Members
 
 ### Leader
 
-+ @xiaojian_ide(<https://gitee.com/xiaojian_ide>)
++ @developertc(https://gitcode.com/developertc)
 
 ### Committers
 
-+ @mumuyuegu(<https://gitee.com/mumuyuegu>)
-+ @wangjian_oh(<https://gitee.com/wangjian_oh>)
-+ @lipeng_side(<https://gitee.com/lipeng_side>)
-+ @mingrui_emu(<https://gitee.com/mingrui_emu>)
-+ @xiongxiaoyong8(<https://gitee.com/xiongxiaoyong8>)
-+ @idealmost(<https://gitee.com/idealmost>)
-+ @Sanchuan_IDE(<https://gitee.com/Sanchuan_IDE>)
-+ @gaoxi785(<https://gitee.com/gaoxi785>)
-+ @yang-lin-16(<https://gitee.com/yang-lin-16>)
-+ @harmonyide(<https://gitee.com/harmonyide>)
-+ @bayanxing(<https://gitee.com/bayanxing>)
-+ @zhaojunxia2020(<https://gitee.com/zhaojunxia2020>)
-+ @xiexg-dc(<https://gitee.com/xiexg-dc>)
-+ @lengege(<https://gitee.com/lengege>)
-+ @sz-dc(<https://gitee.com/sz-dc>)
-+ @hmscoe(<https://gitee.com/hmscoe>)
-+ @duanlang2020(<https://gitee.com/duanlang2020>)
-+ @fupengfei001(<https://gitee.com/fupengfei001>)
++ @cliffhu_001(https://gitcode.com/cliffhu_001)
++ @susan3333(https://gitcode.com/susan3333)
++ @soarjacky(https://gitcode.com/soarjacky)
++ @chenxc(https://gitcode.com/chenxc)
++ @wub2010(https://gitcode.com/wub2010)
++ @stars002(https://gitcode.com/stars002)
++ @OwenO(https://gitcode.com/OwenO)
++ @hippopotamus(https://gitcode.com/hippopotamus)
++ @loading__(https://gitcode.com/loading__)
++ @yc158628(https://gitcode.com/yc158628)
++ @real_chen(https://gitcode.com/real_chen)
++ @gcw_PzXAUYBf(https://gitcode.com/gcw_PzXAUYBf)
++ @jliu666(https://gitcode.com/jliu666)
++ @sikochang(https://gitcode.com/sikochang)
++ @D_EE(https://gitcode.com/D_EE)
++ @E2016(https://gitcode.com/E2016)
++ @miulmiull(https://gitcode.com/miulmiull)
++ @luoshuangg(https://gitcode.com/luoshuangg)
++ @njulpy(https://gitcode.com/njulpy)
++ @Huyiwei123(https://gitcode.com/Huyiwei123)
++ @wy-0515(https://gitcode.com/wy-0515)
 
 ### Meetings
 
