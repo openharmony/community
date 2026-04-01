@@ -16,6 +16,12 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 Add a dedicated business subsystem for XR glasses to provide basic capabilities for integrating virtual information with the real world.
 ![figures/sig_xr.png](figures/sig_xr.png)
 
+### Rules and Processes for Members to Join
+1. If an enterprise wants to join the SIG, it needs to undertake one co-construction task and assign two developers.
+2. If an individual or school wants to join the SIG, it needs to undertake one co-construction task and have sufficient time to invest.
+3. Co-construction tasks can be submitted for review.
+4. The application email should be sent to <xieyujuan@huawei.com> for review, and the email should describe the organization, personnel investment, and co-construction tasks.
+
 ## SIG Members
 
 ### Leader
