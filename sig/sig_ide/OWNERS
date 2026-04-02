@@ -1,70 +1,94 @@
 {
    "Leader": [
        {
-           "gitee_id": "xiaojian_ide",
-           "gitee_email": "xiaojian756@huawei.com"
+           "gitcode_id": "developertc",
+           "gitcode_email": "tangchun@huawei.com"
        }
    ],
    "Committers": [
        {
-           "gitee_id": "mumuyuegu",
-           "gitee_email": "hulin.hulin@huawei.com"
-       }, 
-       {
-           "gitee_id": "Sanchuan_IDE",
-           "gitee_email": "weisanchuan@huawei.com"
+           "gitcode_id": "cliffhu_001",
+           "gitcode_email": "hufutong@huawei.com"
        },
        {
-           "gitee_id": "mingrui_emu",
-           "gitee_email": "mingrui@huawei.com"
+           "gitcode_id": "susan3333",
+           "gitcode_email": "xuyunhong1@huawei.com"
        },
        {
-           "gitee_id": "yang-lin-16",
-           "gitee_email": "yanglin5@huawei.com"
+           "gitcode_id": "soarjacky",
+           "gitcode_email": "dengchengrui@huawei.com"
        },
        {
-           "gitee_id": "idealmost",
-           "gitee_email": "limian1@huawei.com"
+           "gitcode_id": "chenxc",
+           "gitcode_email": "chenxiaochuang@huawei.com"
        },
        {
-           "gitee_id": "wangjian_oh",
-           "gitee_email": "michael.wangjian@huawei.com"
+           "gitcode_id": "wub2010",
+           "gitcode_email": "wubin4@huawei.com"
        },
        {
-           "gitee_id": "lipeng_side",
-           "gitee_email": "lipeng45@huawei.com"
+           "gitcode_id": "stars002",
+           "gitcode_email": "liqianqian3@huawei.com"
        },
        {
-           "gitee_id": "xiongxiaoyong8",
-           "gitee_email": "xiongxiaoyong@huawei.com"
+           "gitcode_id": "OwenO",
+           "gitcode_email": "ouwen7@huawei.com"
        },
        {
-           "gitee_id": "gaoxi785",
-           "gitee_email": "gaoxi785@huawei.com"
+           "gitcode_id": "hippopotamus",
+           "gitcode_email": "baokaifang@huawei.com"
        },
        {
-           "gitee_id": "harmonyide",
-           "gitee_email": "fangcen@huawei.com"
+           "gitcode_id": "loading__",
+           "gitcode_email": "huguoyu@huawei.com"
        },
        {
-           "gitee_id": "xiexg-dc",
-           "gitee_email": "xiexg@digitalchina.com"
+           "gitcode_id": "yc158628",
+           "gitcode_email": "jiangyuxiao3@huawei.com"
        },
        {
-           "gitee_id": "sz-dc",
-           "gitee_email": "harmonyos_sz@digitalchina.com"
+           "gitcode_id": "real_chen",
+           "gitcode_email": "wangruichen1@huawei.com"
        },
        {
-           "gitee_id": "lengege",
-           "gitee_email": "liulongc@digitalchina.com"
+           "gitcode_id": "gcw_PzXAUYBf",
+           "gitcode_email": "xiwenchi@huawei.com"
        },
        {
-           "gitee_id": "zhaojunxia2020",
-           "gitee_email": "zhaojunxia@kaihongdigi.com"
+           "gitcode_id": "jliu666",
+           "gitcode_email": "liujichun2@huawei.com"
        },
        {
-           "gitee_id": "bayanxing",
-           "gitee_email": "bayanxing@kaihongdigi.com"
+           "gitcode_id": "sikochang",
+           "gitcode_email": "jiangshichao@huawei.com"
+       },
+       {
+           "gitcode_id": "D_EE",
+           "gitcode_email": "dingyi54@huawei.com"
+       },
+       {
+           "gitcode_id": "E2016",
+           "gitcode_email": "chenjunming9@huawei.com"
+       },
+       {
+           "gitcode_id": "miulmiull",
+           "gitcode_email": "caimiaomiao3@huawei.com"
+       },
+       {
+           "gitcode_id": "luoshuangg",
+           "gitcode_email": "luoshuang19@huawei.com"
+       },
+       {
+           "gitcode_id": "njulpy",
+           "gitcode_email": "lipengyong7@huawei.com"
+       },
+       {
+           "gitcode_id": "Huyiwei123",
+           "gitcode_email": "huyiwei11@huawei.com"
+       },
+       {
+           "gitcode_id": "wy-0515",
+           "gitcode_email": "wangyao71@huawei.com"
        }
    ]
 }
