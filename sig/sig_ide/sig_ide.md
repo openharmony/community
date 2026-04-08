@@ -17,7 +17,6 @@ Leverage open-source collaboration to unite community efforts, partner with vend
 3. Standards and specifications: IDE development standards, plugin standards, Skill specifications, etc., to support ecosystem vendors and third-party tool integration.
 4. Open-source co-construction: Collect developer requirements, address toolchain pain points, and improve development experience and efficiency.
 
-
 ## SIG Members
 
 ### Leader
