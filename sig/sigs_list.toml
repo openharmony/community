@@ -6878,3 +6878,13 @@ projects = []
 [sig.leader]
 gitee_id  = "https://gitcode.com/xie_yujuan"
 gitee_email = "xieyujuan@huawei.com"
+
+[[sig]]
+sig_name = "sig_ai_swe"
+description = "提供智能化赋能和低成本开源鸿蒙定制化能力"
+sig_status = "active"
+sub_system = ["NONE"]
+projects = []
+[sig.leader]
+gitee_id = "https://gitcode.com/stxia88"
+gitee_email = "xiast@sz.tsinghua.edu.cn"
