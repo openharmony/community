@@ -17,26 +17,30 @@
 OpenHarmony For Car SIG（ sig_car ）技术栈范围全景图如下图所示：
 ![](./figures/car_overview.png)
 
+### 多屏部署关系
+
+![](./figures/multi_screen.jpg)
+
 ## SIG组成员
 
 ### Leader
 - @diao-meng(https://gitee.com/diao-meng)
 
 ### Committers列表
-- @zwqianyu(https://gitee.com/zwqianyu)
-- @Yongyan_Yu(https://gitee.com/Yongyan_Yu)
-- @leonard_shi(https://gitee.com/leonard_shi)
 - @timeshi(https://gitee.com/timeshiai)
 - @shao_min(https://gitee.com/shao_min)
-- @algoideas(https://gitee.com/algoideas)
-- @ts_hulei(https://gitee.com/ts_hulei)
+- @EthanSun(https://gitcode.com/Ethanhy)
+- @Miaojiao(https://gitcode.com/miaojiaojiao666)
+- @YunLong(https://gitcode.com/m0_62937082)
+- @Zhipeng(https://gitcode.com/jzp0409)
 
 ### 会议
- - 会议时间：双周四 10:00-12:00
- - 会议链接：Welink
- - 会议纪要：查看往期会议纪要，请点此[链接](https://gitcode.com/openharmony-sig/sig-content)
+ - 会议时间：月度会议，每月第一个周五下午14:00-16:00
+ - 会议链接：腾讯会议
+ - 会议纪要：查看往期会议纪要，请点此[链接](https://docs.qq.com/space/DSENOUVpCZE15VExv?resourceId=HBExSWyRGgRS&mode=wiki_mode)
 
 ### 联系方式(可选)
 
 - 邮件列表：dev@openharmony.io
 - 微信群：NA
+
