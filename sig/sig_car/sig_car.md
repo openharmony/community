@@ -20,17 +20,16 @@ Note: The content of this SIG follows the convention described in OpenHarmony's 
 - @diao-meng(https://gitee.com/diao-meng)
 
 ### Committers
-- @zwqianyu(https://gitee.com/zwqianyu)
-- @Yongyan_Yu(https://gitee.com/Yongyan_Yu)
-- @leonard_shi(https://gitee.com/leonard_shi)
 - @timeshi(https://gitee.com/timeshiai)
 - @shao_min(https://gitee.com/shao_min)
-- @algoideas(https://gitee.com/algoideas)
-- @ts_hulei(https://gitee.com/ts_hulei)
+- @EthanSun(https://gitcode.com/Ethanhy)
+- @Miaojiao(https://gitcode.com/miaojiaojiao666)
+- @YunLong(https://gitcode.com/m0_62937082)
+- @Zhipeng(https://gitcode.com/jzp0409)
 
 ### Meetings
- - Meeting time：Thursday 10:00-12:00
- - Meeting link：Welink
+ - Meeting time：Friday 14:00-16:00
+ - Meeting link：Tencent Meeting
  - Meeting minutes: Click [here](https://gitcode.com/openharmony-sig/sig-content) to view previous meeting minutes.
 
 ### Contact (optional)
